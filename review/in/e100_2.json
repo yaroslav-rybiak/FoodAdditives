@@ -1,0 +1,418 @@
+[
+  {
+    "code": "E152",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Carbon black",
+      "text": "Carbon black (hydrocarbon black) is a black pigment made by the incomplete combustion of hydrocarbons. It was once used as a food colour but is now rarely encountered, and it is known mainly as an industrial pigment.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Уголь (углеводородный)",
+      "text": "Углеводородный чёрный (Carbon black) — чёрный пигмент, получаемый неполным сгоранием углеводородов. Когда-то применялся как пищевой краситель, сейчас встречается редко и известен в основном как промышленный пигмент.\n\nОн не разрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E153",
+    "eu_authorised": true,
+    "eu_official_name": "Vegetable carbon",
+    "en": {
+      "name": "Vegetable carbon",
+      "text": "Vegetable carbon is a black pigment made by charring plant material such as wood or peat. It is used in confectionery, liquorice-type sweets, cheese rind and some decorative products.\n\nIt is approved in the EU with conditions and approved in the UK. It is banned in the US."
+    },
+    "ru": {
+      "name": "Растительный уголь",
+      "text": "Растительный уголь — чёрный пигмент, который получают обугливанием растительного сырья, например древесины или торфа. Используется в кондитерских изделиях, сладостях типа лакрицы, корке сыра и некоторых декоративных продуктах.\n\nВ ЕС он разрешён с условиями, в Великобритании разрешён. В США он запрещён."
+    }
+  },
+  {
+    "code": "E154",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Brown FK",
+      "text": "Brown FK, called kipper brown, is a synthetic mixture of azo dyes that gives a brown colour. It was used only for dyeing smoked fish, known as kippers.\n\nThe EU approval was withdrawn in November 2011. It is not approved in the UK or the US."
+    },
+    "ru": {
+      "name": "Коричневый FK",
+      "text": "Коричневый FK (Brown FK), называемый копчёным коричневым, — синтетическая смесь азокрасителей, дающая коричневый цвет. Использовался только для окрашивания копчёной рыбы, так называемых киперсов.\n\nРазрешение в ЕС было отозвано в ноябре 2011 года. В Великобритании и США он не разрешён."
+    }
+  },
+  {
+    "code": "E155",
+    "eu_authorised": true,
+    "eu_official_name": "Brown HT",
+    "en": {
+      "name": "Brown HT",
+      "text": "Brown HT, also called chocolate brown HT, is a synthetic brown azo dye. It has been used in chocolate-flavoured cakes, confectionery, sauces and some other foods.\n\nIt is approved in the EU in precooked crustaceans and in fresh meat only for the purpose of health marking. It is approved in the UK and not approved in the US."
+    },
+    "ru": {
+      "name": "Коричневый HT",
+      "text": "Коричневый HT (Brown HT), или шоколадный коричневый HT, — синтетический коричневый азокраситель. Применялся в шоколадных кексах, кондитерских изделиях, соусах и некоторых других продуктах.\n\nВ ЕС он разрешён в предварительно приготовленных ракообразных и в свежем мясе только для санитарной маркировки. В Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E160a",
+    "eu_authorised": true,
+    "eu_official_name": "Carotenes",
+    "en": {
+      "name": "Carotenes",
+      "text": "Carotenes (alpha-, beta- and gamma-carotene) are yellow-orange pigments found in carrots, palm oil and many other plants. The additive can be extracted from plants or algae, or produced synthetically. Beta-carotene is also a precursor of vitamin A.\n\nIt colours margarine, cheese, drinks, baked goods and confectionery. It is approved in the EU with conditions and approved in the UK. In the US only beta-carotene is approved."
+    },
+    "ru": {
+      "name": "Каротины",
+      "text": "Каротины (альфа-, бета- и гамма-каротин) — жёлто-оранжевые пигменты, содержащиеся в моркови, пальмовом масле и многих других растениях. Добавку получают из растений или водорослей либо синтетически. Бета-каротин также является предшественником витамина A.\n\nОн окрашивает маргарин, сыр, напитки, выпечку и кондитерские изделия. В ЕС он разрешён с условиями, в Великобритании разрешён. В США разрешён только бета-каротин."
+    }
+  },
+  {
+    "code": "E160b",
+    "eu_authorised": true,
+    "eu_official_name": "Annatto bixin; Annatto norbixin",
+    "en": {
+      "name": "Annatto",
+      "text": "Annatto is an orange natural colour extracted from the seeds of the achiote tree (Bixa orellana). Its main pigments are bixin, which is fat-soluble, and norbixin, which is water-soluble.\n\nIt is widely used to colour cheese, butter, margarine, snacks, smoked fish and cereals. It is approved in the EU with conditions, approved in the UK and approved in the US. Rare allergic reactions to annatto have been reported."
+    },
+    "ru": {
+      "name": "Аннато",
+      "text": "Аннато — оранжевый природный краситель, получаемый из семян бикса орельяна (Bixa orellana). Основные пигменты — биксин, растворимый в жирах, и норбиксин, растворимый в воде.\n\nШироко используется для окрашивания сыра, масла, маргарина, снеков, копчёной рыбы и хлопьев. В ЕС он разрешён с условиями, в Великобритании и США разрешён. Сообщалось о редких аллергических реакциях на аннато."
+    }
+  },
+  {
+    "code": "E160c",
+    "eu_authorised": true,
+    "eu_official_name": "Paprika extract, capsanthin, capsorubin",
+    "en": {
+      "name": "Paprika extract",
+      "text": "Paprika extract is a red natural colour obtained from the ripe fruits of the red pepper Capsicum annuum. Its main pigments are capsanthin and capsorubin. It is used in sausages, sauces, snacks, cheese, soups and seasoning blends.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Экстракт паприки",
+      "text": "Экстракт паприки — красный природный краситель, получаемый из спелых плодов красного перца Capsicum annuum. Основные пигменты — капсантин и капсорубин. Применяется в колбасах, соусах, снеках, сыре, супах и смесях приправ.\n\nВ ЕС он разрешён с условиями, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E160d",
+    "eu_authorised": true,
+    "eu_official_name": "Lycopene",
+    "en": {
+      "name": "Lycopene",
+      "text": "Lycopene is the red carotenoid pigment of tomatoes, watermelon and pink grapefruit. The additive is extracted from tomatoes or produced by fermentation or chemical synthesis.\n\nIt gives colour to drinks, sauces, soups, desserts and meat products. It is approved in the EU with conditions, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Ликопин",
+      "text": "Ликопин — красный каротиноидный пигмент помидоров, арбуза и розового грейпфрута. Добавку получают из томатов, ферментацией или химическим синтезом.\n\nОн окрашивает напитки, соусы, супы, десерты и мясные изделия. В ЕС он разрешён с условиями, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E160e",
+    "eu_authorised": true,
+    "eu_official_name": "Beta-apo-8′-carotenal (C 30)",
+    "en": {
+      "name": "Beta-apo-8'-carotenal",
+      "text": "Beta-apo-8'-carotenal is an orange-red to yellow carotenoid pigment. It occurs in small amounts in citrus fruit and spinach, but the additive is normally made synthetically. It is used in cheese, soups, sauces, drinks and baked goods.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Бета-апо-8'-каротиналь",
+      "text": "Бета-апо-8'-каротиналь — каротиноидный пигмент от оранжево-красного до жёлтого цвета. В небольших количествах он есть в цитрусовых и шпинате, но добавку обычно получают синтетически. Применяется в сыре, супах, соусах, напитках и выпечке.\n\nВ ЕС он разрешён с условиями, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E160f",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ethyl ester of beta-apo-8'-carotenic acid",
+      "text": "The ethyl ester of beta-apo-8'-carotenic acid is a synthetic carotenoid-type pigment giving an orange-red to yellow colour. It is closely related to E160e. It is little used today and little current information is available.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Этиловый эфир бета-апо-8'-каротиновой кислоты",
+      "text": "Этиловый эфир бета-апо-8'-каротиновой кислоты — синтетический пигмент каротиноидного типа, дающий цвет от оранжево-красного до жёлтого. Он близок к E160e. Сегодня используется мало, актуальных данных немного.\n\nОн не разрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E161a",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Flavoxanthin",
+      "text": "Flavoxanthin is a golden-yellow carotenoid pigment of the xanthophyll group, found in some flowers such as buttercups. It has hardly any practical use as a food colour.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Флавоксантин",
+      "text": "Флавоксантин — золотисто-жёлтый каротиноидный пигмент из группы ксантофиллов, встречается в некоторых цветах, например в лютиках. Практически не применяется как пищевой краситель.\n\nОн не разрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E161b",
+    "eu_authorised": true,
+    "eu_official_name": "Lutein",
+    "en": {
+      "name": "Lutein",
+      "text": "Lutein is a yellow to orange-red carotenoid pigment found in marigold flowers, green leafy vegetables and egg yolk. The additive is usually extracted from marigold petals. It is used to colour dairy products, baked goods, drinks, and also animal feed.\n\nIt is approved in the EU with conditions and approved in the UK. In the US it is approved for chicken feed only."
+    },
+    "ru": {
+      "name": "Лютеин",
+      "text": "Лютеин — каротиноидный пигмент от жёлтого до оранжево-красного цвета, содержащийся в бархатцах, зелёных листовых овощах и яичном желтке. Добавку обычно извлекают из лепестков бархатцев. Применяется для окраски молочных продуктов, выпечки, напитков и кормов для животных.\n\nВ ЕС он разрешён с условиями, в Великобритании разрешён. В США разрешён только для корма птицы."
+    }
+  },
+  {
+    "code": "E161c",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Cryptoxanthin",
+      "text": "Cryptoxanthin is an orange-red carotenoid pigment found in fruits such as papaya, oranges and red peppers. It is a precursor of vitamin A, but it is not used as a food colour in practice.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Криптоксантин",
+      "text": "Криптоксантин — оранжево-красный каротиноидный пигмент, встречающийся в фруктах, таких как папайя и апельсины, и в красном перце. Он является предшественником витамина A, но на практике как пищевой краситель не используется.\n\nОн не разрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E161d",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Rubixanthin",
+      "text": "Rubixanthin is an orange-red carotenoid pigment found in rose hips and some other plants. It is of mainly scientific interest and is not a practical food colour.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Рубиксантин",
+      "text": "Рубиксантин — оранжево-красный каротиноидный пигмент, найденный в плодах шиповника и некоторых других растениях. Он интересен в основном для науки и не является практическим пищевым красителем.\n\nОн не разрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E161e",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Violaxanthin",
+      "text": "Violaxanthin is an orange carotenoid pigment found in many green plants and in some flowers, such as pansies. It is not used as a practical food colour.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Виолаксантин",
+      "text": "Виолаксантин — оранжевый каротиноидный пигмент, содержащийся во многих зелёных растениях и в некоторых цветах, например в анютиных глазках. Как практический пищевой краситель не используется.\n\nОн не разрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E161f",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Rhodoxanthin",
+      "text": "Rhodoxanthin is a carotenoid pigment found in some conifers, yews and a few other plants, which gives a deep red to purple colour. It has no practical use as a food colour.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Родоксантин",
+      "text": "Родоксантин — каротиноидный пигмент некоторых хвойных, тисов и ещё нескольких растений, даёт глубокий красный или пурпурный цвет. Практического применения как пищевой краситель не имеет.\n\nОн не разрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E161g",
+    "eu_authorised": true,
+    "eu_official_name": "Canthaxanthin b",
+    "en": {
+      "name": "Canthaxanthin",
+      "text": "Canthaxanthin is a carotenoid pigment found in some mushrooms, crustaceans and fish. The additive is made synthetically. It has been used to colour animal feed, for example to deepen the colour of egg yolks and of farmed salmon flesh.\n\nIt is approved in the EU for medicinal products only, approved in the UK and approved in the US. High intakes have been associated with deposits in the retina."
+    },
+    "ru": {
+      "name": "Кантаксантин",
+      "text": "Кантаксантин — каротиноидный пигмент, встречающийся в некоторых грибах, ракообразных и рыбе. Добавку получают синтетически. Применялся для окраски кормов, например чтобы усилить цвет яичного желтка и мяса выращенного лосося.\n\nВ ЕС он разрешён только для лекарственных средств, в Великобритании и США разрешён. Высокое потребление связывали с отложениями в сетчатке глаза."
+    }
+  },
+  {
+    "code": "E161h",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Zeaxanthin",
+      "text": "Zeaxanthin is a yellow-orange carotenoid pigment found in maize, paprika, egg yolk and many leafy vegetables. It is present in the human retina together with lutein.\n\nIt is not approved in the EU, the UK or the US as a food colour with this number."
+    },
+    "ru": {
+      "name": "Зеаксантин",
+      "text": "Зеаксантин — жёлто-оранжевый каротиноидный пигмент, содержащийся в кукурузе, паприке, яичном желтке и многих листовых овощах. Вместе с лютеином присутствует в сетчатке человеческого глаза.\n\nКак пищевой краситель с этим номером он не разрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E161i",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Citranaxanthin",
+      "text": "Citranaxanthin is a synthetic carotenoid-type pigment that gives a deep yellow to orange colour. It is used mainly in poultry feed to colour egg yolks and skin, and little is documented about its use in human food.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Цитранаксантин",
+      "text": "Цитранаксантин — синтетический пигмент каротиноидного типа, дающий цвет от насыщенного жёлтого до оранжевого. Применяется в основном в корме для птицы, чтобы окрашивать желтки и кожу; об использовании в пище человека известно мало.\n\nОн не разрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E161j",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Astaxanthin",
+      "text": "Astaxanthin is a red carotenoid pigment found in algae, shrimp, krill and salmon, to which it gives their pink-red colour. It is produced from algae or yeast, or synthetically.\n\nIt is not approved in the EU and the UK as a food additive. In the US it is approved for salmonid fish feed only."
+    },
+    "ru": {
+      "name": "Астаксантин",
+      "text": "Астаксантин — красный каротиноидный пигмент водорослей, креветок, криля и лосося, которым они обязаны розово-красным цветом. Его получают из водорослей или дрожжей либо синтетически.\n\nКак пищевая добавка он не разрешён в ЕС и Великобритании. В США разрешён только для корма лососёвых рыб."
+    }
+  },
+  {
+    "code": "E162",
+    "eu_authorised": true,
+    "eu_official_name": "Beetroot Red, betanin",
+    "en": {
+      "name": "Beetroot red",
+      "text": "Beetroot red, whose main pigment is betanin, is a red natural colour extracted from red beet (Beta vulgaris). It is sensitive to heat, light and oxygen, so it is used mainly in products that are not heated for long, such as ice cream, yoghurt, desserts, sweets and sauces.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Красный свекольный (бетанин)",
+      "text": "Свекольный красный, основной пигмент которого — бетанин, это красный природный краситель, получаемый из свёклы (Beta vulgaris). Он чувствителен к нагреванию, свету и кислороду, поэтому его применяют в основном в продуктах без длительной термообработки: мороженом, йогуртах, десертах, сладостях и соусах.\n\nВ ЕС он разрешён с условиями, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E163",
+    "eu_authorised": true,
+    "eu_official_name": "Anthocyanins",
+    "en": {
+      "name": "Anthocyanins",
+      "text": "Anthocyanins are water-soluble plant pigments responsible for the red, purple and blue colours of berries, grapes, red cabbage, purple carrots and many flowers. Their colour depends on acidity, giving red in acid conditions and bluish or green shades as the pH rises.\n\nThey are used in drinks, confectionery, jams and dairy products. They are approved in the EU with conditions and approved in the UK. In the US, grape extract anthocyanin is approved for beverages only."
+    },
+    "ru": {
+      "name": "Антоцианы",
+      "text": "Антоцианы — водорастворимые растительные пигменты, определяющие красный, фиолетовый и синий цвет ягод, винограда, краснокочанной капусты, фиолетовой моркови и многих цветов. Их цвет зависит от кислотности: в кислой среде он красный, с ростом pH — синеватый или зелёный.\n\nПрименяются в напитках, кондитерских изделиях, джемах и молочных продуктах. В ЕС они разрешены с условиями, в Великобритании разрешены. В США разрешён антоциан из экстракта винограда, только для напитков."
+    }
+  },
+  {
+    "code": "E164",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Saffron",
+      "text": "Saffron is a spice made from the dried stigmas of the crocus flower (Crocus sativus). Its pigment, crocin, gives dishes a yellow-orange colour, and it is also a flavouring. It is one of the most expensive spices in the world.\n\nIt is not approved in the EU and the UK as an additive with this number. In the US it is approved."
+    },
+    "ru": {
+      "name": "Шафран",
+      "text": "Шафран — пряность из высушенных рылец цветка крокуса посевного (Crocus sativus). Его пигмент кроцин придаёт блюдам жёлто-оранжевый цвет, также он служит ароматизатором. Это одна из самых дорогих пряностей в мире.\n\nКак добавка с этим номером он не разрешён в ЕС и Великобритании. В США разрешён."
+    }
+  },
+  {
+    "code": "E170",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium carbonate",
+    "en": {
+      "name": "Calcium carbonate",
+      "text": "Calcium carbonate is a white mineral compound that occurs naturally as chalk, limestone and marble, and is also produced industrially. As a food additive it works as a white colour and as an anticaking agent, acidity regulator and calcium supplement. It is used in confectionery, bread flour, dairy alternatives and supplements.\n\nIt is approved in the EU with conditions and approved in the UK. In the US it is approved for dietary supplements, candies and chewing gum only."
+    },
+    "ru": {
+      "name": "Карбонат кальция",
+      "text": "Карбонат кальция — белое минеральное соединение, встречающееся в природе в виде мела, известняка и мрамора, а также получаемое промышленно. Как пищевая добавка он служит белым красителем, а также антислёживателем, регулятором кислотности и источником кальция. Применяется в кондитерских изделиях, хлебной муке, растительных аналогах молочных продуктов и добавках.\n\nВ ЕС он разрешён с условиями, в Великобритании разрешён. В США разрешён только для пищевых добавок, конфет и жевательной резинки."
+    }
+  },
+  {
+    "code": "E171",
+    "eu_authorised": false,
+    "eu_official_name": "Titanium dioxide",
+    "en": {
+      "name": "Titanium dioxide",
+      "text": "Titanium dioxide is a white mineral pigment, made from titanium ores. It was used to whiten and brighten confectionery, chewing gum, sauces, icing and coatings, and also in medicines and cosmetics.\n\nIt is no longer approved in the EU for food products as of June 2022, because of the identification of potential carcinogenic effects. It remains approved in the EU for medicinal products only. It is approved in the UK, except Northern Ireland, and approved in the US for specific foods."
+    },
+    "ru": {
+      "name": "Диоксид титана",
+      "text": "Диоксид титана — белый минеральный пигмент, получаемый из титановых руд. Его использовали, чтобы отбелить и сделать ярче кондитерские изделия, жевательную резинку, соусы, глазурь и покрытия, а также в лекарствах и косметике.\n\nС июня 2022 года в ЕС он больше не разрешён в пищевых продуктах из-за выявления возможного канцерогенного действия. В ЕС остаётся разрешён только для лекарственных средств. В Великобритании разрешён, кроме Северной Ирландии, в США разрешён для определённых продуктов."
+    }
+  },
+  {
+    "code": "E172",
+    "eu_authorised": true,
+    "eu_official_name": "Iron oxides and hydroxides",
+    "en": {
+      "name": "Iron oxides and hydroxides",
+      "text": "Iron oxides and iron hydroxides are mineral pigments, produced synthetically, which give yellow, red, brown or black shades. They are used in confectionery, pet food, sausage casings, supplements and decorations.\n\nThey are approved in the EU with conditions and approved in the UK. In the US they are approved for sausage casings, dietary supplements, candies and chewing gum."
+    },
+    "ru": {
+      "name": "Оксиды и гидроксиды железа",
+      "text": "Оксиды и гидроксиды железа — минеральные пигменты, получаемые синтетически, дающие жёлтые, красные, коричневые или чёрные оттенки. Используются в кондитерских изделиях, кормах для животных, колбасных оболочках, добавках и украшениях.\n\nВ ЕС они разрешены с условиями, в Великобритании разрешены. В США разрешены для колбасных оболочек, пищевых добавок, конфет и жевательной резинки."
+    }
+  },
+  {
+    "code": "E173",
+    "eu_authorised": true,
+    "eu_official_name": "Aluminium",
+    "en": {
+      "name": "Aluminium",
+      "text": "Aluminium used as an additive is a fine silver-grey metallic powder. It is used to give a metallic finish to the surface of products such as sugar confectionery and cake decorations.\n\nIt is approved in the EU only for external coatings of sugar confectionery. It is approved in the UK and not approved in the US."
+    },
+    "ru": {
+      "name": "Алюминий",
+      "text": "Алюминий как добавка — мелкий серебристо-серый металлический порошок. Им придают металлический блеск поверхности изделий, например сахарных кондитерских изделий и украшений для тортов.\n\nВ ЕС он разрешён только для внешнего покрытия сахарных кондитерских изделий. В Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E174",
+    "eu_authorised": true,
+    "eu_official_name": "Silver",
+    "en": {
+      "name": "Silver",
+      "text": "Silver, used as a food additive, is the metal in a very thin leaf or powder. It is applied only as a decorative silver surface on products such as confectionery, chocolates and liqueurs, and it passes through the body without being used.\n\nIt is approved in the EU only for external coatings of confectionery and for decoration of chocolates and liqueurs. It is approved in the UK and not approved in the US."
+    },
+    "ru": {
+      "name": "Серебро",
+      "text": "Серебро как пищевая добавка — металл в виде очень тонкого листа или порошка. Используется только как декоративное серебристое покрытие на кондитерских изделиях, шоколаде и ликёрах и выводится из организма, не усваиваясь.\n\nВ ЕС оно разрешено только для внешнего покрытия кондитерских изделий и украшения шоколада и ликёров. В Великобритании разрешено, в США не разрешено."
+    }
+  },
+  {
+    "code": "E175",
+    "eu_authorised": true,
+    "eu_official_name": "Gold",
+    "en": {
+      "name": "Gold",
+      "text": "Gold, used as a food additive, is the metal in the form of very thin leaf or powder. It is used purely for decoration, for example on chocolates, confectionery, liqueurs and luxury desserts. Gold is chemically inert, so it is not digested.\n\nIt is approved in the EU only for external coatings of confectionery and for decoration of chocolates and liqueurs. It is approved in the UK and not approved in the US."
+    },
+    "ru": {
+      "name": "Золото",
+      "text": "Золото как пищевая добавка — металл в виде очень тонкого листа или порошка. Используется исключительно для украшения, например шоколада, кондитерских изделий, ликёров и дорогих десертов. Золото химически инертно, поэтому организмом не переваривается.\n\nВ ЕС оно разрешено только для внешнего покрытия кондитерских изделий и украшения шоколада и ликёров. В Великобритании разрешено, в США не разрешено."
+    }
+  },
+  {
+    "code": "E180",
+    "eu_authorised": true,
+    "eu_official_name": "Litholrubine BK",
+    "en": {
+      "name": "Lithol Rubine BK",
+      "text": "Lithol Rubine BK, also called Pigment Rubine, is a synthetic red azo pigment (a calcium salt). It is used in a very narrow way, for colouring the rind of some cheeses.\n\nIt is approved in the EU only in edible cheese rind, with conditions. It is approved in the UK and not approved in the US."
+    },
+    "ru": {
+      "name": "Рубиновый литол BK",
+      "text": "Рубиновый литол BK (Lithol Rubine BK), или Pigment Rubine, — синтетический красный азопигмент (кальциевая соль). Применяется очень узко: для окрашивания корочки некоторых сортов сыра.\n\nВ ЕС он разрешён только для съедобной корки сыра, с условиями. В Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E181",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Tannin",
+      "text": "Tannins are natural plant substances found in oak bark, galls, tea, grapes and many other plants. They give a brown colour and astringency. They are also used as clarifying agents, for example in wine and beer production.\n\nTannin is not approved in the EU and the UK as an additive with this number. It is approved in the US."
+    },
+    "ru": {
+      "name": "Танины",
+      "text": "Танины — природные вещества растительного происхождения, содержащиеся в коре дуба, чернильных орешках, чае, винограде и многих других растениях. Они придают коричневый цвет и вяжущий вкус. Их также используют как осветлители, например при производстве вина и пива.\n\nКак добавка с этим номером танин не разрешён в ЕС и Великобритании. В США разрешён."
+    }
+  },
+  {
+    "code": "E182",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Orcein",
+      "text": "Orcein, also called orchil, is a purple natural dye obtained from lichens by treating them with ammonia in the presence of air. It is better known as a textile dye and a biological stain than as a food colour.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Орсеин",
+      "text": "Орсеин, или орсель, — фиолетовый природный краситель, получаемый из лишайников обработкой аммиаком в присутствии воздуха. Он более известен как краситель для тканей и биологический краситель, чем как пищевой.\n\nОн не разрешён в ЕС, Великобритании и США."
+    }
+  }
+]

@@ -10,10 +10,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.io.ByteArrayOutputStream;
 import java.io.IOException;
-import java.io.InputStream;
-import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -75,19 +72,14 @@ final class Category {
     }
 
     private List<Additive> readAdditives(Resources resources) {
-        try (InputStream input = resources.openRawResource(additives)) {
-            ByteArrayOutputStream bytes = new ByteArrayOutputStream();
-            byte[] buffer = new byte[8192];
-            int read;
-            while ((read = input.read(buffer)) != -1) {
-                bytes.write(buffer, 0, read);
-            }
-            JSONArray array = new JSONArray(new String(bytes.toByteArray(), StandardCharsets.UTF_8));
+        try {
+            JSONArray array = EuStatus.readJsonArray(resources, additives);
             List<Additive> result = new ArrayList<>(array.length());
             for (int i = 0; i < array.length(); i++) {
                 JSONObject item = array.getJSONObject(i);
-                result.add(new Additive(
-                        item.getString("code"), item.getString("name"), item.getString("text")));
+                String code = item.getString("code");
+                result.add(new Additive(code, item.getString("name"), item.getString("text"),
+                        EuStatus.isAuthorised(resources, code)));
             }
             return result;
         } catch (IOException | JSONException e) {
@@ -107,10 +99,14 @@ final class Category {
         /** Short description: plain text, paragraphs separated by blank lines. */
         final String text;
 
-        Additive(String code, String name, String text) {
+        /** Whether the additive is on the EU's list of authorised food additives. */
+        final boolean euAuthorised;
+
+        Additive(String code, String name, String text, boolean euAuthorised) {
             this.code = code;
             this.name = name;
             this.text = text;
+            this.euAuthorised = euAuthorised;
         }
     }
 }

@@ -1,0 +1,376 @@
+[
+  {
+    "code": "E900",
+    "en": {
+      "name": "Dimethyl polysiloxane",
+      "text": "Dimethyl polysiloxane (PDMS) is a synthetic silicone polymer built from silicon, oxygen and methyl groups. It is made in grades ranging from a thin, clear liquid to a thick semi-solid.\n\nIn food it is used mainly as an anti-foaming agent and can also act as an anti-caking agent. It is added to many cooking and frying oils to stop foaming and splattering, so traces of it occur in some fried fast food.\n\nA 2020 re-evaluation by the European Food Safety Authority found no safety concern for the reported uses, but recommended a maximum limit for cyclic siloxane impurities left over from manufacture."
+    },
+    "ru": {
+      "name": "Полидиметилсилоксан",
+      "text": "Полидиметилсилоксан (ПДМС) — синтетический кремнийорганический полимер, построенный из атомов кремния, кислорода и метильных групп. Выпускается в разных марках: от жидкой прозрачной жидкости до густой полутвёрдой массы.\n\nВ пищевых продуктах используется прежде всего как пеногаситель, а также может служить антислёживающим агентом. Его добавляют во многие масла для жарки и фритюра, чтобы они не пенились и не разбрызгивались, поэтому его следы встречаются в некоторых жареных блюдах фастфуда.\n\nПри повторной оценке в 2020 году Европейское агентство по безопасности пищевых продуктов (EFSA) не выявило опасений по безопасности при заявленных способах применения, но рекомендовало установить предельное содержание циклических силоксанов — примесей, остающихся после производства."
+    }
+  },
+  {
+    "code": "E901",
+    "en": {
+      "name": "Beeswax",
+      "text": "Beeswax is a natural wax produced by honey bees, which use it to build the cells of the honeycomb. For human use it comes mainly from the cappings cut off during honey extraction and from old comb. Yellow beeswax is the crude product; white beeswax is yellow wax that has been bleached or filtered.\n\nIn food it is used as a glazing agent that prevents water loss and protects the surface of some fruit. It is also used to coat cheese, in tablet coatings and soft capsules, and in chewing gum.\n\nHumans digest it poorly, so it has no meaningful nutritional value. As an animal product it is not vegan."
+    },
+    "ru": {
+      "name": "Пчелиный воск",
+      "text": "Пчелиный воск — природный воск, который вырабатывают медоносные пчёлы для постройки ячеек сот. Для использования человеком его получают главным образом из забруски, срезаемой при откачке мёда, и из старых сот. Жёлтый воск — это сырой продукт, белый — жёлтый воск, прошедший отбеливание или фильтрацию.\n\nВ пищевых продуктах в небольших количествах используется как глазирователь: препятствует потере влаги и защищает поверхность некоторых фруктов. Им также покрывают сыры, его применяют в оболочках таблеток и мягких капсул и в жевательной резинке.\n\nВ организме человека он почти не переваривается, поэтому пищевой ценности практически не имеет. Как продукт животного происхождения он не является веганским."
+    }
+  },
+  {
+    "code": "E902",
+    "en": {
+      "name": "Candelilla wax",
+      "text": "Candelilla wax is a natural plant wax obtained from the leaves and stems of the candelilla shrub (Euphorbia antisyphilitica), which is native to northern Mexico and the south-western United States. It is a hard, brittle, yellowish-brown wax.\n\nIn food it is used as a glazing agent. One of its main uses is as a binder in chewing gum, and it can replace carnauba wax or beeswax."
+    },
+    "ru": {
+      "name": "Канделлильский воск",
+      "text": "Канделлильский воск — природный растительный воск, получаемый из листьев и стеблей кустарника канделилья (Euphorbia antisyphilitica), родом с севера Мексики и юго-запада США. Это твёрдый, хрупкий воск желтовато-коричневого цвета.\n\nВ пищевых продуктах используется как глазирователь. Одно из основных его применений — связующее вещество в жевательной резинке; он может заменять карнаубский и пчелиный воск."
+    }
+  },
+  {
+    "code": "E903",
+    "en": {
+      "name": "Carnauba wax",
+      "text": "Carnauba wax is a natural wax from the leaves of the carnauba palm (Copernicia prunifera), which grows only in north-eastern Brazil. The leaves are dried and beaten to loosen the wax, which is then refined and bleached. It has one of the highest melting points of any natural wax.\n\nBecause it gives a glossy finish, it is used as a glazing agent on foods such as sweets."
+    },
+    "ru": {
+      "name": "Карнаубский воск",
+      "text": "Карнаубский воск — природный воск с листьев карнаубской пальмы (Copernicia prunifera), которая растёт только на северо-востоке Бразилии. Листья сушат и обмолачивают, чтобы отделить воск, а затем его очищают и отбеливают. Его температура плавления — одна из самых высоких среди природных восков.\n\nПоскольку он даёт глянцевый блеск, его используют как глазирователь для таких продуктов, как конфеты."
+    }
+  },
+  {
+    "code": "E904",
+    "en": {
+      "name": "Shellac",
+      "text": "Shellac is a natural resin secreted by the female lac bug (Kerria lacca) on trees in the forests of India and Thailand. It is scraped from the bark, processed and sold as dry flakes.\n\nIn food and medicines it is used as a glazing agent, known as confectioner's glaze, on sweets and pills. It is also used as a coating on citrus fruit to extend storage life, and as part of the coating that replaces the natural wax removed from apples during cleaning.\n\nAs an insect product it is not vegan."
+    },
+    "ru": {
+      "name": "Шеллак",
+      "text": "Шеллак — природная смола, которую выделяют самки лакового червеца (Kerria lacca) на деревьях в лесах Индии и Таиланда. Её соскабливают с коры, перерабатывают и продают в виде сухих хлопьев.\n\nВ пищевых продуктах и лекарствах используется как глазирователь («кондитерская глазурь») для конфет и таблеток. Им также покрывают цитрусовые, чтобы продлить срок их хранения, и он входит в состав покрытия, которым заменяют естественный воск, смываемый с яблок при мойке.\n\nКак продукт насекомых он не является веганским."
+    }
+  },
+  {
+    "code": "E905",
+    "en": {
+      "name": "Microcrystalline wax",
+      "text": "Microcrystalline wax is a petroleum wax made by removing the oil from petrolatum during petroleum refining. It is a mixture of high-molecular-weight saturated hydrocarbons with more branched and ring-shaped molecules than paraffin wax. Its crystals are much finer, which makes it more flexible and sticky than paraffin wax, with a higher melting point.\n\nIn food it is used as a glazing agent and can also act as an anti-foaming agent."
+    },
+    "ru": {
+      "name": "Микрокристаллический воск",
+      "text": "Микрокристаллический воск — нефтяной воск, который получают при переработке нефти, удаляя масло из петролатума. Это смесь высокомолекулярных насыщенных углеводородов, в которой больше разветвлённых и циклических молекул, чем в парафине. Его кристаллы значительно мельче, поэтому он более гибкий и липкий, чем парафин, и плавится при более высокой температуре.\n\nВ пищевых продуктах используется как глазирователь, а также может служить пеногасителем."
+    }
+  },
+  {
+    "code": "E905a",
+    "en": {
+      "name": "Mineral oil, food grade",
+      "text": "Food-grade mineral oil is a highly refined, colourless and odourless liquid mixture of hydrocarbons (alkanes and cycloalkanes) obtained from petroleum.\n\nIt is used as a glazing and sealing agent. In confectionery it gives a glossy finish and keeps sweets from sticking together, and it is also used on machinery in the baking industry. Its use in food is self-limiting because it has a laxative effect."
+    },
+    "ru": {
+      "name": "Минеральное масло пищевое",
+      "text": "Пищевое минеральное масло — глубоко очищенная бесцветная жидкость без запаха, представляющая собой смесь углеводородов (алканов и циклоалканов), получаемая из нефти.\n\nИспользуется как глазирователь и герметизирующее покрытие. В кондитерском производстве придаёт изделиям блеск и не даёт конфетам слипаться; его также применяют для смазки оборудования в хлебопекарной промышленности. Его применение в пище ограничено само собой, поскольку оно обладает слабительным действием."
+    }
+  },
+  {
+    "code": "E905b",
+    "en": {
+      "name": "Petrolatum (petroleum jelly)",
+      "text": "Petrolatum, better known as petroleum jelly (Vaseline is the best-known brand), is a semi-solid mixture of hydrocarbons obtained from petroleum.\n\nIn food it is classed as a glazing and sealing agent and as an anti-foaming agent."
+    },
+    "ru": {
+      "name": "Петролатум (вазелин)",
+      "text": "Петролатум, более известный как вазелин (это название самой известной торговой марки), — полутвёрдая смесь углеводородов, получаемая из нефти.\n\nВ пищевой промышленности относится к глазирователям и герметизирующим покрытиям, а также к пеногасителям."
+    }
+  },
+  {
+    "code": "E905c",
+    "en": {
+      "name": "Petroleum wax",
+      "text": "Petroleum wax is the group name for waxes obtained by refining petroleum. It covers microcrystalline wax and paraffin wax, mixtures of saturated hydrocarbons that are solid at room temperature.\n\nThey are used as glazing and sealing agents. Food-grade paraffin wax gives sweets a shiny coating, coats hard cheeses such as Edam, and is used in chewing gum. It is not digested and passes through the body unchanged."
+    },
+    "ru": {
+      "name": "Нефтяной воск",
+      "text": "Нефтяной воск — общее название восков, получаемых при переработке нефти. К ним относятся микрокристаллический воск и парафин — смеси насыщенных углеводородов, твёрдые при комнатной температуре.\n\nИх используют как глазирователи и герметизирующие покрытия. Пищевой парафин придаёт блеск конфетам, им покрывают твёрдые сыры, например эдам, и его добавляют в жевательную резинку. Он не переваривается и выводится из организма в неизменном виде."
+    }
+  },
+  {
+    "code": "E906",
+    "en": {
+      "name": "Benzoin gum",
+      "text": "Benzoin gum (benzoin resin) is a balsamic resin obtained from the bark of several species of Styrax trees in South-East Asia. It has a sweet, vanilla-like aroma and is widely used in incense and perfumery. Its main active ingredient is benzoic acid.\n\nAs a food additive it is classed as a glazing agent. It is also used as a flavouring, for example in drinks, baked goods, chewing gum and sweets."
+    },
+    "ru": {
+      "name": "Бензойная смола",
+      "text": "Бензойная смола (бензоин) — бальзамическая смола, получаемая из коры нескольких видов деревьев рода Styrax в Юго-Восточной Азии. Обладает сладким, похожим на ваниль ароматом и широко применяется в благовониях и парфюмерии. Её основное действующее вещество — бензойная кислота.\n\nКак пищевая добавка она отнесена к глазирователям. Её также используют как ароматизатор, например в напитках, выпечке, жевательной резинке и конфетах."
+    }
+  },
+  {
+    "code": "E907",
+    "en": {
+      "name": "Hydrogenated poly-1-decene",
+      "text": "Hydrogenated poly-1-decene is a synthetic hydrocarbon made by polymerising the petrochemical 1-decene and then hydrogenating the product.\n\nIt is used as a glazing agent.\n\nIn a 2020 re-evaluation the European Food Safety Authority found it of low acute toxicity and not a genotoxicity concern, set an acceptable daily intake of 20 mg per kg of body weight, and concluded that its use at the maximum use levels does not raise a safety concern."
+    },
+    "ru": {
+      "name": "Гидрированный поли-1-децен",
+      "text": "Гидрированный поли-1-децен — синтетический углеводород, который получают полимеризацией нефтехимического сырья 1-децена с последующим гидрированием.\n\nИспользуется как глазирователь.\n\nПри повторной оценке в 2020 году Европейское агентство по безопасности пищевых продуктов (EFSA) признало его малотоксичным при однократном поступлении и не вызывающим опасений по генотоксичности, установило допустимую суточную дозу 20 мг на кг массы тела и пришло к выводу, что его применение в максимальных используемых количествах не вызывает опасений по безопасности."
+    }
+  },
+  {
+    "code": "E908",
+    "en": {
+      "name": "Rice bran wax",
+      "text": "Rice bran wax is an edible vegetable wax extracted from rice bran oil. It consists mainly of esters of long-chain fatty acids and higher alcohols. Because of its relatively high melting point it can replace carnauba wax in most applications.\n\nIt is used as a glazing agent. Its food uses include coatings for fruit and vegetables, confectionery and chewing gum."
+    },
+    "ru": {
+      "name": "Рисовый воск",
+      "text": "Рисовый воск — съедобный растительный воск, извлекаемый из масла рисовых отрубей. Состоит в основном из сложных эфиров длинноцепочечных жирных кислот и высших спиртов. Благодаря относительно высокой температуре плавления он может заменять карнаубский воск в большинстве применений.\n\nИспользуется как глазирователь. В пищевой промышленности его применяют для покрытия фруктов и овощей, в кондитерских изделиях и жевательной резинке."
+    }
+  },
+  {
+    "code": "E909",
+    "en": {
+      "name": "Spermaceti wax",
+      "text": "Spermaceti is a waxy substance found in the head cavity of the sperm whale. It forms hard white crystals that are oily to the touch and have no taste or smell. Whalers extracted it from the 17th century onwards for candles, cosmetics and textiles.\n\nAs a food additive it is classed as a glazing agent. Jojoba esters, made from jojoba oil, are a plant-based wax that is chemically very similar."
+    },
+    "ru": {
+      "name": "Спермацет",
+      "text": "Спермацет — воскообразное вещество, которое находится в головной полости кашалота. Образует твёрдые белые кристаллы, жирные на ощупь, без вкуса и запаха. С XVII века китобои добывали его для производства свечей, косметики и текстиля.\n\nКак пищевая добавка относится к глазирователям. Химически очень близок к нему растительный воск — эфиры жожоба, получаемые из масла жожоба."
+    }
+  },
+  {
+    "code": "E910",
+    "en": {
+      "name": "Wax esters",
+      "text": "Wax esters are esters formed from one fatty acid and one long-chain fatty alcohol. They are the main components of carnauba wax and beeswax, and occur naturally in small amounts in foods such as whole-grain cereals, seeds, nuts, fish roe and some fish.\n\nAs a food additive they are classed as glazing agents."
+    },
+    "ru": {
+      "name": "Восковые эфиры",
+      "text": "Восковые эфиры — сложные эфиры, образованные одной жирной кислотой и одним длинноцепочечным жирным спиртом. Они составляют основу карнаубского и пчелиного воска и в небольших количествах естественно содержатся в таких продуктах, как цельнозерновые крупы, семена, орехи, рыбья икра и некоторые виды рыбы.\n\nКак пищевая добавка относятся к глазирователям."
+    }
+  },
+  {
+    "code": "E911",
+    "en": {
+      "name": "Methyl esters of fatty acids",
+      "text": "Methyl esters of fatty acids are made by reacting fats or oils with methanol (transesterification). They are colourless compounds with melting points near room temperature, and are best known as the main components of biodiesel.\n\nAs a food additive they are classed as glazing agents."
+    },
+    "ru": {
+      "name": "Метиловые эфиры жирных кислот",
+      "text": "Метиловые эфиры жирных кислот получают реакцией жиров или масел с метанолом (переэтерификацией). Это бесцветные вещества с температурой плавления около комнатной; лучше всего они известны как основной компонент биодизеля.\n\nКак пищевая добавка относятся к глазирователям."
+    }
+  },
+  {
+    "code": "E912",
+    "en": {
+      "name": "Montan acid esters",
+      "text": "Montan acid esters are waxes made from montan wax, a hard fossil plant wax obtained by solvent extraction of certain types of lignite (brown coal).\n\nThey were used as glazing agents for the surface treatment of fruit. The EU had allowed them on citrus fruit, melons, papayas, mangoes, avocados and pineapples, but removed them from its list of food additives in 2014 (Regulation (EU) No 957/2014). The European Food Safety Authority had concluded in 2013 that it could not evaluate their safety because toxicity data were limited and no usage data had been submitted."
+    },
+    "ru": {
+      "name": "Эфиры монтановой кислоты",
+      "text": "Эфиры монтановой кислоты — воски, получаемые из монтанового воска: твёрдого ископаемого растительного воска, который извлекают растворителями из некоторых видов бурого угля (лигнита).\n\nИх использовали как глазирователи для обработки поверхности фруктов. В ЕС их допускалось наносить на цитрусовые, дыни, папайю, манго, авокадо и ананасы, но в 2014 году они были исключены из перечня пищевых добавок ЕС (Регламент (ЕС) № 957/2014). Ранее, в 2013 году, Европейское агентство по безопасности пищевых продуктов (EFSA) пришло к выводу, что не может оценить их безопасность, так как данных о токсичности было мало, а сведения о применении не были представлены."
+    }
+  },
+  {
+    "code": "E913",
+    "en": {
+      "name": "Lanolin",
+      "text": "Lanolin, or wool wax, is a wax secreted by the sebaceous glands of sheep and other wool-bearing animals. It is recovered when raw wool is washed with hot water and detergent. Chemically it consists mainly of sterol esters rather than true fats.\n\nIt is widely used in skin-care products and cosmetics. As a food additive it is classed as a glazing agent. A compound extracted from lanolin, 7-dehydrocholesterol, is a raw material for making vitamin D3."
+    },
+    "ru": {
+      "name": "Ланолин",
+      "text": "Ланолин, или шерстный воск, — воск, который выделяют сальные железы овец и других животных, дающих шерсть. Его получают при мойке сырой шерсти горячей водой с моющим средством. Химически он состоит в основном из эфиров стеринов, а не из настоящих жиров.\n\nШироко применяется в средствах ухода за кожей и косметике. Как пищевая добавка относится к глазирователям. Получаемый из ланолина 7-дегидрохолестерин служит сырьём для производства витамина D3."
+    }
+  },
+  {
+    "code": "E914",
+    "en": {
+      "name": "Oxidised polyethylene wax",
+      "text": "Oxidised polyethylene wax is a synthetic wax made by oxidising polyethylene. It consists of oxidised long-chain acids, alcohols and esters.\n\nIt is used as a glazing agent for the surface treatment of some fruits.\n\nIn a 2015 re-evaluation the European Food Safety Authority found it not genotoxic. The data were insufficient to set an acceptable daily intake, but given the very low estimated intake the authority concluded that its current use is of no safety concern."
+    },
+    "ru": {
+      "name": "Окисленный полиэтиленовый воск",
+      "text": "Окисленный полиэтиленовый воск — синтетический воск, получаемый окислением полиэтилена. Состоит из окисленных длинноцепочечных кислот, спиртов и сложных эфиров.\n\nИспользуется как глазирователь для обработки поверхности некоторых фруктов.\n\nПри повторной оценке в 2015 году Европейское агентство по безопасности пищевых продуктов (EFSA) признало его не генотоксичным. Данных для установления допустимой суточной дозы оказалось недостаточно, но, учитывая очень низкое расчётное потребление, агентство пришло к выводу, что его нынешнее применение не вызывает опасений по безопасности."
+    }
+  },
+  {
+    "code": "E915",
+    "en": {
+      "name": "Esters of colophony",
+      "text": "Colophony, also called rosin, is a resin obtained from pine trees and other conifers, made up mainly of resin acids such as abietic acid. E915 covers its glycerol, methyl and pentaerythritol esters.\n\nThey are classed as glazing agents and are used in medicines and chewing gum. A related compound, glycerol ester of wood rosin (E445), is used as an emulsifier in soft drinks."
+    },
+    "ru": {
+      "name": "Эфиры канифоли",
+      "text": "Канифоль — смола, получаемая из сосен и других хвойных растений; состоит в основном из смоляных кислот, прежде всего абиетиновой. E915 включает её глицериновые, метиловые и пентаэритритовые эфиры.\n\nОни относятся к глазирователям и применяются в лекарствах и жевательной резинке. Родственное вещество — глицериновый эфир древесной канифоли (E445) — используется как эмульгатор в безалкогольных напитках."
+    }
+  },
+  {
+    "code": "E916",
+    "en": {
+      "name": "Calcium iodate",
+      "text": "Calcium iodate is the calcium salt of iodic acid, a colourless inorganic compound. It occurs naturally as the mineral lautarite, the most important mineral source of iodine, which is mined in the Atacama Desert.\n\nAs a food additive it is classed as a flour treatment agent. It is also used as an iodine supplement in chicken feed."
+    },
+    "ru": {
+      "name": "Иодат кальция",
+      "text": "Иодат кальция — кальциевая соль йодноватой кислоты, бесцветное неорганическое соединение. В природе встречается в виде минерала лаутарита — важнейшего минерального источника йода, который добывают в пустыне Атакама.\n\nКак пищевая добавка относится к веществам для обработки муки. Также используется как источник йода в корме для кур."
+    }
+  },
+  {
+    "code": "E917",
+    "en": {
+      "name": "Potassium iodate",
+      "text": "Potassium iodate (KIO3) is the potassium salt of iodic acid, a white, water-soluble salt and an oxidising agent.\n\nAs a food additive it is classed as a flour treatment agent and is occasionally used as a maturing agent in baking. It is also used in some countries to iodise table salt against iodine deficiency, and to supply iodine in some infant formulas."
+    },
+    "ru": {
+      "name": "Иодат калия",
+      "text": "Иодат калия (KIO3) — калиевая соль йодноватой кислоты, белая растворимая в воде соль и окислитель.\n\nКак пищевая добавка относится к веществам для обработки муки и иногда применяется в хлебопечении как средство для созревания муки. В ряде стран им также йодируют поваренную соль для профилактики йододефицита, а ещё он служит источником йода в некоторых детских смесях."
+    }
+  },
+  {
+    "code": "E918",
+    "en": {
+      "name": "Nitrogen oxides",
+      "text": "Nitrogen oxides are compounds made only of nitrogen and oxygen, such as nitric oxide (NO) and nitrogen dioxide (NO2).\n\nAs a food additive they are classed as flour treatment agents."
+    },
+    "ru": {
+      "name": "Оксиды азота",
+      "text": "Оксиды азота — соединения, состоящие только из азота и кислорода, например оксид азота(II) (NO) и диоксид азота (NO2).\n\nКак пищевая добавка относятся к веществам для обработки муки."
+    }
+  },
+  {
+    "code": "E919",
+    "en": {
+      "name": "Nitrosyl chloride",
+      "text": "Nitrosyl chloride (NOCl) is a yellow gas and a strong oxidising agent. It can be made by combining chlorine with nitric oxide and is a component of aqua regia, the mixture of hydrochloric and nitric acids.\n\nAs a food additive it is classed as a flour treatment agent."
+    },
+    "ru": {
+      "name": "Хлорид нитрозила",
+      "text": "Хлорид нитрозила (NOCl) — жёлтый газ и сильный окислитель. Его можно получить соединением хлора с оксидом азота(II); он также входит в состав царской водки — смеси соляной и азотной кислот.\n\nКак пищевая добавка относится к веществам для обработки муки."
+    }
+  },
+  {
+    "code": "E920",
+    "en": {
+      "name": "L-cysteine",
+      "text": "L-cysteine is a sulfur-containing amino acid found in proteins. Most of it is made by hydrolysis of animal materials such as poultry feathers or hog hair; human hair is rarely used, and EU law does not allow it as a source. A more expensive version made by fermentation is also available.\n\nIn food it is a flour treatment agent used as a processing aid in baking: small amounts soften dough and shorten processing time. It is also used to make meat flavourings.\n\nWhen it comes from animal sources it is not suitable for vegan, vegetarian, kosher or halal diets."
+    },
+    "ru": {
+      "name": "L-цистеин",
+      "text": "L-цистеин — серосодержащая аминокислота, входящая в состав белков. Большую его часть получают гидролизом сырья животного происхождения, например птичьих перьев или свиной щетины; человеческие волосы используются редко, а законодательство ЕС не допускает их использования как источника. Существует и более дорогой вариант, получаемый ферментацией.\n\nВ пищевой промышленности это вещество для обработки муки, применяемое как технологическое средство в хлебопечении: небольшие количества размягчают тесто и сокращают время его обработки. Его также используют для получения мясных ароматизаторов.\n\nЦистеин животного происхождения не подходит для веганской, вегетарианской, кошерной и халяльной диеты."
+    }
+  },
+  {
+    "code": "E921",
+    "en": {
+      "name": "L-cystine",
+      "text": "L-cystine is formed from two molecules of the amino acid cysteine joined by a disulfide bond. It is a white solid that dissolves poorly in water. It is common in foods such as eggs, meat, dairy products and whole grains, and in skin, horn and hair; human hair is about 10 to 14 percent cystine by mass.\n\nAs a food additive it is classed as a flour treatment agent."
+    },
+    "ru": {
+      "name": "L-цистин",
+      "text": "L-цистин образован двумя молекулами аминокислоты цистеина, соединёнными дисульфидной связью. Это белое вещество, плохо растворимое в воде. Он широко распространён в таких продуктах, как яйца, мясо, молочные продукты и цельнозерновые, а также в коже, рогах и волосах; человеческие волосы содержат около 10–14 % цистина по массе.\n\nКак пищевая добавка относится к веществам для обработки муки."
+    }
+  },
+  {
+    "code": "E922",
+    "en": {
+      "name": "Potassium persulfate",
+      "text": "Potassium persulfate (potassium peroxydisulfate, K2S2O8) is a white inorganic salt that dissolves poorly in cold water and better in warm water. It is a powerful oxidising agent.\n\nAs a food additive it is classed as a flour treatment agent. Industrially it is mainly used to start the polymerisation of plastics and synthetic rubber, and it is also used in hair bleaches."
+    },
+    "ru": {
+      "name": "Пероксодисульфат калия",
+      "text": "Пероксодисульфат калия (персульфат калия, K2S2O8) — белая неорганическая соль, плохо растворимая в холодной воде и лучше — в тёплой. Сильный окислитель.\n\nКак пищевая добавка относится к веществам для обработки муки. В промышленности его в основном используют для запуска полимеризации при производстве пластмасс и синтетического каучука, а также в средствах для осветления волос."
+    }
+  },
+  {
+    "code": "E923",
+    "en": {
+      "name": "Ammonium persulfate",
+      "text": "Ammonium persulfate ((NH4)2S2O8) is a colourless or white inorganic salt that dissolves readily in water. It is a strong oxidising agent.\n\nAs a food additive it is classed as a flour treatment agent. Industrially it is used to start polymerisation reactions, to etch copper on printed circuit boards, and as a cleaning and bleaching agent."
+    },
+    "ru": {
+      "name": "Пероксодисульфат аммония",
+      "text": "Пероксодисульфат аммония (персульфат аммония, (NH4)2S2O8) — бесцветная или белая неорганическая соль, хорошо растворимая в воде. Сильный окислитель.\n\nКак пищевая добавка относится к веществам для обработки муки. В промышленности его применяют для запуска реакций полимеризации, для травления меди на печатных платах и как чистящее и отбеливающее средство."
+    }
+  },
+  {
+    "code": "E924",
+    "en": {
+      "name": "Potassium bromate",
+      "text": "Potassium bromate (KBrO3) is a colourless salt and a strong oxidising agent. It has been used as a flour improver that strengthens dough and helps bread rise higher. During baking it is normally reduced to bromide, but if too much is added or the bread is underbaked, some may remain in the product.\n\nThe International Agency for Research on Cancer classifies it as possibly carcinogenic to humans (Group 2B). In the United States the FDA has urged bakers not to use it since 1991, and California passed a law in 2023 prohibiting it from 2027."
+    },
+    "ru": {
+      "name": "Бромат калия",
+      "text": "Бромат калия (KBrO3) — бесцветная соль и сильный окислитель. Его применяли как улучшитель муки: он укрепляет тесто и помогает хлебу лучше подниматься. При выпечке он обычно восстанавливается до бромида, но если его добавлено слишком много или хлеб недопечён, часть может остаться в продукте.\n\nМеждународное агентство по изучению рака относит его к возможным канцерогенам для человека (группа 2B). В США FDA с 1991 года призывает пекарей не использовать его, а Калифорния в 2023 году приняла закон, запрещающий его с 2027 года."
+    }
+  },
+  {
+    "code": "E924b",
+    "en": {
+      "name": "Calcium bromate",
+      "text": "Calcium bromate (Ca(BrO3)2) is the calcium salt of bromic acid, usually found as the monohydrate. Like potassium bromate (E924), it is a bromate.\n\nIn some countries it is used as a flour and bread dough improver (conditioner)."
+    },
+    "ru": {
+      "name": "Бромат кальция",
+      "text": "Бромат кальция (Ca(BrO3)2) — кальциевая соль бромноватой кислоты, обычно встречается в виде моногидрата. Как и бромат калия (E924), относится к броматам.\n\nВ некоторых странах применяется как улучшитель муки и хлебного теста."
+    }
+  },
+  {
+    "code": "E925",
+    "en": {
+      "name": "Chlorine",
+      "text": "Chlorine is a chemical element that forms a yellow-green, poisonous gas at room temperature. It is extremely reactive and a strong oxidising agent, so in nature it occurs only in compounds such as table salt. It is produced commercially from brine by electrolysis.\n\nAs a food additive it is classed as a flour treatment agent used to bleach flour. It is much more widely used to disinfect drinking water and swimming pools and to make bleaches."
+    },
+    "ru": {
+      "name": "Хлор",
+      "text": "Хлор — химический элемент, который при комнатной температуре представляет собой жёлто-зелёный ядовитый газ. Он чрезвычайно реакционноспособен и является сильным окислителем, поэтому в природе встречается только в виде соединений, например поваренной соли. Промышленно его получают электролизом рассола.\n\nКак пищевая добавка относится к веществам для обработки муки и служит для её отбеливания. Гораздо шире его применяют для обеззараживания питьевой воды и бассейнов и для производства отбеливателей."
+    }
+  },
+  {
+    "code": "E926",
+    "en": {
+      "name": "Chlorine dioxide",
+      "text": "Chlorine dioxide (ClO2) is a yellowish-green gas above 11 °C and is usually handled as a solution in water. It is a strong oxidiser, commonly used as a bleach and disinfectant, for example to bleach wood pulp and to disinfect drinking water.\n\nAs a food additive it is classed as a flour treatment agent and has been used to bleach flour; it is also used for disinfection in food processing. It is toxic, so limits on human exposure apply."
+    },
+    "ru": {
+      "name": "Диоксид хлора",
+      "text": "Диоксид хлора (ClO2) — жёлто-зелёный газ при температуре выше 11 °C; обычно с ним работают в виде водного раствора. Это сильный окислитель, широко применяемый как отбеливатель и дезинфицирующее средство, например для отбеливания древесной целлюлозы и обеззараживания питьевой воды.\n\nКак пищевая добавка относится к веществам для обработки муки и применялся для её отбеливания; его также используют для дезинфекции в пищевой промышленности. Он токсичен, поэтому для его воздействия на человека установлены предельные нормы."
+    }
+  },
+  {
+    "code": "E927a",
+    "en": {
+      "name": "Azodicarbonamide",
+      "text": "Azodicarbonamide is a synthetic yellow to orange-red, odourless crystalline powder. Its main use is as a blowing agent that makes foamed plastics.\n\nIn food it is used in some countries as a flour bleaching agent and dough conditioner. It reacts with moist flour; the main product, biurea, is stable during baking, and small amounts of semicarbazide and ethyl carbamate also form. Semicarbazide shows weak carcinogenic activity in laboratory animals, but human data are inconclusive.\n\nIn 2012 it was added to the EU's REACH candidate list of substances of very high concern because it can cause respiratory sensitisation in workers who handle it."
+    },
+    "ru": {
+      "name": "Азодикарбонамид",
+      "text": "Азодикарбонамид — синтетический кристаллический порошок от жёлтого до оранжево-красного цвета, без запаха. Основное применение — порообразователь при производстве вспененных пластмасс.\n\nВ пищевой промышленности в некоторых странах используется как отбеливатель муки и улучшитель теста. Он реагирует с влажной мукой; основной продукт реакции, биуреа, устойчив при выпечке, а в небольших количествах образуются также семикарбазид и этилкарбамат. Семикарбазид проявляет слабую канцерогенную активность у лабораторных животных, но данные для человека неубедительны.\n\nВ 2012 году он был включён в кандидатский список веществ, вызывающих очень большое беспокойство, по регламенту ЕС REACH, так как может вызывать сенсибилизацию дыхательных путей у работников, контактирующих с ним."
+    }
+  },
+  {
+    "code": "E927b",
+    "en": {
+      "name": "Carbamide",
+      "text": "Carbamide, better known as urea (CO(NH2)2), is a colourless, odourless solid that dissolves readily in water. It is the main nitrogen-containing substance in mammalian urine and is formed in the liver from ammonia and carbon dioxide. Industrially it is made from synthetic ammonia and carbon dioxide, and over 90 percent of production goes into fertilisers.\n\nAs a food additive it is classed as a flour treatment agent. It is also used as a yeast nutrient in fermenting sugars into alcohol."
+    },
+    "ru": {
+      "name": "Карбамид (мочевина)",
+      "text": "Карбамид, или мочевина (CO(NH2)2), — бесцветное вещество без запаха, хорошо растворимое в воде. Это основное азотсодержащее вещество в моче млекопитающих; в печени оно образуется из аммиака и углекислого газа. Промышленно его получают из синтетического аммиака и углекислого газа, и более 90 % производства идёт на удобрения.\n\nКак пищевая добавка относится к веществам для обработки муки. Его также используют как питательную добавку для дрожжей при сбраживании сахаров в спирт."
+    }
+  },
+  {
+    "code": "E928",
+    "en": {
+      "name": "Benzoyl peroxide",
+      "text": "Benzoyl peroxide is a synthetic organic peroxide, a white granular solid with a faint smell of benzaldehyde that dissolves poorly in water. It is an oxidiser used mainly in making plastics and for bleaching flour, hair and textiles. It is also a common acne medication.\n\nAs a food additive it is classed as a bleaching agent, flour treatment agent and preservative."
+    },
+    "ru": {
+      "name": "Бензоилпероксид",
+      "text": "Бензоилпероксид (пероксид бензоила) — синтетический органический пероксид, белое зернистое вещество со слабым запахом бензальдегида, плохо растворимое в воде. Это окислитель, применяемый главным образом в производстве пластмасс и для отбеливания муки, волос и тканей. Он также широко используется как средство от акне.\n\nКак пищевая добавка относится к отбеливателям, веществам для обработки муки и консервантам."
+    }
+  }
+]

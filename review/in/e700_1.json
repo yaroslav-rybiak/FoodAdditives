@@ -1,0 +1,210 @@
+[
+  {
+    "code": "E701",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Tetracyclines",
+      "text": "Tetracyclines are a family of broad-spectrum antibiotics originally derived from soil bacteria of the genus Streptomyces. They are used in human and veterinary medicine to treat a range of bacterial infections.\n\nThe number E701 was assigned to them in the E-number scheme, but they are antibiotics, not food additives. They are not authorised as food additives in the EU."
+    },
+    "ru": {
+      "name": "Тетрациклины",
+      "text": "Тетрациклины — семейство антибиотиков широкого спектра действия, первоначально выделенных из почвенных бактерий рода Streptomyces. Их применяют в медицине и ветеринарии для лечения ряда бактериальных инфекций.\n\nНомер E701 закреплён за ними в системе E-номеров, но это антибиотики, а не пищевые добавки. В ЕС они не разрешены в качестве пищевых добавок."
+    }
+  },
+  {
+    "code": "E702",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Chlortetracycline",
+      "text": "Chlortetracycline is a tetracycline antibiotic produced by the soil bacterium Streptomyces aureofaciens. It is used mainly in veterinary medicine, and in the past it was also given to farm animals in feed.\n\nIt holds the number E702, but it is an antibiotic and not a food additive. It is not an authorised food additive in the EU."
+    },
+    "ru": {
+      "name": "Хлортетрациклин",
+      "text": "Хлортетрациклин — антибиотик из группы тетрациклинов, который образует почвенная бактерия Streptomyces aureofaciens. Применяется главным образом в ветеринарии, а раньше его также давали сельскохозяйственным животным с кормом.\n\nУ него есть номер E702, но это антибиотик, а не пищевая добавка. В ЕС он не разрешён как пищевая добавка."
+    }
+  },
+  {
+    "code": "E703",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Oxytetracycline",
+      "text": "Oxytetracycline is a tetracycline antibiotic obtained from the bacterium Streptomyces rimosus. It is used in human medicine and widely in veterinary medicine against bacterial infections.\n\nIt has the number E703, but it is a medicine rather than a food additive. It is not an authorised food additive in the EU."
+    },
+    "ru": {
+      "name": "Окситетрациклин",
+      "text": "Окситетрациклин — антибиотик из группы тетрациклинов, получаемый из бактерии Streptomyces rimosus. Используется в медицине и широко в ветеринарии против бактериальных инфекций.\n\nУ него есть номер E703, но это лекарство, а не пищевая добавка. В ЕС он не разрешён как пищевая добавка."
+    }
+  },
+  {
+    "code": "E704",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Oleandomycin",
+      "text": "Oleandomycin is a macrolide antibiotic produced by Streptomyces antibioticus. It has been used mainly in veterinary medicine, and a derivative of it has been used in human medicine.\n\nIt was given the number E704, but it is an antibiotic, not a food additive. It is not an authorised food additive in the EU."
+    },
+    "ru": {
+      "name": "Олеандомицин",
+      "text": "Олеандомицин — антибиотик из группы макролидов, который вырабатывает Streptomyces antibioticus. Применялся в основном в ветеринарии, а его производное использовали в медицине.\n\nЕму присвоен номер E704, но это антибиотик, а не пищевая добавка. В ЕС он не разрешён как пищевая добавка."
+    }
+  },
+  {
+    "code": "E705",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Penicillin G potassium",
+      "text": "Penicillin G potassium is the potassium salt of penicillin G (benzylpenicillin), a classic penicillin antibiotic. It is given by injection in human and veterinary medicine to treat bacterial infections.\n\nIt holds the number E705, but it is a medicine and not a food additive. It is not an authorised food additive in the EU."
+    },
+    "ru": {
+      "name": "Пенициллин G калиевая соль",
+      "text": "Калиевая соль пенициллина G (бензилпенициллина) — классический антибиотик пенициллинового ряда. Вводится инъекционно в медицине и ветеринарии для лечения бактериальных инфекций.\n\nУ неё есть номер E705, но это лекарство, а не пищевая добавка. В ЕС она не разрешена как пищевая добавка."
+    }
+  },
+  {
+    "code": "E706",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Penicillin G sodium",
+      "text": "Penicillin G sodium is the sodium salt of penicillin G (benzylpenicillin), a penicillin antibiotic. It is used in injectable form in human and veterinary medicine against susceptible bacteria.\n\nIt has the number E706, but it is an antibiotic, not a food additive. It is not an authorised food additive in the EU."
+    },
+    "ru": {
+      "name": "Пенициллин G натриевая соль",
+      "text": "Натриевая соль пенициллина G (бензилпенициллина) — антибиотик пенициллинового ряда. В инъекционной форме применяется в медицине и ветеринарии против чувствительных бактерий.\n\nУ неё есть номер E706, но это антибиотик, а не пищевая добавка. В ЕС она не разрешена как пищевая добавка."
+    }
+  },
+  {
+    "code": "E707",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Penicillin G procaine",
+      "text": "Penicillin G procaine is a salt of penicillin G with the local anaesthetic procaine. It dissolves slowly after injection, so the antibiotic is released over a longer time. It is used in human and veterinary medicine.\n\nIt holds the number E707, but it is a medicine and not a food additive. It is not an authorised food additive in the EU."
+    },
+    "ru": {
+      "name": "Пенициллин G прокаиновая соль",
+      "text": "Прокаиновая соль пенициллина G — соединение пенициллина G с местным анестетиком прокаином. После инъекции она растворяется медленно, поэтому антибиотик высвобождается дольше. Применяется в медицине и ветеринарии.\n\nУ неё есть номер E707, но это лекарство, а не пищевая добавка. В ЕС она не разрешена как пищевая добавка."
+    }
+  },
+  {
+    "code": "E708",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Penicillin G benzathine",
+      "text": "Penicillin G benzathine is a long-acting form of penicillin G given by deep injection, from which the antibiotic is released very slowly. It is used in human medicine, for example against syphilis, and in veterinary medicine.\n\nIt has the number E708, but it is a medicine, not a food additive. It is not an authorised food additive in the EU."
+    },
+    "ru": {
+      "name": "Пенициллин G бензатиновая соль",
+      "text": "Бензатиновая соль пенициллина G — препарат пролонгированного действия для глубокой инъекции, из которого антибиотик высвобождается очень медленно. Применяется в медицине, например при сифилисе, и в ветеринарии.\n\nУ неё есть номер E708, но это лекарство, а не пищевая добавка. В ЕС она не разрешена как пищевая добавка."
+    }
+  },
+  {
+    "code": "E710",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Spiramycins",
+      "text": "Spiramycins are macrolide antibiotics produced by Streptomyces ambofaciens. They are used in human medicine and in veterinary medicine against certain bacterial and parasitic infections.\n\nThey were assigned the number E710, but they are antibiotics and not food additives. They are not authorised as food additives in the EU."
+    },
+    "ru": {
+      "name": "Спирамицины",
+      "text": "Спирамицины — антибиотики-макролиды, которые вырабатывает Streptomyces ambofaciens. Их используют в медицине и ветеринарии при некоторых бактериальных и паразитарных инфекциях.\n\nИм присвоен номер E710, но это антибиотики, а не пищевые добавки. В ЕС они не разрешены в качестве пищевых добавок."
+    }
+  },
+  {
+    "code": "E711",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Virginiamycins",
+      "text": "Virginiamycins are a mixture of two streptogramin antibiotics produced by Streptomyces virginiae. They have been used in veterinary medicine and formerly as a growth promoter in animal feed; that use was banned in the EU.\n\nThey hold the number E711, but they are antibiotics, not food additives. They are not authorised as food additives in the EU."
+    },
+    "ru": {
+      "name": "Виргиниамицины",
+      "text": "Виргиниамицины — смесь двух антибиотиков-стрептограминов, которые вырабатывает Streptomyces virginiae. Применялись в ветеринарии, а раньше и как стимулятор роста в кормах для животных; в ЕС такое применение запрещено.\n\nУ них есть номер E711, но это антибиотики, а не пищевые добавки. В ЕС они не разрешены в качестве пищевых добавок."
+    }
+  },
+  {
+    "code": "E712",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Flavomycin",
+      "text": "Flavomycin, also called flavophospholipol or bambermycin, is an antibiotic used in animal husbandry and not in human medicine. It was formerly added to livestock feed to promote growth; this use is no longer permitted in the EU.\n\nIt has the number E712, but it is not a food additive. It is not an authorised food additive in the EU."
+    },
+    "ru": {
+      "name": "Флавомицин",
+      "text": "Флавомицин, он же флавофосфолипол или бамбермицин, — антибиотик, который используют в животноводстве, но не в медицине. Раньше его добавляли в корм скоту для ускорения роста; в ЕС это больше не разрешено.\n\nУ него есть номер E712, но это не пищевая добавка. В ЕС он не разрешён как пищевая добавка."
+    }
+  },
+  {
+    "code": "E713",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Tylosin",
+      "text": "Tylosin is a macrolide antibiotic produced by Streptomyces fradiae. It is used in veterinary medicine for cattle, pigs and poultry, and it was formerly used as a growth promoter in feed, which is no longer allowed in the EU.\n\nIt holds the number E713, but it is an antibiotic, not a food additive. It is not an authorised food additive in the EU."
+    },
+    "ru": {
+      "name": "Тилозин",
+      "text": "Тилозин — антибиотик-макролид, который вырабатывает Streptomyces fradiae. Применяется в ветеринарии для крупного рогатого скота, свиней и птицы, а раньше использовался как стимулятор роста в кормах, что в ЕС больше не разрешено.\n\nУ него есть номер E713, но это антибиотик, а не пищевая добавка. В ЕС он не разрешён как пищевая добавка."
+    }
+  },
+  {
+    "code": "E714",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Monensin A",
+      "text": "Monensin is an ionophore antibiotic produced by Streptomyces cinnamonensis. It is used in animal husbandry, mainly as a coccidiostat for poultry and in cattle feed, and is not used in human medicine. It is toxic to horses.\n\nIt has the number E714, but it is not a food additive. It is not an authorised food additive in the EU."
+    },
+    "ru": {
+      "name": "Монензин A",
+      "text": "Монензин — антибиотик-ионофор, который вырабатывает Streptomyces cinnamonensis. Используется в животноводстве, в основном как кокцидиостатик для птицы и в кормах для крупного рогатого скота, в медицине не применяется. Для лошадей токсичен.\n\nУ него есть номер E714, но это не пищевая добавка. В ЕС он не разрешён как пищевая добавка."
+    }
+  },
+  {
+    "code": "E715",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Avoparcin",
+      "text": "Avoparcin is a glycopeptide antibiotic that was used as a growth promoter in animal feed. It was banned in the EU in the 1990s because of concern about antibiotic resistance. It was not used in human medicine.\n\nIt holds the number E715, but it is an antibiotic, not a food additive. It is not an authorised food additive in the EU."
+    },
+    "ru": {
+      "name": "Авопарцин",
+      "text": "Авопарцин — гликопептидный антибиотик, который применяли как стимулятор роста в кормах для животных. В 1990-х годах его запретили в ЕС из-за опасений по поводу устойчивости бактерий к антибиотикам. В медицине он не использовался.\n\nУ него есть номер E715, но это антибиотик, а не пищевая добавка. В ЕС он не разрешён как пищевая добавка."
+    }
+  },
+  {
+    "code": "E716",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Salinomycin",
+      "text": "Salinomycin is an ionophore antibiotic produced by Streptomyces albus. It is used in animal husbandry, mainly as a coccidiostat to control parasitic infection in poultry, and is not a human medicine.\n\nIt has the number E716, but it is not a food additive. It is not an authorised food additive in the EU."
+    },
+    "ru": {
+      "name": "Салиномицин",
+      "text": "Салиномицин — антибиотик-ионофор, который вырабатывает Streptomyces albus. Используется в животноводстве, в основном как кокцидиостатик для борьбы с паразитарной инфекцией у птицы, лекарством для людей не является.\n\nУ него есть номер E716, но это не пищевая добавка. В ЕС он не разрешён как пищевая добавка."
+    }
+  },
+  {
+    "code": "E717",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Avilamycin",
+      "text": "Avilamycin is an antibiotic of the orthosomycin group produced by Streptomyces viridochromogenes. It is used in veterinary practice, in particular in feed for poultry and pigs, and is not used in human medicine.\n\nIt holds the number E717, but it is an antibiotic, not a food additive. It is not an authorised food additive in the EU."
+    },
+    "ru": {
+      "name": "Авиламицин",
+      "text": "Авиламицин — антибиотик группы ортозомицинов, который вырабатывает Streptomyces viridochromogenes. Применяется в ветеринарии, в частности в кормах для птицы и свиней, в медицине не используется.\n\nУ него есть номер E717, но это антибиотик, а не пищевая добавка. В ЕС он не разрешён как пищевая добавка."
+    }
+  }
+]

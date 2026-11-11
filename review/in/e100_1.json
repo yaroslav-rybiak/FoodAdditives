@@ -1,0 +1,431 @@
+[
+  {
+    "code": "E100",
+    "eu_authorised": true,
+    "eu_official_name": "Curcumin",
+    "en": {
+      "name": "Curcumin",
+      "text": "Curcumin is the yellow-orange pigment of turmeric, extracted from the root of the plant Curcuma longa. It is used to colour mustard, curry powders, dairy products, baked goods, confectionery and drinks.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Куркумин",
+      "text": "Куркумин — жёлто-оранжевый пигмент куркумы, который получают из корневищ растения Curcuma longa. Им окрашивают горчицу, смеси специй для карри, молочные продукты, выпечку, кондитерские изделия и напитки.\n\nВ ЕС краситель разрешён с условиями, в Великобритании разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E101",
+    "eu_authorised": true,
+    "eu_official_name": "Riboflavins",
+    "en": {
+      "name": "Riboflavin",
+      "text": "Riboflavin is vitamin B2, formerly called lactoflavin. It occurs naturally in milk, eggs and liver, and the additive is usually produced by fermentation or synthesis. It gives a yellow-orange colour and is also used to fortify foods, for example in cereals, dairy products, sauces and drinks. The E101(i) form is riboflavin itself and the (ii) form is riboflavin-5'-phosphate.\n\nRegulatory status: approved in the EU with conditions, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Рибофлавин",
+      "text": "Рибофлавин — это витамин B2, раньше его называли лактофлавином. В природе он есть в молоке, яйцах и печени, а как добавку обычно получают ферментацией или синтезом. Он даёт жёлто-оранжевый цвет, а также служит для витаминизации продуктов: круп, молочных изделий, соусов, напитков. Форма E101(i) — сам рибофлавин, (ii) — рибофлавин-5'-фосфат.\n\nСтатус: в ЕС разрешён с условиями, в Великобритании разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E102",
+    "eu_authorised": true,
+    "eu_official_name": "Tartrazine",
+    "en": {
+      "name": "Tartrazine",
+      "text": "Tartrazine is a synthetic lemon-yellow azo dye, also known in the US as FD&C Yellow 5. It is used in soft drinks, sweets, desserts, sauces, snacks and coated products.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US. Products in the EU and UK require a warning label, and its use is described as being phased out there. The label warns that the colour may have an adverse effect on activity and attention in children. Some sensitive people may also react to it with skin or respiratory symptoms."
+    },
+    "ru": {
+      "name": "Тартразин",
+      "text": "Тартразин — синтетический азокраситель лимонно-жёлтого цвета, в США известный как FD&C Yellow 5. Применяется в газированных напитках, сладостях, десертах, соусах, снеках и глазированных изделиях.\n\nВ ЕС он разрешён с условиями, в Великобритании и США разрешён. В ЕС и Великобритании продукты с ним должны иметь предупреждающую надпись, а его использование постепенно сворачивают. Надпись предупреждает, что краситель может отрицательно влиять на активность и внимание детей. У чувствительных людей возможны кожные или дыхательные реакции."
+    }
+  },
+  {
+    "code": "E103",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Alkannin",
+      "text": "Alkannin is a red-brown natural pigment obtained from the roots of alkanet (Alkanna tinctoria). It has been used mainly as a dye for cosmetics, textiles and some foods, but it is rarely encountered in food today.\n\nIt is not approved in the EU, the UK or the US, so it should not be present in foods sold in those markets."
+    },
+    "ru": {
+      "name": "Алканин",
+      "text": "Алканин — природный красно-коричневый пигмент, который получают из корней alkanna красильной (Alkanna tinctoria). Его использовали главным образом для окрашивания косметики, тканей и некоторых продуктов, но сегодня в пище он почти не встречается.\n\nОн не разрешён ни в ЕС, ни в Великобритании, ни в США, поэтому в продуктах на этих рынках его быть не должно."
+    }
+  },
+  {
+    "code": "E104",
+    "eu_authorised": true,
+    "eu_official_name": "Quinoline Yellow",
+    "en": {
+      "name": "Quinoline Yellow",
+      "text": "Quinoline Yellow WS is a synthetic dye that gives a dull or greenish yellow colour. It is used in sweets, desserts, soft drinks, smoked fish coatings and similar products where permitted.\n\nIt is approved in the EU with conditions and approved in the UK. Products in the EU and UK require a warning label saying the colour may affect activity and attention in children, and its use is described as being phased out. It is not approved in the US."
+    },
+    "ru": {
+      "name": "Хинолиновый жёлтый",
+      "text": "Хинолиновый жёлтый (Quinoline Yellow WS) — синтетический краситель тусклого или зеленоватого жёлтого цвета. Его используют, где это разрешено, в сладостях, десертах, напитках, покрытиях для копчёной рыбы и подобных продуктах.\n\nВ ЕС он разрешён с условиями, в Великобритании разрешён. В ЕС и Великобритании на продуктах требуется предупреждение о возможном влиянии на активность и внимание детей, а применение красителя постепенно сворачивают. В США он не разрешён."
+    }
+  },
+  {
+    "code": "E105",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Fast Yellow AB",
+      "text": "Fast Yellow AB is a synthetic yellow azo dye that was once used as a food colour. It is no longer in use as a food additive, and little current information about it is available.\n\nIt is forbidden in the EU, the UK and the US, so it does not appear in foods sold in these markets."
+    },
+    "ru": {
+      "name": "Прочный жёлтый AB",
+      "text": "Прочный жёлтый AB (Fast Yellow AB) — синтетический жёлтый азокраситель, который раньше применяли в продуктах. Сейчас как пищевая добавка он не используется, и актуальных сведений о нём мало.\n\nОн запрещён в ЕС, Великобритании и США, поэтому в продуктах на этих рынках не встречается."
+    }
+  },
+  {
+    "code": "E106",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Riboflavin-5'-sodium phosphate",
+      "text": "Riboflavin-5'-sodium phosphate is the sodium salt of the phosphate ester of riboflavin (vitamin B2). It is a yellow, water-soluble form of the vitamin that can be used as a food colour and as a source of vitamin B2.\n\nIt is closely related to E101a and has no individual record of its own. No separate EU, UK or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Рибофлавин-5'-фосфат натрия",
+      "text": "Рибофлавин-5'-фосфат натрия — натриевая соль фосфорного эфира рибофлавина (витамина B2). Это жёлтая водорастворимая форма витамина, которую можно использовать как краситель и как источник витамина B2.\n\nОна тесно связана с E101a и не имеет отдельной записи, поэтому отдельный статус для ЕС, Великобритании и США для неё не указан."
+    }
+  },
+  {
+    "code": "E107",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Yellow 2G",
+      "text": "Yellow 2G is a synthetic yellow azo dye. It was used in the past to colour foods, but it is now obsolete as a food additive.\n\nIt is not approved in the EU, the UK or the US, so it should not be found in foods in those markets."
+    },
+    "ru": {
+      "name": "Жёлтый 2G",
+      "text": "Жёлтый 2G (Yellow 2G) — синтетический жёлтый азокраситель. Раньше его применяли для окрашивания продуктов, теперь как пищевая добавка он устарел.\n\nОн не разрешён в ЕС, Великобритании и США, поэтому в продуктах на этих рынках его быть не должно."
+    }
+  },
+  {
+    "code": "E110",
+    "eu_authorised": true,
+    "eu_official_name": "Sunset Yellow FCF/Orange Yellow S",
+    "en": {
+      "name": "Sunset Yellow FCF",
+      "text": "Sunset Yellow FCF, also called Orange Yellow S or FD&C Yellow 6, is a synthetic yellow-orange azo dye. It is used in soft drinks, sweets, desserts, snacks, sauces and baked goods.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US. Products in the EU and UK require a warning label about possible effects on activity and attention in children, and its use is being phased out there. It is also banned in Norway."
+    },
+    "ru": {
+      "name": "Жёлтый «солнечный закат»",
+      "text": "Жёлтый «солнечный закат» FCF (Sunset Yellow FCF), также называемый Orange Yellow S или FD&C Yellow 6, — синтетический жёлто-оранжевый азокраситель. Его используют в напитках, сладостях, десертах, снеках, соусах и выпечке.\n\nВ ЕС он разрешён с условиями, в Великобритании и США разрешён. В ЕС и Великобритании требуется предупреждение о возможном влиянии на активность и внимание детей, а применение постепенно сворачивают. Также он запрещён в Норвегии."
+    }
+  },
+  {
+    "code": "E111",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Orange GGN",
+      "text": "Orange GGN is a synthetic orange azo dye that was once used to colour foods. It is no longer used as a food additive and there is little current information about it.\n\nIt is forbidden in the EU, the UK and the US."
+    },
+    "ru": {
+      "name": "Оранжевый GGN",
+      "text": "Оранжевый GGN (Orange GGN) — синтетический оранжевый азокраситель, который раньше использовали для окрашивания продуктов. Сегодня как пищевая добавка он не применяется, и актуальных данных о нём мало.\n\nОн запрещён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E120",
+    "eu_authorised": true,
+    "eu_official_name": "Carminic acid, Carmine",
+    "en": {
+      "name": "Carmine (cochineal)",
+      "text": "Cochineal, carminic acid and carmine (Natural Red 4) are crimson pigments obtained from the dried bodies of the cochineal insect, which lives on cacti. This is an animal-derived colour, so it is not suitable for vegetarians and vegans.\n\nIt is used in drinks, yoghurts, sweets, meat products and sauces. It is approved in the EU with conditions, approved in the UK and approved in the US. Carmine can rarely cause allergic reactions in sensitive people."
+    },
+    "ru": {
+      "name": "Кармин (кошениль)",
+      "text": "Кошениль, кармин и карминовая кислота (Natural Red 4) — малиново-красные пигменты, получаемые из высушенных тел насекомых кошенили, живущих на кактусах. Это краситель животного происхождения, поэтому он не подходит вегетарианцам и веганам.\n\nИспользуется в напитках, йогуртах, сладостях, мясных изделиях и соусах. В ЕС он разрешён с условиями, в Великобритании и США разрешён. Кармин в редких случаях вызывает аллергические реакции у чувствительных людей."
+    }
+  },
+  {
+    "code": "E121",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Citrus Red 2",
+      "text": "Citrus Red 2 is a synthetic orange to pink dye. Its use is very narrow: it colours the skin of some oranges and is not applied to the edible part.\n\nIt is approved in the US only for colouring the skin of oranges. It is not approved in the EU and the UK."
+    },
+    "ru": {
+      "name": "Цитрусовый красный 2",
+      "text": "Цитрусовый красный 2 (Citrus Red 2) — синтетический краситель от оранжевого до розового цвета. Область применения у него очень узкая: им окрашивают кожуру некоторых апельсинов, а не съедобную мякоть.\n\nВ США он разрешён только для окрашивания кожуры апельсинов. В ЕС и Великобритании он не разрешён."
+    }
+  },
+  {
+    "code": "E122",
+    "eu_authorised": true,
+    "eu_official_name": "Azorubine, Carmoisine",
+    "en": {
+      "name": "Carmoisine",
+      "text": "Carmoisine, also called azorubine, is a synthetic azo dye that gives a red to maroon colour. It is used in sweets, jellies, desserts, drinks and baked goods.\n\nIt is approved in the EU with conditions and approved in the UK. Products in the EU and UK require a warning label about possible effects on activity and attention in children, and its use is being phased out. It is also banned in Canada, Japan, Norway and the USA."
+    },
+    "ru": {
+      "name": "Кармуазин",
+      "text": "Кармуазин, или азорубин, — синтетический азокраситель красного до тёмно-бордового цвета. Его применяют в сладостях, желе, десертах, напитках и выпечке.\n\nВ ЕС он разрешён с условиями, в Великобритании разрешён. В ЕС и Великобритании требуется предупреждение о возможном влиянии на активность и внимание детей, а применение постепенно сворачивают. Также он запрещён в Канаде, Японии, Норвегии и США."
+    }
+  },
+  {
+    "code": "E123",
+    "eu_authorised": true,
+    "eu_official_name": "Amaranth",
+    "en": {
+      "name": "Amaranth",
+      "text": "Amaranth, also known as FD&C Red 2, is a synthetic red azo dye. It is not related to the amaranth plant. It has been used in drinks, sweets, desserts and some alcoholic products.\n\nIt is approved in the EU with conditions and approved in the UK, but banned in the United States."
+    },
+    "ru": {
+      "name": "Амарант",
+      "text": "Амарант (FD&C Red 2) — синтетический красный азокраситель, не связанный с растением амарантом. Применялся в напитках, сладостях, десертах и некоторых алкогольных продуктах.\n\nВ ЕС он разрешён с условиями, в Великобритании разрешён, но в США запрещён."
+    }
+  },
+  {
+    "code": "E124",
+    "eu_authorised": true,
+    "eu_official_name": "Ponceau 4R, Cochineal Red A",
+    "en": {
+      "name": "Ponceau 4R",
+      "text": "Ponceau 4R, also called Cochineal Red A or Brilliant Scarlet 4R, is a synthetic pink-red azo dye. Despite the name, it is not made from cochineal. It is used in sweets, desserts, soft drinks and processed meat or fish products.\n\nIt is approved in the EU with conditions and approved in the UK. Products in the EU and UK require a warning label about possible effects on activity and attention in children, and its use is being phased out. It is not approved in the US."
+    },
+    "ru": {
+      "name": "Понсо 4R",
+      "text": "Понсо 4R, он же Cochineal Red A или Brilliant Scarlet 4R, — синтетический розово-красный азокраситель. Несмотря на название, он не делается из кошенили. Применяется в сладостях, десертах, напитках, мясных и рыбных изделиях.\n\nВ ЕС он разрешён с условиями, в Великобритании разрешён. В ЕС и Великобритании требуется предупреждение о возможном влиянии на активность и внимание детей, а применение постепенно сворачивают. В США он не разрешён."
+    }
+  },
+  {
+    "code": "E125",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ponceau SX",
+      "text": "Ponceau SX, also called Scarlet GN, is a synthetic red azo dye. It is not a common food colour today, and little current information about its food use is available.\n\nIn the US it is permitted only for externally applied drugs and cosmetics. It is not approved in the EU and the UK, so it should not be present in foods there."
+    },
+    "ru": {
+      "name": "Понсо SX",
+      "text": "Понсо SX, также называемый Scarlet GN, — синтетический красный азокраситель. Сегодня это нераспространённый пищевой краситель, и актуальных сведений о его применении в пище мало.\n\nВ США он допускается только для лекарств и косметики наружного применения. В ЕС и Великобритании он не разрешён, поэтому в продуктах там его быть не должно."
+    }
+  },
+  {
+    "code": "E126",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ponceau 6R",
+      "text": "Ponceau 6R is a synthetic red azo dye. It is an obsolete food colour about which little current information is available.\n\nIt is not approved in the EU and the UK. No US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Понсо 6R",
+      "text": "Понсо 6R (Ponceau 6R) — синтетический красный азокраситель. Это устаревший пищевой краситель, актуальных сведений о котором немного.\n\nОн не разрешён в ЕС и Великобритании. Статус для США не указан."
+    }
+  },
+  {
+    "code": "E127",
+    "eu_authorised": true,
+    "eu_official_name": "Erythrosine",
+    "en": {
+      "name": "Erythrosine",
+      "text": "Erythrosine, also known as FD&C Red 3, is a synthetic pink-red dye based on iodine. It is best known for colouring cocktail and glace cherries, and it has also been used in sweets and baked goods.\n\nIt is approved in the UK and approved in the EU for cocktail, candied and bigareaux cherries only. It is banned in the US."
+    },
+    "ru": {
+      "name": "Эритрозин",
+      "text": "Эритрозин, или FD&C Red 3, — синтетический розово-красный краситель на основе йода. Больше всего известен как краситель коктейльных и засахаренных вишен, также применялся в сладостях и выпечке.\n\nВ Великобритании он разрешён, а в ЕС разрешён только для коктейльных, засахаренных вишен и вишен бигарро. В США он запрещён."
+    }
+  },
+  {
+    "code": "E128",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Red 2G",
+      "text": "Red 2G is a synthetic red or pink azo dye that was once used to colour foods such as sausages and preserves. It is now obsolete as a food additive.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Красный 2G",
+      "text": "Красный 2G (Red 2G) — синтетический красный или розовый азокраситель, которым раньше окрашивали, например, колбасы и консервы. Сейчас как пищевая добавка он устарел.\n\nОн не разрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E129",
+    "eu_authorised": true,
+    "eu_official_name": "Allura Red AC",
+    "en": {
+      "name": "Allura Red AC",
+      "text": "Allura Red AC, also known as FD&C Red 40, is a synthetic red azo dye. It is one of the most widely used red colours, found in soft drinks, sweets, desserts, sauces, snacks and cereals.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US. Products in the EU and UK require a warning label about possible effects on activity and attention in children, and its use is being phased out. It is also banned in several individual countries."
+    },
+    "ru": {
+      "name": "Красный очаровательный AC",
+      "text": "Красный очаровательный AC (Allura Red AC), в США — FD&C Red 40, — синтетический красный азокраситель. Один из самых распространённых красных красителей: его добавляют в газированные напитки, сладости, десерты, соусы, снеки и хлопья.\n\nВ ЕС он разрешён с условиями, в Великобритании и США разрешён. В ЕС и Великобритании требуется предупреждение о возможном влиянии на активность и внимание детей, а применение постепенно сворачивают. Он также запрещён в ряде отдельных стран."
+    }
+  },
+  {
+    "code": "E130",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Indanthrene blue RS",
+      "text": "Indanthrene blue RS is a synthetic blue vat dye, an anthraquinone-type pigment better known as a textile dye than as a food colour. Little is documented about its use in food.\n\nIt is not approved in the EU, the UK or the US, so it should not be present in foods in those markets."
+    },
+    "ru": {
+      "name": "Индантреновый синий RS",
+      "text": "Индантреновый синий RS (Indanthrene blue RS) — синтетический синий кубовый краситель антрахинонового типа, более известный как краситель для тканей, чем для продуктов. О его применении в пище известно мало.\n\nОн не разрешён в ЕС, Великобритании и США, поэтому в продуктах на этих рынках его быть не должно."
+    }
+  },
+  {
+    "code": "E131",
+    "eu_authorised": true,
+    "eu_official_name": "Patent Blue V",
+    "en": {
+      "name": "Patent Blue V",
+      "text": "Patent Blue V is a synthetic sky-blue dye of the triarylmethane group. In food it has been used in a few products, such as some preserves and confectionery.\n\nIt is approved in the EU for preserves of red fruit only and approved in the UK. It is banned in the US and Australia."
+    },
+    "ru": {
+      "name": "Синий патентованный V",
+      "text": "Синий патентованный V (Patent Blue V) — синтетический небесно-голубой краситель из группы триарилметановых. В пище он применялся в немногих продуктах, например в некоторых консервах и кондитерских изделиях.\n\nВ ЕС он разрешён только для консервов из красных фруктов, в Великобритании разрешён. В США и Австралии он запрещён."
+    }
+  },
+  {
+    "code": "E132",
+    "eu_authorised": true,
+    "eu_official_name": "Indigotine, Indigo carmine",
+    "en": {
+      "name": "Indigo carmine",
+      "text": "Indigo carmine, also called indigotine or FD&C Blue 2, is a synthetic dye related to the natural indigo, giving a deep blue colour. It is used in sweets, ice cream, drinks, baked goods and pet food.\n\nIt is approved in the EU and the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Индигокармин",
+      "text": "Индигокармин, или индиготин (FD&C Blue 2), — синтетический краситель, родственный природному индиго, даёт глубокий синий цвет. Применяется в сладостях, мороженом, напитках, выпечке и кормах для животных.\n\nОн разрешён в ЕС и Великобритании и разрешён в США."
+    }
+  },
+  {
+    "code": "E133",
+    "eu_authorised": true,
+    "eu_official_name": "Brilliant Blue FCF",
+    "en": {
+      "name": "Brilliant Blue FCF",
+      "text": "Brilliant Blue FCF, also known as FD&C Blue 1, is a synthetic blue dye of the triarylmethane group. It is used alone or mixed with yellow dyes to make green, in drinks, sweets, ice cream, dairy desserts and canned peas.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Блестящий синий FCF",
+      "text": "Блестящий синий FCF (Brilliant Blue FCF, FD&C Blue 1) — синтетический синий краситель из группы триарилметановых. Его используют отдельно или в смеси с жёлтыми красителями для получения зелёного цвета, в напитках, сладостях, мороженом, молочных десертах и консервированном горошке.\n\nВ ЕС он разрешён с условиями, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E140",
+    "eu_authorised": true,
+    "eu_official_name": "Chlorophylls and chlorophyllins",
+    "en": {
+      "name": "Chlorophylls",
+      "text": "Chlorophylls and chlorophyllins are the green pigments of plants, commonly extracted from grass, alfalfa or nettle. Chlorophyllins are the water-soluble derivatives made from the natural pigment.\n\nThey give a green colour to sweets, ice cream, drinks, sauces and other foods. They are approved in the EU with conditions, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Хлорофиллы",
+      "text": "Хлорофиллы и хлорофиллины — зелёные пигменты растений, их обычно извлекают из травы, люцерны или крапивы. Хлорофиллины — водорастворимые производные природного пигмента.\n\nОни придают зелёный цвет сладостям, мороженому, напиткам, соусам и другим продуктам. В ЕС они разрешены с условиями, в Великобритании и США разрешены."
+    }
+  },
+  {
+    "code": "E141",
+    "eu_authorised": true,
+    "eu_official_name": "Copper complexes of chlorophylls, chlorophyllins",
+    "en": {
+      "name": "Copper complexes of chlorophylls",
+      "text": "Copper complexes of chlorophylls and chlorophyllins are made from natural chlorophyll by replacing the central magnesium with copper. This gives a more stable, brighter green colour than the natural pigment. They are used in sweets, ice cream, soups and drinks.\n\nThey are approved in the EU with conditions and approved in the UK. In the US they are approved for citrus-based dry beverage mixes."
+    },
+    "ru": {
+      "name": "Медные комплексы хлорофиллов",
+      "text": "Медные комплексы хлорофиллов и хлорофиллинов получают из природного хлорофилла, заменяя центральный атом магния на медь. Цвет получается более стойким и ярким, чем у природного пигмента. Их используют в сладостях, мороженом, супах и напитках.\n\nВ ЕС они разрешены с условиями, в Великобритании разрешены. В США они разрешены для сухих напитков на основе цитрусовых."
+    }
+  },
+  {
+    "code": "E142",
+    "eu_authorised": true,
+    "eu_official_name": "Green S",
+    "en": {
+      "name": "Green S",
+      "text": "Green S is a synthetic green dye of the triarylmethane group, also known as Acid Brilliant Green BS. It has been used in sweets, desserts, mint sauce and some drinks.\n\nIt is approved in the EU with conditions and approved in the UK. It is not approved in the US."
+    },
+    "ru": {
+      "name": "Зелёный S",
+      "text": "Зелёный S (Green S), или Acid Brilliant Green BS, — синтетический зелёный краситель из группы триарилметановых. Его применяли в сладостях, десертах, мятном соусе и некоторых напитках.\n\nВ ЕС он разрешён с условиями, в Великобритании разрешён. В США он не разрешён."
+    }
+  },
+  {
+    "code": "E143",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Fast Green FCF",
+      "text": "Fast Green FCF, also known as FD&C Green 3, is a synthetic turquoise-green dye of the triarylmethane group. It has been used in food and drinks, and also in cosmetics and as a biological stain.\n\nIt is approved in the US and not approved in the EU and the UK."
+    },
+    "ru": {
+      "name": "Прочный зелёный FCF",
+      "text": "Прочный зелёный FCF (Fast Green FCF, FD&C Green 3) — синтетический бирюзово-зелёный краситель из группы триарилметановых. Применялся в продуктах и напитках, а также в косметике и как биологический краситель.\n\nВ США он разрешён, в ЕС и Великобритании не разрешён."
+    }
+  },
+  {
+    "code": "E150a",
+    "eu_authorised": true,
+    "eu_official_name": "Plain caramel a",
+    "en": {
+      "name": "Plain caramel",
+      "text": "Plain caramel (caramel I) is a brown colour made by heating sugars, without ammonia or sulfite compounds. It is the simplest of the four caramel colour classes and is used in spirits, sauces, baked goods and confectionery.\n\nIt is approved in the EU only in seaweed-based fish roe analogues, and only E150a made from honey for a specific type of mead. It is approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Сахарный колер I (простой)",
+      "text": "Простой сахарный колер (карамель I) — коричневый краситель, который получают нагреванием сахаров без аммиака и сульфитов. Это самый простой из четырёх классов карамельных красителей, его используют в крепких напитках, соусах, выпечке и кондитерских изделиях.\n\nВ ЕС он разрешён только для аналогов рыбной икры на основе морских водорослей, а E150a из мёда — только для особого вида медовухи. В Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E150b",
+    "eu_authorised": true,
+    "eu_official_name": "Caustic sulphite caramel",
+    "en": {
+      "name": "Caustic sulfite caramel",
+      "text": "Caustic sulfite caramel (caramel II) is a brown colour made by heating sugars with sulfite compounds in the presence of an alkali, but without ammonia. It is used in drinks such as fortified wines and spirits, and in some other foods.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Сахарный колер II (щелочно-сульфитный)",
+      "text": "Щелочно-сульфитный сахарный колер (карамель II) — коричневый краситель, получаемый нагреванием сахаров с сульфитами в присутствии щёлочи, но без аммиака. Его применяют в напитках, например крепленых винах и крепких спиртных напитках, и в некоторых других продуктах.\n\nВ ЕС он разрешён с условиями, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E150c",
+    "eu_authorised": true,
+    "eu_official_name": "Ammonia caramel",
+    "en": {
+      "name": "Ammonia caramel",
+      "text": "Ammonia caramel (caramel III) is a brown colour made by heating sugars with ammonia compounds. It is used in products such as beer, malt beverages, breakfast cereals, sauces and baked goods.\n\nIt is approved in the EU only for breakfast cereals and for beer and malt beverages, with conditions. It is approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Сахарный колер III (аммиачный)",
+      "text": "Аммиачный сахарный колер (карамель III) — коричневый краситель, получаемый нагреванием сахаров с соединениями аммиака. Применяется в пиве, солодовых напитках, готовых завтраках, соусах и выпечке.\n\nВ ЕС он разрешён с условиями только для готовых завтраков, пива и солодовых напитков. В Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E150d",
+    "eu_authorised": true,
+    "eu_official_name": "Sulphite ammonia caramel",
+    "en": {
+      "name": "Sulfite ammonia caramel",
+      "text": "Sulfite ammonia caramel (caramel IV) is a brown colour made by heating sugars with both sulfite and ammonia compounds. It is the caramel colour most often used in soft drinks, particularly colas, and also in sauces, vinegars and spirits.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Сахарный колер IV (сульфитно-аммиачный)",
+      "text": "Сульфитно-аммиачный сахарный колер (карамель IV) — коричневый краситель, получаемый нагреванием сахаров одновременно с сульфитами и соединениями аммиака. Это карамельный краситель, чаще всего используемый в газированных напитках, особенно колах, а также в соусах, уксусах и крепких спиртных напитках.\n\nВ ЕС он разрешён с условиями, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E151",
+    "eu_authorised": true,
+    "eu_official_name": "Brilliant Black PN",
+    "en": {
+      "name": "Brilliant Black BN",
+      "text": "Brilliant Black BN, also called Black PN, is a synthetic black azo dye. It has been used in sauces, desserts, fish roe substitutes, confectionery and drinks where permitted.\n\nIt is approved in the EU only in processed seafood, with conditions. It is approved in the UK, and banned in the US."
+    },
+    "ru": {
+      "name": "Чёрный блестящий BN",
+      "text": "Чёрный блестящий BN (Brilliant Black BN), также Black PN, — синтетический чёрный азокраситель. Там, где это разрешено, его применяли в соусах, десертах, имитациях рыбной икры, кондитерских изделиях и напитках.\n\nВ ЕС он разрешён с условиями только в обработанных морепродуктах, в Великобритании разрешён. В США он запрещён."
+    }
+  }
+]

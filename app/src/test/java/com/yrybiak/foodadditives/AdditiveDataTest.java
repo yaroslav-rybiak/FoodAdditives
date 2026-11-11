@@ -59,6 +59,24 @@ public class AdditiveDataTest {
         }
     }
 
+    @Test
+    public void euListRefersOnlyToKnownAdditives() throws IOException, JSONException {
+        Set<String> known = new HashSet<>();
+        for (String fileName : dataFileNames(DEFAULT_DIR)) {
+            known.addAll(checkedCodes(new File(DEFAULT_DIR, fileName)));
+        }
+        JSONArray authorised = new JSONArray(new String(
+                Files.readAllBytes(new File(DEFAULT_DIR, "eu_authorised.json").toPath()),
+                StandardCharsets.UTF_8));
+        Set<String> seen = new HashSet<>();
+        for (int i = 0; i < authorised.length(); i++) {
+            String code = authorised.getString(i);
+            assertTrue(code + " is on the EU list but has no article", known.contains(code));
+            assertTrue(code + " is on the EU list twice", seen.add(code));
+        }
+        assertFalse("The EU list is empty", seen.isEmpty());
+    }
+
     private static Set<String> dataFileNames(File dir) {
         String[] names = dir.list((d, name) -> name.startsWith("additives_") && name.endsWith(".json"));
         assertTrue("No data files in " + dir.getAbsolutePath(), names != null && names.length > 0);

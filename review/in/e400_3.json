@@ -1,0 +1,418 @@
+[
+  {
+    "code": "E472c",
+    "eu_authorised": true,
+    "eu_official_name": "Citric acid esters of mono- and diglycerides of fatty acids",
+    "en": {
+      "name": "Citric acid esters of mono- and diglycerides",
+      "text": "This emulsifier is made by reacting mono- and diglycerides of fatty acids with citric acid. It blends well with both fats and water.\n\nIt is used in margarine, bakery products, sauces, infant formula and processed meats.\n\nIt is approved in the EU for certain foods, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Эфиры моно- и диглицеридов с лимонной кислотой",
+      "text": "Этот эмульгатор получают реакцией моно- и диглицеридов жирных кислот с лимонной кислотой. Хорошо совмещается и с жирами, и с водой.\n\nПрименяется в маргарине, выпечке, соусах, детских смесях и мясных изделиях.\n\nВ ЕС разрешён для некоторых продуктов, в Великобритании разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E472d",
+    "eu_authorised": true,
+    "eu_official_name": "Tartaric acid esters of mono- and diglycerides of fatty acids",
+    "en": {
+      "name": "Tartaric acid esters of mono- and diglycerides",
+      "text": "This emulsifier is made by reacting mono- and diglycerides of fatty acids with tartaric acid. It is rarely used on its own.\n\nIt can improve dough in bread-making.\n\nIt is approved in the EU for bread, approved in the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Эфиры моно- и диглицеридов с винной кислотой",
+      "text": "Этот эмульгатор получают реакцией моно- и диглицеридов жирных кислот с винной кислотой. Сам по себе используется редко.\n\nМожет улучшать тесто при хлебопечении.\n\nВ ЕС разрешён для хлеба, в Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E472e",
+    "eu_authorised": true,
+    "eu_official_name": "Mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids",
+    "en": {
+      "name": "Diacetyl tartaric acid esters of mono- and diglycerides",
+      "text": "This emulsifier, often abbreviated DATEM, is made by reacting mono- and diglycerides of fatty acids with diacetyl tartaric acid. It strengthens dough and increases bread volume.\n\nIt is used in bread, rolls and other yeast-raised baked goods.\n\nIt is approved in the EU for bread, approved in the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Эфиры моно- и диглицеридов с диацетилвинной кислотой",
+      "text": "Этот эмульгатор, часто обозначаемый DATEM, получают реакцией моно- и диглицеридов жирных кислот с диацетилвинной кислотой. Укрепляет тесто и увеличивает объём хлеба.\n\nПрименяется в хлебе, булочках и другой дрожжевой выпечке.\n\nВ ЕС разрешён для хлеба, в Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E472f",
+    "eu_authorised": true,
+    "eu_official_name": "Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids",
+    "en": {
+      "name": "Mixed acetic and tartaric acid esters of mono- and diglycerides",
+      "text": "This emulsifier is made by reacting mono- and diglycerides of fatty acids with a mixture of acetic and tartaric acids. It is used as a dough conditioner.\n\nIt is approved in the EU for bread, approved in the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Эфиры моно- и диглицеридов со смесью уксусной и винной кислот",
+      "text": "Этот эмульгатор получают реакцией моно- и диглицеридов жирных кислот со смесью уксусной и винной кислот. Применяется как улучшитель теста.\n\nВ ЕС разрешён для хлеба, в Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E472g",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Succinylated monoglycerides",
+      "text": "Succinylated monoglycerides are made by reacting monoglycerides of fatty acids with succinic acid. They are dough strengtheners that improve bread volume and texture.\n\nThey are not approved in the EU or the UK, and they are approved in the US in bread."
+    },
+    "ru": {
+      "name": "Сукцинилированные моноглицериды",
+      "text": "Сукцинилированные моноглицериды получают реакцией моноглицеридов жирных кислот с янтарной кислотой. Это укрепители теста, улучшающие объём и текстуру хлеба.\n\nВ ЕС и Великобритании не разрешены, в США разрешены в хлебе."
+    }
+  },
+  {
+    "code": "E473",
+    "eu_authorised": true,
+    "eu_official_name": "Sucrose esters of fatty acids",
+    "en": {
+      "name": "Sucrose esters of fatty acids",
+      "text": "Sucrose esters of fatty acids are made by combining sugar with fatty acids from edible oils. Depending on the composition, they can emulsify oil in water or the reverse.\n\nThey are used in baked goods, confectionery, ice cream, drinks and dairy desserts, and as coatings for fruit.\n\nThey are approved in the EU for certain foods, approved in the UK, and approved in the US for certain foods."
+    },
+    "ru": {
+      "name": "Эфиры сахарозы и жирных кислот",
+      "text": "Эфиры сахарозы и жирных кислот получают соединением сахара с жирными кислотами пищевых масел. В зависимости от состава могут эмульгировать масло в воде или, наоборот, воду в масле.\n\nПрименяются в выпечке, кондитерских изделиях, мороженом, напитках и молочных десертах, а также как покрытия для плодов.\n\nВ ЕС разрешены для некоторых продуктов, в Великобритании разрешены, в США разрешены для некоторых продуктов."
+    }
+  },
+  {
+    "code": "E474",
+    "eu_authorised": true,
+    "eu_official_name": "Sucroglycerides",
+    "en": {
+      "name": "Sucroglycerides",
+      "text": "Sucroglycerides are mixtures of sucrose esters and mono- and diglycerides of fatty acids, made by reacting sugar with fats or oils. They are emulsifiers.\n\nThey are used in a range of foods such as baked goods and confectionery.\n\nThey are approved in the EU for certain foods, approved in the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Сахароглицериды",
+      "text": "Сахароглицериды - смеси эфиров сахарозы и моно- и диглицеридов жирных кислот, получаемые реакцией сахара с жирами или маслами. Это эмульгаторы.\n\nИспользуются в ряде продуктов, например в выпечке и кондитерских изделиях.\n\nВ ЕС разрешены для некоторых продуктов, в Великобритании разрешены, в США не разрешены."
+    }
+  },
+  {
+    "code": "E475",
+    "eu_authorised": true,
+    "eu_official_name": "Polyglycerol esters of fatty acids",
+    "en": {
+      "name": "Polyglycerol esters of fatty acids",
+      "text": "Polyglycerol esters of fatty acids are made by combining polymerised glycerol with fatty acids from edible oils. They are versatile emulsifiers.\n\nThey are used in cakes, whipped toppings, margarine, confectionery and ice cream to stabilise emulsions and foams.\n\nThey are approved in the EU for certain foods, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Полиглицериновые эфиры жирных кислот",
+      "text": "Полиглицериновые эфиры жирных кислот получают соединением полимеризованного глицерина с жирными кислотами пищевых масел. Это универсальные эмульгаторы.\n\nПрименяются в кексах, взбитых топпингах, маргарине, кондитерских изделиях и мороженом для стабилизации эмульсий и пен.\n\nВ ЕС разрешены для некоторых продуктов, в Великобритании разрешены, в США разрешены."
+    }
+  },
+  {
+    "code": "E476",
+    "eu_authorised": true,
+    "eu_official_name": "Polyglycerol polyricinoleate",
+    "en": {
+      "name": "Polyglycerol polyricinoleate",
+      "text": "Polyglycerol polyricinoleate (PGPR) is an emulsifier made from polyglycerol and castor oil fatty acids. It strongly reduces the viscosity of molten chocolate.\n\nIt is used in chocolate, chocolate coatings, spreads and low-fat spreads, which lets manufacturers use less cocoa butter.\n\nIt is approved in the EU for certain foods, approved in the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Полиглицерин полирицинолеат",
+      "text": "Полиглицерин полирицинолеат (ПГПР) - эмульгатор из полиглицерина и жирных кислот касторового масла. Сильно снижает вязкость расплавленного шоколада.\n\nИспользуется в шоколаде, шоколадных глазурях, пастах и спредах с низким содержанием жира, что позволяет производителям тратить меньше какао-масла.\n\nВ ЕС разрешён для некоторых продуктов, в Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E477",
+    "eu_authorised": true,
+    "eu_official_name": "Propane-1,2-diol esters of fatty acids",
+    "en": {
+      "name": "Propylene glycol esters of fatty acids",
+      "text": "Propylene glycol esters of fatty acids (propane-1,2-diol esters) are made by reacting propylene glycol with fatty acids from edible oils. They are emulsifiers, often used to stabilise aerated foods.\n\nThey are used in cake mixes, whipped toppings and dessert products.\n\nThey are approved in the EU for certain foods, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Эфиры пропиленгликоля и жирных кислот",
+      "text": "Эфиры пропиленгликоля (пропан-1,2-диола) и жирных кислот получают реакцией пропиленгликоля с жирными кислотами пищевых масел. Это эмульгаторы, часто используемые для стабилизации аэрированных продуктов.\n\nПрименяются в смесях для кексов, взбитых топпингах и десертах.\n\nВ ЕС разрешены для некоторых продуктов, в Великобритании разрешены, в США разрешены."
+    }
+  },
+  {
+    "code": "E478",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Lactylated fatty acid esters of glycerol and propane-1,2-diol",
+      "text": "This emulsifier is made by reacting glycerol and propylene glycol (propane-1,2-diol) with fatty acids and lactic acid. It is used to stabilise foams and emulsions.\n\nIt is not approved in the EU or the UK, and it is approved in the US."
+    },
+    "ru": {
+      "name": "Лактилированные эфиры глицерина и пропан-1,2-диола с жирными кислотами",
+      "text": "Этот эмульгатор получают реакцией глицерина и пропиленгликоля (пропан-1,2-диола) с жирными кислотами и молочной кислотой. Используется для стабилизации пен и эмульсий.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E479b",
+    "eu_authorised": true,
+    "eu_official_name": "Thermally oxidised soya bean oil interacted with mono- and diglycerides of fatty acids",
+    "en": {
+      "name": "Thermally oxidized soya bean oil with mono- and diglycerides",
+      "text": "This emulsifier is made by heating soya bean oil in air and then reacting it with mono- and diglycerides of fatty acids. It helps prevent fat from spattering when food is fried.\n\nIt is used in fat emulsions such as frying margarine.\n\nIt is approved in the EU for fat emulsions only, approved in the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Термически окисленное соевое масло с моно- и диглицеридами",
+      "text": "Этот эмульгатор получают нагреванием соевого масла на воздухе с последующей реакцией с моно- и диглицеридами жирных кислот. Помогает предотвратить разбрызгивание жира при жарке.\n\nИспользуется в жировых эмульсиях, например в маргарине для жарки.\n\nВ ЕС разрешено только для жировых эмульсий, в Великобритании разрешено, в США не разрешено."
+    }
+  },
+  {
+    "code": "E480",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Dioctyl sodium sulfosuccinate",
+      "text": "Dioctyl sodium sulfosuccinate (docusate sodium) is a synthetic surfactant. It is also well known as a stool-softening laxative in medicine, and it is used as a wetting agent in some foods.\n\nIt is not approved in the EU or the UK, and it is approved in the US."
+    },
+    "ru": {
+      "name": "Диоктилсульфосукцинат натрия",
+      "text": "Диоктилсульфосукцинат натрия (docusate sodium) - синтетическое поверхностно-активное вещество. В медицине он также известен как слабительное, размягчающее стул; в некоторых продуктах используется как смачивающий агент.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E481",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium stearoyl-2-lactylate",
+    "en": {
+      "name": "Sodium stearoyl-2-lactylate",
+      "text": "Sodium stearoyl-2-lactylate is made from stearic acid and lactic acid, neutralised with sodium. It strengthens dough and improves the softness and volume of baked goods.\n\nIt is used in bread, cakes, dried potato products, sauces and creamers.\n\nIt is approved in the EU for certain foods, approved in the UK, and approved in the US for certain foods."
+    },
+    "ru": {
+      "name": "Стеароил-2-лактилат натрия",
+      "text": "Стеароил-2-лактилат натрия получают из стеариновой и молочной кислот с нейтрализацией натрием. Укрепляет тесто, улучшает мягкость и объём выпечки.\n\nИспользуется в хлебе, кексах, сухих картофельных продуктах, соусах и сливках для кофе.\n\nВ ЕС разрешён для некоторых продуктов, в Великобритании разрешён, в США разрешён для некоторых продуктов."
+    }
+  },
+  {
+    "code": "E482",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium stearoyl-2-lactylate",
+    "en": {
+      "name": "Calcium stearoyl-2-lactylate",
+      "text": "Calcium stearoyl-2-lactylate is made from stearic acid and lactic acid, neutralised with calcium. It works as a dough conditioner and emulsifier, similar to the sodium salt.\n\nIt is used in bread, bakery products, whipped toppings and creamers.\n\nIt is approved in the EU for certain foods, approved in the UK, and approved in the US for certain foods."
+    },
+    "ru": {
+      "name": "Стеароил-2-лактилат кальция",
+      "text": "Стеароил-2-лактилат кальция получают из стеариновой и молочной кислот с нейтрализацией кальцием. Действует как улучшитель теста и эмульгатор, подобно натриевой соли.\n\nИспользуется в хлебе, выпечке, взбитых топпингах и сливках для кофе.\n\nВ ЕС разрешён для некоторых продуктов, в Великобритании разрешён, в США разрешён для некоторых продуктов."
+    }
+  },
+  {
+    "code": "E483",
+    "eu_authorised": false,
+    "eu_official_name": "Stearyl tartrate",
+    "en": {
+      "name": "Stearyl tartrate",
+      "text": "Stearyl tartrate is an ester of stearyl alcohol and tartaric acid. It is a little-used emulsifier and dough conditioner.\n\nIt is approved in the EU, approved in the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Стеарилтартрат",
+      "text": "Стеарилтартрат - сложный эфир стеарилового спирта и винной кислоты. Мало используемый эмульгатор и улучшитель теста.\n\nВ ЕС разрешён, в Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E484",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Stearyl citrate",
+      "text": "Stearyl citrate is an ester of stearyl alcohol and citric acid. It is a little-used emulsifier that can also bind traces of metals.\n\nIt is not approved in the EU or the UK, and it is approved in the US for certain foods."
+    },
+    "ru": {
+      "name": "Стеарилцитрат",
+      "text": "Стеарилцитрат - сложный эфир стеарилового спирта и лимонной кислоты. Мало используемый эмульгатор, способный также связывать следы металлов.\n\nВ ЕС и Великобритании не разрешён, в США разрешён для некоторых продуктов."
+    }
+  },
+  {
+    "code": "E485",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Sodium stearoyl fumarate",
+      "text": "Sodium stearoyl fumarate is a synthetic emulsifier made from stearic acid and fumaric acid. It has been used as a dough conditioner.\n\nIt is not approved in the EU, UK or US."
+    },
+    "ru": {
+      "name": "Стеароилфумарат натрия",
+      "text": "Стеароилфумарат натрия - синтетический эмульгатор из стеариновой и фумаровой кислот. Применялся как улучшитель теста.\n\nНе разрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E486",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Calcium stearoyl fumarate",
+      "text": "Calcium stearoyl fumarate is a synthetic emulsifier made from stearic acid and fumaric acid, the calcium counterpart of E485.\n\nIt is not approved in the EU, UK or US."
+    },
+    "ru": {
+      "name": "Стеароилфумарат кальция",
+      "text": "Стеароилфумарат кальция - синтетический эмульгатор из стеариновой и фумаровой кислот, кальциевый аналог E485.\n\nНе разрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E487",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Sodium laurylsulfate",
+      "text": "Sodium laurylsulfate (sodium lauryl sulfate) is a synthetic surfactant, better known as a detergent in toothpaste and shampoos. In food it has been used as a whipping and foaming agent, for example in egg whites.\n\nIt is not approved in the EU or the UK, and it is approved in the US."
+    },
+    "ru": {
+      "name": "Лаурилсульфат натрия",
+      "text": "Лаурилсульфат натрия - синтетическое поверхностно-активное вещество, более известное как моющий компонент зубных паст и шампуней. В пищевых продуктах применялся как взбивающий и пенообразующий агент, например для яичных белков.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E488",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ethoxylated mono- and diglycerides",
+      "text": "Ethoxylated mono- and diglycerides (polyglycerate 60) are emulsifiers made by reacting mono- and diglycerides of fatty acids with ethylene oxide. They help fat and water mix.\n\nThey are not approved in the EU or the UK, and they are approved in the US for certain foods."
+    },
+    "ru": {
+      "name": "Этоксилированные моно- и диглицериды",
+      "text": "Этоксилированные моно- и диглицериды (полиглицерат 60) - эмульгаторы, получаемые реакцией моно- и диглицеридов жирных кислот с оксидом этилена. Помогают смешиванию жира и воды.\n\nВ ЕС и Великобритании не разрешены, в США разрешены для некоторых продуктов."
+    }
+  },
+  {
+    "code": "E489",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Methyl glucoside-coconut oil ester",
+      "text": "Methyl glucoside-coconut oil ester is an emulsifier made from sugar-derived methyl glucoside and coconut oil fatty acids. It is a little-used additive.\n\nIt is not approved in the EU or the UK, and it is approved in the US for molasses and dextrose or sucrose."
+    },
+    "ru": {
+      "name": "Эфир метилглюкозида и кокосового масла",
+      "text": "Эфир метилглюкозида и кокосового масла - эмульгатор, получаемый из метилглюкозида, производного сахара, и жирных кислот кокосового масла. Добавка применяется редко.\n\nВ ЕС и Великобритании не разрешён, в США разрешён для патоки и декстрозы или сахарозы."
+    }
+  },
+  {
+    "code": "E490",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Propane-1,2-diol",
+      "text": "Propane-1,2-diol, better known as propylene glycol, is a clear, colourless, slightly sweet liquid made synthetically from petroleum-derived propylene oxide. It mixes with water and many solvents.\n\nIt is used as a solvent for flavours and colours and as a humectant. It is not the same as the toxic ethylene glycol.\n\nIt is not approved in the EU or the UK, and it is approved in the US for certain foods."
+    },
+    "ru": {
+      "name": "Пропан-1,2-диол",
+      "text": "Пропан-1,2-диол, более известный как пропиленгликоль - прозрачная бесцветная слегка сладковатая жидкость, получаемая синтетически из пропиленоксида нефтяного происхождения. Смешивается с водой и многими растворителями.\n\nИспользуется как растворитель для ароматизаторов и красителей и как влагоудерживающий агент. Не следует путать его с токсичным этиленгликолем.\n\nВ ЕС и Великобритании не разрешён, в США разрешён для некоторых продуктов."
+    }
+  },
+  {
+    "code": "E491",
+    "eu_authorised": true,
+    "eu_official_name": "Sorbitan monostearate",
+    "en": {
+      "name": "Sorbitan monostearate",
+      "text": "Sorbitan monostearate is an emulsifier made by combining sorbitol with stearic acid. It helps oil and water mix and keeps fats evenly dispersed.\n\nIt is used in cakes, whipped toppings, chocolate, dry yeast and some fat-containing foods.\n\nIt is approved in the EU for certain foods, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Сорбитанмоностеарат",
+      "text": "Сорбитанмоностеарат - эмульгатор, получаемый соединением сорбита со стеариновой кислотой. Помогает маслу и воде смешиваться и равномерно распределяет жиры.\n\nИспользуется в кексах, взбитых топпингах, шоколаде, сухих дрожжах и некоторых жиросодержащих продуктах.\n\nВ ЕС разрешён для некоторых продуктов, в Великобритании разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E492",
+    "eu_authorised": true,
+    "eu_official_name": "Sorbitan tristearate",
+    "en": {
+      "name": "Sorbitan tristearate",
+      "text": "Sorbitan tristearate is an emulsifier made by combining sorbitol with stearic acid. It is used to control crystallisation of fats and to stabilise emulsions.\n\nIt can be found in chocolate and fat-based products.\n\nIt is approved in the EU for certain foods, approved in the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Сорбитантристеарат",
+      "text": "Сорбитантристеарат - эмульгатор, получаемый соединением сорбита со стеариновой кислотой. Применяется для регулирования кристаллизации жиров и стабилизации эмульсий.\n\nМожет встречаться в шоколаде и жировых продуктах.\n\nВ ЕС разрешён для некоторых продуктов, в Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E493",
+    "eu_authorised": true,
+    "eu_official_name": "Sorbitan monolaurate",
+    "en": {
+      "name": "Sorbitan monolaurate",
+      "text": "Sorbitan monolaurate is an emulsifier made by combining sorbitol with lauric acid. It helps oil and water stay mixed.\n\nIt is used in small amounts in baked goods, whipped toppings and similar products.\n\nIt is approved in the EU for certain foods, approved in the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Сорбитанмонолаурат",
+      "text": "Сорбитанмонолаурат - эмульгатор, получаемый соединением сорбита с лауриновой кислотой. Помогает маслу и воде оставаться смешанными.\n\nИспользуется в малых количествах в выпечке, взбитых топпингах и подобных продуктах.\n\nВ ЕС разрешён для некоторых продуктов, в Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E494",
+    "eu_authorised": true,
+    "eu_official_name": "Sorbitan monooleate",
+    "en": {
+      "name": "Sorbitan monooleate",
+      "text": "Sorbitan monooleate is an emulsifier made by combining sorbitol with oleic acid. It is oil-soluble and used to stabilise emulsions.\n\nIt is used in small amounts in desserts, whipped products and vitamin preparations.\n\nIt is approved in the EU for certain foods, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Сорбитанмоноолеат",
+      "text": "Сорбитанмоноолеат - эмульгатор, получаемый соединением сорбита с олеиновой кислотой. Растворим в масле и используется для стабилизации эмульсий.\n\nПрименяется в малых количествах в десертах, взбитых продуктах и витаминных препаратах.\n\nВ ЕС разрешён для некоторых продуктов, в Великобритании разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E495",
+    "eu_authorised": true,
+    "eu_official_name": "Sorbitan monopalmitate",
+    "en": {
+      "name": "Sorbitan monopalmitate",
+      "text": "Sorbitan monopalmitate is an emulsifier made by combining sorbitol with palmitic acid. It is used to disperse fats and stabilise emulsions.\n\nIt is approved in the EU for certain foods, approved in the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Сорбитанмонопальмитат",
+      "text": "Сорбитанмонопальмитат - эмульгатор, получаемый соединением сорбита с пальмитиновой кислотой. Используется для диспергирования жиров и стабилизации эмульсий.\n\nВ ЕС разрешён для некоторых продуктов, в Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E496",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Sorbitan trioleate",
+      "text": "Sorbitan trioleate is an emulsifier made by combining sorbitol with oleic acid. It is one of the less common sorbitan esters.\n\nIt is not approved in the EU, UK or US."
+    },
+    "ru": {
+      "name": "Сорбитантриолеат",
+      "text": "Сорбитантриолеат - эмульгатор, получаемый соединением сорбита с олеиновой кислотой. Относится к менее распространённым эфирам сорбитана.\n\nНе разрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E497",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Polyoxypropylene-polyoxyethylene polymers",
+      "text": "These are synthetic block polymers of propylene oxide and ethylene oxide, which act as surfactants. They are sometimes called poloxamers.\n\nThey are not approved in the EU or the UK, and they are approved in the US."
+    },
+    "ru": {
+      "name": "Полиоксипропилен-полиоксиэтиленовые полимеры",
+      "text": "Это синтетические блок-полимеры оксида пропилена и оксида этилена, действующие как поверхностно-активные вещества. Иногда их называют полоксамерами.\n\nВ ЕС и Великобритании не разрешены, в США разрешены."
+    }
+  },
+  {
+    "code": "E498",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Partial polyglycerol esters of polycondensed fatty acids of castor oil",
+      "text": "These are emulsifiers made from polyglycerol and fatty acids from castor oil that have been polymerised. They are closely related to polyglycerol polyricinoleate (E476).\n\nThey are not approved in the EU, UK or US."
+    },
+    "ru": {
+      "name": "Частичные полиглицериновые эфиры конденсированных жирных кислот касторового масла",
+      "text": "Это эмульгаторы из полиглицерина и полимеризованных жирных кислот касторового масла. Они близко родственны полиглицерину полирицинолеату (E476).\n\nНе разрешены в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E499",
+    "eu_authorised": true,
+    "eu_official_name": "Stigmasterol-rich plant sterols",
+    "en": {
+      "name": "Stigmasterol-rich plant sterols",
+      "text": "Stigmasterol-rich plant sterols are mixtures of sterols extracted from plants, containing a high proportion of stigmasterol. They are used in foods as a stabiliser or emulsifier-type additive.\n\nThey are approved in the EU for ready-to-freeze alcoholic cocktails, approved in the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Растительные стерины, богатые стигмастерином",
+      "text": "Это смеси стеринов, извлекаемые из растений, с высоким содержанием стигмастерина. Применяются в пищевых продуктах как стабилизатор или добавка эмульгирующего типа.\n\nВ ЕС разрешены для замораживаемых алкогольных коктейлей, в Великобритании разрешены, в США не разрешены."
+    }
+  }
+]

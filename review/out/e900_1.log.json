@@ -1,0 +1,355 @@
+[
+  {
+    "code": "E900",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Deleted unsupported 'odourless' and 'not found in nature' and unsupported food examples (jams, soft drinks, fruit juices); kept cooking/frying oils (sourced). Added sourced 2020 EFSA re-evaluation outcome. EN name set to EU official name.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polydimethylsiloxane",
+      "Codex CXG 36-1989 (INS 900a), cached copy",
+      "TR TS 029/2012 (Russian name), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E901",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsupported 'confectionery'. Corrected origin (cappings and old comb) and white/yellow distinction per source; added sourced uses (fruit surface protection, capsules, chewing gum) and poor digestibility.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Beeswax",
+      "Codex CXG 36-1989 (INS 901), cached copy",
+      "TR TS 029/2012, cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E902",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences (including US chewing gum/hard candy claim). Deleted unsupported 'glossy finish', 'hard candies' and 'confectionery coating'. Added botanical name, appearance and gum-binder use from source. RU name changed to spelling used in TR TS 029/2012 ('Воск канделлильский').",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Candelilla_wax",
+      "Codex CXG 36-1989 (INS 902), cached copy",
+      "TR TS 029/2012, cached copy"
+    ],
+    "unresolved": "RU name: TR TS 029/2012 spells it 'канделлильский' (double л); the previous text used 'канделильский'. Confirm the preferred spelling."
+  },
+  {
+    "code": "E903",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Deleted unsupported specific uses (dragees, coating fresh fruit, chewing gum); kept sweets (sourced). Added botanical name and production method from source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carnauba_wax",
+      "Codex CXG 36-1989 (INS 903), cached copy",
+      "TR TS 029/2012, cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E904",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsupported 'food supplements' and 'sometimes bleached'; specified female lac bug, citrus storage-life and apple wax-replacement uses per source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shellac",
+      "Codex CXG 36-1989 (INS 904), cached copy",
+      "TR TS 029/2012, cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E905",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Deleted unsupported specific uses (cheese rinds, fruit, chewing gum bases) which the source attributes to paraffin wax, not microcrystalline wax. Added production route and properties from source; functions (glazing, antifoaming) from Codex INS 905c(i).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Microcrystalline_wax",
+      "https://en.wikipedia.org/wiki/Paraffin_wax",
+      "Codex CXG 36-1989 (INS 905c(i)), cached copy",
+      "TR TS 029/2012, cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E905a",
+    "verdict": "rewritten",
+    "changes": "Identity corrected: INS/E905a is 'Mineral oil, food grade' (Codex), not 'high viscosity mineral oils' (that is 905d). Removed EU/UK/US status sentences. Function corrected from anti-foaming/release agent to glazing and sealing agent (Codex). Deleted unsupported dried-fruit use; added sourced confectionery and bakery-machine uses and laxative note.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mineral_oil",
+      "Codex CXG 36-1989 (INS 905a), cached copy"
+    ],
+    "unresolved": "RU name is a translation of the Codex name; 905a is not in TR TS 029/2012 and no Russian regulatory name was found."
+  },
+  {
+    "code": "E905b",
+    "verdict": "rewritten",
+    "changes": "Removed EU/UK/US status sentences. Function corrected: the draft's 'release or protective coating agent in baking and confectionery' was unsupported; Codex lists antifoaming, glazing and sealing agent. Deleted unsupported 'odourless and water-repellent'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Petroleum_jelly",
+      "Codex CXG 36-1989 (INS 905b), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E905c",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Deleted unsupported fruit coating; uses made specific to paraffin wax per source; added sealing function (Codex) and non-digestibility (source).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Paraffin_wax",
+      "https://en.wikipedia.org/wiki/Microcrystalline_wax",
+      "Codex CXG 36-1989 (INS 905c, 905c(i), 905c(ii)), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E906",
+    "verdict": "rewritten",
+    "changes": "Function corrected: draft said 'flavour enhancer'; Codex classes INS 906 as a glazing agent. Removed status sentence. Deleted unsupported 'little use in modern food production' and 'росный ладан' synonym. Added sourced flavouring uses and benzoic acid content.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Benzoin_resin",
+      "Codex CXG 36-1989 (INS 906), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E907",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Deleted unsupported 'wax-like', 'chemically stable and almost insoluble in water' and specific uses (confectionery, chewing gum). Added sourced EFSA 2020 re-evaluation result (ADI 20 mg/kg bw/day).",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2020.6034 (abstract via api.openalex.org)",
+      "Codex CXG 36-1989 (INS 907), cached copy",
+      "TR TS 029/2012, cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E908",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Deleted unsupported 'helps retain moisture'. Added composition and carnauba-substitute note from source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rice_bran_wax",
+      "Codex CXG 36-1989 (INS 908), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E909",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported claim that it is not used in food because of whale conservation and alternative waxes, and unsupported 'ointments'. Added sourced properties, history and jojoba-ester alternative. RU name changed to 'Спермацет' (Russian Wikipedia title).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spermaceti",
+      "Codex CXG 36-1989 (INS 909), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E910",
+    "verdict": "edited",
+    "changes": "Removed status sentence and 'little further information' filler. Deleted unsupported 'can be produced synthetically'. Glazing-agent class confirmed by Codex. Added sourced occurrence in carnauba wax, beeswax and foods.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wax_ester",
+      "Codex CXG 36-1989 (INS 910), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E911",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Deleted the US raisin-processing claim (could not open 21 CFR 172.225 to verify) and 'oily liquids'. Added sourced description (colourless, melting near room temperature, biodiesel).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fatty_acid_methyl_ester",
+      "Codex CXG 36-1989 (INS 911), cached copy"
+    ],
+    "unresolved": "The US raisin-drying use (21 CFR 172.225) was deleted only because eCFR/Cornell could not be read from this machine; it could be restored if verified."
+  },
+  {
+    "code": "E912",
+    "verdict": "rewritten",
+    "changes": "Draft wrongly said they are approved in the EU and gave UK/US status; replaced with verified regulatory history: removed from the EU list by Regulation (EU) No 957/2014 after the 2013 EFSA opinion could not evaluate them (recitals 3, 8, 12). Deleted unsupported 'refined and esterified to give a stable product'. Added montan wax origin from source. RU name aligned with TR TS 029/2012 ('Эфиры монтановой (октакозановой) кислоты').",
+    "sources": [
+      "https://www.legislation.gov.uk/eur/2014/957/contents",
+      "https://www.legislation.gov.uk/eur/2014/957/data.xml",
+      "https://en.wikipedia.org/wiki/Montan_wax",
+      "TR TS 029/2012, cached copy"
+    ],
+    "unresolved": "E912 is still listed in TR TS 029/2012 (EAEU) as a glazing agent; not mentioned in the text. E912 is absent from the current Codex INS list."
+  },
+  {
+    "code": "E913",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence (including US packaging-only claim). Deleted unsupported 'yellowish, sticky' and 'little use in modern foods'. Added sourced composition (sterol esters) and vitamin D3 precursor use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lanolin",
+      "Codex CXG 36-1989 (INS 913), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E914",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Deleted unsupported 'hard, water-resistant solid' and the specific 'citrus' example (source says only 'some fruits'). Added sourced composition and EFSA 2015 re-evaluation outcome. EN name set to EU spelling 'Oxidised'.",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2015.4145 (abstract via api.openalex.org)",
+      "TR TS 029/2012, cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E915",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Deleted unsupported 'harder and more stable resin'. Specified the three ester types per Codex INS 915; added sourced uses (medicines, chewing gum) and E445 relation.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rosin",
+      "https://en.wikipedia.org/wiki/Glycerol_ester_of_wood_rosin",
+      "Codex CXG 36-1989 (INS 915), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E916",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Function confirmed as flour treatment agent (Codex INS 916). Deleted unsupported 'white powder', 'strengthens dough' and general 'source of iodine' claim; added sourced mineral occurrence and feed use. RU name spelled 'Иодат' as on Russian Wikipedia.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_iodate",
+      "Codex CXG 36-1989 (INS 916), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E917",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Function confirmed as flour treatment agent (Codex INS 917). Deleted unsupported 'crystalline powder', 'strong' oxidiser and 'made industrially'; added sourced infant-formula use. RU name spelled 'Иодат' as on Russian Wikipedia.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_iodate",
+      "Codex CXG 36-1989 (INS 917), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E918",
+    "verdict": "rewritten",
+    "changes": "Function corrected: draft said 'propellant'; Codex classes INS 918 as a flour treatment agent. Removed status sentences including the unsupported US propellant claim. Deleted unsupported 'produced industrially' and toxicity remark. Reduced to identity and function.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nitrogen_oxide",
+      "Codex CXG 36-1989 (INS 918), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E919",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Function confirmed as flour treatment agent (Codex INS 919). Deleted unsupported 'toxic', 'bleaching agent' and 'not used in modern food production'. Added sourced aqua regia note. RU name changed to Russian Wikipedia title 'Хлорид нитрозила'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nitrosyl_chloride",
+      "Codex CXG 36-1989 (INS 919), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E920",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Kept dough-softening effect (supported by the dough conditioner article), deleted unsupported specific products (biscuits); corrected sources (mainly animal feathers/hog hair; fermentation is the costlier alternative). Added sourced EU human-hair rule, flavour use and dietary note.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cysteine",
+      "Codex CXG 36-1989 (INS 920), cached copy",
+      "TR TS 029/2012, cached copy",
+      "https://en.wikipedia.org/wiki/Dough_conditioner"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E921",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Function confirmed as flour treatment agent (Codex INS 921); deleted unsupported 'mainly known as a nutrient supplement' and 'crystalline powder'. Added sourced occurrence data.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cystine",
+      "Codex CXG 36-1989 (INS 921), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E922",
+    "verdict": "edited",
+    "changes": "Removed status sentences, including the unsupported US citrus-coating/packaging claim. Deleted unsupported 'crystalline powder' and 'made industrially' wording; industrial uses corrected per source (polymerisation initiator, hair bleach). RU name set to Russian Wikipedia title.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_persulfate",
+      "Codex CXG 36-1989 (INS 922), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E923",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted unsupported 'strengthens dough' and 'produced industrially'. Function confirmed as flour treatment agent (Codex INS 923); industrial uses per source. RU name set to Russian Wikipedia title.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ammonium_persulfate",
+      "Codex CXG 36-1989 (INS 923), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E924",
+    "verdict": "edited",
+    "changes": "Removed EU/UK status and the US malting status sentence. Corrected 'white crystalline powder' to colourless salt; 'potential carcinogen' made precise (IARC Group 2B). Added sourced residue mechanism and attributed US history (FDA 1991 advice; California 2023 law effective 2027).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_bromate"
+    ],
+    "unresolved": "INS 924 is not in the current Codex list; identity taken from the substance article (which gives E924). RU text contains 'запрещающий' in a deliberately kept, attributed US-history sentence."
+  },
+  {
+    "code": "E924b",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted unsupported 'strong oxidizing agent', 'made industrially' and 'used historically'; use stated per source (improver in some countries).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_bromate"
+    ],
+    "unresolved": "INS 924b is not in the current Codex list; identity from the substance article."
+  },
+  {
+    "code": "E925",
+    "verdict": "edited",
+    "changes": "Function corrected: draft listed it as 'preservative, bleach and improving agent'; Codex classes INS 925 as a flour treatment agent (flour bleaching). Removed status sentences. Production corrected to electrolysis of brine. Water-disinfection use confirmed.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chlorine",
+      "Codex CXG 36-1989 (INS 925), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E926",
+    "verdict": "edited",
+    "changes": "Removed status sentences; the draft wrongly said it is approved in the EU (eu_authorised is false). Deleted 'made industrially'. Function per Codex (flour treatment agent); added sourced food-processing disinfection use and toxicity note.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chlorine_dioxide",
+      "Codex CXG 36-1989 (INS 926), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E927a",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. SVHC statement kept but corrected and dated: added to the REACH candidate list in 2012 for respiratory sensitisation (occupational), not a food-status statement. Added sourced reaction products and semicarbazide note.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Azodicarbonamide",
+      "Codex CXG 36-1989 (INS 927a), cached copy"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E927b",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Deleted the chewing-gum use (could not open a source confirming it; the EU annex text could not be extracted). Kept yeast-nutrient use (sourced, made specific to alcoholic fermentation). Function per Codex (flour treatment agent); added sourced production and fertiliser facts.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Urea",
+      "Codex CXG 36-1989 (INS 927b), cached copy",
+      "TR TS 029/2012, cached copy"
+    ],
+    "unresolved": "Chewing-gum use (the draft's EU use) was deleted as unverified; a human with EUR-Lex access could restore it from Annex II to Regulation (EC) No 1333/2008."
+  },
+  {
+    "code": "E928",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted unsupported whey and cheese uses. Functions per Codex (bleaching agent, flour treatment agent, preservative). RU name set to Russian Wikipedia title.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Benzoyl_peroxide",
+      "Codex CXG 36-1989 (INS 928), cached copy"
+    ],
+    "unresolved": ""
+  }
+]

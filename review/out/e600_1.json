@@ -1,0 +1,233 @@
+[
+  {
+    "code": "E620",
+    "en": {
+      "name": "Glutamic acid",
+      "text": "Glutamic acid is one of the amino acids that make up proteins. In its free form it is responsible for the savoury taste known as umami, and it occurs naturally in foods such as cheese, soy sauce and tomatoes.\n\nFor food use the L-form is obtained by fermentation or by hydrolysis of proteins such as wheat gluten. It is used as a flavour enhancer, although glutamate is more often added in the form of its sodium salt, monosodium glutamate (E621)."
+    },
+    "ru": {
+      "name": "Глутаминовая кислота",
+      "text": "Глутаминовая кислота — одна из аминокислот, из которых построены белки. В свободном виде она отвечает за насыщенный вкус «умами» и естественно содержится, например, в сырах, соевом соусе и томатах.\n\nДля пищевых целей L-форму получают ферментацией или гидролизом белков, например пшеничной клейковины. Применяется как усилитель вкуса, хотя глутамат чаще добавляют в виде натриевой соли — глутамата натрия (E621)."
+    }
+  },
+  {
+    "code": "E621",
+    "en": {
+      "name": "Monosodium glutamate",
+      "text": "Monosodium glutamate (MSG) is the sodium salt of glutamic acid. Glutamate occurs naturally in foods such as tomatoes, cheese and kombu seaweed; MSG was first isolated in 1908 by the Japanese chemist Kikunae Ikeda, who was studying the savoury taste of kombu.\n\nToday it is made mainly by bacterial fermentation of carbohydrates from sugar beet, sugar cane, tapioca or molasses. It adds umami taste to stock cubes, soups, ramen, gravies, condiments and savoury snacks.\n\nBlinded studies have not shown the headaches and other symptoms popularly attributed to MSG when it is eaten with food in normal amounts."
+    },
+    "ru": {
+      "name": "Глутамат натрия",
+      "text": "Глутамат натрия (MSG) — натриевая соль глутаминовой кислоты. Глутамат естественно содержится в таких продуктах, как томаты, сыр и водоросль комбу; глутамат натрия впервые выделил в 1908 году японский химик Кикунаэ Икэда, изучавший насыщенный вкус комбу.\n\nСегодня его получают в основном бактериальной ферментацией углеводов из сахарной свёклы, сахарного тростника, тапиоки или мелассы. Он придаёт вкус «умами» бульонным кубикам, супам, рамену, подливам, приправам и солёным снекам.\n\nСлепые исследования не выявили головной боли и других симптомов, которые принято связывать с глутаматом натрия, при его употреблении с пищей в обычных количествах."
+    }
+  },
+  {
+    "code": "E622",
+    "en": {
+      "name": "Monopotassium glutamate",
+      "text": "Monopotassium glutamate is the potassium salt of glutamic acid, an amino acid.\n\nIt is used as a flavour enhancer that gives a savoury umami taste, and serves as a sodium-free alternative to monosodium glutamate (E621)."
+    },
+    "ru": {
+      "name": "Глутамат калия",
+      "text": "Глутамат калия — калиевая соль глутаминовой кислоты, аминокислоты.\n\nОн применяется как усилитель вкуса, придающий насыщенный вкус «умами», и служит альтернативой глутамату натрия (E621), не содержащей натрия."
+    }
+  },
+  {
+    "code": "E623",
+    "en": {
+      "name": "Calcium diglutamate",
+      "text": "Calcium diglutamate is a calcium salt of glutamic acid, an amino acid present in protein-containing foods. It can be prepared by reacting glutamic acid with calcium carbonate.\n\nIt is a flavour enhancer. Because the glutamate is what carries the taste, it gives the same savoury umami effect as monosodium glutamate (E621) without adding sodium."
+    },
+    "ru": {
+      "name": "Глутамат кальция",
+      "text": "Глутамат кальция (диглутамат кальция) — кальциевая соль глутаминовой кислоты, аминокислоты, присутствующей в белковых продуктах. Его можно получить реакцией глутаминовой кислоты с карбонатом кальция.\n\nЭто усилитель вкуса. Поскольку вкус создаёт именно глутамат, он даёт тот же насыщенный вкус «умами», что и глутамат натрия (E621), но без добавления натрия."
+    }
+  },
+  {
+    "code": "E624",
+    "en": {
+      "name": "Monoammonium glutamate",
+      "text": "Monoammonium glutamate is the ammonium salt of glutamic acid, an amino acid.\n\nIt is used as a flavour enhancer that gives a savoury umami taste, like the other salts of glutamic acid such as monosodium glutamate (E621)."
+    },
+    "ru": {
+      "name": "Глутамат аммония",
+      "text": "Глутамат аммония — аммонийная соль глутаминовой кислоты, аминокислоты.\n\nОн применяется как усилитель вкуса, придающий насыщенный вкус «умами», подобно другим солям глутаминовой кислоты, например глутамату натрия (E621)."
+    }
+  },
+  {
+    "code": "E625",
+    "en": {
+      "name": "Magnesium diglutamate",
+      "text": "Magnesium diglutamate is a magnesium salt of glutamic acid, an amino acid.\n\nIt is used as a flavour enhancer that gives a savoury umami taste, like the other salts of glutamic acid such as monosodium glutamate (E621)."
+    },
+    "ru": {
+      "name": "Глутамат магния",
+      "text": "Глутамат магния (диглутамат магния) — магниевая соль глутаминовой кислоты, аминокислоты.\n\nОн применяется как усилитель вкуса, придающий насыщенный вкус «умами», подобно другим солям глутаминовой кислоты, например глутамату натрия (E621)."
+    }
+  },
+  {
+    "code": "E626",
+    "en": {
+      "name": "Guanylic acid",
+      "text": "Guanylic acid (guanosine monophosphate) is a nucleotide, one of the building blocks of RNA. It was first identified as the umami substance in dried shiitake mushrooms and occurs in a number of other mushrooms. Commercially it is produced by microbial fermentation.\n\nIt is a flavour enhancer that provides umami taste, but it is mostly used in the form of its salts, such as disodium guanylate (E627). Being fairly expensive, these are usually combined with glutamates."
+    },
+    "ru": {
+      "name": "Гуаниловая кислота",
+      "text": "Гуаниловая кислота (гуанозинмонофосфат) — нуклеотид, один из структурных компонентов РНК. Впервые она была определена как вещество, дающее вкус «умами» сушёным грибам шиитаке, и содержится также в ряде других грибов. В промышленности её получают микробиологической ферментацией.\n\nЭто усилитель вкуса, придающий вкус «умами», но применяется он в основном в виде солей, например гуанилата натрия (E627). Поскольку они довольно дороги, их обычно сочетают с глутаматами."
+    }
+  },
+  {
+    "code": "E627",
+    "en": {
+      "name": "Disodium guanylate",
+      "text": "Disodium guanylate is the sodium salt of guanylic acid (E626), a nucleotide first identified as the umami substance of dried shiitake mushrooms. It is produced mainly by bacterial fermentation.\n\nIt is a fairly expensive flavour enhancer, so it is usually used together with monosodium glutamate or another glutamate source, and often with disodium inosinate. Typical products are instant noodles, crisps and other snacks, savoury rice, tinned vegetables, cured meats and packet soups.\n\nJECFA has noted that large intakes of guanylates and inosinates can raise uric acid levels, which is relevant for people prone to gout."
+    },
+    "ru": {
+      "name": "Гуанилат натрия",
+      "text": "Гуанилат натрия (динатриевая соль гуаниловой кислоты, E626) — соль нуклеотида, который впервые был определён как вещество, дающее вкус «умами» сушёным грибам шиитаке. Его получают в основном бактериальной ферментацией.\n\nЭто довольно дорогой усилитель вкуса, поэтому его обычно применяют вместе с глутаматом натрия или другим источником глутамата и часто вместе с инозинатом натрия. Типичные продукты — лапша быстрого приготовления, чипсы и другие снеки, рис с приправами, овощные консервы, вяленые и копчёные мясные изделия и супы в пакетах.\n\nJECFA отмечал, что большое потребление гуанилатов и инозинатов может повышать уровень мочевой кислоты, что важно для людей, склонных к подагре."
+    }
+  },
+  {
+    "code": "E628",
+    "en": {
+      "name": "Dipotassium guanylate",
+      "text": "Dipotassium guanylate is a potassium salt of guanylic acid (E626), a nucleotide that is one of the building blocks of RNA.\n\nIt is used as a flavour enhancer to provide umami taste. Like the other guanylates, it is usually combined with glutamates."
+    },
+    "ru": {
+      "name": "Гуанилат калия",
+      "text": "Гуанилат калия — калиевая соль гуаниловой кислоты (E626), нуклеотида, одного из структурных компонентов РНК.\n\nОн применяется как усилитель вкуса, придающий вкус «умами». Как и другие гуанилаты, его обычно сочетают с глутаматами."
+    }
+  },
+  {
+    "code": "E629",
+    "en": {
+      "name": "Calcium guanylate",
+      "text": "Calcium guanylate is the calcium salt of guanylic acid (E626), a nucleotide present in all living cells as part of RNA. It is commercially prepared from yeast extract or fish.\n\nIt is used as a flavour enhancer that provides umami taste, particularly in low-salt products."
+    },
+    "ru": {
+      "name": "Гуанилат кальция",
+      "text": "Гуанилат кальция — кальциевая соль гуаниловой кислоты (E626), нуклеотида, который присутствует во всех живых клетках в составе РНК. В промышленности его получают из дрожжевого экстракта или рыбы.\n\nОн применяется как усилитель вкуса, придающий вкус «умами», особенно в продуктах с пониженным содержанием соли."
+    }
+  },
+  {
+    "code": "E630",
+    "en": {
+      "name": "Inosinic acid",
+      "text": "Inosinic acid (inosine monophosphate) is a nucleotide that occurs naturally in meat and fish. For food use it is made by fermentation of sugars or obtained from animal products.\n\nIt is a flavour enhancer for umami taste, although its salts, such as disodium inosinate (E631), are the forms usually used. Inosinates act in synergy with glutamates and are mostly used in soups, sauces and seasonings to intensify and balance meaty flavour."
+    },
+    "ru": {
+      "name": "Инозиновая кислота",
+      "text": "Инозиновая кислота (инозинмонофосфат) — нуклеотид, естественно содержащийся в мясе и рыбе. Для пищевых целей её получают ферментацией сахаров или из продуктов животного происхождения.\n\nЭто усилитель вкуса «умами», хотя обычно используют её соли, например инозинат натрия (E631). Инозинаты действуют синергически с глутаматами и применяются в основном в супах, соусах и приправах, чтобы усилить и сбалансировать мясной вкус."
+    }
+  },
+  {
+    "code": "E631",
+    "en": {
+      "name": "Disodium inosinate",
+      "text": "Disodium inosinate is the sodium salt of inosinic acid (E630), a nucleotide found naturally in meat and fish. Large-scale production is now mainly by bacterial fermentation, although it can also be prepared from animal products.\n\nIt is a relatively expensive flavour enhancer that works in synergy with monosodium glutamate or other glutamate sources, and is often combined with disodium guanylate (as E635).\n\nJECFA has noted that large intakes of inosinates and guanylates can raise uric acid levels, which is relevant for people prone to gout."
+    },
+    "ru": {
+      "name": "Инозинат натрия",
+      "text": "Инозинат натрия (динатриевая соль инозиновой кислоты, E630) — соль нуклеотида, естественно присутствующего в мясе и рыбе. В крупных масштабах его сейчас получают в основном бактериальной ферментацией, хотя возможно и получение из продуктов животного происхождения.\n\nЭто сравнительно дорогой усилитель вкуса, который действует синергически с глутаматом натрия или другими источниками глутамата; его часто сочетают с гуанилатом натрия (в виде E635).\n\nJECFA отмечал, что большое потребление инозинатов и гуанилатов может повышать уровень мочевой кислоты, что важно для людей, склонных к подагре."
+    }
+  },
+  {
+    "code": "E632",
+    "en": {
+      "name": "Dipotassium inosinate",
+      "text": "Dipotassium inosinate is a potassium salt of inosinic acid (E630), a nucleotide found naturally in meat and fish.\n\nLike the other inosinates, it is a flavour enhancer that intensifies umami taste and is mostly used in soups, sauces and seasonings."
+    },
+    "ru": {
+      "name": "Инозинат калия",
+      "text": "Инозинат калия — калиевая соль инозиновой кислоты (E630), нуклеотида, естественно присутствующего в мясе и рыбе.\n\nКак и другие инозинаты, он служит усилителем вкуса, подчёркивающим вкус «умами», и применяется в основном в супах, соусах и приправах."
+    }
+  },
+  {
+    "code": "E633",
+    "en": {
+      "name": "Calcium inosinate",
+      "text": "Calcium inosinate is a calcium salt of inosinic acid (E630), a nucleotide found naturally in meat and fish.\n\nLike the other inosinates, it is a flavour enhancer that intensifies umami taste and is mostly used in soups, sauces and seasonings."
+    },
+    "ru": {
+      "name": "Инозинат кальция",
+      "text": "Инозинат кальция — кальциевая соль инозиновой кислоты (E630), нуклеотида, естественно присутствующего в мясе и рыбе.\n\nКак и другие инозинаты, он служит усилителем вкуса, подчёркивающим вкус «умами», и применяется в основном в супах, соусах и приправах."
+    }
+  },
+  {
+    "code": "E634",
+    "en": {
+      "name": "Calcium 5'-ribonucleotides",
+      "text": "Calcium 5'-ribonucleotides are a mixture of the calcium salts of the nucleotides inosinic acid and guanylic acid.\n\nThe mixture is used as a flavour enhancer. On their own these compounds have little taste, but combined with glutamates such as monosodium glutamate they strongly boost umami."
+    },
+    "ru": {
+      "name": "5'-Рибонуклеотиды кальция",
+      "text": "5'-Рибонуклеотиды кальция — смесь кальциевых солей нуклеотидов инозиновой и гуаниловой кислот.\n\nСмесь применяется как усилитель вкуса. Сами по себе эти соединения имеют слабый вкус, но в сочетании с глутаматами, например глутаматом натрия, значительно усиливают вкус «умами»."
+    }
+  },
+  {
+    "code": "E635",
+    "en": {
+      "name": "Disodium 5'-ribonucleotides",
+      "text": "Disodium 5'-ribonucleotides are a mixture of disodium inosinate (E631) and disodium guanylate (E627), the sodium salts of the nucleotides inosinic acid and guanylic acid. Large-scale production is mainly by bacterial fermentation.\n\nThe mixture works in synergy with glutamates: a blend of 98% monosodium glutamate and 2% of this mixture has about four times the flavour-enhancing power of monosodium glutamate alone. It is mainly used in flavoured noodles, snack foods, crisps, crackers, sauces and fast food.\n\nJECFA evaluated it in 1974 and again in 1993 and did not consider a numerical acceptable daily intake necessary."
+    },
+    "ru": {
+      "name": "5'-Рибонуклеотиды натрия",
+      "text": "5'-Рибонуклеотиды натрия — смесь инозината натрия (E631) и гуанилата натрия (E627), натриевых солей нуклеотидов инозиновой и гуаниловой кислот. В крупных масштабах их получают в основном бактериальной ферментацией.\n\nСмесь действует синергически с глутаматами: сочетание 98% глутамата натрия и 2% этой смеси усиливает вкус примерно в четыре раза эффективнее, чем один глутамат натрия. Применяется главным образом в лапше с приправами, снеках, чипсах, крекерах, соусах и фастфуде.\n\nJECFA оценивал её в 1974 году и повторно в 1993 году и не счёл необходимым устанавливать численную допустимую суточную дозу."
+    }
+  },
+  {
+    "code": "E636",
+    "en": {
+      "name": "Maltol",
+      "text": "Maltol is a naturally occurring organic compound with a caramel-like odour. It is found in the bark of larch trees and the needles of pine trees, and it forms when malt is roasted, which gives it its name, and when bread is baked.\n\nIt is used mainly as a flavour enhancer and to give foods a pleasant aroma, and it is also used in perfumes, cosmetics and pharmaceuticals."
+    },
+    "ru": {
+      "name": "Мальтол",
+      "text": "Мальтол — органическое соединение природного происхождения с карамельным запахом. Он содержится в коре лиственницы и хвое сосны, а также образуется при обжаривании солода, от которого и получил название, и при выпечке хлеба.\n\nЕго применяют главным образом как усилитель вкуса и для придания продуктам приятного аромата, а также в парфюмерии, косметике и фармацевтике."
+    }
+  },
+  {
+    "code": "E637",
+    "en": {
+      "name": "Ethyl maltol",
+      "text": "Ethyl maltol is an organic compound closely related to maltol (E636), with an ethyl group in place of maltol's methyl group. It is a white solid with a sweet smell often described as caramelised sugar or caramelised fruit.\n\nIt is a common flavouring in confectionery and is widely used in other foods, as well as in perfumes, cosmetics and pharmaceuticals."
+    },
+    "ru": {
+      "name": "Этилмальтол",
+      "text": "Этилмальтол — органическое соединение, близкородственное мальтолу (E636): в нём метильная группа мальтола заменена этильной. Это белое твёрдое вещество со сладким запахом, который описывают как запах карамелизованного сахара или карамелизованных фруктов.\n\nОн широко используется как ароматическая добавка в кондитерских изделиях и в других продуктах, а также в парфюмерии, косметике и фармацевтике."
+    }
+  },
+  {
+    "code": "E640",
+    "en": {
+      "name": "Glycine and its sodium salt",
+      "text": "Glycine is the simplest stable amino acid and one of the building blocks of proteins. The body makes it, and it is also obtained from the diet. For food use it is produced by chemical synthesis. This additive number also covers its sodium salt.\n\nIn food it serves as a flavour enhancer: glycine is mildly sweet, which gave it its name from the Greek word for sweet, and it counters the aftertaste of saccharin. It also has some preservative properties."
+    },
+    "ru": {
+      "name": "Глицин и его натриевая соль",
+      "text": "Глицин — простейшая стабильная аминокислота, один из структурных компонентов белков. Организм синтезирует его сам, а также получает с пищей. Для пищевых целей его производят химическим синтезом. Под этим номером значится также его натриевая соль.\n\nВ продуктах он служит усилителем вкуса: глицин слегка сладкий, отчего и получил название от греческого слова «сладкий», и маскирует послевкусие сахарина. Кроме того, он обладает некоторыми консервирующими свойствами."
+    }
+  },
+  {
+    "code": "E641",
+    "en": {
+      "name": "L-leucine",
+      "text": "L-leucine is an essential amino acid: the body cannot make it, so it must come from the diet, mainly from protein-containing foods such as meat, dairy products, soy products, beans and other legumes.\n\nAs a food additive it is classed as a flavour enhancer. Leucine is also sold as a dietary supplement."
+    },
+    "ru": {
+      "name": "L-лейцин",
+      "text": "L-лейцин — незаменимая аминокислота: организм не может её синтезировать, поэтому она должна поступать с пищей, главным образом из белковых продуктов — мяса, молочных продуктов, соевых продуктов, фасоли и других бобовых.\n\nКак пищевая добавка относится к усилителям вкуса. Лейцин также продаётся как биологически активная добавка."
+    }
+  },
+  {
+    "code": "E650",
+    "en": {
+      "name": "Zinc acetate",
+      "text": "Zinc acetate is the zinc salt of acetic acid, a colourless solid that commonly occurs as the dihydrate.\n\nAs a food additive it is classed as a flavour enhancer and is used in chewing gum. Zinc acetate is also used in dietary supplements and in some lozenges for the common cold."
+    },
+    "ru": {
+      "name": "Ацетат цинка",
+      "text": "Ацетат цинка — цинковая соль уксусной кислоты, бесцветное твёрдое вещество, обычно встречающееся в виде дигидрата.\n\nКак пищевая добавка относится к усилителям вкуса и применяется в жевательной резинке. Ацетат цинка также используют в биологически активных добавках и в некоторых пастилках от простуды."
+    }
+  }
+]

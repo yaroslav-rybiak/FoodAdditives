@@ -1,0 +1,496 @@
+[
+  {
+    "code": "E338",
+    "eu_authorised": true,
+    "eu_official_name": "Phosphoric acid",
+    "en": {
+      "name": "Phosphoric acid",
+      "text": "Phosphoric acid is an inorganic acid made industrially from phosphate rock.\n\nIt is used to give a sharp, tangy taste and to regulate acidity, most notably in cola drinks, and also in some processed foods.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US. High total phosphate intake from all sources is a topic of nutritional discussion."
+    },
+    "ru": {
+      "name": "Фосфорная кислота",
+      "text": "Фосфорная кислота — неорганическая кислота, получаемая промышленным путём из фосфатных руд.\n\nПридаёт резкий терпкий вкус и регулирует кислотность, наиболее известна применением в напитках типа колы, а также в некоторых переработанных продуктах.\n\nВ ЕС разрешена с условиями, в Великобритании и США разрешена. Высокое суммарное потребление фосфатов из всех источников является предметом обсуждения в диетологии."
+    }
+  },
+  {
+    "code": "E339",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium phosphates",
+    "en": {
+      "name": "Sodium phosphates",
+      "text": "Sodium phosphates are sodium salts of phosphoric acid: mono-, di- and trisodium phosphate. They are made industrially.\n\nThey are best known as buffering agents, emulsifying salts and raising agents, used in processed cheese, meat products and baked goods.\n\nThey are approved in the EU with conditions, in the UK and in the US."
+    },
+    "ru": {
+      "name": "Фосфаты натрия",
+      "text": "Фосфаты натрия — натриевые соли фосфорной кислоты: одно-, двух- и трёхзамещённый фосфат натрия. Их получают промышленным путём.\n\nЧаще всего они известны как буферные вещества, соли-плавители и разрыхлители в плавленом сыре, мясных изделиях и выпечке.\n\nВ ЕС разрешены с условиями, в Великобритании и США разрешены."
+    }
+  },
+  {
+    "code": "E340",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium phosphates",
+    "en": {
+      "name": "Potassium phosphates",
+      "text": "Potassium phosphates are potassium salts of phosphoric acid: mono-, di- and tripotassium phosphate. They are made industrially.\n\nThey are used as buffers, emulsifying salts and sequestrants in processed foods, drinks and dairy products.\n\nThey are approved in the EU with conditions, in the UK and in the US."
+    },
+    "ru": {
+      "name": "Фосфаты калия",
+      "text": "Фосфаты калия — калиевые соли фосфорной кислоты: одно-, двух- и трёхзамещённый фосфат калия. Их получают промышленным путём.\n\nОни применяются как буферы, соли-плавители и секвестранты в переработанных продуктах, напитках и молочных изделиях.\n\nВ ЕС разрешены с условиями, в Великобритании и США разрешены."
+    }
+  },
+  {
+    "code": "E341",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium phosphates",
+    "en": {
+      "name": "Calcium phosphates",
+      "text": "Calcium phosphates are calcium salts of phosphoric acid: mono-, di- and tricalcium phosphate. They are made industrially, and also occur in nature as minerals and in bone.\n\nThey are used as anti-caking and firming agents, in powdered products, baking powder and as calcium supplements in fortified foods.\n\nThey are approved in the EU with conditions, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Фосфаты кальция",
+      "text": "Фосфаты кальция — кальциевые соли фосфорной кислоты: одно-, двух- и трёхзамещённый фосфат кальция. Получают промышленным путём; встречаются и в природе в виде минералов и в костной ткани.\n\nИспользуются как антислёживающие агенты и уплотнители, в порошкообразных продуктах, разрыхлителях и как источник кальция в обогащённых продуктах.\n\nВ ЕС разрешены с условиями, в Великобритании и США разрешены."
+    }
+  },
+  {
+    "code": "E342",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ammonium phosphates",
+      "text": "Ammonium phosphates are ammonium salts of phosphoric acid: mono- and diammonium phosphate. They are made industrially and are also known as fertiliser ingredients.\n\nThey are not approved in the EU and the UK, but are approved in the US."
+    },
+    "ru": {
+      "name": "Фосфаты аммония",
+      "text": "Фосфаты аммония — аммонийные соли фосфорной кислоты: одно- и двузамещённый фосфат аммония. Получают промышленным путём, известны также как компоненты удобрений.\n\nВ ЕС и Великобритании не разрешены, в США разрешены."
+    }
+  },
+  {
+    "code": "E343",
+    "eu_authorised": true,
+    "eu_official_name": "Magnesium phosphates",
+    "en": {
+      "name": "Magnesium phosphates",
+      "text": "Magnesium phosphates are magnesium salts of phosphoric acid: mono- and dimagnesium phosphate, made industrially.\n\nThey are used as anti-caking agents.\n\nThey are approved in the EU with conditions, in the UK and in the US. The additive is also under discussion and may be included in a future amendment to the EU directive on miscellaneous additives."
+    },
+    "ru": {
+      "name": "Фосфаты магния",
+      "text": "Фосфаты магния — магниевые соли фосфорной кислоты: одно- и двузамещённый фосфат магния, получаемые промышленным путём.\n\nИспользуются как антислёживающие агенты.\n\nВ ЕС разрешены с условиями, в Великобритании и США разрешены. Кроме того, добавка обсуждается и может быть включена в будущую поправку к директиве ЕС о прочих добавках."
+    }
+  },
+  {
+    "code": "E344",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Lecithin citrate",
+      "text": "Lecithin citrate is a derivative of lecithin treated with citric acid. It is a rarely used acidity regulator.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Цитрат лецитина",
+      "text": "Цитрат лецитина — производное лецитина, обработанного лимонной кислотой. Малоупотребительный регулятор кислотности.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E345",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Magnesium citrate",
+      "text": "Magnesium citrate is the magnesium salt of citric acid. As a food additive it functions as an acidity regulator. It is also known as a dietary mineral supplement.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Цитрат магния",
+      "text": "Цитрат магния — магниевая соль лимонной кислоты. Как пищевая добавка выполняет роль регулятора кислотности. Известен также как минеральная добавка к рациону.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E349",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ammonium malate",
+      "text": "Ammonium malate is the ammonium salt of malic acid and functions as an acidity regulator. It is rarely used in food.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Малат аммония",
+      "text": "Малат аммония — аммонийная соль яблочной кислоты, выполняет роль регулятора кислотности. В пище применяется редко.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E350",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium malates",
+    "en": {
+      "name": "Sodium malates",
+      "text": "Sodium malates are sodium salts of malic acid, the acid that gives apples their tart taste: sodium malate and sodium hydrogen malate.\n\nThey are used as acidity regulators.\n\nThey are approved in the EU for jams and jellies only and in the UK, but not in the US."
+    },
+    "ru": {
+      "name": "Малаты натрия",
+      "text": "Малаты натрия — натриевые соли яблочной кислоты, придающей яблокам кисловатый вкус: малат натрия и гидромалат натрия.\n\nИспользуются как регуляторы кислотности.\n\nВ ЕС разрешены только для джемов и желе, в Великобритании разрешены, в США не разрешены."
+    }
+  },
+  {
+    "code": "E351",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium malate",
+    "en": {
+      "name": "Potassium malate",
+      "text": "Potassium malate is the potassium salt of malic acid, an acid found naturally in many fruits. It is made industrially.\n\nIt is used as an acidity regulator.\n\nIt is approved in the EU and the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Малат калия",
+      "text": "Малат калия — калиевая соль яблочной кислоты, которая в природе содержится во многих фруктах. Получают промышленным способом.\n\nИспользуется как регулятор кислотности.\n\nВ ЕС и Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E352",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium malates",
+    "en": {
+      "name": "Calcium malates",
+      "text": "Calcium malates are calcium salts of malic acid, an acid found naturally in many fruits: calcium malate and calcium hydrogen malate.\n\nThey are used as acidity regulators.\n\nThey are approved in the EU and the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Малаты кальция",
+      "text": "Малаты кальция — кальциевые соли яблочной кислоты, которая в природе содержится во многих фруктах: малат кальция и гидромалат кальция.\n\nИспользуются как регуляторы кислотности.\n\nВ ЕС и Великобритании разрешены, в США не разрешены."
+    }
+  },
+  {
+    "code": "E353",
+    "eu_authorised": true,
+    "eu_official_name": "Metatartaric acid",
+    "en": {
+      "name": "Metatartaric acid",
+      "text": "Metatartaric acid is a polymer-like product made by heating tartaric acid, which comes from grapes.\n\nIt is used in wine to prevent the formation of tartrate crystals.\n\nIt is approved in the EU for certain wines only and in the UK, but not in the US."
+    },
+    "ru": {
+      "name": "Метавинная кислота",
+      "text": "Метавинная кислота — полимероподобный продукт, получаемый нагреванием винной кислоты, которая содержится в винограде.\n\nПрименяется в вине для предотвращения образования кристаллов тартратов. В ЕС разрешена только для некоторых вин, в Великобритании разрешена, в США не разрешена."
+    }
+  },
+  {
+    "code": "E354",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium tartrate",
+    "en": {
+      "name": "Calcium tartrate",
+      "text": "Calcium tartrate is the calcium salt of tartaric acid. It occurs naturally in grapes and as a deposit in wine.\n\nIt is rarely encountered in everyday foods.\n\nIt is approved in the EU with conditions and in the UK, but not in the US."
+    },
+    "ru": {
+      "name": "Тартрат кальция",
+      "text": "Тартрат кальция — кальциевая соль винной кислоты. Встречается в природе в винограде и в виде осадка в вине.\n\nВ повседневных продуктах встречается редко.\n\nВ ЕС разрешён с условиями, в Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E355",
+    "eu_authorised": true,
+    "eu_official_name": "Adipic acid",
+    "en": {
+      "name": "Adipic acid",
+      "text": "Adipic acid is a synthetic organic acid, produced industrially and used mainly to make nylon. It is also found in trace amounts in nature.\n\nIn food it acts as an acidity regulator and gives a tart taste in powdered drinks, gelatin desserts and jams.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+    },
+    "ru": {
+      "name": "Адипиновая кислота",
+      "text": "Адипиновая кислота — синтетическая органическая кислота, производимая промышленным способом, в основном для получения нейлона. В следовых количествах встречается и в природе.\n\nВ пище служит регулятором кислотности и придаёт кисловатый вкус порошкообразным напиткам, желейным десертам и джемам.\n\nВ ЕС разрешена с условиями, в Великобритании разрешена, в США разрешена с условиями."
+    }
+  },
+  {
+    "code": "E356",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium adipate",
+    "en": {
+      "name": "Sodium adipate",
+      "text": "Sodium adipate is the sodium salt of adipic acid, a synthetic organic acid. It is used as an acidity regulator.\n\nIt is approved in the EU with conditions and approved in the UK. It is not approved in the US."
+    },
+    "ru": {
+      "name": "Адипат натрия",
+      "text": "Адипат натрия — натриевая соль адипиновой кислоты, синтетической органической кислоты. Используется как регулятор кислотности.\n\nВ ЕС разрешён с условиями, в Великобритании разрешён. В США не разрешён."
+    }
+  },
+  {
+    "code": "E357",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium adipate",
+    "en": {
+      "name": "Potassium adipate",
+      "text": "Potassium adipate is the potassium salt of adipic acid, a synthetic organic acid. It is used as an acidity regulator.\n\nIt is approved in the EU with conditions and approved in the UK. It is not approved in the US."
+    },
+    "ru": {
+      "name": "Адипат калия",
+      "text": "Адипат калия — калиевая соль адипиновой кислоты, синтетической органической кислоты. Используется как регулятор кислотности.\n\nВ ЕС разрешён с условиями, в Великобритании разрешён. В США не разрешён."
+    }
+  },
+  {
+    "code": "E359",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ammonium adipate",
+      "text": "Ammonium adipate is the ammonium salt of adipic acid and functions as an acidity regulator. It is rarely used in food.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Адипат аммония",
+      "text": "Адипат аммония — аммонийная соль адипиновой кислоты, выполняет роль регулятора кислотности. В пище применяется редко.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E363",
+    "eu_authorised": true,
+    "eu_official_name": "Succinic acid",
+    "en": {
+      "name": "Succinic acid",
+      "text": "Succinic acid is an organic acid that occurs naturally in many plants and in the body. For industrial use it is produced chemically or by fermentation.\n\nIt is used as an acidity regulator and flavour enhancer with a slightly salty-sour taste, for example in dry mixes and seasonings.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US in condiments, relishes and meat products."
+    },
+    "ru": {
+      "name": "Янтарная кислота",
+      "text": "Янтарная кислота — органическая кислота, в природе содержащаяся во многих растениях и в организме. Для промышленного применения её получают химическим путём или брожением.\n\nИспользуется как регулятор кислотности и усилитель вкуса со слегка солено-кислым привкусом, например в сухих смесях и приправах.\n\nВ ЕС разрешена с условиями, в Великобритании разрешена, в США разрешена в приправах, соусах-релишах и мясных продуктах."
+    }
+  },
+  {
+    "code": "E365",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Monosodium fumarate",
+      "text": "Monosodium fumarate is the sodium salt of fumaric acid, an organic acid found in plants. It functions as an acidity regulator.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+    },
+    "ru": {
+      "name": "Монофумарат натрия",
+      "text": "Монофумарат натрия — натриевая соль фумаровой кислоты, органической кислоты растительного происхождения. Выполняет роль регулятора кислотности.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E366",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Potassium fumarate",
+      "text": "Potassium fumarate is the potassium salt of fumaric acid, an organic acid found in plants. It functions as an acidity regulator.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+    },
+    "ru": {
+      "name": "Фумарат калия",
+      "text": "Фумарат калия — калиевая соль фумаровой кислоты, органической кислоты растительного происхождения. Выполняет роль регулятора кислотности.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E367",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Calcium fumarate",
+      "text": "Calcium fumarate is the calcium salt of fumaric acid, an organic acid found in plants. It functions as an acidity regulator.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+    },
+    "ru": {
+      "name": "Фумарат кальция",
+      "text": "Фумарат кальция — кальциевая соль фумаровой кислоты, органической кислоты растительного происхождения. Выполняет роль регулятора кислотности.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E368",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ammonium fumarate",
+      "text": "Ammonium fumarate is the ammonium salt of fumaric acid and functions as an acidity regulator. It is rarely used in food.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Фумарат аммония",
+      "text": "Фумарат аммония — аммонийная соль фумаровой кислоты, выполняет роль регулятора кислотности. В пище применяется редко.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E370",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "1,4-Heptonolactone",
+      "text": "1,4-Heptonolactone is a lactone, a cyclic ester derived from a sugar acid. It is listed as an acidity regulator and is rarely used.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "1,4-Гептонолактон",
+      "text": "1,4-Гептонолактон — лактон, то есть циклический сложный эфир, производный сахарной кислоты. Указан как регулятор кислотности, применяется редко.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E375",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Niacin",
+      "text": "Niacin, also called nicotinic acid, is vitamin B3. It occurs naturally in meat, fish, grains and nuts and is also made synthetically.\n\nIn food it is mainly used to fortify products such as flour and cereals.\n\nIt is not approved as an additive in the EU and the UK, but is approved in the US."
+    },
+    "ru": {
+      "name": "Никотиновая кислота",
+      "text": "Никотиновая кислота, или ниацин, — витамин B3. В природе содержится в мясе, рыбе, злаках и орехах, а также производится синтетически.\n\nВ пище её в основном используют для обогащения таких продуктов, как мука и крупы.\n\nВ качестве добавки в ЕС и Великобритании не разрешена, в США разрешена."
+    }
+  },
+  {
+    "code": "E380",
+    "eu_authorised": true,
+    "eu_official_name": "Triammonium citrate",
+    "en": {
+      "name": "Triammonium citrate",
+      "text": "Triammonium citrate is the ammonium salt of citric acid, made industrially. It is used as an acidity regulator.\n\nIt is approved in the EU in edible caseinates, in the UK, and in the US in condiments, relishes and meat products."
+    },
+    "ru": {
+      "name": "Цитрат аммония трёхзамещённый",
+      "text": "Трёхзамещённый цитрат аммония — аммонийная соль лимонной кислоты, получаемая промышленным способом. Используется как регулятор кислотности.\n\nВ ЕС разрешён в съедобных казеинатах, в Великобритании разрешён, в США разрешён в приправах, соусах-релишах и мясных продуктах."
+    }
+  },
+  {
+    "code": "E381",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ammonium ferric citrate",
+      "text": "Ammonium ferric citrate is a complex salt of iron, ammonium and citric acid. It is listed as an acidity regulator and can also serve as an iron source.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+    },
+    "ru": {
+      "name": "Цитрат железа-аммония",
+      "text": "Цитрат железа-аммония — комплексная соль железа, аммония и лимонной кислоты. Указан как регулятор кислотности, может также служить источником железа.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E383",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Calcium glycerylphosphate",
+      "text": "Calcium glycerylphosphate is a calcium salt of glycerophosphoric acid, listed as an acidity regulator and used as a source of calcium and phosphorus.\n\nIt is not approved in the EU and the UK. In the US it is approved as a nutrient supplement or in gelatins, puddings and fillings."
+    },
+    "ru": {
+      "name": "Глицерофосфат кальция",
+      "text": "Глицерофосфат кальция — кальциевая соль глицерофосфорной кислоты, указан как регулятор кислотности и используется как источник кальция и фосфора.\n\nВ ЕС и Великобритании не разрешён. В США разрешён как пищевая добавка-нутриент или в желатинах, пудингах и начинках."
+    }
+  },
+  {
+    "code": "E384",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Isopropyl citrate",
+      "text": "Isopropyl citrate is a mixture of esters of citric acid and isopropyl alcohol, made synthetically.\n\nIt is used as an acidity regulator. It is not approved in the EU and the UK. In the US it is approved in fats, oils, margarine and non-alcoholic beverages."
+    },
+    "ru": {
+      "name": "Изопропилцитрат",
+      "text": "Изопропилцитраты — смесь сложных эфиров лимонной кислоты и изопропилового спирта, получаемая синтетически.\n\nИспользуется как регулятор кислотности. В ЕС и Великобритании не разрешён. В США разрешён в жирах, маслах, маргарине и безалкогольных напитках."
+    }
+  },
+  {
+    "code": "E385",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium disodium ethylene diamine tetra-acetate (Calcium disodium EDTA)",
+    "en": {
+      "name": "Calcium disodium EDTA",
+      "text": "Calcium disodium EDTA is a synthetic salt of ethylenediaminetetraacetic acid. It binds metal ions, which would otherwise speed up spoilage.\n\nIt is used as a sequestrant to protect colour, flavour and stability in products such as canned vegetables, sauces and dressings.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+    },
+    "ru": {
+      "name": "Кальций-динатриевая соль ЭДТА",
+      "text": "Кальций-динатриевая соль ЭДТА — синтетическая соль этилендиаминтетрауксусной кислоты. Связывает ионы металлов, которые иначе ускоряли бы порчу продукта.\n\nИспользуется как секвестрант для сохранения цвета, вкуса и стабильности таких продуктов, как консервированные овощи, соусы и заправки.\n\nВ ЕС разрешена с условиями, в Великобритании разрешена, в США разрешена с условиями."
+    }
+  },
+  {
+    "code": "E386",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Disodium EDTA",
+      "text": "Disodium EDTA is a synthetic salt of ethylenediaminetetraacetic acid. It binds metal ions and is used as a sequestrant.\n\nIt is not approved in the EU and the UK. In the US it is approved with conditions."
+    },
+    "ru": {
+      "name": "Динатриевая соль ЭДТА",
+      "text": "Динатриевая соль ЭДТА — синтетическая соль этилендиаминтетрауксусной кислоты. Связывает ионы металлов и используется как секвестрант.\n\nВ ЕС и Великобритании не разрешена. В США разрешена с условиями."
+    }
+  },
+  {
+    "code": "E387",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Oxystearin",
+      "text": "Oxystearin is a mixture of glycerides of stearic and other fatty acids, produced industrially. It acts as a stabiliser.\n\nIt is used in vegetable oils to prevent crystals from forming at low temperatures.\n\nIt is not approved in the EU and the UK. In the US it is approved in vegetable oils."
+    },
+    "ru": {
+      "name": "Оксистеарин",
+      "text": "Оксистеарин — смесь глицеридов стеариновой и других жирных кислот, получаемая промышленным путём. Выполняет роль стабилизатора.\n\nИспользуется в растительных маслах, чтобы при низких температурах в них не образовывались кристаллы.\n\nВ ЕС и Великобритании не разрешён. В США разрешён в растительных маслах."
+    }
+  },
+  {
+    "code": "E388",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Thiodipropionic acid",
+      "text": "Thiodipropionic acid is a synthetic compound used as an antioxidant.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+    },
+    "ru": {
+      "name": "Тиодипропионовая кислота",
+      "text": "Тиодипропионовая кислота — синтетическое вещество, применяемое как антиоксидант.\n\nВ ЕС и Великобритании не разрешена, в США разрешена."
+    }
+  },
+  {
+    "code": "E389",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Dilauryl thiodipropionate",
+      "text": "Dilauryl thiodipropionate is a synthetic ester of thiodipropionic acid and lauryl alcohol. Substances of this type are generally used as antioxidants in fats.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+    },
+    "ru": {
+      "name": "Дилаурилтиодипропионат",
+      "text": "Дилаурилтиодипропионат — синтетический сложный эфир тиодипропионовой кислоты и лаурилового спирта. Вещества этого типа обычно применяют как антиоксиданты в жирах.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E390",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Distearyl thiodipropionate",
+      "text": "Distearyl thiodipropionate is a synthetic ester of thiodipropionic acid and stearyl alcohol. Substances of this type are generally used as antioxidants in fats.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Дистеарилтиодипропионат",
+      "text": "Дистеарилтиодипропионат — синтетический сложный эфир тиодипропионовой кислоты и стеарилового спирта. Вещества этого типа обычно применяют как антиоксиданты в жирах.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E391",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Phytic acid",
+      "text": "Phytic acid is a natural compound found in the seeds of cereals, legumes and nuts, where it stores phosphorus. It can bind minerals such as iron and zinc.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Фитиновая кислота",
+      "text": "Фитиновая кислота — природное соединение, содержащееся в семенах злаков, бобовых и орехов, где служит запасом фосфора. Способна связывать минералы, например железо и цинк.\n\nНе разрешена ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E392",
+    "eu_authorised": true,
+    "eu_official_name": "Extracts of rosemary",
+    "en": {
+      "name": "Rosemary extract",
+      "text": "Rosemary extract is a natural extract of the herb rosemary. Its antioxidant activity is mainly due to carnosic acid and related compounds.\n\nIt is used as a natural antioxidant to protect fats, oils, meat products and snacks from rancidity.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Экстракт розмарина",
+      "text": "Экстракт розмарина — природный экстракт пряной травы розмарин. Антиокислительное действие обусловлено в основном карнозиновой кислотой и родственными веществами.\n\nПрименяется как природный антиоксидант, защищающий жиры, масла, мясные продукты и снеки от прогоркания.\n\nВ ЕС разрешён с условиями, в Великобритании разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E399",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Calcium lactobionate",
+      "text": "Calcium lactobionate is the calcium salt of lactobionic acid, which is derived from lactose (milk sugar).\n\nIt is used as a firming agent.\n\nIt is not approved in the EU and the UK. In the US it is approved in dry pudding mixes."
+    },
+    "ru": {
+      "name": "Лактобионат кальция",
+      "text": "Лактобионат кальция — кальциевая соль лактобионовой кислоты, получаемой из лактозы (молочного сахара).\n\nИспользуется как уплотнитель.\n\nВ ЕС и Великобритании не разрешён. В США разрешён в сухих смесях для пудингов."
+    }
+  }
+]

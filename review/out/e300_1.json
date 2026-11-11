@@ -1,0 +1,420 @@
+[
+  {
+    "code": "E300",
+    "en": {
+      "name": "Ascorbic acid",
+      "text": "Ascorbic acid is vitamin C. It occurs naturally in fruit and vegetables; the food additive is produced industrially, mostly from glucose by fermentation and chemical steps.\n\nIt is used as an antioxidant to slow oxidation and browning and to prevent discolouration during storage, for example in canned fruit. It is also used as a flour treatment agent in breadmaking and is added to cured meat, where it reduces the formation of nitrosamines.\n\nIn its 2015 re-evaluation EFSA found no safety concern at the reported uses and use levels."
+    },
+    "ru": {
+      "name": "Аскорбиновая кислота",
+      "text": "Аскорбиновая кислота — это витамин C. В природе она содержится во фруктах и овощах; пищевую добавку получают промышленно, в основном из глюкозы с помощью ферментации и химических стадий.\n\nИспользуется как антиоксидант, замедляющий окисление и потемнение и предотвращающий изменение цвета при хранении, например в консервированных фруктах. Применяется также как улучшитель муки в хлебопечении и добавляется в мясо при посоле, где уменьшает образование нитрозаминов.\n\nПри повторной оценке в 2015 году EFSA не выявило опасений для безопасности при заявленных применениях и уровнях использования."
+    }
+  },
+  {
+    "code": "E301",
+    "en": {
+      "name": "Sodium ascorbate",
+      "text": "Sodium ascorbate is the sodium salt of ascorbic acid (vitamin C). It is made by neutralising ascorbic acid with sodium hydroxide or sodium bicarbonate, and is less acidic than ascorbic acid itself.\n\nIt is used as an antioxidant and acidity regulator, mainly to prevent oxidation and discolouration during storage; ascorbate is also added to cured meats. It is one of the common forms of vitamin C in supplements.\n\nIn its 2015 re-evaluation EFSA found no safety concern at the reported uses and use levels."
+    },
+    "ru": {
+      "name": "Аскорбат натрия",
+      "text": "Аскорбат натрия — натриевая соль аскорбиновой кислоты (витамина C). Его получают нейтрализацией аскорбиновой кислоты гидроксидом или гидрокарбонатом натрия; он менее кислый, чем сама аскорбиновая кислота.\n\nИспользуется как антиоксидант и регулятор кислотности, в основном для защиты от окисления и изменения цвета при хранении; аскорбат также добавляют в мясо при посоле. Это одна из распространённых форм витамина C в пищевых добавках-витаминах.\n\nПри повторной оценке в 2015 году EFSA не выявило опасений для безопасности при заявленных применениях и уровнях использования."
+    }
+  },
+  {
+    "code": "E302",
+    "en": {
+      "name": "Calcium ascorbate",
+      "text": "Calcium ascorbate is the calcium salt of ascorbic acid (vitamin C) and is about 10% calcium by mass.\n\nIt is used as an antioxidant food additive, mainly to prevent oxidation and discolouration of products during storage. It is also one of the common forms of vitamin C in supplements.\n\nIn its 2015 re-evaluation EFSA found no safety concern at the reported uses and use levels."
+    },
+    "ru": {
+      "name": "Аскорбат кальция",
+      "text": "Аскорбат кальция — кальциевая соль аскорбиновой кислоты (витамина C); кальций составляет около 10 % её массы.\n\nИспользуется как пищевой антиоксидант, в основном для защиты продуктов от окисления и изменения цвета при хранении. Это также одна из распространённых форм витамина C в пищевых добавках-витаминах.\n\nПри повторной оценке в 2015 году EFSA не выявило опасений для безопасности при заявленных применениях и уровнях использования."
+    }
+  },
+  {
+    "code": "E303",
+    "en": {
+      "name": "Potassium ascorbate",
+      "text": "Potassium ascorbate is the potassium salt of ascorbic acid (vitamin C). Like ascorbic acid and its sodium and calcium salts, it acts as a water-soluble antioxidant."
+    },
+    "ru": {
+      "name": "Аскорбат калия",
+      "text": "Аскорбат калия — калиевая соль аскорбиновой кислоты (витамина C). Как и аскорбиновая кислота и её соли натрия и кальция, действует как водорастворимый антиоксидант."
+    }
+  },
+  {
+    "code": "E304",
+    "en": {
+      "name": "Fatty acid esters of ascorbic acid",
+      "text": "These are esters of ascorbic acid (vitamin C) with fatty acids: ascorbyl palmitate and ascorbyl stearate. They are made synthetically by acylating ascorbic acid. Unlike ascorbic acid and its salts, they dissolve in fats.\n\nThey are used as antioxidants to protect fats and oils, and foods containing them, from oxidation.\n\nIn its 2015 re-evaluation EFSA found no safety concern at the reported uses and use levels, assuming the esters are fully broken down in the gut to ascorbic acid and fatty acids."
+    },
+    "ru": {
+      "name": "Эфиры аскорбиновой кислоты и жирных кислот",
+      "text": "Это сложные эфиры аскорбиновой кислоты (витамина C) с жирными кислотами: аскорбилпальмитат и аскорбилстеарат. Их получают синтетически ацилированием аскорбиновой кислоты. В отличие от аскорбиновой кислоты и её солей, они растворяются в жирах.\n\nИспользуются как антиоксиданты для защиты от окисления жиров и масел и содержащих их продуктов.\n\nПри повторной оценке в 2015 году EFSA не выявило опасений для безопасности при заявленных применениях и уровнях использования, исходя из того, что эфиры полностью расщепляются в кишечнике до аскорбиновой и жирных кислот."
+    }
+  },
+  {
+    "code": "E305",
+    "en": {
+      "name": "Ascorbyl stearate",
+      "text": "Ascorbyl stearate is an ester of ascorbic acid (vitamin C) and stearic acid. Unlike ascorbic acid, it dissolves in fats.\n\nIt is used as an antioxidant food additive, for example in margarine. In the EU it is covered by E304(ii) as one of the fatty acid esters of ascorbic acid, and the code E305 is not used there.\n\nIn the US, the USDA limits its use to 0.02%, alone or together with other antioxidants."
+    },
+    "ru": {
+      "name": "Аскорбилстеарат",
+      "text": "Аскорбилстеарат — сложный эфир аскорбиновой кислоты (витамина C) и стеариновой кислоты. В отличие от аскорбиновой кислоты, растворяется в жирах.\n\nИспользуется как пищевой антиоксидант, например в маргарине. В ЕС он входит в E304(ii) как один из эфиров аскорбиновой кислоты и жирных кислот, а код E305 там не используется.\n\nВ США Министерство сельского хозяйства (USDA) ограничивает его содержание 0,02 % — отдельно или вместе с другими антиоксидантами."
+    }
+  },
+  {
+    "code": "E306",
+    "en": {
+      "name": "Tocopherol-rich extract",
+      "text": "Tocopherol-rich extract is a mixture of tocopherols (forms of vitamin E) of natural origin, extracted from vegetable oils.\n\nTocopherols are fat-soluble antioxidants: they neutralise free radicals and so protect fats and oils, and foods containing them, from oxidation.\n\nIn its 2015 re-evaluation of E306 to E309, EFSA concluded that tocopherols are not of safety concern at the levels used in food."
+    },
+    "ru": {
+      "name": "Концентрат смеси токоферолов",
+      "text": "Концентрат смеси токоферолов — смесь токоферолов (форм витамина E) природного происхождения, извлекаемая из растительных масел.\n\nТокоферолы — жирорастворимые антиоксиданты: они нейтрализуют свободные радикалы и тем самым защищают от окисления жиры и масла и содержащие их продукты.\n\nПри повторной оценке E306–E309 в 2015 году EFSA пришло к выводу, что токоферолы не вызывают опасений для безопасности при уровнях, применяемых в пищевых продуктах."
+    }
+  },
+  {
+    "code": "E307",
+    "en": {
+      "name": "Alpha-tocopherol",
+      "text": "Alpha-tocopherol is the most biologically active form of vitamin E. The food additive is synthetic alpha-tocopherol, a mixture of stereoisomers that is less active as a vitamin than the natural form.\n\nIt is used as a fat-soluble antioxidant that protects fats and oils from oxidation.\n\nIn its 2015 re-evaluation EFSA concluded that alpha-tocopherol is not of safety concern at the reported uses and use levels as a food additive."
+    },
+    "ru": {
+      "name": "Альфа-токоферол",
+      "text": "Альфа-токоферол — наиболее биологически активная форма витамина E. Пищевая добавка — синтетический альфа-токоферол, смесь стереоизомеров, которая как витамин менее активна, чем природная форма.\n\nИспользуется как жирорастворимый антиоксидант, защищающий жиры и масла от окисления.\n\nПри повторной оценке в 2015 году EFSA пришло к выводу, что альфа-токоферол не вызывает опасений для безопасности при заявленных применениях и уровнях использования в качестве пищевой добавки."
+    }
+  },
+  {
+    "code": "E308",
+    "en": {
+      "name": "Gamma-tocopherol",
+      "text": "Gamma-tocopherol is one of the tocopherols, the compounds that make up vitamin E. It is the main form of vitamin E in the American diet, coming largely from soybean and corn oil. The food additive is the synthetic form.\n\nIt is used as a fat-soluble antioxidant that protects fats and oils from oxidation. It is used at much lower levels and in fewer foods than alpha-tocopherol.\n\nEFSA concluded in 2015 that tocopherols (E306 to E309) are not of safety concern at the levels used in food."
+    },
+    "ru": {
+      "name": "Гамма-токоферол",
+      "text": "Гамма-токоферол — один из токоферолов, соединений, составляющих витамин E. Это основная форма витамина E в американском рационе, поступающая в основном из соевого и кукурузного масла. Пищевая добавка — синтетическая форма.\n\nИспользуется как жирорастворимый антиоксидант, защищающий жиры и масла от окисления. Применяется в гораздо меньших количествах и в меньшем числе продуктов, чем альфа-токоферол.\n\nВ 2015 году EFSA пришло к выводу, что токоферолы (E306–E309) не вызывают опасений для безопасности при уровнях, применяемых в пищевых продуктах."
+    }
+  },
+  {
+    "code": "E309",
+    "en": {
+      "name": "Delta-tocopherol",
+      "text": "Delta-tocopherol is one of the tocopherols, the compounds that make up vitamin E. The food additive is the synthetic form.\n\nIt is used as a fat-soluble antioxidant that slows the oxidation of fats and oils. It is used at much lower levels and in fewer foods than alpha-tocopherol.\n\nEFSA concluded in 2015 that tocopherols (E306 to E309) are not of safety concern at the levels used in food."
+    },
+    "ru": {
+      "name": "Дельта-токоферол",
+      "text": "Дельта-токоферол — один из токоферолов, соединений, составляющих витамин E. Пищевая добавка — синтетическая форма.\n\nИспользуется как жирорастворимый антиоксидант, замедляющий окисление жиров и масел. Применяется в гораздо меньших количествах и в меньшем числе продуктов, чем альфа-токоферол.\n\nВ 2015 году EFSA пришло к выводу, что токоферолы (E306–E309) не вызывают опасений для безопасности при уровнях, применяемых в пищевых продуктах."
+    }
+  },
+  {
+    "code": "E310",
+    "en": {
+      "name": "Propyl gallate",
+      "text": "Propyl gallate is an ester of gallic acid and propanol. It does not occur naturally and is made synthetically.\n\nIt has been added to foods containing oils and fats since 1948 to protect them from oxidation. It is also used in cosmetics and other products for the same purpose.\n\nIn its 2014 re-evaluation EFSA set an acceptable daily intake of 0.5 mg per kg of body weight and concluded that its use at current levels is not of safety concern."
+    },
+    "ru": {
+      "name": "Пропилгаллат",
+      "text": "Пропилгаллат — сложный эфир галловой кислоты и пропанола. В природе не встречается, его получают синтетически.\n\nС 1948 года его добавляют в продукты, содержащие масла и жиры, чтобы защитить их от окисления. С той же целью применяется в косметике и других изделиях.\n\nПри повторной оценке в 2014 году EFSA установило допустимое суточное потребление 0,5 мг на кг массы тела и пришло к выводу, что применение на нынешних уровнях не вызывает опасений для безопасности."
+    }
+  },
+  {
+    "code": "E311",
+    "en": {
+      "name": "Octyl gallate",
+      "text": "Octyl gallate is an ester of gallic acid and octanol. It is used as an antioxidant in foods such as margarine and peanut butter, and in cosmetics and pharmaceuticals; it works synergistically with BHA and BHT.\n\nThe EU removed octyl gallate from its list of food additives in 2018: EFSA could not confirm its safety for lack of adequate toxicological data, and no business operator offered to supply them."
+    },
+    "ru": {
+      "name": "Октилгаллат",
+      "text": "Октилгаллат — сложный эфир галловой кислоты и октанола. Применяется как антиоксидант в продуктах, например в маргарине и арахисовой пасте, а также в косметике и лекарствах; действует синергично с БГА и БГТ.\n\nВ 2018 году ЕС исключил октилгаллат из списка пищевых добавок: EFSA не смогло подтвердить его безопасность из-за недостатка токсикологических данных, а ни один производитель не взялся их предоставить."
+    }
+  },
+  {
+    "code": "E312",
+    "en": {
+      "name": "Dodecyl gallate",
+      "text": "Dodecyl gallate, also called lauryl gallate, is an ester of gallic acid and dodecanol (lauryl alcohol). It has been used as an antioxidant and preservative in foods.\n\nThe EU removed dodecyl gallate from its list of food additives in 2018: EFSA could not confirm its safety for lack of adequate toxicological data, and no business operator offered to supply them."
+    },
+    "ru": {
+      "name": "Додецилгаллат",
+      "text": "Додецилгаллат, или лаурилгаллат, — сложный эфир галловой кислоты и додеканола (лаурилового спирта). Применялся в пищевых продуктах как антиоксидант и консервант.\n\nВ 2018 году ЕС исключил додецилгаллат из списка пищевых добавок: EFSA не смогло подтвердить его безопасность из-за недостатка токсикологических данных, а ни один производитель не взялся их предоставить."
+    }
+  },
+  {
+    "code": "E313",
+    "en": {
+      "name": "Ethyl gallate",
+      "text": "Ethyl gallate is the ethyl ester of gallic acid. It occurs naturally in some plants, such as walnuts, and in wine, but for use as a food additive it is made from gallic acid and ethanol.\n\nIt is added to food as an antioxidant."
+    },
+    "ru": {
+      "name": "Этилгаллат",
+      "text": "Этилгаллат — этиловый эфир галловой кислоты. В природе встречается в некоторых растениях, например в грецких орехах, а также в вине, но для использования в качестве пищевой добавки его получают из галловой кислоты и этанола.\n\nДобавляется в пищу как антиоксидант."
+    }
+  },
+  {
+    "code": "E314",
+    "en": {
+      "name": "Guaiac resin",
+      "text": "Guaiac resin (gum guaiacum) is a natural resin obtained from the tree Guaiacum officinale. It is a mixture made up mainly of guaiaconic acids, with guaiaretic acid and other compounds.\n\nAs a food additive it is classed as an antioxidant. It is also used in medicine in the stool guaiac test for hidden blood."
+    },
+    "ru": {
+      "name": "Гваяковая смола",
+      "text": "Гваяковая смола — природная смола, получаемая из дерева Guaiacum officinale (гваяк лекарственный). Это смесь, состоящая в основном из гваяконовых кислот, с гваяретовой кислотой и другими соединениями.\n\nКак пищевая добавка относится к антиоксидантам. Используется также в медицине — в гваяковом тесте на скрытую кровь в кале."
+    }
+  },
+  {
+    "code": "E315",
+    "en": {
+      "name": "Erythorbic acid",
+      "text": "Erythorbic acid, also called isoascorbic acid, is a stereoisomer of ascorbic acid (vitamin C). It is produced industrially from glucose by microbial fermentation followed by a chemical step.\n\nIt is used as an antioxidant in processed foods, for example cured meats and frozen vegetables. In cured meat, like ascorbic acid, it helps form the typical pink colour and reduces the formation of nitrosamines.\n\nIn its 2016 re-evaluation EFSA kept the acceptable daily intake of 6 mg per kg of body weight and found no safety concern at the reported uses."
+    },
+    "ru": {
+      "name": "Эриторбовая кислота",
+      "text": "Эриторбовая кислота, или изоаскорбиновая кислота, — стереоизомер аскорбиновой кислоты (витамина C). Её получают промышленно из глюкозы с помощью микробной ферментации и последующей химической стадии.\n\nИспользуется как антиоксидант в переработанных продуктах, например в мясе посола и замороженных овощах. В мясе посола она, как и аскорбиновая кислота, способствует образованию характерного розового цвета и уменьшает образование нитрозаминов.\n\nПри повторной оценке в 2016 году EFSA сохранило допустимое суточное потребление 6 мг на кг массы тела и не выявило опасений для безопасности при заявленных применениях."
+    }
+  },
+  {
+    "code": "E316",
+    "en": {
+      "name": "Sodium erythorbate",
+      "text": "Sodium erythorbate is the sodium salt of erythorbic acid, a stereoisomer of ascorbic acid. It is made from sugars (from beet, cane or corn) that bacteria convert to an intermediate acid.\n\nIt is used mainly in meat and poultry products and in soft drinks. In cured meats such as hot dogs it speeds up curing, keeps the pink colour and prevents the formation of nitrosamines.\n\nIn its 2016 re-evaluation EFSA kept the acceptable daily intake of 6 mg per kg of body weight and found no safety concern at the reported uses."
+    },
+    "ru": {
+      "name": "Эриторбат натрия",
+      "text": "Эриторбат натрия — натриевая соль эриторбовой кислоты, стереоизомера аскорбиновой кислоты. Его получают из сахаров (свекловичного, тростникового или кукурузного происхождения), которые бактерии превращают в промежуточную кислоту.\n\nПрименяется в основном в мясных изделиях и продуктах из птицы, а также в безалкогольных напитках. В колбасных изделиях и других продуктах посола ускоряет посол, сохраняет розовый цвет и предотвращает образование нитрозаминов.\n\nПри повторной оценке в 2016 году EFSA сохранило допустимое суточное потребление 6 мг на кг массы тела и не выявило опасений для безопасности при заявленных применениях."
+    }
+  },
+  {
+    "code": "E317",
+    "en": {
+      "name": "Potassium erythorbate",
+      "text": "Potassium erythorbate is the potassium salt of erythorbic acid, a stereoisomer of ascorbic acid (vitamin C). It is an antioxidant food additive. Like other erythorbates, it is used to improve flavour stability and to prevent the formation of nitrosamines."
+    },
+    "ru": {
+      "name": "Эриторбат калия",
+      "text": "Эриторбат калия — калиевая соль эриторбовой кислоты, стереоизомера аскорбиновой кислоты (витамина C). Это пищевая добавка-антиоксидант. Как и другие эриторбаты, применяется для повышения стабильности вкуса и предотвращения образования нитрозаминов."
+    }
+  },
+  {
+    "code": "E318",
+    "en": {
+      "name": "Calcium erythorbate",
+      "text": "Calcium erythorbate is the calcium salt of erythorbic acid, a stereoisomer of ascorbic acid (vitamin C). It is an antioxidant food additive. Like other erythorbates, it is used to improve flavour stability and to prevent the formation of nitrosamines."
+    },
+    "ru": {
+      "name": "Эриторбат кальция",
+      "text": "Эриторбат кальция — кальциевая соль эриторбовой кислоты, стереоизомера аскорбиновой кислоты (витамина C). Это пищевая добавка-антиоксидант. Как и другие эриторбаты, применяется для повышения стабильности вкуса и предотвращения образования нитрозаминов."
+    }
+  },
+  {
+    "code": "E319",
+    "en": {
+      "name": "Tertiary-butylhydroquinone (TBHQ)",
+      "text": "Tertiary-butylhydroquinone (TBHQ) is a synthetic phenolic compound derived from hydroquinone.\n\nIt is used as an antioxidant for unsaturated vegetable oils and edible animal fats, to extend storage life. It does not discolour food even in the presence of iron and does not change flavour or odour, and it can be combined with BHA. In the EU and the US its level is limited to 0.02% of the fat or oil content.\n\nVery high doses have caused harmful effects in laboratory animals; reviews found a wide margin between these doses and intake from food."
+    },
+    "ru": {
+      "name": "Трет-бутилгидрохинон",
+      "text": "Трет-бутилгидрохинон (TBHQ) — синтетическое фенольное соединение, производное гидрохинона.\n\nПрименяется как антиоксидант для ненасыщенных растительных масел и пищевых животных жиров, продлевая срок хранения. Не вызывает изменения цвета даже в присутствии железа, не меняет вкус и запах и может сочетаться с БГА. В ЕС и США его содержание ограничено 0,02 % от массы жира или масла.\n\nОчень высокие дозы вызывали вредные эффекты у лабораторных животных; обзоры показали большой запас между этими дозами и потреблением с пищей."
+    }
+  },
+  {
+    "code": "E320",
+    "en": {
+      "name": "Butylated hydroxyanisole (BHA)",
+      "text": "Butylated hydroxyanisole (BHA) is a synthetic antioxidant, a mixture of two isomers made from 4-methoxyphenol and isobutylene.\n\nSince about 1947 it has been added to fats and fat-containing foods to prevent rancidity, and it is also used in food packaging, animal feed and cosmetics. It is often combined with BHT.\n\nHigh doses cause forestomach tumours in rats and hamsters. In its 2011 re-evaluation EFSA considered these effects possibly no longer relevant to humans, who have no forestomach, and set an acceptable daily intake of 1.0 mg per kg of body weight."
+    },
+    "ru": {
+      "name": "Бутилгидроксианизол",
+      "text": "Бутилгидроксианизол (БГА) — синтетический антиоксидант, смесь двух изомеров, получаемая из 4-метоксифенола и изобутилена.\n\nПримерно с 1947 года его добавляют в жиры и жиросодержащие продукты для предотвращения прогоркания; применяется также в пищевой упаковке, кормах для животных и косметике. Часто используется вместе с БГТ.\n\nВысокие дозы вызывают опухоли преджелудка у крыс и хомяков. При повторной оценке в 2011 году EFSA сочло, что эти эффекты, возможно, не имеют значения для человека, у которого нет преджелудка, и установило допустимое суточное потребление 1,0 мг на кг массы тела."
+    }
+  },
+  {
+    "code": "E321",
+    "en": {
+      "name": "Butylated hydroxytoluene (BHT)",
+      "text": "Butylated hydroxytoluene (BHT) is a fat-soluble antioxidant derived from phenol and made industrially from p-cresol and isobutylene. It acts much like a synthetic analogue of vitamin E, stopping the oxidation of fats by trapping free radicals.\n\nIt is used as a food preservative to slow changes in colour, flavour and texture, and also in cosmetics, medicines, fuels and plastics. It is sometimes used together with BHA.\n\nAnimal studies on cancer have given mixed results. In 2012 EFSA found no genotoxicity concern and set an acceptable daily intake of 0.25 mg per kg of body weight."
+    },
+    "ru": {
+      "name": "Бутилгидрокситолуол",
+      "text": "Бутилгидрокситолуол (БГТ) — жирорастворимый антиоксидант, производное фенола, промышленно получаемый из п-крезола и изобутилена. Действует подобно синтетическому аналогу витамина E, останавливая окисление жиров за счёт связывания свободных радикалов.\n\nИспользуется как пищевой консервант, замедляющий изменение цвета, вкуса и текстуры продуктов, а также в косметике, лекарствах, топливе и пластмассах. Иногда применяется вместе с БГА.\n\nИсследования на животных дали противоречивые результаты в отношении рака. В 2012 году EFSA не выявило опасений по генотоксичности и установило допустимое суточное потребление 0,25 мг на кг массы тела."
+    }
+  },
+  {
+    "code": "E322",
+    "en": {
+      "name": "Lecithins",
+      "text": "Lecithins are natural mixtures of phospholipids. For food use they are obtained mainly from soybean oil, and also from sunflower, rapeseed and egg yolk.\n\nThey are emulsifiers that help oil and water mix. In chocolate and confectionery they control flow and sugar crystallisation; in margarine they stabilise the emulsion and reduce spattering during frying.\n\nSoy lecithin usually contains too little soy protein to affect most people with soy allergy. EFSA concluded in 2017 that lecithins raise no safety concern at reported uses and need no numerical acceptable daily intake."
+    },
+    "ru": {
+      "name": "Лецитины",
+      "text": "Лецитины — природные смеси фосфолипидов. Для пищевой промышленности их получают в основном из соевого масла, а также из подсолнечника, рапса и яичного желтка.\n\nЭто эмульгаторы, помогающие смешивать масло и воду. В шоколаде и кондитерских изделиях они регулируют текучесть и кристаллизацию сахара, в маргарине стабилизируют эмульсию и уменьшают разбрызгивание при жарке.\n\nСоевый лецитин обычно содержит слишком мало соевого белка, чтобы вызвать реакцию у большинства людей с аллергией на сою. В 2017 году EFSA пришло к выводу, что лецитины не вызывают опасений для безопасности при заявленных применениях и численное допустимое суточное потребление для них не требуется."
+    }
+  },
+  {
+    "code": "E323",
+    "en": {
+      "name": "Anoxomer",
+      "text": "Anoxomer is a synthetic polymeric antioxidant that is not digested. It was designed to deliver established antioxidants in a form the body does not absorb, to avoid possible health risks from absorbing them.\n\nIt is made by polymerising divinylbenzene with antioxidant monomers such as tert-butylhydroquinone and tert-butylphenol."
+    },
+    "ru": {
+      "name": "Аноксомер",
+      "text": "Аноксомер — синтетический полимерный антиоксидант, который не переваривается. Он был создан, чтобы вводить известные антиоксиданты в форме, не всасывающейся в организме, и так избежать возможных рисков для здоровья от их всасывания.\n\nЕго получают полимеризацией дивинилбензола с мономерами-антиоксидантами, например трет-бутилгидрохиноном и трет-бутилфенолом."
+    }
+  },
+  {
+    "code": "E324",
+    "en": {
+      "name": "Ethoxyquin",
+      "text": "Ethoxyquin is a synthetic quinoline-based antioxidant. It was first used to prevent scald on stored pears, and is used in some pet foods to slow rancidity, in some spices to stop colour loss, and in fish meal to prevent fires. In the US, its use as a food additive is limited to chili powder, paprika and ground chili.\n\nIn 2015 EFSA could not assess its safety for consumers as a feed additive: one metabolite may be genotoxic and an impurity, p-phenetidine, is a possible mutagen. The EU suspended it as a feed additive in 2017."
+    },
+    "ru": {
+      "name": "Этоксихин",
+      "text": "Этоксихин — синтетический антиоксидант на основе хинолина. Сначала его применяли против загара (побурения кожицы) груш при хранении; используется в некоторых кормах для домашних животных против прогоркания, в некоторых специях против потери цвета и в рыбной муке для предотвращения самовозгорания. В США как пищевая добавка он допускается только в порошке чили, паприке и молотом чили.\n\nВ 2015 году EFSA не смогло оценить его безопасность для потребителей как кормовой добавки: один из метаболитов может быть генотоксичным, а примесь п-фенетидин — возможный мутаген. В 2017 году ЕС приостановил его использование как кормовой добавки."
+    }
+  },
+  {
+    "code": "E325",
+    "en": {
+      "name": "Sodium lactate",
+      "text": "Sodium lactate is the sodium salt of lactic acid and has a mildly salty taste. It is made by fermenting a sugar source such as maize or beet and neutralising the resulting lactic acid.\n\nAs a food additive it acts as a preservative, acidity regulator and bulking agent.\n\nDespite its name it is not related to lactose (milk sugar) and contains no milk protein, so it need not be avoided by people with lactose intolerance or milk allergy."
+    },
+    "ru": {
+      "name": "Лактат натрия",
+      "text": "Лактат натрия — натриевая соль молочной кислоты со слегка солоноватым вкусом. Его получают сбраживанием сахаросодержащего сырья, например кукурузы или свёклы, с последующей нейтрализацией образовавшейся молочной кислоты.\n\nКак пищевая добавка действует как консервант, регулятор кислотности и наполнитель.\n\nНесмотря на название, он не связан с лактозой (молочным сахаром) и не содержит молочного белка, поэтому людям с непереносимостью лактозы или аллергией на молоко избегать его не нужно."
+    }
+  },
+  {
+    "code": "E326",
+    "en": {
+      "name": "Potassium lactate",
+      "text": "Potassium lactate is the potassium salt of lactic acid. It is made by neutralising lactic acid fermented from a sugar source, and is usually supplied as a clear syrupy liquid.\n\nIt is commonly used in meat and poultry products to extend shelf life and improve food safety, because it inhibits most spoilage and disease-causing bacteria."
+    },
+    "ru": {
+      "name": "Лактат калия",
+      "text": "Лактат калия — калиевая соль молочной кислоты. Его получают нейтрализацией молочной кислоты, полученной сбраживанием сахаросодержащего сырья; обычно выпускается в виде прозрачной сиропообразной жидкости.\n\nШироко применяется в мясных изделиях и продуктах из птицы для продления срока хранения и повышения безопасности, так как подавляет большинство бактерий, вызывающих порчу и болезни."
+    }
+  },
+  {
+    "code": "E327",
+    "en": {
+      "name": "Calcium lactate",
+      "text": "Calcium lactate is the calcium salt of lactic acid. It has been produced industrially since the 19th century by fermenting carbohydrates in the presence of calcium carbonate or hydroxide, and contains 13% calcium.\n\nIn food it is used as a firming agent, for example to keep fresh-cut fruit firm, as a source of calcium, as a leavening aid in some baking powders, and to coagulate milk for chhena and paneer. It is also used in medicine to treat calcium deficiency."
+    },
+    "ru": {
+      "name": "Лактат кальция",
+      "text": "Лактат кальция — кальциевая соль молочной кислоты. С XIX века его получают промышленно сбраживанием углеводов в присутствии карбоната или гидроксида кальция; содержит 13 % кальция.\n\nВ пищевых продуктах используется как уплотнитель, например чтобы нарезанные свежие фрукты оставались твёрдыми, как источник кальция, как компонент некоторых разрыхлителей теста и для створаживания молока при изготовлении ченны и панира. Применяется также в медицине для лечения дефицита кальция."
+    }
+  },
+  {
+    "code": "E328",
+    "en": {
+      "name": "Ammonium lactate",
+      "text": "Ammonium lactate is the ammonium salt of lactic acid, formed from lactic acid and ammonium hydroxide. It has mild antibacterial properties.\n\nIts best-known use is outside food, as the active ingredient of moisturising lotions for dry, scaly skin."
+    },
+    "ru": {
+      "name": "Лактат аммония",
+      "text": "Лактат аммония — аммонийная соль молочной кислоты, образующаяся из молочной кислоты и гидроксида аммония. Обладает слабыми антибактериальными свойствами.\n\nНаиболее известное его применение не связано с пищей: он служит действующим веществом увлажняющих лосьонов для сухой шелушащейся кожи."
+    }
+  },
+  {
+    "code": "E329",
+    "en": {
+      "name": "Magnesium lactate",
+      "text": "Magnesium lactate is the magnesium salt of lactic acid.\n\nAs a food additive it is used in foods and beverages as an acidity regulator. It is also used as a mineral supplement to prevent and treat low blood magnesium."
+    },
+    "ru": {
+      "name": "Лактат магния",
+      "text": "Лактат магния — магниевая соль молочной кислоты.\n\nКак пищевая добавка используется в продуктах и напитках как регулятор кислотности. Применяется также как минеральная добавка для профилактики и лечения недостатка магния в крови."
+    }
+  },
+  {
+    "code": "E330",
+    "en": {
+      "name": "Citric acid",
+      "text": "Citric acid is a weak organic acid that occurs naturally in citrus fruits, especially lemons and limes. Almost all of it is produced industrially by fermentation: the mould Aspergillus niger is grown on a sucrose or glucose medium.\n\nIt is one of the stronger edible acids and is used mainly to give a sour taste, regulate acidity and preserve food and drinks, especially soft drinks and sweets. It is also added to ice cream to keep fats from separating and to caramel to prevent sugar crystallisation."
+    },
+    "ru": {
+      "name": "Лимонная кислота",
+      "text": "Лимонная кислота — слабая органическая кислота, которая в природе содержится в цитрусовых, особенно в лимонах и лаймах. Почти вся она производится промышленно методом ферментации: плесневый гриб Aspergillus niger выращивают на среде с сахарозой или глюкозой.\n\nЭто одна из наиболее сильных пищевых кислот; используется в основном для придания кислого вкуса, регулирования кислотности и консервирования продуктов и напитков, особенно безалкогольных напитков и конфет. Её также добавляют в мороженое, чтобы жиры не отделялись, и в карамель, чтобы предотвратить кристаллизацию сахара."
+    }
+  },
+  {
+    "code": "E331",
+    "en": {
+      "name": "Sodium citrates",
+      "text": "Sodium citrates are the sodium salts of citric acid: monosodium, disodium and trisodium citrate. They are made by neutralising citric acid with a sodium base.\n\nThey are used as acidity regulators and buffers, as emulsifying salts that let processed cheese melt without the fat separating, and to give a tart flavour. Typical products include soft drinks, jams, sweets, ice cream, yoghurt, milk powder and processed cheese.\n\nTrisodium citrate is also used in medicine, for example to stop stored blood from clotting."
+    },
+    "ru": {
+      "name": "Цитраты натрия",
+      "text": "Цитраты натрия — натриевые соли лимонной кислоты: одно-, двух- и трёхзамещённый цитрат натрия. Их получают нейтрализацией лимонной кислоты натриевым основанием.\n\nИспользуются как регуляторы кислотности и буферные вещества, как соли-плавители, позволяющие плавленому сыру плавиться без отделения жира, и для придания кисловатого вкуса. Типичные продукты: безалкогольные напитки, джемы, конфеты, мороженое, йогурт, сухое молоко и плавленый сыр.\n\nТрёхзамещённый цитрат натрия применяется и в медицине, например для предотвращения свёртывания консервированной крови."
+    }
+  },
+  {
+    "code": "E332",
+    "en": {
+      "name": "Potassium citrates",
+      "text": "Potassium citrates are the potassium salts of citric acid: monopotassium and tripotassium citrate. Tripotassium citrate is made by neutralising citric acid with potassium bicarbonate, carbonate or hydroxide, and has a salty taste.\n\nAs food additives they regulate acidity, and potassium citrate is used as a buffering agent in many soft drinks. In medicine it is used to manage some types of kidney stones."
+    },
+    "ru": {
+      "name": "Цитраты калия",
+      "text": "Цитраты калия — калиевые соли лимонной кислоты: одно- и трёхзамещённый цитрат калия. Трёхзамещённый цитрат калия получают нейтрализацией лимонной кислоты гидрокарбонатом, карбонатом или гидроксидом калия; он имеет солёный вкус.\n\nКак пищевые добавки они регулируют кислотность, а цитрат калия используется как буферное вещество во многих безалкогольных напитках. В медицине его применяют при некоторых видах камней в почках."
+    }
+  },
+  {
+    "code": "E333",
+    "en": {
+      "name": "Calcium citrates",
+      "text": "Calcium citrates are the calcium salts of citric acid: monocalcium, dicalcium and tricalcium citrate. Calcium citrate is formed as an intermediate when citric acid is recovered from fermentation broth with lime.\n\nAs a food additive it is used mostly as a preservative and sometimes for flavour. It is also widely sold as a calcium supplement; anhydrous calcium citrate is about 24% calcium."
+    },
+    "ru": {
+      "name": "Цитраты кальция",
+      "text": "Цитраты кальция — кальциевые соли лимонной кислоты: одно-, двух- и трёхзамещённый цитрат кальция. Цитрат кальция образуется как промежуточный продукт при выделении лимонной кислоты из ферментационной среды с помощью известкового молока.\n\nКак пищевая добавка применяется в основном как консервант, иногда для вкуса. Также широко продаётся как добавка кальция; безводный цитрат кальция содержит около 24 % кальция."
+    }
+  },
+  {
+    "code": "E334",
+    "en": {
+      "name": "Tartaric acid",
+      "text": "Tartaric acid is an organic acid that occurs naturally in many fruits, most notably grapes, and also tamarinds and bananas. Almost all commercial tartaric acid is the natural L(+) form, obtained as a by-product of winemaking from the lees.\n\nIt is added to foods to give a distinctive sour taste and as an antioxidant.\n\nIn its 2020 re-evaluation EFSA set a group acceptable daily intake of 240 mg per kg of body weight for tartaric acid and its tartrates (E334 to E337 and E354), which estimated intakes did not exceed."
+    },
+    "ru": {
+      "name": "Винная кислота",
+      "text": "Винная кислота — органическая кислота, которая в природе содержится во многих фруктах, прежде всего в винограде, а также в тамаринде и бананах. Почти вся промышленная винная кислота — природная L(+)-форма, получаемая из винных дрожжевых осадков как побочный продукт виноделия.\n\nЕё добавляют в продукты для придания характерного кислого вкуса и как антиоксидант.\n\nПри повторной оценке в 2020 году EFSA установило групповое допустимое суточное потребление 240 мг на кг массы тела для винной кислоты и тартратов (E334–E337 и E354); расчётное потребление его не превышало."
+    }
+  },
+  {
+    "code": "E335",
+    "en": {
+      "name": "Sodium tartrates",
+      "text": "Sodium tartrates are the sodium salts of tartaric acid: monosodium tartrate (sodium bitartrate) and disodium tartrate. Disodium tartrate is made by reacting tartaric acid with sodium bicarbonate.\n\nMonosodium tartrate is used as an acidity regulator. Disodium tartrate is used as an emulsifier and binding agent, for example in jellies, margarine and sausage casings.\n\nEFSA's 2020 re-evaluation set a group acceptable daily intake of 240 mg per kg of body weight for tartaric acid and its tartrates."
+    },
+    "ru": {
+      "name": "Тартраты натрия",
+      "text": "Тартраты натрия — натриевые соли винной кислоты: однозамещённый тартрат натрия (битартрат натрия) и двузамещённый тартрат натрия. Двузамещённый тартрат получают реакцией винной кислоты с гидрокарбонатом натрия.\n\nОднозамещённый тартрат натрия используется как регулятор кислотности. Двузамещённый применяется как эмульгатор и связующее вещество, например в желе, маргарине и колбасных оболочках.\n\nПри повторной оценке в 2020 году EFSA установило групповое допустимое суточное потребление 240 мг на кг массы тела для винной кислоты и её тартратов."
+    }
+  },
+  {
+    "code": "E336",
+    "en": {
+      "name": "Potassium tartrates",
+      "text": "Potassium tartrates are the potassium salts of tartaric acid: monopotassium tartrate and dipotassium tartrate. Monopotassium tartrate, known as cream of tartar, forms naturally as a crystalline deposit during winemaking and is then purified.\n\nCream of tartar is used as a stabiliser and acidity regulator. It is a component of baking powders, stabilises whipped egg whites for meringues and soufflés, and stops sugar syrups from crystallising.\n\nEFSA's 2020 re-evaluation set a group acceptable daily intake of 240 mg per kg of body weight for tartaric acid and its tartrates."
+    },
+    "ru": {
+      "name": "Тартраты калия",
+      "text": "Тартраты калия — калиевые соли винной кислоты: однозамещённый и двузамещённый тартрат калия. Однозамещённый тартрат калия, известный как винный камень (кремортартар), образуется в виде кристаллического осадка при виноделии и затем очищается.\n\nКремортартар используется как стабилизатор и регулятор кислотности. Он входит в состав разрыхлителей теста, стабилизирует взбитые яичные белки для безе и суфле и препятствует кристаллизации сахарных сиропов.\n\nПри повторной оценке в 2020 году EFSA установило групповое допустимое суточное потребление 240 мг на кг массы тела для винной кислоты и её тартратов."
+    }
+  },
+  {
+    "code": "E337",
+    "en": {
+      "name": "Sodium potassium tartrate",
+      "text": "Sodium potassium tartrate, also known as Rochelle salt, is a double salt of tartaric acid. It was first prepared around 1675 by Élie Seignette, an apothecary in La Rochelle, France.\n\nIt is used in the food industry as an acidity regulator. Outside food it has been used as a laxative, in silvering mirrors and in laboratory reagents such as Fehling's solution.\n\nEFSA's 2020 re-evaluation set a group acceptable daily intake of 240 mg per kg of body weight for tartaric acid and its tartrates."
+    },
+    "ru": {
+      "name": "Тартрат калия-натрия",
+      "text": "Тартрат калия-натрия, или сегнетова соль, — двойная соль винной кислоты. Впервые её получил около 1675 года аптекарь Эли Сеньет из Ла-Рошели (Франция).\n\nВ пищевой промышленности используется как регулятор кислотности. Вне пищевой отрасли применялась как слабительное, при серебрении зеркал и в лабораторных реактивах, например в фелинговой жидкости.\n\nПри повторной оценке в 2020 году EFSA установило групповое допустимое суточное потребление 240 мг на кг массы тела для винной кислоты и её тартратов."
+    }
+  }
+]

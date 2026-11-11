@@ -1,0 +1,392 @@
+[
+  {
+    "code": "E200",
+    "eu_authorised": true,
+    "eu_official_name": "Sorbic acid",
+    "en": {
+      "name": "Sorbic acid",
+      "text": "Sorbic acid is an organic acid first isolated from rowan berries; the form used in food today is made synthetically. It slows the growth of moulds and yeasts and works best in mildly acidic foods.\n\nIt is used in cheese, baked goods, wine, dried fruit, margarine, sauces and soft drinks.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US. It is generally regarded as one of the better-tolerated preservatives."
+    },
+    "ru": {
+      "name": "Сорбиновая кислота",
+      "text": "Сорбиновая кислота — органическая кислота, впервые выделенная из ягод рябины; в пищевой промышленности используется синтетическая. Она подавляет рост плесени и дрожжей и лучше всего действует в слабокислых продуктах.\n\nПрименяется в сырах, выпечке, вине, сухофруктах, маргарине, соусах и безалкогольных напитках.\n\nПравовой статус: в ЕС разрешена с ограничениями, в Великобритании и США разрешена. Считается одним из лучше переносимых консервантов."
+    }
+  },
+  {
+    "code": "E201",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Sodium sorbate",
+      "text": "Sodium sorbate is the sodium salt of sorbic acid, a synthetic preservative that is more soluble in water than the acid itself. Like other sorbates, it inhibits the growth of moulds and yeasts.\n\nIt has seen little use in food compared with potassium sorbate, which has largely taken its place in most products.\n\nRegulatory status: not approved in the EU and UK. In the US it is approved for food packaging as an antimicrobial agent; no general food use is recorded there."
+    },
+    "ru": {
+      "name": "Сорбат натрия",
+      "text": "Сорбат натрия — натриевая соль сорбиновой кислоты, синтетический консервант, который лучше растворяется в воде, чем сама кислота. Как и другие сорбаты, он подавляет рост плесени и дрожжей.\n\nВ пищевых продуктах используется редко: в большинстве случаев его заменил сорбат калия.\n\nПравовой статус: в ЕС и Великобритании не разрешён. В США разрешён для упаковки пищевых продуктов как антимикробное средство; общее применение в пище там не зафиксировано."
+    }
+  },
+  {
+    "code": "E202",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium sorbate",
+    "en": {
+      "name": "Potassium sorbate",
+      "text": "Potassium sorbate is the potassium salt of sorbic acid and is made synthetically. It is the most widely used form of sorbate because it dissolves easily in water and stops moulds and yeasts from growing.\n\nTypical uses include cheese, wine, baked goods, dried fruit, jams, sauces, soft drinks and processed meats.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US. At permitted levels it is considered to have low toxicity."
+    },
+    "ru": {
+      "name": "Сорбат калия",
+      "text": "Сорбат калия — калиевая соль сорбиновой кислоты, получаемая синтетически. Это самая распространённая форма сорбатов: она хорошо растворяется в воде и не даёт расти плесени и дрожжам.\n\nИспользуется в сырах, вине, выпечке, сухофруктах, джемах, соусах, напитках и мясных изделиях.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании и США разрешён. В допустимых количествах считается малотоксичным."
+    }
+  },
+  {
+    "code": "E203",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Calcium sorbate",
+      "text": "Calcium sorbate is the calcium salt of sorbic acid, a synthetic preservative that acts against moulds and yeasts. It is rarely used in practice, since potassium sorbate dissolves better and is easier to handle.\n\nIt was used in some cheeses and baked goods, but it is now an obscure additive.\n\nRegulatory status: not approved in the EU and UK from 2018. It is approved in the US."
+    },
+    "ru": {
+      "name": "Сорбат кальция",
+      "text": "Сорбат кальция — кальциевая соль сорбиновой кислоты, синтетический консервант, действующий против плесени и дрожжей. На практике применяется редко, так как сорбат калия лучше растворяется и удобнее в работе.\n\nМог использоваться в некоторых сырах и выпечке, но сейчас это малоизвестная добавка.\n\nПравовой статус: в ЕС и Великобритании не разрешён с 2018 года. В США разрешён."
+    }
+  },
+  {
+    "code": "E209",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Heptylparaben",
+      "text": "Heptylparaben is the heptyl ester of p-hydroxybenzoic acid, a synthetic member of the paraben family of preservatives. It acts against moulds, yeasts and some bacteria.\n\nIt is an uncommon additive, associated mainly with certain beverages such as beer, and little else is documented about its food use.\n\nRegulatory status: not approved in the EU and UK. In the US it is approved for certain beverages."
+    },
+    "ru": {
+      "name": "Гептилпарабен",
+      "text": "Гептилпарабен — гептиловый эфир п-гидроксибензойной кислоты, синтетический представитель группы парабенов, которые используют как консерванты. Он действует против плесени, дрожжей и некоторых бактерий.\n\nЭто редкая добавка, которую связывают в основном с отдельными напитками, например пивом; о её применении в пище известно немного.\n\nПравовой статус: в ЕС и Великобритании не разрешён. В США разрешён для некоторых напитков."
+    }
+  },
+  {
+    "code": "E210",
+    "eu_authorised": true,
+    "eu_official_name": "Benzoic acid a",
+    "en": {
+      "name": "Benzoic acid",
+      "text": "Benzoic acid occurs naturally in cranberries, plums and some spices, but the additive is made synthetically. It prevents the growth of yeasts, moulds and some bacteria, and is effective mainly in acidic foods.\n\nIt is used in soft drinks, fruit juices, pickles, sauces, jams and margarine.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US. Some people with asthma or sensitive skin may react to benzoates."
+    },
+    "ru": {
+      "name": "Бензойная кислота",
+      "text": "Бензойная кислота встречается в природе в клюкве, сливах и некоторых специях, но добавку получают синтетически. Она подавляет рост дрожжей, плесени и некоторых бактерий и эффективна главным образом в кислой среде.\n\nПрименяется в напитках, соках, маринадах, соусах, джемах и маргарине.\n\nПравовой статус: в ЕС разрешена с ограничениями, в Великобритании и США разрешена. У некоторых людей с астмой или чувствительной кожей бензоаты могут вызывать реакции."
+    }
+  },
+  {
+    "code": "E211",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium benzoate a",
+    "en": {
+      "name": "Sodium benzoate",
+      "text": "Sodium benzoate is the sodium salt of benzoic acid and is produced synthetically. It dissolves well in water and inhibits yeasts, moulds and some bacteria in acidic products.\n\nIt is common in soft drinks, fruit juices, pickles, salad dressings and sauces.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US. In the presence of ascorbic acid, small amounts of benzene can form in some drinks, so manufacturers take care in formulating them."
+    },
+    "ru": {
+      "name": "Бензоат натрия",
+      "text": "Бензоат натрия — натриевая соль бензойной кислоты, получаемая синтетически. Он хорошо растворяется в воде и подавляет дрожжи, плесень и некоторые бактерии в кислых продуктах.\n\nЧасто встречается в безалкогольных напитках, соках, маринадах, салатных заправках и соусах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании и США разрешён. В присутствии аскорбиновой кислоты в некоторых напитках могут образовываться следы бензола, поэтому производители учитывают это при составлении рецептур."
+    }
+  },
+  {
+    "code": "E212",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium benzoate a",
+    "en": {
+      "name": "Potassium benzoate",
+      "text": "Potassium benzoate is the potassium salt of benzoic acid, made synthetically. It works like sodium benzoate against yeasts and moulds in acidic foods and is sometimes chosen when less sodium is wanted.\n\nIt is used in drinks, sauces, pickles and similar products.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved for food packaging as an antimicrobial agent."
+    },
+    "ru": {
+      "name": "Бензоат калия",
+      "text": "Бензоат калия — калиевая соль бензойной кислоты, получаемая синтетически. Как и бензоат натрия, он подавляет дрожжи и плесень в кислых продуктах; его иногда выбирают, когда в рецептуре нужно меньше натрия.\n\nПрименяется в напитках, соусах, маринадах и подобных продуктах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён. В США разрешён для упаковки пищевых продуктов как антимикробное средство."
+    }
+  },
+  {
+    "code": "E213",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium benzoate a",
+    "en": {
+      "name": "Calcium benzoate",
+      "text": "Calcium benzoate is the calcium salt of benzoic acid, a synthetic preservative that acts against yeasts and moulds in acidic foods. It is less soluble than sodium or potassium benzoate and so is used less often.\n\nIt may appear in some drinks and sauces.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved for food packaging as an antimicrobial agent."
+    },
+    "ru": {
+      "name": "Бензоат кальция",
+      "text": "Бензоат кальция — кальциевая соль бензойной кислоты, синтетический консервант против дрожжей и плесени в кислых продуктах. Он хуже растворяется, чем соли натрия и калия, поэтому применяется реже.\n\nМожет встречаться в некоторых напитках и соусах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён. В США разрешён для упаковки пищевых продуктов как антимикробное средство."
+    }
+  },
+  {
+    "code": "E214",
+    "eu_authorised": true,
+    "eu_official_name": "Ethyl-p-hydroxybenzoate",
+    "en": {
+      "name": "Ethylparaben",
+      "text": "Ethylparaben is the ethyl ester of p-hydroxybenzoic acid, a synthetic paraben. Parabens stop the growth of moulds, yeasts and some bacteria across a wide range of acidity.\n\nIt has been used in sauces, confectionery, baked goods, dried meats and some drinks, though it is also common in cosmetics.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Этилпарабен",
+      "text": "Этилпарабен — этиловый эфир п-гидроксибензойной кислоты, синтетический парабен. Парабены подавляют рост плесени, дрожжей и некоторых бактерий в широком диапазоне кислотности.\n\nИспользовался в соусах, кондитерских изделиях, выпечке, вяленом мясе и некоторых напитках, а также широко применяется в косметике.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E215",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium ethyl p-hydroxybenzoate",
+    "en": {
+      "name": "Sodium ethyl para-hydroxybenzoate",
+      "text": "Sodium ethyl para-hydroxybenzoate is the sodium salt of ethylparaben, made synthetically. Being water soluble, it is easier to dissolve in food than the parent ester, and it acts against moulds and yeasts.\n\nIt is a minor additive with limited use.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. It is not approved in the US."
+    },
+    "ru": {
+      "name": "Этил-п-гидроксибензоат натрия",
+      "text": "Этил-п-гидроксибензоат натрия — натриевая соль этилпарабена, получаемая синтетически. Он растворим в воде, поэтому его проще вносить в продукт, чем исходный эфир, и он действует против плесени и дрожжей.\n\nЭто малоупотребительная добавка с ограниченным применением в пищевых продуктах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён. В США не разрешён."
+    }
+  },
+  {
+    "code": "E216",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Propylparaben",
+      "text": "Propylparaben is the propyl ester of p-hydroxybenzoic acid, a synthetic paraben that acts against moulds, yeasts and some bacteria. It is also widely used in cosmetics and medicines.\n\nIn food it has been used in baked goods, sauces, confectionery and some drinks.\n\nRegulatory status: not approved in the EU and UK. It is approved in the US."
+    },
+    "ru": {
+      "name": "Пропилпарабен",
+      "text": "Пропилпарабен — пропиловый эфир п-гидроксибензойной кислоты, синтетический парабен, действующий против плесени, дрожжей и некоторых бактерий. Широко применяется также в косметике и лекарствах.\n\nВ пищевых продуктах использовался в выпечке, соусах, кондитерских изделиях и некоторых напитках.\n\nПравовой статус: в ЕС и Великобритании не разрешён. В США разрешён."
+    }
+  },
+  {
+    "code": "E217",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Sodium propyl para-hydroxybenzoate",
+      "text": "Sodium propyl para-hydroxybenzoate is the water-soluble sodium salt of propylparaben, produced synthetically. It acts as a preservative against moulds and yeasts, in the same way as other parabens.\n\nIt is an obscure additive with little current food use, and little more is documented about it.\n\nRegulatory status: not approved in the EU, UK or US."
+    },
+    "ru": {
+      "name": "Пропил-п-гидроксибензоат натрия",
+      "text": "Пропил-п-гидроксибензоат натрия — водорастворимая натриевая соль пропилпарабена, получаемая синтетически. Как и другие парабены, выступает консервантом против плесени и дрожжей.\n\nЭто малоизвестная добавка, в настоящее время почти не применяемая в пище; других подробностей о ней немного.\n\nПравовой статус: не разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E218",
+    "eu_authorised": true,
+    "eu_official_name": "Methyl p-hydroxybenzoate",
+    "en": {
+      "name": "Methylparaben",
+      "text": "Methylparaben is the methyl ester of p-hydroxybenzoic acid. It also occurs in small amounts in some plants such as blueberries, but the additive is made synthetically. It inhibits moulds, yeasts and some bacteria.\n\nIt is used in baked goods, sauces, jams, confectionery and some drinks, and is also common in cosmetics.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Метилпарабен",
+      "text": "Метилпарабен — метиловый эфир п-гидроксибензойной кислоты. В небольших количествах он встречается в некоторых растениях, например в чернике, но добавку получают синтетически. Подавляет плесень, дрожжи и некоторые бактерии.\n\nПрименяется в выпечке, соусах, джемах, кондитерских изделиях и некоторых напитках, а также широко используется в косметике.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E219",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium methyl p-hydroxybenzoate",
+    "en": {
+      "name": "Sodium methyl para-hydroxybenzoate",
+      "text": "Sodium methyl para-hydroxybenzoate is the sodium salt of methylparaben, made synthetically. It dissolves easily in water and acts as a preservative against moulds and yeasts.\n\nIt is a minor additive with limited use in food.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. It is not approved in the US."
+    },
+    "ru": {
+      "name": "Метил-п-гидроксибензоат натрия",
+      "text": "Метил-п-гидроксибензоат натрия — натриевая соль метилпарабена, получаемая синтетически. Хорошо растворяется в воде и служит консервантом против плесени и дрожжей.\n\nЭто малоупотребительная добавка с ограниченным применением в пищевых продуктах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён. В США не разрешён."
+    }
+  },
+  {
+    "code": "E220",
+    "eu_authorised": true,
+    "eu_official_name": "Sulphur dioxide",
+    "en": {
+      "name": "Sulfur dioxide",
+      "text": "Sulfur dioxide is a pungent gas produced industrially, for example by burning sulfur. It prevents microbial growth and browning, and acts as an antioxidant.\n\nIt is widely used in wine, dried fruit, fruit juices, jams, and some processed potato products.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved except in meats, fresh fruit and vegetables, or food sources of vitamin B1. Sulfites can trigger reactions in some people with asthma, and the EU requires them to be declared on labels above a set level."
+    },
+    "ru": {
+      "name": "Диоксид серы",
+      "text": "Диоксид серы — газ с резким запахом, получаемый промышленно, например сжиганием серы. Он препятствует росту микробов и потемнению продуктов и действует как антиокислитель.\n\nШироко применяется в вине, сухофруктах, соках, джемах и некоторых картофельных продуктах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён. В США разрешён, кроме мяса, свежих фруктов и овощей и источников витамина B1. Сульфиты могут вызывать приступы у некоторых людей с астмой, поэтому в ЕС их наличие выше установленного уровня указывают на этикетке."
+    }
+  },
+  {
+    "code": "E221",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium sulphite",
+    "en": {
+      "name": "Sodium sulfite",
+      "text": "Sodium sulfite is a synthetic salt that releases sulfur dioxide in food. It prevents microbial spoilage and browning and acts as an antioxidant.\n\nIt is used in dried fruit, wine, juices and some processed foods.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved except in meats, fresh fruit and vegetables, or food sources of vitamin B1. Sulfites can cause reactions in sensitive people, notably some with asthma, and must be declared on labels in the EU."
+    },
+    "ru": {
+      "name": "Сульфит натрия",
+      "text": "Сульфит натрия — синтетическая соль, выделяющая в продукте диоксид серы. Предотвращает микробную порчу и потемнение и действует как антиокислитель.\n\nИспользуется в сухофруктах, вине, соках и некоторых переработанных продуктах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён. В США разрешён, кроме мяса, свежих фруктов и овощей и источников витамина B1. Сульфиты могут вызывать реакции у чувствительных людей, в частности у некоторых больных астмой, и в ЕС должны указываться на этикетке."
+    }
+  },
+  {
+    "code": "E222",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium hydrogen sulphite",
+    "en": {
+      "name": "Sodium bisulfite",
+      "text": "Sodium bisulfite, also called sodium hydrogen sulfite, is a synthetic sulfite salt that releases sulfur dioxide in food. It inhibits microbes and browning and acts as an antioxidant.\n\nIt is used in wine, dried fruit, juices and other processed foods.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved except in meats, fresh fruit and vegetables, or food sources of vitamin B1. Sulfites can cause reactions in sensitive people and must be declared on EU labels."
+    },
+    "ru": {
+      "name": "Гидросульфит натрия",
+      "text": "Гидросульфит натрия, или кислый сульфит натрия, — синтетическая соль, выделяющая в продукте диоксид серы. Подавляет микробы и потемнение и действует как антиокислитель.\n\nПрименяется в вине, сухофруктах, соках и других переработанных продуктах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён. В США разрешён, кроме мяса, свежих фруктов и овощей и источников витамина B1. Сульфиты могут вызывать реакции у чувствительных людей и должны указываться на этикетках в ЕС."
+    }
+  },
+  {
+    "code": "E223",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium metabisulphite",
+    "en": {
+      "name": "Sodium metabisulfite",
+      "text": "Sodium metabisulfite is a synthetic white powder that releases sulfur dioxide when dissolved. It is used as a preservative, antioxidant and anti-browning agent, and to sterilise winemaking equipment.\n\nTypical products include wine, dried fruit, juices, jams and some potato products.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved except in meats, fresh fruit and vegetables, or food sources of vitamin B1. Sulfites can trigger reactions in some asthmatics and must be declared on EU labels."
+    },
+    "ru": {
+      "name": "Метабисульфит натрия",
+      "text": "Метабисульфит натрия — синтетический белый порошок, который при растворении выделяет диоксид серы. Используется как консервант, антиокислитель и средство против потемнения, а также для обработки оборудования в виноделии.\n\nВстречается в вине, сухофруктах, соках, джемах и некоторых картофельных продуктах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён. В США разрешён, кроме мяса, свежих фруктов и овощей и источников витамина B1. Сульфиты могут вызывать реакции у некоторых больных астмой и должны указываться на этикетках в ЕС."
+    }
+  },
+  {
+    "code": "E224",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium metabisulphite",
+    "en": {
+      "name": "Potassium metabisulfite",
+      "text": "Potassium metabisulfite is a synthetic white crystalline salt that releases sulfur dioxide in solution. It acts as a preservative, antioxidant and anti-browning agent.\n\nIt is especially common in winemaking and cider, and is also used in dried fruit and some juices.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved except in meats, fresh fruit and vegetables, or food sources of vitamin B1. Sulfites can cause reactions in sensitive people and must be declared on EU labels."
+    },
+    "ru": {
+      "name": "Метабисульфит калия",
+      "text": "Метабисульфит калия — синтетическая белая кристаллическая соль, которая в растворе выделяет диоксид серы. Служит консервантом, антиокислителем и средством против потемнения.\n\nОсобенно распространён в виноделии и производстве сидра, а также применяется в сухофруктах и некоторых соках.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён. В США разрешён, кроме мяса, свежих фруктов и овощей и источников витамина B1. Сульфиты могут вызывать реакции у чувствительных людей и должны указываться на этикетках в ЕС."
+    }
+  },
+  {
+    "code": "E225",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Potassium sulfite",
+      "text": "Potassium sulfite is a synthetic salt that releases sulfur dioxide, which gives it preservative and antioxidant properties. It is chemically related to the other sulfites, E220 to E228.\n\nIt is little used in practice compared with potassium metabisulfite.\n\nRegulatory status: not approved in the EU and UK. It is approved in the US. As with other sulfites, sensitive people, particularly some with asthma, may react."
+    },
+    "ru": {
+      "name": "Сульфит калия",
+      "text": "Сульфит калия — синтетическая соль, выделяющая диоксид серы, чем объясняются её консервирующие и антиокислительные свойства. По химии она родственна другим сульфитам, E220–E228.\n\nНа практике применяется мало по сравнению с метабисульфитом калия.\n\nПравовой статус: в ЕС и Великобритании не разрешён. В США разрешён. Как и другие сульфиты, может вызывать реакции у чувствительных людей, в частности у некоторых больных астмой."
+    }
+  },
+  {
+    "code": "E226",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium sulphite",
+    "en": {
+      "name": "Calcium sulfite",
+      "text": "Calcium sulfite is a synthetic salt that releases sulfur dioxide. It acts as a preservative and antioxidant and is related to the other sulfites.\n\nIt has been used in some fruit products, and its calcium content can help keep fruit pieces firm.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US with conditions. Sulfites can cause reactions in sensitive people, notably some with asthma, and must be declared on EU labels."
+    },
+    "ru": {
+      "name": "Сульфит кальция",
+      "text": "Сульфит кальция — синтетическая соль, выделяющая диоксид серы. Действует как консервант и антиокислитель и родственен другим сульфитам.\n\nИспользовался в некоторых фруктовых продуктах; содержащийся в нём кальций помогает сохранять плотность кусочков фруктов.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён, в США разрешён с ограничениями. Сульфиты могут вызывать реакции у чувствительных людей, в частности у некоторых больных астмой, и в ЕС должны указываться на этикетке."
+    }
+  },
+  {
+    "code": "E227",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium hydrogen sulphite",
+    "en": {
+      "name": "Calcium bisulfite",
+      "text": "Calcium bisulfite, or calcium hydrogen sulfite, is a synthetic sulfite salt that releases sulfur dioxide. Like other sulfites, it is generally known as a preservative and antioxidant.\n\nIt is a minor additive.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. It is not approved in the US. Sulfites can cause reactions in sensitive people and must be declared on EU labels."
+    },
+    "ru": {
+      "name": "Гидросульфит кальция",
+      "text": "Гидросульфит кальция, или кислый сульфит кальция, — синтетическая соль сернистой кислоты, выделяющая диоксид серы. Как и другие сульфиты, он известен как консервант и антиокислитель.\n\nЭто малоупотребительная добавка.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён. В США не разрешён. Сульфиты могут вызывать реакции у чувствительных людей и должны указываться на этикетках в ЕС."
+    }
+  },
+  {
+    "code": "E228",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium hydrogen sulphite",
+    "en": {
+      "name": "Potassium bisulfite",
+      "text": "Potassium bisulfite, or potassium hydrogen sulfite, is a synthetic salt that releases sulfur dioxide. It acts as a preservative and antioxidant and is used in winemaking and some other foods.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved except in meats, fresh fruit and vegetables, or food sources of vitamin B1. Sulfites can cause reactions in sensitive people, particularly some with asthma, and must be declared on EU labels."
+    },
+    "ru": {
+      "name": "Гидросульфит калия",
+      "text": "Гидросульфит калия, или кислый сульфит калия, — синтетическая соль, выделяющая диоксид серы. Действует как консервант и антиокислитель и применяется в виноделии и некоторых других продуктах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён. В США разрешён, кроме мяса, свежих фруктов и овощей и источников витамина B1. Сульфиты могут вызывать реакции у чувствительных людей, в частности у некоторых больных астмой, и в ЕС должны указываться на этикетке."
+    }
+  },
+  {
+    "code": "E230",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Biphenyl",
+      "text": "Biphenyl, also called diphenyl, is a synthetic aromatic hydrocarbon. It was used as a fungicide on the surface of citrus fruit during storage and transport.\n\nIt is not meant to be eaten, and only the treated peel is concerned. Citrus fruit treated this way was normally labelled accordingly.\n\nRegulatory status: not approved in the EU and UK. In the US it is approved in food packaging as an antimicrobial agent."
+    },
+    "ru": {
+      "name": "Бифенил",
+      "text": "Бифенил, или дифенил, — синтетический ароматический углеводород. Использовался как фунгицид для обработки поверхности цитрусовых при хранении и перевозке.\n\nОн не предназначен для употребления в пищу; речь идёт только об обработанной кожуре. Такие цитрусовые обычно сопровождались соответствующей маркировкой.\n\nПравовой статус: в ЕС и Великобритании не разрешён. В США разрешён в упаковке пищевых продуктов как антимикробное средство."
+    }
+  },
+  {
+    "code": "E231",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Orthophenyl phenol",
+      "text": "Orthophenyl phenol, or 2-phenylphenol, is a synthetic compound used as a fungicide. In food it was applied to the surface of citrus fruit to prevent mould in storage.\n\nIt is also used as a disinfectant outside of food.\n\nRegulatory status: not approved in the EU and UK. In the US it is approved in food packaging and food contact products as an antimicrobial agent."
+    },
+    "ru": {
+      "name": "Ортофенилфенол",
+      "text": "Ортофенилфенол, или 2-фенилфенол, — синтетическое соединение, применяемое как фунгицид. В пищевой отрасли им обрабатывали поверхность цитрусовых, чтобы предотвратить плесень при хранении.\n\nТакже используется как дезинфицирующее средство вне пищевой промышленности.\n\nПравовой статус: в ЕС и Великобритании не разрешён. В США разрешён в упаковке и материалах, контактирующих с пищей, как антимикробное средство."
+    }
+  },
+  {
+    "code": "E232",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Sodium orthophenyl phenol",
+      "text": "Sodium orthophenyl phenol is the sodium salt of 2-phenylphenol, a synthetic fungicide. It was applied to the surface of citrus fruit to prevent mould during storage.\n\nIt is now an obscure additive, and little else is documented about its use in food.\n\nRegulatory status: not approved in the EU, UK or US."
+    },
+    "ru": {
+      "name": "Ортофенилфенолят натрия",
+      "text": "Ортофенилфенолят натрия — натриевая соль 2-фенилфенола, синтетический фунгицид. Им обрабатывали поверхность цитрусовых, чтобы предотвратить плесень при хранении.\n\nСейчас это малоизвестная добавка, других подробностей о её применении в пище известно немного.\n\nПравовой статус: не разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E233",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Thiabendazole",
+      "text": "Thiabendazole is a synthetic compound that is used as a fungicide on crops and as an anthelmintic medicine. As a food additive it was applied to the surface of citrus fruit and bananas to prevent mould.\n\nIn the EU it is regulated as a pesticide residue rather than as an additive.\n\nRegulatory status: not approved in the EU, UK or US as a food additive."
+    },
+    "ru": {
+      "name": "Тиабендазол",
+      "text": "Тиабендазол — синтетическое соединение, применяемое как фунгицид в растениеводстве и как антигельминтное лекарство. Как пищевую добавку его наносили на поверхность цитрусовых и бананов против плесени.\n\nВ ЕС он регулируется как остаток пестицида, а не как добавка.\n\nПравовой статус: как пищевая добавка не разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E234",
+    "eu_authorised": true,
+    "eu_official_name": "Nisin",
+    "en": {
+      "name": "Nisin",
+      "text": "Nisin is a natural antimicrobial peptide produced by the bacterium Lactococcus lactis. It is active mainly against Gram-positive bacteria, including spore-formers.\n\nIt is used in processed cheese, cheese spreads, some desserts and egg products, where it prevents spoilage.\n\nRegulatory status: approved in the EU in certain cheese, egg and dessert products and approved in the UK. In the US it is approved in cheese products."
+    },
+    "ru": {
+      "name": "Низин",
+      "text": "Низин — природный антимикробный пептид, который вырабатывает бактерия Lactococcus lactis. Действует в основном против грамположительных бактерий, включая спорообразующие.\n\nПрименяется в плавленых сырах, сырных пастах, некоторых десертах и яичных продуктах для предотвращения порчи.\n\nПравовой статус: в ЕС разрешён в некоторых сырах, яичных продуктах и десертах, в Великобритании разрешён. В США разрешён в сырных продуктах."
+    }
+  },
+  {
+    "code": "E235",
+    "eu_authorised": true,
+    "eu_official_name": "Natamycin",
+    "en": {
+      "name": "Natamycin",
+      "text": "Natamycin, also called pimaricin, is an antifungal compound produced by the bacterium Streptomyces natalensis. It acts against moulds and yeasts but not against bacteria.\n\nIt is applied to the surface of cheeses and dried cured sausages to prevent mould growth.\n\nRegulatory status: approved in the EU in cheese and dried cured sausages and approved in the UK. In the US it is approved in cheese products."
+    },
+    "ru": {
+      "name": "Натамицин",
+      "text": "Натамицин, или пимарицин, — противогрибковое соединение, которое вырабатывает бактерия Streptomyces natalensis. Действует против плесени и дрожжей, но не против бактерий.\n\nНаносится на поверхность сыров и сырокопчёных колбас, чтобы не росла плесень.\n\nПравовой статус: в ЕС разрешён в сырах и сыровяленых колбасах, в Великобритании разрешён. В США разрешён в сырных продуктах."
+    }
+  }
+]

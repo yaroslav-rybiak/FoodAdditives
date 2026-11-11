@@ -1,247 +1,277 @@
 [
-{
-"code":"E1000",
-"name":"Cholic acid",
-"text":"Cholic acid is a bile acid found in the bile of mammals. It can be isolated from animal bile or prepared from it chemically.\n\nIn food it has been listed as an emulsifier, helping fats and water mix. It is rarely used in modern foods and is not a common ingredient.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1001",
-"name":"Choline salts",
-"text":"Choline salts are compounds of choline, an essential nutrient that occurs naturally in egg yolk, liver and many other foods. The salts used as additives are usually produced industrially.\n\nThey are listed as emulsifiers, which help keep fat and water mixed in a product.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1100",
-"name":"Amylase",
-"text":"Amylases are enzymes that break down starch into smaller sugars. They are produced by microorganisms such as fungi and bacteria, and also occur in malt, saliva and the pancreas.\n\nIn food they are used as stabilisers and flavour enhancers, mainly in baking, where they improve dough and bread texture, and in brewing and syrup production.\n\nNo EU or US approval status is recorded for it. Enzyme dust may trigger allergic reactions in bakery workers."
-},
-{
-"code":"E1101",
-"name":"Proteases",
-"text":"Proteases are enzymes that break down proteins. The group includes protease itself, papain (from papaya), bromelain (from pineapple) and ficin (from figs). Some are also produced by microorganisms.\n\nIn food they are used as stabilisers and flavour enhancers, for example to soften meat, improve dough, clarify beer and speed cheese ripening.\n\nNo EU or US approval status is recorded for it. Inhaled enzyme dust can cause allergic reactions in workers."
-},
-{
-"code":"E1102",
-"name":"Glucose oxidase",
-"text":"Glucose oxidase is an enzyme that converts glucose into gluconic acid while consuming oxygen. For commercial use it is produced by fermentation with fungi such as Aspergillus niger.\n\nIn food it works as an antioxidant by removing oxygen, and it is used to protect products such as egg products, beverages and mayonnaise from oxidative spoilage. It also helps strengthen dough in baking.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1103",
-"name":"Invertase",
-"text":"Invertase is an enzyme that splits sucrose into glucose and fructose, producing invert sugar. It is obtained mainly from yeast.\n\nIn food it is used as a stabiliser, notably in confectionery to keep fillings soft and liquid, for example in chocolate-covered cherry-type centres and fondants.\n\nIt is approved in the EU."
-},
-{
-"code":"E1104",
-"name":"Lipases",
-"text":"Lipases are enzymes that break down fats into fatty acids and glycerol. They are obtained from animal tissues or produced by microorganisms.\n\nIn food they are used in cheese making to develop flavour, and in baking and dairy processing.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1105",
-"name":"Lysozyme",
-"text":"Lysozyme is an enzyme that breaks down the cell walls of certain bacteria. It occurs naturally in egg white, tears and milk, and is commonly extracted from hen egg white.\n\nIn food it serves as a preservative, for example to prevent unwanted bacterial growth in some cheeses and in wine.\n\nNo EU or US approval status is recorded for it. Because it is derived from egg, it can cause reactions in people with egg allergy."
-},
-{
-"code":"E1200",
-"name":"Polydextrose",
-"text":"Polydextrose is a synthetic polymer of glucose, made by heating glucose with sorbitol and a food-grade acid. It is a low-calorie bulking ingredient that behaves like soluble fibre.\n\nIt is used as a stabiliser, thickener, humectant and carrier, and replaces sugar or fat in baked goods, sweets, desserts and drinks.\n\nIt is approved in the EU. Large amounts may have a laxative effect."
-},
-{
-"code":"E1201",
-"name":"Polyvinylpyrrolidone",
-"text":"Polyvinylpyrrolidone, also called povidone or PVP, is a synthetic water-soluble polymer. It is not found in nature.\n\nIn food it is used as a stabiliser and binder, mainly in tablets and food supplements, and as a coating and clarifying aid.\n\nIt is approved in the EU."
-},
-{
-"code":"E1202",
-"name":"Polyvinylpolypyrrolidone",
-"text":"Polyvinylpolypyrrolidone, or PVPP, is a synthetic cross-linked polymer that does not dissolve in water. It is not found in nature.\n\nIt is used as a stabiliser and processing aid, especially to remove polyphenols from beer and wine and so prevent haze. It is filtered out and largely does not remain in the finished drink.\n\nIt is approved in the EU."
-},
-{
-"code":"E1203",
-"name":"Polyvinyl alcohol",
-"text":"Polyvinyl alcohol is a synthetic water-soluble polymer produced from polyvinyl acetate. It is not found in nature.\n\nIn food and supplements it is used mainly as a film-forming coating, for example on tablets and capsules.\n\nIt is noted as approved in 2010, but the region is not stated, so its EU and US status is unclear."
-},
-{
-"code":"E1204",
-"name":"Pullulan",
-"text":"Pullulan is a natural polysaccharide made of glucose units, produced by fermentation of starch with the fungus Aureobasidium pullulans.\n\nIt forms clear, edible films that are tasteless and resist oxygen, so it is used for coating and glazing, breath-freshening strips and capsules. It also acts as a thickener and binder.\n\nIt is approved in the EU."
-},
-{
-"code":"E1400",
-"name":"Dextrin",
-"text":"Dextrins are carbohydrates made by heating dry starch, sometimes with a little acid. The result, white or yellow dextrin, dissolves more easily than starch. Starch comes from maize, potato, wheat or tapioca.\n\nThey are used as thickening agents and stabilisers, as binders and as coatings in confectionery, snacks and coatings.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1401",
-"name":"Acid-treated starch",
-"text":"Acid-treated starch is a modified starch made by treating native starch (from maize, potato, wheat or tapioca) with a small amount of acid at a temperature below the point where it gelatinises. This gives a thinner paste when cooked.\n\nIt is used as a thickening agent and stabiliser, for instance in confectionery such as gum sweets.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1402",
-"name":"Alkaline modified starch",
-"text":"Alkaline modified starch is made by treating native starch with a dilute alkali such as sodium hydroxide. The starch source is typically maize, potato, wheat or tapioca.\n\nThe treatment lowers the viscosity of the cooked starch. It is used as a thickening agent and stabiliser in foods such as confectionery and desserts.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1403",
-"name":"Bleached starch",
-"text":"Bleached starch is native starch lightened by treatment with a bleaching agent, for example hydrogen peroxide or a small amount of peracetic acid. Its properties are otherwise close to those of ordinary starch.\n\nIt is used as a thickening agent and stabiliser where a whiter appearance is wanted.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1404",
-"name":"Oxidized starch",
-"text":"Oxidized starch is native starch treated with an oxidising agent, usually sodium hypochlorite. This gives a starch that forms a clearer, more stable paste with good adhesion.\n\nIt is used as a thickening agent and emulsifier, for example in batters, coatings, dressings and confectionery.\n\nIt is approved in the EU."
-},
-{
-"code":"E1405",
-"name":"Enzyme-treated starch",
-"text":"Enzyme-treated starch is starch partly broken down by food-grade enzymes such as amylase. The result is a product like a dextrin that dissolves more readily and forms thinner solutions.\n\nIt is used as a thickener or bulking ingredient.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1410",
-"name":"Monostarch phosphate",
-"text":"Monostarch phosphate is a chemically modified starch in which starch is esterified with phosphate, for example with orthophosphoric acid or sodium tripolyphosphate. The starch comes from maize, potato or similar crops.\n\nIt is used as a thickening agent and stabiliser, particularly in frozen foods, sauces and desserts, because it holds up well to freezing and thawing.\n\nIt is approved in the EU."
-},
-{
-"code":"E1411",
-"name":"Distarch glycerol",
-"text":"Distarch glycerol is a modified starch in which starch chains are cross-linked with glycerol. The starch typically comes from maize, potato or other crops.\n\nIt is used as a thickening agent and emulsifier in foods, and the cross-linking improves stability during cooking.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1412",
-"name":"Distarch phosphate",
-"text":"Distarch phosphate is a modified starch in which starch chains are cross-linked with phosphate, using sodium trimetaphosphate or phosphorus oxychloride. The starch comes from maize, potato, tapioca or similar sources.\n\nThe cross-linking makes the starch resistant to heat, acid and stirring. It is used as a thickening agent and stabiliser in sauces, soups, desserts and baby foods.\n\nIt is approved in the EU."
-},
-{
-"code":"E1413",
-"name":"Phosphated distarch phosphate",
-"text":"Phosphated distarch phosphate is a modified starch that is both cross-linked and esterified with phosphates. The base starch comes from maize, potato or similar crops.\n\nIt is used as a thickening agent and stabiliser in sauces, desserts and frozen foods, where it keeps a smooth texture.\n\nIt is approved in the EU."
-},
-{
-"code":"E1414",
-"name":"Acetylated distarch phosphate",
-"text":"Acetylated distarch phosphate is a modified starch that is cross-linked with phosphate and also acetylated. The base starch comes from maize, potato, tapioca or similar crops.\n\nIt is used as a thickening agent, stabiliser and emulsifier, especially in sauces, soups, fillings and frozen foods, where it tolerates heat, acid and freezing.\n\nIt is approved in the EU."
-},
-{
-"code":"E1420",
-"name":"Acetylated starch",
-"text":"Acetylated starch, also called starch acetate, is a modified starch esterified with acetic anhydride. The starch comes from maize, potato, tapioca or similar crops.\n\nThe acetyl groups prevent the starch paste from thickening or turning cloudy when cooled. It is used as a thickening agent and stabiliser in canned and frozen foods, sauces and fillings.\n\nIt is approved in the EU."
-},
-{
-"code":"E1421",
-"name":"Starch acetate (vinyl acetate)",
-"text":"This is a modified starch esterified with vinyl acetate, giving acetylated starch similar to E1420 but made with a different reagent. The base starch comes from maize, potato or similar crops.\n\nIt is used as a thickening agent and stabiliser in foods where a stable, smooth paste is wanted.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1422",
-"name":"Acetylated distarch adipate",
-"text":"Acetylated distarch adipate is a modified starch cross-linked with adipic acid and acetylated with acetic anhydride. The base starch comes from maize, potato, tapioca or similar crops.\n\nIt is used as a thickening agent and stabiliser in sauces, soups, dressings, fillings and baby foods, because it resists heat, acid and freezing.\n\nIt is approved in the EU."
-},
-{
-"code":"E1423",
-"name":"Acetylated distarch glycerol",
-"text":"Acetylated distarch glycerol is a modified starch in which starch chains are cross-linked with glycerol and acetylated. The base starch comes from maize, potato or similar crops.\n\nIt is used as a thickening agent in foods.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1430",
-"name":"Distarch glycerine",
-"text":"Distarch glycerine is a modified starch whose chains are cross-linked with glycerol. The starch comes from maize, potato or other crops.\n\nIt is used as a thickening agent and stabiliser in foods that need a stable paste.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1440",
-"name":"Hydroxypropyl starch",
-"text":"Hydroxypropyl starch is a modified starch made by reacting starch with propylene oxide. The starch comes from maize, potato, tapioca or similar crops.\n\nIt forms stable, clear pastes that resist freezing and thawing. It is used as a thickening agent and emulsifier in sauces, desserts, fillings and frozen foods.\n\nIt is approved in the EU."
-},
-{
-"code":"E1441",
-"name":"Hydroxypropyl distarch glycerine",
-"text":"Hydroxypropyl distarch glycerine is a modified starch that is cross-linked with glycerol and also reacted with propylene oxide. The base starch comes from maize, potato or similar crops.\n\nIt is used as a thickening agent and stabiliser in foods that need a stable texture.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1442",
-"name":"Hydroxypropyl distarch phosphate",
-"text":"Hydroxypropyl distarch phosphate is a modified starch that is cross-linked with phosphate and also reacted with propylene oxide. The base starch comes from maize, potato, tapioca or similar crops.\n\nIt is used as a thickening agent and stabiliser in sauces, desserts, fillings and frozen foods, where it tolerates heat, acid and freezing.\n\nIt is approved in the EU."
-},
-{
-"code":"E1443",
-"name":"Hydroxypropyl distarch glycerol",
-"text":"Hydroxypropyl distarch glycerol is a modified starch that is cross-linked with glycerol and treated with propylene oxide. The base starch comes from maize, potato or similar crops.\n\nIt acts as a thickener in foods.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1450",
-"name":"Starch sodium octenyl succinate",
-"text":"Starch sodium octenyl succinate is a modified starch esterified with octenyl succinic anhydride, which gives it both water-loving and fat-loving properties. The base starch comes from maize, waxy maize or similar crops.\n\nIt is used as an emulsifier and stabiliser, for example in beverage emulsions, flavour encapsulation and dressings.\n\nIt is approved in the EU."
-},
-{
-"code":"E1451",
-"name":"Acetylated oxidised starch",
-"text":"Acetylated oxidised starch is a modified starch that has been oxidised and then acetylated. The base starch comes from maize, potato or similar crops.\n\nIt is used as a thickening agent and emulsifier in foods such as sauces, batters and fillings.\n\nIt is approved in the EU."
-},
-{
-"code":"E1452",
-"name":"Starch aluminium octenyl succinate",
-"text":"Starch aluminium octenyl succinate is a modified starch esterified with octenyl succinic anhydride and combined with aluminium. The base starch comes from maize or similar crops.\n\nIt is used in powdered foods and supplements, where it works as an anti-caking agent and helps keep powders free-flowing.\n\nIt is approved in the EU."
-},
-{
-"code":"E1501",
-"name":"Benzylated hydrocarbons",
-"text":"Benzylated hydrocarbons are synthetic compounds. Little reliable information is available about this additive.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1502",
-"name":"Butane-1,3-diol",
-"text":"Butane-1,3-diol, also called 1,3-butylene glycol, is a synthetic alcohol with two hydroxyl groups. It is a colourless, syrupy, water-soluble liquid.\n\nIt can serve as a solvent for flavourings and as a humectant.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1503",
-"name":"Castor oil",
-"text":"Castor oil is a vegetable oil pressed from the seeds of the castor plant (Ricinus communis). It consists mostly of ricinoleic acid.\n\nIn food it is used as a release agent and as a component of coatings and glazes on sweets, as well as a flavouring solvent. It is also classed as a resolving agent.\n\nNo EU or US approval status is recorded for it. In larger amounts castor oil is known to act as a laxative."
-},
-{
-"code":"E1504",
-"name":"Ethyl acetate",
-"text":"Ethyl acetate is the ester of ethanol and acetic acid. It occurs naturally in fruits and wine and is also produced industrially. It is a volatile liquid with a fruity smell.\n\nIt is used as a solvent for flavourings and in extracting natural substances, for example in decaffeination.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1505",
-"name":"Triethyl citrate",
-"text":"Triethyl citrate is the ethyl ester of citric acid, produced by synthesis. It is a colourless, nearly odourless liquid.\n\nIn food it is used as a foam stabiliser, notably to help whipped egg white keep its volume, and as a solvent and carrier for flavourings. It is also used as a plasticiser in coatings.\n\nIt is approved in the EU."
-},
-{
-"code":"E1510",
-"name":"Ethanol",
-"text":"Ethanol is the alcohol found in alcoholic drinks. It is produced by fermentation of sugars or synthetically.\n\nAs an additive it is used as a solvent and carrier for flavourings, colours and other additives. Only small residual amounts remain in finished foods.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1516",
-"name":"Glyceryl monoacetate",
-"text":"Glyceryl monoacetate, or monoacetin, is an ester of glycerol and acetic acid. It is made synthetically and is a colourless, viscous liquid.\n\nIn food it serves as a solvent for flavourings.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1517",
-"name":"Glyceryl diacetate",
-"text":"Glyceryl diacetate, also called diacetin, is an ester of glycerol with two acetic acid groups. It is made synthetically.\n\nIn food it is used as a solvent for flavourings.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1518",
-"name":"Glyceryl triacetate",
-"text":"Glyceryl triacetate, or triacetin, is an ester of glycerol with three acetic acid groups. It is made synthetically and is an oily liquid with a faint odour.\n\nIn food it is used as a humectant and as a solvent and carrier for flavourings, for example in chewing gum and baked goods.\n\nIt is approved in the EU."
-},
-{
-"code":"E1519",
-"name":"Benzyl alcohol",
-"text":"Benzyl alcohol is an aromatic alcohol that occurs naturally in some plants, essential oils and fruits, and is also produced synthetically. It has a faint sweet smell.\n\nIn food it is used as a solvent and carrier for flavourings.\n\nNo EU or US approval status is recorded for it."
-},
-{
-"code":"E1520",
-"name":"Propylene glycol",
-"text":"Propylene glycol is a synthetic, colourless, slightly sweet and viscous liquid, produced from petrochemical raw materials. It is not the same as the toxic ethylene glycol.\n\nIn food it is used as a humectant and as a solvent and carrier for flavourings and colours, for example in baked goods, sauces and drinks.\n\nIt is approved in the EU."
-},
-{
-"code":"E1521",
-"name":"Polyethylene glycol",
-"text":"Polyethylene glycol 8000 is a synthetic water-soluble polymer of ethylene oxide. It is a waxy white solid.\n\nIn food and supplements it is used as a coating, binder and glazing agent, for example on tablets.\n\nIt is noted as approved in 2010, but the region is not stated, so its EU and US status is unclear."
-},
-{
-"code":"E1525",
-"name":"Hydroxyethyl cellulose",
-"text":"Hydroxyethyl cellulose is a modified cellulose, made by reacting plant cellulose with ethylene oxide. It dissolves in water to give a thick, clear solution.\n\nIt is used as a thickening agent in foods and supplements and as a binder and film former.\n\nNo EU or US approval status is recorded for it."
-}
+  {
+    "code": "E1000",
+    "name": "Cholic acid",
+    "text": "Cholic acid is one of the two main bile acids that the liver makes from cholesterol. It is a white crystalline substance that does not dissolve in water; its salts are called cholates.\n\nAs a food additive it is classed as an emulsifier, a substance that helps fat and water mix."
+  },
+  {
+    "code": "E1001",
+    "name": "Choline salts and esters",
+    "text": "This group covers compounds of choline: choline acetate, carbonate, chloride, citrate, tartrate and lactate. Choline is an essential nutrient found in foods such as liver, egg yolks and dairy products.\n\nAs food additives these compounds are classed as emulsifiers, which help keep fat and water mixed. Choline chloride and choline bitartrate are also used in dietary supplements."
+  },
+  {
+    "code": "E1100",
+    "name": "Amylases",
+    "text": "Amylases are enzymes that break starch down into sugars. They occur naturally in human saliva and the pancreas, as well as in plants, fungi and bacteria. For food use amylase may be obtained from pig pancreas or from moulds, and some amylases are produced by bacteria such as Bacillus species.\n\nAs a food additive amylase is classed as a flour treatment agent. In breadmaking it turns starch in flour into sugars that yeast can ferment, and amylases are also important in brewing.\n\nBakers with long exposure to amylase-enriched flour are at risk of developing dermatitis or asthma."
+  },
+  {
+    "code": "E1101",
+    "name": "Proteases",
+    "text": "Proteases are enzymes that break down proteins. The group includes papain from papaya, bromelain from pineapple, ficin from the latex of fig trees, and proteases produced by microorganisms such as Aspergillus oryzae and Bacillus subtilis.\n\nAs food additives they are classed as flour treatment agents, flavour enhancers and stabilisers. Papain and bromelain are widely used to tenderise meat, proteases are added to bread improvers, and ficin has been used in making freeze-resistant beer."
+  },
+  {
+    "code": "E1102",
+    "name": "Glucose oxidase",
+    "text": "Glucose oxidase is an enzyme that uses oxygen to oxidise glucose, producing gluconic acid and hydrogen peroxide. It is made by certain fungi, such as Aspergillus niger, and by some insects; honeybees add it to honey, where it acts as a natural preservative.\n\nAs a food additive it is classed as an antioxidant. It is used to remove oxygen and glucose from packaged foods such as dried egg powder, preventing unwanted browning and off-flavours, and it strengthens dough in baking."
+  },
+  {
+    "code": "E1103",
+    "name": "Invertase",
+    "text": "Invertase is an enzyme that splits sucrose into glucose and fructose, producing invert sugar syrup. It is made by many organisms, including bees, which use it to make honey; for industrial use it is usually obtained from yeast.\n\nAs a food additive it is classed as a stabiliser. In chocolate-covered sweets, cordials and fondants it liquefies the sugar, giving soft or liquid centres."
+  },
+  {
+    "code": "E1104",
+    "name": "Lipases",
+    "text": "Lipases are enzymes that break down fats, releasing fatty acids. They are generally obtained from animal sources, but can also be produced by microorganisms.\n\nAs a food additive lipase is classed as a flavour enhancer. Lipase from the pregastric (mouth and throat) tissues of calves, young goats and lambs has been used in cheese making for centuries: the fatty acids it releases from milk fat enhance the flavour of the cheese."
+  },
+  {
+    "code": "E1105",
+    "name": "Lysozyme",
+    "text": "Lysozyme is an enzyme that breaks down the cell walls of bacteria, especially Gram-positive bacteria. It occurs in tears, saliva, human milk and mucus, and in large amounts in egg white; the food additive is obtained from hen egg white.\n\nIt is used as a preservative in cheese making, beer and wine. In ripened cheeses it helps prevent the late gas formation (\"blowing\") caused by Clostridium bacteria.\n\nBecause it comes from egg, residues in treated foods may trigger allergic reactions in people sensitive to egg."
+  },
+  {
+    "code": "E1200",
+    "name": "Polydextrose",
+    "text": "Polydextrose is a synthetic polymer of glucose. It is made by heating glucose with about 10 percent sorbitol and a small amount of citric or phosphoric acid. It counts as soluble fibre and provides about 1 kcal per gram.\n\nIt is used as a bulking agent, humectant, stabiliser and thickener, and replaces sugar, starch or fat in drinks, cakes, sweets, desserts, breakfast cereals and salad dressings.\n\nLarge amounts can have a laxative effect and cause intestinal gas."
+  },
+  {
+    "code": "E1201",
+    "name": "Polyvinylpyrrolidone",
+    "text": "Polyvinylpyrrolidone (PVP), also called povidone, is a synthetic water-soluble polymer made from N-vinylpyrrolidone. When taken by mouth, little or none of it is absorbed into the body.\n\nAs a food additive it is classed as a stabiliser, thickener, dispersing agent and coating agent. In food its use is mainly in food supplements such as tablets; in medicines it is a common tablet binder."
+  },
+  {
+    "code": "E1202",
+    "name": "Polyvinylpolypyrrolidone",
+    "text": "Polyvinylpolypyrrolidone (PVPP), also called crospovidone, is a highly cross-linked form of polyvinylpyrrolidone. It does not dissolve in water but absorbs it and swells rapidly, which makes it useful as a disintegrant in tablets, including food supplements.\n\nIn winemaking and brewing it is used as a processing aid that binds polyphenols and tannins, giving clear beers with stable foam. It is then removed by filtration, so only negligible amounts remain in the drink."
+  },
+  {
+    "code": "E1203",
+    "name": "Polyvinyl alcohol",
+    "text": "Polyvinyl alcohol is a synthetic water-soluble polymer. It is not made from its own monomer but by hydrolysis of polyvinyl acetate.\n\nAs a food additive it is classed as a coating and sealing agent and as a binder. Its food use is mainly as a coating for food supplements in tablet form."
+  },
+  {
+    "code": "E1204",
+    "name": "Pullulan",
+    "text": "Pullulan is a polysaccharide made of glucose units. It is produced by fermenting hydrolysed starch with the fungus Aureobasidium pullulans.\n\nIt is edible and almost tasteless, and its main commercial use is in edible films such as breath-freshening strips. It is also used to make capsules, as a vegetarian alternative to gelatine, and as a glazing agent and thickener.\n\nPart of it is not digested and is fermented in the gut; large amounts can cause flatulence."
+  },
+  {
+    "code": "E1205",
+    "name": "Basic methacrylate copolymer",
+    "text": "Basic methacrylate copolymer is a synthetic polymer made from three monomers: methyl methacrylate, butyl methacrylate and dimethylaminoethyl methacrylate. The solid polymer does not dissolve in water, but films made from it dissolve in stomach acid.\n\nIt is used as a glazing and coating agent on solid food supplements such as tablets, where the coating protects against moisture and masks taste or odour. Because of its large molecular size it is not absorbed by the body."
+  },
+  {
+    "code": "E1206",
+    "name": "Neutral methacrylate copolymer",
+    "text": "Neutral methacrylate copolymer is a synthetic polymer made from methyl methacrylate and ethyl acrylate by emulsion polymerisation. It is supplied as a dispersion in water.\n\nIt is used as a glazing agent to coat food supplements in solid form, such as tablets and capsules, but not chewable ones. It is essentially not absorbed by the body."
+  },
+  {
+    "code": "E1207",
+    "name": "Anionic methacrylate copolymer",
+    "text": "Anionic methacrylate copolymer is a synthetic polymer made from methacrylic acid, methyl methacrylate and methyl acrylate by emulsion polymerisation. It is supplied as a dispersion in water.\n\nIt is used as a coating agent for food supplements in solid form, such as tablets and capsules, but not chewable ones. It is essentially not absorbed by the body."
+  },
+  {
+    "code": "E1208",
+    "name": "Polyvinylpyrrolidone-vinyl acetate copolymer",
+    "text": "Polyvinylpyrrolidone-vinyl acetate copolymer, also called copovidone, is a synthetic polymer made by copolymerising N-vinyl-2-pyrrolidone with vinyl acetate.\n\nIt is used as a binding and coating agent in food supplements in solid form, such as tablets, but not chewable ones. Little of it is absorbed when swallowed; most passes through the gut unchanged and is excreted."
+  },
+  {
+    "code": "E1209",
+    "name": "Polyvinyl alcohol-polyethylene glycol graft copolymer",
+    "text": "This is a synthetic graft copolymer made of about 75 percent polyvinyl alcohol units and 25 percent polyethylene glycol units. It is a white to faintly yellow powder.\n\nIt is used to make quick-dissolving film coatings for food supplements in solid form, such as tablets and capsules, but not chewable ones. Its absorption by the body is negligible."
+  },
+  {
+    "code": "E1210",
+    "name": "Carbomer",
+    "text": "Carbomer is a synthetic polymer of acrylic acid whose chains are cross-linked with allyl pentaerythritol.\n\nThe EU added it to its list of food additives in 2023 for use in food supplements only. In solid supplements it acts as a bulking agent and stabiliser, giving a controlled, extended release of nutrients and allowing smaller tablets that are easier to swallow; in liquid supplements it is a stabiliser and thickener.\n\nIn 2021 EFSA found no evidence that carbomer is absorbed or transformed in the body and no concern about genotoxicity, and set an acceptable daily intake of 190 mg/kg body weight per day."
+  },
+  {
+    "code": "E1400",
+    "name": "Dextrins",
+    "text": "Dextrins are carbohydrates made of glucose units, with shorter chains than starch. For industrial use they are made by roasting dry starch, with or without a little acid. They are white, yellow or brown powders that dissolve partly or fully in water, giving solutions of low viscosity.\n\nAs a food additive dextrin is classed as a thickener, stabiliser, emulsifier and carrier. White dextrins are used to add crispness to batters, coatings and glazes."
+  },
+  {
+    "code": "E1401",
+    "name": "Acid-treated starch",
+    "text": "Acid-treated starch, also called thin-boiling starch, is made by treating starch with an inorganic acid such as hydrochloric acid. This partly breaks down the starch molecules and lowers the viscosity of the cooked starch.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier. One example of its use is forming the shell of jelly beans."
+  },
+  {
+    "code": "E1402",
+    "name": "Alkaline-treated starch",
+    "text": "Alkaline-treated starch is a modified starch made by treating starch with an alkali such as sodium hydroxide or potassium hydroxide.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier, like other modified starches."
+  },
+  {
+    "code": "E1403",
+    "name": "Bleached starch",
+    "text": "Bleached starch is a modified starch that has been whitened by treatment with a bleaching agent such as hydrogen peroxide.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier, like other modified starches."
+  },
+  {
+    "code": "E1404",
+    "name": "Oxidised starch",
+    "text": "Oxidised starch is made by treating starch in an alkaline slurry with sodium hypochlorite. Because of this it is sometimes called \"chlorinated\" starch, although its structure contains no chlorine. The treatment lowers the viscosity of the cooked starch.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier. It is used, for example, to make batter stickier."
+  },
+  {
+    "code": "E1405",
+    "name": "Enzyme-treated starch",
+    "text": "Enzyme-treated starch is starch that has been partly broken down by enzymes such as amylases, giving shorter carbohydrate chains. Products made this way include maltodextrin and cyclodextrin.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier."
+  },
+  {
+    "code": "E1410",
+    "name": "Monostarch phosphate",
+    "text": "Monostarch phosphate is a modified starch made by esterifying starch with orthophosphoric acid, sodium or potassium orthophosphate, or sodium tripolyphosphate. The phosphate groups reduce retrogradation, the gradual stiffening and water loss of cooked starch, and let the starch absorb more water.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier.\n\nIt is not absorbed intact: intestinal enzymes break much of it down, and the rest is fermented by gut bacteria."
+  },
+  {
+    "code": "E1411",
+    "name": "Distarch glycerol",
+    "text": "Distarch glycerol is a chemically modified starch. It is made by treating starch with a small amount of epichlorohydrin under alkaline conditions, which links neighbouring starch chains through glycerol bridges, roughly one link per 220 glucose units.\n\nLike other modified starches, it was intended for use as a thickener in food."
+  },
+  {
+    "code": "E1412",
+    "name": "Distarch phosphate",
+    "text": "Distarch phosphate is a modified starch made by treating starch with sodium trimetaphosphate or phosphorus oxychloride. These reagents cross-link the starch chains with phosphate bridges, which changes the texture and flow properties of the thickened food.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier.\n\nIt is not absorbed intact: intestinal enzymes break much of it down, and the rest is fermented by gut bacteria."
+  },
+  {
+    "code": "E1413",
+    "name": "Phosphated distarch phosphate",
+    "text": "Phosphated distarch phosphate is a modified starch that combines the treatments used for monostarch phosphate (E1410) and distarch phosphate (E1412): the starch chains are cross-linked by phosphate bridges and also esterified with phosphate. The starting starch can come from wheat, potato, tapioca or other plants.\n\nIt is used as a thickener, stabiliser and emulsifier. Because it stays stable through freezing and thawing, it is used in products such as soups, sauces, frozen gravies and pie fillings.\n\nIn 2017 EFSA concluded that modified starches raise no safety concern at the reported uses and that no numerical acceptable daily intake is needed."
+  },
+  {
+    "code": "E1414",
+    "name": "Acetylated distarch phosphate",
+    "text": "Acetylated distarch phosphate is a modified starch that is cross-linked with sodium trimetaphosphate or phosphorus oxychloride and esterified with acetic anhydride or vinyl acetate.\n\nIt is used as a thickener, stabiliser and emulsifier. It is not absorbed intact: it is largely broken down by intestinal enzymes and then fermented by gut bacteria.\n\nIn 2017 EFSA concluded that modified starches raise no safety concern at the reported uses and that no numerical acceptable daily intake is needed."
+  },
+  {
+    "code": "E1420",
+    "name": "Acetylated starch",
+    "text": "Acetylated starch, also called starch acetate, is a modified starch esterified with acetic anhydride or vinyl acetate.\n\nIt is used as a thickener and stabiliser, and is also listed as an emulsifier. It is not absorbed intact: it is largely broken down by intestinal enzymes and then fermented by gut bacteria.\n\nIn 2017 EFSA concluded that modified starches raise no safety concern at the reported uses and that no numerical acceptable daily intake is needed."
+  },
+  {
+    "code": "E1421",
+    "name": "Starch acetate esterified with vinyl acetate",
+    "text": "This is a modified starch: starch converted into starch acetate using vinyl acetate as the acetylating reagent. Its functions are those of a thickener, stabiliser, emulsifier and bulking agent.\n\nStarch acetylated with vinyl acetate is now covered by the specification for acetylated starch (E1420), which allows either acetic anhydride or vinyl acetate as the reagent."
+  },
+  {
+    "code": "E1422",
+    "name": "Acetylated distarch adipate",
+    "text": "Acetylated distarch adipate is a modified starch cross-linked with adipic anhydride and esterified with acetic anhydride. The treatment makes the starch more resistant to high temperatures.\n\nIt is used as a thickener and stabiliser, and is also listed as an emulsifier.\n\nIn 2017 EFSA concluded that modified starches raise no safety concern at the reported uses and that no numerical acceptable daily intake is needed."
+  },
+  {
+    "code": "E1423",
+    "name": "Acetylated distarch glycerol",
+    "text": "Acetylated distarch glycerol is a modified starch whose chains are cross-linked by glycerol bridges, formed by treating the starch with epichlorohydrin, and which is also acetylated. Its functions are those of a thickener and emulsifier.\n\nIn 1982 the Joint FAO/WHO Expert Committee on Food Additives (JECFA) allocated it no acceptable daily intake and withdrew its specification."
+  },
+  {
+    "code": "E1430",
+    "name": "Distarch glycerol",
+    "text": "Distarch glycerol (also written distarch glycerine) is a modified starch whose chains are cross-linked by glycerol diether bridges. These form when starch is treated with epichlorohydrin under alkaline conditions.\n\nIt belongs to the cross-linked modified starches, which are used as thickeners and stabilisers. In international and Russian additive lists the same substance carries the number 1411 (E1411)."
+  },
+  {
+    "code": "E1440",
+    "name": "Hydroxypropyl starch",
+    "text": "Hydroxypropyl starch is a modified starch etherified with propylene oxide. The treatment improves the stability of the starch's thickening power.\n\nIt is used as a thickener, stabiliser and emulsifier.\n\nIn 2017 EFSA concluded that modified starches raise no safety concern at the reported uses and that no numerical acceptable daily intake is needed."
+  },
+  {
+    "code": "E1441",
+    "name": "Hydroxypropyl distarch glycerol",
+    "text": "Hydroxypropyl distarch glycerol (also written hydroxypropyl distarch glycerine) is a modified starch made with two reagents: a small amount of epichlorohydrin, which cross-links the starch chains, and propylene oxide, which adds hydroxypropyl groups. Its functions are those of a thickener and emulsifier. In Russian additive rules the same substance has carried the number E1443.\n\nIn 1982 the Joint FAO/WHO Expert Committee on Food Additives (JECFA) allocated it no acceptable daily intake and withdrew its specification."
+  },
+  {
+    "code": "E1442",
+    "name": "Hydroxypropyl distarch phosphate",
+    "text": "Hydroxypropyl distarch phosphate is a modified starch cross-linked with sodium trimetaphosphate or phosphorus oxychloride and etherified with propylene oxide.\n\nIt is used as a thickener, stabiliser and emulsifier, and also as an anti-caking agent.\n\nIn 2017 EFSA concluded that modified starches raise no safety concern at the reported uses and that no numerical acceptable daily intake is needed."
+  },
+  {
+    "code": "E1443",
+    "name": "Hydroxypropyl distarch glycerol",
+    "text": "Hydroxypropyl distarch glycerol is a modified starch made with two reagents: a small amount of epichlorohydrin, which cross-links the starch chains, and propylene oxide, which adds hydroxypropyl groups. Its functions are those of a thickener and emulsifier. The same substance also appears under the number E1441.\n\nIn 1982 the Joint FAO/WHO Expert Committee on Food Additives (JECFA) allocated it no acceptable daily intake and withdrew its specification."
+  },
+  {
+    "code": "E1450",
+    "name": "Starch sodium octenyl succinate",
+    "text": "Starch sodium octenyl succinate is a modified starch esterified with octenylsuccinic anhydride. The octenyl groups make the starch partly fat-attracting, which is why it works as an emulsifier.\n\nIt is used as an emulsifier, stabiliser and thickener, including in infant formulae and baby foods, and as a carrier for added nutrients such as vitamins. It is not absorbed intact: it is largely broken down by intestinal enzymes and then fermented by gut bacteria.\n\nIn 2017 EFSA concluded that modified starches raise no safety concern at the reported uses and that no numerical acceptable daily intake is needed."
+  },
+  {
+    "code": "E1451",
+    "name": "Acetylated oxidised starch",
+    "text": "Acetylated oxidised starch is a modified starch that is first treated with sodium hypochlorite (oxidised) and then esterified with acetic anhydride.\n\nIt is used as a thickener, stabiliser and emulsifier.\n\nIn 2017 EFSA concluded that modified starches raise no safety concern at the reported uses and that no numerical acceptable daily intake is needed."
+  },
+  {
+    "code": "E1452",
+    "name": "Starch aluminium octenyl succinate",
+    "text": "Starch aluminium octenyl succinate is a modified starch esterified with octenylsuccinic anhydride and then treated with aluminium sulphate.\n\nIts functions are those of an anti-caking agent, carrier and stabiliser. It is used to encapsulate vitamin preparations in food supplements.\n\nIn 2017 EFSA concluded that modified starches, this one included, raise no safety concern at the reported uses and that no numerical acceptable daily intake is needed."
+  },
+  {
+    "code": "E1501",
+    "name": "Benzylated hydrocarbons",
+    "text": "Benzylated hydrocarbons are synthetic hydrocarbons that carry benzyl groups; the name covers a group of compounds rather than one defined substance. The number sits in the series used for carriers and solvents, but no specific food use of this substance is documented."
+  },
+  {
+    "code": "E1502",
+    "name": "Butane-1,3-diol",
+    "text": "Butane-1,3-diol, also called 1,3-butylene glycol, is an alcohol with two hydroxyl groups. It is a colourless, bittersweet liquid that dissolves in water. It is made industrially from acetaldehyde and also occurs naturally in bell peppers.\n\nIn food it is used as a solvent for flavourings and as a flavouring ingredient."
+  },
+  {
+    "code": "E1503",
+    "name": "Castor oil",
+    "text": "Castor oil is a vegetable oil pressed from the seeds of the castor plant (Ricinus communis). About 90 percent of its fatty acids are ricinoleic acid.\n\nAs a food additive it serves as a glazing agent, an anti-caking agent, a carrier solvent and an emulsifier.\n\nTaken by mouth in larger amounts, castor oil acts as a laxative; the effect comes from ricinoleic acid released in the small intestine."
+  },
+  {
+    "code": "E1504",
+    "name": "Cyclotetraglucose",
+    "text": "Cyclotetraglucose is a ring-shaped carbohydrate built from four glucose units. It is made from hydrolysed food starch with the help of two enzymes. The product is a syrup, or a dried white solid, made up of several sugars in which cyclotetraglucose is the largest component; it is sold as cyclotetraglucose syrup (E1504(ii)).\n\nIt is used as a carrier, and is also classed as a stabiliser.\n\nIn 2009 the Joint FAO/WHO Expert Committee on Food Additives (JECFA) evaluated it and saw no need to set a numerical acceptable daily intake."
+  },
+  {
+    "code": "E1505",
+    "name": "Triethyl citrate",
+    "text": "Triethyl citrate is the ethyl ester of citric acid. It is a colourless, odourless liquid.\n\nIn food it is used to stabilise foams, especially as a whipping aid for egg white, and as an emulsifier and a carrier solvent, for example for flavourings. It is also a plasticiser, used in coatings for tablets and in plastics."
+  },
+  {
+    "code": "E1510",
+    "name": "Ethanol",
+    "text": "Ethanol (ethyl alcohol) is the alcohol found in alcoholic drinks: a volatile, flammable, colourless liquid. It is produced by yeast fermentation of sugars or from petrochemicals, by hydration of ethylene.\n\nIn food production it serves as an extraction solvent and carrier solvent and as a flavouring agent."
+  },
+  {
+    "code": "E1516",
+    "name": "Glyceryl monoacetate",
+    "text": "Glyceryl monoacetate, or monoacetin, is an ester of glycerol with one acetic acid group. It is one of the glycerine acetates formed when glycerol is esterified with acetic acid, alongside glyceryl diacetate (E1517) and glyceryl triacetate (E1518).\n\nJECFA classes it as a carrier solvent; in 1979 it saw no need to set a numerical acceptable daily intake, grouping it with glycerol and its other acetates."
+  },
+  {
+    "code": "E1517",
+    "name": "Glyceryl diacetate",
+    "text": "Glyceryl diacetate, also called diacetin, is the diester of glycerol with acetic acid. It consists mainly of a mixture of the 1,2- and 1,3-diacetates of glycerol, with small amounts of the mono- and triacetates. It is a clear, colourless, somewhat oily liquid that absorbs moisture.\n\nIn food it is used as a carrier, in particular for flavourings."
+  },
+  {
+    "code": "E1518",
+    "name": "Glyceryl triacetate",
+    "text": "Glyceryl triacetate, or triacetin, is the triester of glycerol with acetic acid. It is a colourless, somewhat oily liquid. At low concentrations it tastes mildly sweet, at higher ones bitter.\n\nIn food it is used as a humectant and as a solvent and carrier for flavourings; it is also used in chewing gum. In the body, digestive lipases split it into glycerol and acetate."
+  },
+  {
+    "code": "E1519",
+    "name": "Benzyl alcohol",
+    "text": "Benzyl alcohol is an aromatic alcohol: a clear, colourless liquid with a faint, pleasant aromatic odour. Many plants produce it, and it is found in fruits, teas and essential oils such as jasmine and ylang-ylang; it is also made industrially.\n\nIn food it is used as a carrier in flavourings, for example for liqueurs and other aromatic alcoholic drinks, chocolate and other confectionery, and fine bakery wares.\n\nIn 2019 EFSA set an acceptable daily intake of 4 mg per kg of body weight and concluded that exposure from its use as a food additive raises no safety concern."
+  },
+  {
+    "code": "E1520",
+    "name": "Propylene glycol",
+    "text": "Propylene glycol (propane-1,2-diol) is a clear, colourless, viscous liquid that absorbs moisture. It is almost odourless and tastes faintly sweet. Food-grade propylene glycol is mainly produced from propylene oxide.\n\nIn food it is used as a humectant and as a carrier solvent, especially for flavourings and for colours, emulsifiers and antioxidants. It is also classed as an emulsifier and glazing agent.\n\nEFSA has set an acceptable daily intake of 25 mg per kg of body weight."
+  },
+  {
+    "code": "E1521",
+    "name": "Polyethylene glycol",
+    "text": "Polyethylene glycols (PEG, also called macrogols) are polymers of ethylene oxide, usually named with a number that roughly matches their molecular weight. Low grades such as PEG 400 are viscous liquids; grades from about PEG 3000 to PEG 8000 are white, waxy solids.\n\nIn food it serves as an antifoaming agent, carrier, glazing agent and plasticiser. A notable use is in film coatings for food supplement tablets and capsules.\n\nPolyethylene glycol is also the basis of a number of laxatives, sold under the name macrogol."
+  },
+  {
+    "code": "E1525",
+    "name": "Hydroxyethyl cellulose",
+    "text": "Hydroxyethyl cellulose is a gelling and thickening agent derived from cellulose. It is widely used in cosmetics, household products, paints and coatings, and in capsule formulations of medicines, where it helps poorly water-soluble drugs dissolve in the digestive tract."
+  }
 ]

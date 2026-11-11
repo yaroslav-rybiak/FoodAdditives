@@ -1,342 +1,342 @@
 [
   {
     "code": "E900",
-    "name": "Dimethylpolysiloxane",
-    "text": "Dimethylpolysiloxane is a synthetic silicone polymer, a clear, odourless, oily liquid made from silicon, oxygen and methyl groups. It is not found in nature.\n\nIn food it works as an anti-foaming agent and anti-caking agent. It stops foam forming during cooking and processing, for example in frying oils, jams, soft drinks and fruit juices.\n\nIt is approved in the EU for certain foods and approved in the UK. In the US it is approved for food packaging."
+    "name": "Dimethyl polysiloxane",
+    "text": "Dimethyl polysiloxane (PDMS) is a synthetic silicone polymer built from silicon, oxygen and methyl groups. It is made in grades ranging from a thin, clear liquid to a thick semi-solid.\n\nIn food it is used mainly as an anti-foaming agent and can also act as an anti-caking agent. It is added to many cooking and frying oils to stop foaming and splattering, so traces of it occur in some fried fast food.\n\nA 2020 re-evaluation by the European Food Safety Authority found no safety concern for the reported uses, but recommended a maximum limit for cyclic siloxane impurities left over from manufacture."
   },
   {
     "code": "E901",
     "name": "Beeswax",
-    "text": "Beeswax is a natural wax secreted by honeybees to build honeycomb. It is collected during honey processing and comes as white or yellow wax, depending on whether it has been bleached.\n\nIn food it is used as a glazing agent, giving a protective shiny coating to confectionery, fruit and some tablets, and it is also used to coat cheese rinds.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US. It is not suitable for strict vegans because it is an animal product."
+    "text": "Beeswax is a natural wax produced by honey bees, which use it to build the cells of the honeycomb. For human use it comes mainly from the cappings cut off during honey extraction and from old comb. Yellow beeswax is the crude product; white beeswax is yellow wax that has been bleached or filtered.\n\nIn food it is used as a glazing agent that prevents water loss and protects the surface of some fruit. It is also used to coat cheese, in tablet coatings and soft capsules, and in chewing gum.\n\nHumans digest it poorly, so it has no meaningful nutritional value. As an animal product it is not vegan."
   },
   {
     "code": "E902",
     "name": "Candelilla wax",
-    "text": "Candelilla wax is a natural plant wax obtained from the leaves of the candelilla shrub, which grows in northern Mexico and the south-western United States.\n\nIt serves as a glazing agent, giving a hard, glossy finish. It is used in chewing gum bases, hard candies and as a coating on some confectionery.\n\nIt is approved in the EU for certain foods and approved in the UK. In the US it is approved for chewing gum and hard candy."
+    "text": "Candelilla wax is a natural plant wax obtained from the leaves and stems of the candelilla shrub (Euphorbia antisyphilitica), which is native to northern Mexico and the south-western United States. It is a hard, brittle, yellowish-brown wax.\n\nIn food it is used as a glazing agent. One of its main uses is as a binder in chewing gum, and it can replace carnauba wax or beeswax."
   },
   {
     "code": "E903",
     "name": "Carnauba wax",
-    "text": "Carnauba wax is a hard natural wax collected from the leaves of the carnauba palm, which grows in north-eastern Brazil. It is known for its high melting point and strong shine.\n\nAs a glazing agent it is used to polish confectionery such as dragees and chocolate-coated sweets, to coat fresh fruit and in chewing gum.\n\nIt is approved in the EU for certain foods and approved in the UK. In the US it is approved for certain foods."
+    "text": "Carnauba wax is a natural wax from the leaves of the carnauba palm (Copernicia prunifera), which grows only in north-eastern Brazil. The leaves are dried and beaten to loosen the wax, which is then refined and bleached. It has one of the highest melting points of any natural wax.\n\nBecause it gives a glossy finish, it is used as a glazing agent on foods such as sweets."
   },
   {
     "code": "E904",
     "name": "Shellac",
-    "text": "Shellac is a natural resin secreted by the lac insect, which lives on trees in India and Thailand. The resin is scraped off, purified and sometimes bleached, and is sold as flakes.\n\nIn food it is used as a glazing agent to give a glossy, protective coating to confectionery, tablets, food supplements and the skin of some fruit such as apples and citrus.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US. As an insect product it is not vegan."
+    "text": "Shellac is a natural resin secreted by the female lac bug (Kerria lacca) on trees in the forests of India and Thailand. It is scraped from the bark, processed and sold as dry flakes.\n\nIn food and medicines it is used as a glazing agent, known as confectioner's glaze, on sweets and pills. It is also used as a coating on citrus fruit to extend storage life, and as part of the coating that replaces the natural wax removed from apples during cleaning.\n\nAs an insect product it is not vegan."
   },
   {
     "code": "E905",
     "name": "Microcrystalline wax",
-    "text": "Microcrystalline wax is a refined wax made from petroleum. It consists of a mixture of saturated hydrocarbons and is more flexible and finer-grained than ordinary paraffin wax.\n\nIn practice such waxes are used as coatings and surface treatments, for example on cheese rinds and some fruit, and in chewing gum bases.\n\nIt is approved in the EU for certain foods and approved in the UK. It is not approved in the US under this listing."
+    "text": "Microcrystalline wax is a petroleum wax made by removing the oil from petrolatum during petroleum refining. It is a mixture of high-molecular-weight saturated hydrocarbons with more branched and ring-shaped molecules than paraffin wax. Its crystals are much finer, which makes it more flexible and sticky than paraffin wax, with a higher melting point.\n\nIn food it is used as a glazing agent and can also act as an anti-foaming agent."
   },
   {
     "code": "E905a",
-    "name": "High viscosity mineral oils",
-    "text": "Mineral oils are highly refined mixtures of liquid hydrocarbons derived from petroleum. High viscosity grades are thick, colourless, tasteless and odourless.\n\nThey are used as anti-foaming agents and as release or coating agents, for example in confectionery and on dried fruit.\n\nThey are approved in the EU for certain foods, not approved in the UK, and approved in the US. Only highly purified food-grade oils are suitable for food use."
+    "name": "Mineral oil, food grade",
+    "text": "Food-grade mineral oil is a highly refined, colourless and odourless liquid mixture of hydrocarbons (alkanes and cycloalkanes) obtained from petroleum.\n\nIt is used as a glazing and sealing agent. In confectionery it gives a glossy finish and keeps sweets from sticking together, and it is also used on machinery in the baking industry. Its use in food is self-limiting because it has a laxative effect."
   },
   {
     "code": "E905b",
-    "name": "Petrolatum",
-    "text": "Petrolatum, better known as petroleum jelly or Vaseline, is a semi-solid mixture of hydrocarbons obtained by refining petroleum. It is odourless and water-repellent.\n\nIt is used in small amounts as a release or protective coating agent, for example in baking and confectionery.\n\nIt is not approved in the EU or the UK. In the US it is approved for certain foods."
+    "name": "Petrolatum (petroleum jelly)",
+    "text": "Petrolatum, better known as petroleum jelly (Vaseline is the best-known brand), is a semi-solid mixture of hydrocarbons obtained from petroleum.\n\nIn food it is classed as a glazing and sealing agent and as an anti-foaming agent."
   },
   {
     "code": "E905c",
     "name": "Petroleum wax",
-    "text": "Petroleum wax is a group of waxes obtained by refining crude oil. It covers microcrystalline wax and paraffin wax, which are mixtures of saturated hydrocarbons and are solid at room temperature.\n\nThey are used as glazing agents, for example as coatings for cheese, fruit and confectionery, and in chewing gum bases.\n\nThey are not approved in the EU or the UK. In the US, petroleum and paraffin waxes are approved for certain foods."
+    "text": "Petroleum wax is the group name for waxes obtained by refining petroleum. It covers microcrystalline wax and paraffin wax, mixtures of saturated hydrocarbons that are solid at room temperature.\n\nThey are used as glazing and sealing agents. Food-grade paraffin wax gives sweets a shiny coating, coats hard cheeses such as Edam, and is used in chewing gum. It is not digested and passes through the body unchanged."
   },
   {
     "code": "E906",
-    "name": "Gum benzoic",
-    "text": "Gum benzoic, or benzoin resin, is an aromatic resin obtained from the bark of Styrax trees growing in South-East Asia. It has a sweet, vanilla-like scent and is also used in perfumery and incense.\n\nIt is classed as a flavour enhancer, though it has seen little use in modern food production.\n\nIt is not approved in the EU, the UK or the US."
+    "name": "Benzoin gum",
+    "text": "Benzoin gum (benzoin resin) is a balsamic resin obtained from the bark of several species of Styrax trees in South-East Asia. It has a sweet, vanilla-like aroma and is widely used in incense and perfumery. Its main active ingredient is benzoic acid.\n\nAs a food additive it is classed as a glazing agent. It is also used as a flavouring, for example in drinks, baked goods, chewing gum and sweets."
   },
   {
     "code": "E907",
     "name": "Hydrogenated poly-1-decene",
-    "text": "Hydrogenated poly-1-decene is a synthetic, wax-like hydrocarbon polymer made from the petrochemical 1-decene. It is chemically stable and almost insoluble in water.\n\nIt is used as a glazing agent, forming a thin protective shine on products such as confectionery and chewing gum.\n\nIt is approved in the EU for certain foods and approved in the UK. It is not approved in the US."
+    "text": "Hydrogenated poly-1-decene is a synthetic hydrocarbon made by polymerising the petrochemical 1-decene and then hydrogenating the product.\n\nIt is used as a glazing agent.\n\nIn a 2020 re-evaluation the European Food Safety Authority found it of low acute toxicity and not a genotoxicity concern, set an acceptable daily intake of 20 mg per kg of body weight, and concluded that its use at the maximum use levels does not raise a safety concern."
   },
   {
     "code": "E908",
     "name": "Rice bran wax",
-    "text": "Rice bran wax is a natural vegetable wax extracted from the oil of rice bran, the outer layer of rice grains, which is a by-product of rice milling.\n\nIt is used as a glazing agent to give a shiny coating to confectionery, chewing gum and fresh fruit and vegetables, and helps retain moisture.\n\nIt is not approved in the EU or the UK. In the US it is approved for chewing gum, candy and fresh fruit and vegetables."
+    "text": "Rice bran wax is an edible vegetable wax extracted from rice bran oil. It consists mainly of esters of long-chain fatty acids and higher alcohols. Because of its relatively high melting point it can replace carnauba wax in most applications.\n\nIt is used as a glazing agent. Its food uses include coatings for fruit and vegetables, confectionery and chewing gum."
   },
   {
     "code": "E909",
     "name": "Spermaceti wax",
-    "text": "Spermaceti is a waxy substance obtained from the head cavity of the sperm whale. It was used historically in candles, cosmetics and ointments.\n\nIt is listed as a glazing agent, but because of whale conservation and the availability of other waxes it is not used in modern food production.\n\nIt is not approved in the EU, the UK or the US."
+    "text": "Spermaceti is a waxy substance found in the head cavity of the sperm whale. It forms hard white crystals that are oily to the touch and have no taste or smell. Whalers extracted it from the 17th century onwards for candles, cosmetics and textiles.\n\nAs a food additive it is classed as a glazing agent. Jojoba esters, made from jojoba oil, are a plant-based wax that is chemically very similar."
   },
   {
     "code": "E910",
     "name": "Wax esters",
-    "text": "Wax esters are esters of long-chain fatty acids with long-chain alcohols. They occur naturally in many plant and animal waxes and can also be produced synthetically.\n\nThey are classed as glazing agents, meaning coatings that give a shiny, protective surface.\n\nThey are not approved in the EU, the UK or the US. Little further information is available for this additive."
+    "text": "Wax esters are esters formed from one fatty acid and one long-chain fatty alcohol. They are the main components of carnauba wax and beeswax, and occur naturally in small amounts in foods such as whole-grain cereals, seeds, nuts, fish roe and some fish.\n\nAs a food additive they are classed as glazing agents."
   },
   {
     "code": "E911",
     "name": "Methyl esters of fatty acids",
-    "text": "Methyl esters of fatty acids are compounds made by reacting fatty acids from vegetable or animal fats with methanol. They are oily liquids.\n\nThey are listed as glazing agents. In the US they are permitted in the processing of raisins, where they help the fruit dry and keep a glossy surface.\n\nThey are not approved in the EU or the UK, and are approved in the US for raisin making."
+    "text": "Methyl esters of fatty acids are made by reacting fats or oils with methanol (transesterification). They are colourless compounds with melting points near room temperature, and are best known as the main components of biodiesel.\n\nAs a food additive they are classed as glazing agents. In the United States, methyl esters of fatty acids from edible fats and oils are used in a water emulsion when grapes are dried to make raisins."
   },
   {
     "code": "E912",
-    "name": "Montanic acid esters",
-    "text": "Montanic acid esters are derived from montan wax, a hard fossil wax extracted from certain types of lignite (brown coal). The wax is refined and esterified to give a stable product.\n\nThey are used as glazing agents, mainly as a protective coating for the peel of citrus fruit.\n\nThey are approved in the EU, not approved in the UK, and approved in the US as a coating for citrus fruit."
+    "name": "Montan acid esters",
+    "text": "Montan acid esters are waxes made from montan wax, a hard fossil plant wax obtained by solvent extraction of certain types of lignite (brown coal).\n\nThey were used as glazing agents for the surface treatment of fruit. The EU had allowed them on citrus fruit, melons, papayas, mangoes, avocados and pineapples, but removed them from its list of food additives in 2014 (Regulation (EU) No 957/2014). The European Food Safety Authority had concluded in 2013 that it could not evaluate their safety because toxicity data were limited and no usage data had been submitted."
   },
   {
     "code": "E913",
     "name": "Lanolin",
-    "text": "Lanolin, or wool grease, is a waxy substance secreted by sheep and recovered during the washing of raw wool. After purification it is a yellowish, sticky wax widely used in cosmetics and skin creams.\n\nIt is listed as a glazing agent and has little use in modern foods.\n\nIt is not approved in the EU or the UK, and in the US it is approved for food packaging only."
+    "text": "Lanolin, or wool wax, is a wax secreted by the sebaceous glands of sheep and other wool-bearing animals. It is recovered when raw wool is washed with hot water and detergent. Chemically it consists mainly of sterol esters rather than true fats.\n\nIt is widely used in skin-care products and cosmetics. As a food additive it is classed as a glazing agent. A compound extracted from lanolin, 7-dehydrocholesterol, is a raw material for making vitamin D3."
   },
   {
     "code": "E914",
-    "name": "Oxidized polyethylene wax",
-    "text": "Oxidized polyethylene wax is a synthetic wax made by partially oxidizing polyethylene, the common plastic. It is a hard, water-resistant solid.\n\nIt is used as a glazing agent, mainly as a protective, shiny coating on the peel of certain fruit such as citrus fruit.\n\nIt is approved in the EU as a coating for certain fruits only, approved in the UK, and approved in the US as a coating for certain fruit."
+    "name": "Oxidised polyethylene wax",
+    "text": "Oxidised polyethylene wax is a synthetic wax made by oxidising polyethylene. It consists of oxidised long-chain acids, alcohols and esters.\n\nIt is used as a glazing agent for the surface treatment of some fruits.\n\nIn a 2015 re-evaluation the European Food Safety Authority found it not genotoxic. The data were insufficient to set an acceptable daily intake, but given the very low estimated intake the authority concluded that its current use is of no safety concern."
   },
   {
     "code": "E915",
     "name": "Esters of colophony",
-    "text": "Colophony, also called rosin, is a resin obtained from pine trees. Esters of colophony are made by reacting it with alcohols such as glycerol, which makes a harder and more stable resin.\n\nThey are listed as glazing agents and are used, among other things, in chewing gum bases.\n\nThey are not approved in the EU or the UK. In the US, colophony is approved for food packaging only."
+    "text": "Colophony, also called rosin, is a resin obtained from pine trees and other conifers, made up mainly of resin acids such as abietic acid. E915 covers its glycerol, methyl and pentaerythritol esters.\n\nThey are classed as glazing agents and are used in medicines and chewing gum. A related compound, glycerol ester of wood rosin (E445), is used as an emulsifier in soft drinks."
   },
   {
     "code": "E916",
     "name": "Calcium iodate",
-    "text": "Calcium iodate is an inorganic salt of iodic acid, a white powder that contains iodine and acts as an oxidizing agent.\n\nIodates have been used as flour improvers that strengthen dough, and as a source of iodine.\n\nIt is not approved in the EU or the UK. In the US it is approved for use in bread."
+    "text": "Calcium iodate is the calcium salt of iodic acid, a colourless inorganic compound. It occurs naturally as the mineral lautarite, the most important mineral source of iodine, which is mined in the Atacama Desert.\n\nAs a food additive it is classed as a flour treatment agent. It is also used as an iodine supplement in chicken feed."
   },
   {
     "code": "E917",
     "name": "Potassium iodate",
-    "text": "Potassium iodate is an inorganic salt containing iodine, a white crystalline powder and a strong oxidizing agent. It is made industrially.\n\nIt has been used as a flour treatment agent in baking and as a source of iodine for iodized salt in some countries.\n\nIt is not approved in the EU or the UK, and is approved in the US for bread."
+    "text": "Potassium iodate (KIO3) is the potassium salt of iodic acid, a white, water-soluble salt and an oxidising agent.\n\nAs a food additive it is classed as a flour treatment agent and is occasionally used as a maturing agent in baking. It is also used in some countries to iodise table salt against iodine deficiency, and to supply iodine in some infant formulas."
   },
   {
     "code": "E918",
     "name": "Nitrogen oxides",
-    "text": "Nitrogen oxides are gaseous compounds of nitrogen and oxygen produced industrially. Some of them are toxic, irritating gases, so the term covers substances needing careful handling.\n\nA typical use is as a propellant.\n\nIt is not approved in the EU or the UK. In the US it is approved as a propellant."
+    "text": "Nitrogen oxides are compounds made only of nitrogen and oxygen, such as nitric oxide (NO) and nitrogen dioxide (NO2).\n\nAs a food additive they are classed as flour treatment agents."
   },
   {
     "code": "E919",
     "name": "Nitrosyl chloride",
-    "text": "Nitrosyl chloride is a toxic, reactive yellow gas made industrially from nitrogen oxides and chlorine. It is a strong oxidizing and bleaching agent.\n\nIt has been described as a flour treatment agent, but it is not used in modern food production.\n\nIt is not approved in the EU, the UK or the US."
+    "text": "Nitrosyl chloride (NOCl) is a yellow gas and a strong oxidising agent. It can be made by combining chlorine with nitric oxide and is a component of aqua regia, the mixture of hydrochloric and nitric acids.\n\nAs a food additive it is classed as a flour treatment agent."
   },
   {
     "code": "E920",
     "name": "L-cysteine",
-    "text": "L-cysteine is a sulfur-containing amino acid found in proteins. For food use it is obtained by fermentation or by hydrolysis of keratin-rich material such as feathers or hair.\n\nIt works as a dough improver, making dough softer and easier to handle in bread, biscuits and flour products.\n\nIt is approved in the EU for biscuits and flour, approved in the UK, and approved in the US for dough and baked goods."
+    "text": "L-cysteine is a sulfur-containing amino acid found in proteins. Most of it is made by hydrolysis of animal materials such as poultry feathers or hog hair; human hair is rarely used, and EU law does not allow it as a source. A more expensive version made by fermentation is also available.\n\nIn food it is a flour treatment agent used as a processing aid in baking: small amounts soften dough and shorten processing time. It is also used to make meat flavourings.\n\nWhen it comes from animal sources it is not suitable for vegan, vegetarian, kosher or halal diets."
   },
   {
     "code": "E921",
     "name": "L-cystine",
-    "text": "L-cystine is an amino acid formed from two cysteine molecules joined by a sulfur bridge. It occurs naturally in proteins such as hair and wool, and is a white crystalline powder.\n\nIt is listed as an improving agent for flour, but is mainly known as a nutrient supplement.\n\nIt is not approved in the EU or the UK. In the US it is approved as a nutrient."
+    "text": "L-cystine is formed from two molecules of the amino acid cysteine joined by a disulfide bond. It is a white solid that dissolves poorly in water. It is common in foods such as eggs, meat, dairy products and whole grains, and in skin, horn and hair; human hair is about 10 to 14 percent cystine by mass.\n\nAs a food additive it is classed as a flour treatment agent."
   },
   {
     "code": "E922",
     "name": "Potassium persulfate",
-    "text": "Potassium persulfate is an inorganic salt, a white crystalline powder and a strong oxidizing agent made industrially.\n\nIt is listed as a flour improving agent. It is also used as a bleaching and polymerisation agent in industry.\n\nIt is not approved in the EU or the UK. In the US it is approved as a coating on citrus fruit and for food packaging only."
+    "text": "Potassium persulfate (potassium peroxydisulfate, K2S2O8) is a white inorganic salt that dissolves poorly in cold water and better in warm water. It is a powerful oxidising agent.\n\nAs a food additive it is classed as a flour treatment agent. Industrially it is mainly used to start the polymerisation of plastics and synthetic rubber, and it is also used in hair bleaches."
   },
   {
     "code": "E923",
     "name": "Ammonium persulfate",
-    "text": "Ammonium persulfate is an inorganic salt, a white crystalline powder that is a strong oxidizing agent. It is produced industrially.\n\nIt is listed as a flour improving agent that strengthens dough. It is also used in industry for bleaching and etching.\n\nIt is not approved in the EU or the UK, and is approved in the US."
+    "text": "Ammonium persulfate ((NH4)2S2O8) is a colourless or white inorganic salt that dissolves readily in water. It is a strong oxidising agent.\n\nAs a food additive it is classed as a flour treatment agent. Industrially it is used to start polymerisation reactions, to etch copper on printed circuit boards, and as a cleaning and bleaching agent."
   },
   {
     "code": "E924",
     "name": "Potassium bromate",
-    "text": "Potassium bromate is an inorganic salt, a white crystalline powder and a strong oxidizing agent. It was widely used as a flour improver to strengthen dough and increase loaf volume.\n\nIt is listed as an improving agent. It has been restricted because it is considered a potential carcinogen.\n\nIt is not approved in the EU and UK for this reason. In the US it is approved for the malting of barley."
+    "text": "Potassium bromate (KBrO3) is a colourless salt and a strong oxidising agent. It has been used as a flour improver that strengthens dough and helps bread rise higher. During baking it is normally reduced to bromide, but if too much is added or the bread is underbaked, some may remain in the product.\n\nThe International Agency for Research on Cancer classifies it as possibly carcinogenic to humans (Group 2B). In the United States the FDA has urged bakers not to use it since 1991, and California passed a law in 2023 prohibiting it from 2027."
   },
   {
     "code": "E924b",
     "name": "Calcium bromate",
-    "text": "Calcium bromate is an inorganic salt of bromic acid and a strong oxidizing agent. It is made industrially and is related to potassium bromate.\n\nIt is listed as an improving agent, used historically to strengthen flour and dough in baking.\n\nIt is not approved in the EU or the UK, and approved in the US."
+    "text": "Calcium bromate (Ca(BrO3)2) is the calcium salt of bromic acid, usually found as the monohydrate. Like potassium bromate (E924), it is a bromate.\n\nIn some countries it is used as a flour and bread dough improver (conditioner)."
   },
   {
     "code": "E925",
     "name": "Chlorine",
-    "text": "Chlorine is a greenish-yellow toxic gas that occurs naturally only in compounds. It is produced industrially, mostly from salt.\n\nIt is listed as a preservative, bleach and improving agent. It has been used to bleach and treat flour and, more widely, to disinfect water.\n\nIt is not approved in the EU or the UK, and is approved in the US."
+    "text": "Chlorine is a chemical element that forms a yellow-green, poisonous gas at room temperature. It is extremely reactive and a strong oxidising agent, so in nature it occurs only in compounds such as table salt. It is produced commercially from brine by electrolysis.\n\nAs a food additive it is classed as a flour treatment agent used to bleach flour. It is much more widely used to disinfect drinking water and swimming pools and to make bleaches."
   },
   {
     "code": "E926",
     "name": "Chlorine dioxide",
-    "text": "Chlorine dioxide is a yellow-green gas with a strong oxidizing action, made industrially. It is used as a bleach and disinfectant, notably for treating drinking water.\n\nIn food it is listed as a bleach, used for flour treatment.\n\nIt is approved in the EU and not approved in the UK. In the US it is approved for treating water."
+    "text": "Chlorine dioxide (ClO2) is a yellowish-green gas above 11 °C and is usually handled as a solution in water. It is a strong oxidiser, commonly used as a bleach and disinfectant, for example to bleach wood pulp and to disinfect drinking water.\n\nAs a food additive it is classed as a flour treatment agent and has been used to bleach flour; it is also used for disinfection in food processing. It is toxic, so limits on human exposure apply."
   },
   {
     "code": "E927a",
     "name": "Azodicarbonamide",
-    "text": "Azodicarbonamide is a synthetic yellow-orange powder. It is used as a flour improver that bleaches the flour and strengthens dough, and also as a foaming agent in plastics.\n\nIt is listed as an improving agent for bread and flour.\n\nIt has been identified as a Substance of Very High Concern in the EU and is not approved in the UK. In the US it is approved for flour and bread."
+    "text": "Azodicarbonamide is a synthetic yellow to orange-red, odourless crystalline powder. Its main use is as a blowing agent that makes foamed plastics.\n\nIn food it is used in some countries as a flour bleaching agent and dough conditioner. It reacts with moist flour; the main product, biurea, is stable during baking, and small amounts of semicarbazide and ethyl carbamate also form. Semicarbazide shows weak carcinogenic activity in laboratory animals, but human data are inconclusive.\n\nIn 2012 it was added to the EU's REACH candidate list of substances of very high concern because it can cause respiratory sensitisation in workers who handle it."
   },
   {
     "code": "E927b",
     "name": "Carbamide",
-    "text": "Carbamide, better known as urea, is a simple nitrogen compound that is produced by the body and excreted in urine. The industrial product is made synthetically.\n\nIt is listed as an improving agent. It is used in chewing gum and in some yeast-based products as a nitrogen source.\n\nIt is approved in the EU for chewing gum and not approved in the UK. In the US it is approved for baked goods, alcohol and gelatin products."
+    "text": "Carbamide, better known as urea (CO(NH2)2), is a colourless, odourless solid that dissolves readily in water. It is the main nitrogen-containing substance in mammalian urine and is formed in the liver from ammonia and carbon dioxide. Industrially it is made from synthetic ammonia and carbon dioxide, and over 90 percent of production goes into fertilisers.\n\nAs a food additive it is classed as a flour treatment agent; in the EU its listed use is in chewing gum without added sugar. It is also used as a yeast nutrient in fermenting sugars into alcohol."
   },
   {
     "code": "E928",
     "name": "Benzoyl peroxide",
-    "text": "Benzoyl peroxide is a synthetic organic peroxide, a white powder with a bleaching and oxidizing action. It is also well known as an acne treatment.\n\nIn food it is listed as a bleach, used to whiten flour and some whey and cheese products.\n\nIt is not approved in the EU or the UK. In the US it is approved for certain foods."
+    "text": "Benzoyl peroxide is a synthetic organic peroxide, a white granular solid with a faint smell of benzaldehyde that dissolves poorly in water. It is an oxidiser used mainly in making plastics and for bleaching flour, hair and textiles. It is also a common acne medication.\n\nAs a food additive it is classed as a bleaching agent, flour treatment agent and preservative."
   },
   {
     "code": "E929",
     "name": "Acetone peroxide",
-    "text": "Acetone peroxide is a synthetic organic peroxide made from acetone and hydrogen peroxide. It is a strong oxidizing agent and in pure form is unstable.\n\nIt has been used to bleach and mature flour.\n\nIt is not approved in the EU or the UK. In the US it is approved in flour and bread."
+    "text": "Acetone peroxide is an organic peroxide formed by reacting acetone with hydrogen peroxide in the presence of an acid catalyst. In pure form it is a sensitive explosive that can detonate from heat, friction or shock.\n\nIn food it has been used as a flour treatment agent, to bleach and mature flour."
   },
   {
     "code": "E930",
     "name": "Calcium peroxide",
-    "text": "Calcium peroxide is an inorganic compound, a white or yellowish powder that releases oxygen. It is made industrially.\n\nIt is listed as a bleach and improving agent, used to strengthen dough and bleach flour in baking.\n\nIt is not approved in the EU or the UK, and approved in the US."
+    "text": "Calcium peroxide is an inorganic compound with the formula CaO2. The pure substance is white; commercial samples can be yellowish. It is almost insoluble in water and releases oxygen when it comes into contact with water.\n\nIn food it is used as a flour treatment agent, bleaching and improving flour."
   },
   {
     "code": "E938",
     "name": "Argon",
-    "text": "Argon is an inert noble gas that makes up about 1% of the atmosphere. It is obtained industrially by distilling liquefied air. It is colourless, odourless and does not react with food.\n\nIt is used as a packaging gas, displacing oxygen in packs and containers to slow spoilage and oxidation, for example in packaged snacks, wine and prepared foods.\n\nIt is approved in the EU and in the UK, and not approved in the US."
+    "text": "Argon is an inert noble gas that makes up about 0.93% of the Earth's atmosphere. It is obtained industrially by fractional distillation of liquefied air.\n\nIn food it is used as a packaging gas: it displaces air containing oxygen and moisture from packs, slowing oxidation and other reactions that spoil the product. In winemaking it is used to keep oxygen away from the surface of the wine."
   },
   {
     "code": "E939",
     "name": "Helium",
-    "text": "Helium is a light, inert noble gas. It is extracted from natural gas deposits and is colourless, odourless and non-reactive.\n\nIt is listed as a packaging gas, used to create an inert atmosphere or to detect leaks in packaging.\n\nIt is approved in the EU and in the UK. In the US it is approved as a processing aid."
+    "text": "Helium is a light, colourless, odourless, non-toxic and inert noble gas. Commercially it is extracted from natural gas, which can contain up to about 7% helium, by fractional distillation.\n\nIn food it is used as a packaging gas and propellant."
   },
   {
     "code": "E940",
     "name": "Dichlorodifluoromethane",
-    "text": "Dichlorodifluoromethane is a synthetic chlorofluorocarbon (CFC) gas, once widely sold as a refrigerant under the name Freon-12. It was also used as an aerosol propellant.\n\nIt is listed as a packaging gas. CFCs damage the ozone layer, so their use has been phased out.\n\nIt is banned in all countries in compliance with the Montreal Protocol, though it is listed by the FDA as a substance added to food in the US."
+    "text": "Dichlorodifluoromethane (R-12, sold as Freon-12) is a colourless chlorofluorocarbon (CFC) gas, used in the past as a refrigerant and aerosol propellant. In food it was listed as a propellant.\n\nIt strongly depletes the ozone layer. Under the Montreal Protocol its manufacture was phased out in developed countries in 1996 and in developing countries in 2010."
   },
   {
     "code": "E941",
     "name": "Nitrogen",
-    "text": "Nitrogen is a colourless, odourless, inert gas that makes up about 78% of air. It is obtained industrially from liquefied air.\n\nAs a packaging gas it replaces oxygen in packs of crisps, coffee, nuts and wine, slowing oxidation and staling. It is also used as a propellant, for instance in whipped toppings.\n\nIt is approved in the EU, the UK and the US."
+    "text": "Nitrogen is a colourless, odourless, inert gas that makes up about 78% of the air. It is produced industrially by fractional distillation of liquid air or by separating it from air mechanically.\n\nAbout two thirds of commercially produced nitrogen is used as an oxygen-free gas, for example in food packaging. Alone or mixed with carbon dioxide, it keeps packaged foods fresh by delaying rancidity and oxidation. It is also used to pressurise kegs of some beers, especially stouts, giving smaller bubbles."
   },
   {
     "code": "E942",
     "name": "Nitrous oxide",
-    "text": "Nitrous oxide is a colourless gas with a faintly sweet smell, made industrially. It is also known as laughing gas and used in medicine as an anaesthetic.\n\nIn food it is a propellant, best known for whipped cream dispensers and aerosol cream, because it dissolves in fat and gives a light foam.\n\nIt is approved in the EU and in the UK. In the US it is approved in dairy."
+    "text": "Nitrous oxide (N2O), commonly known as laughing gas, is a colourless, non-flammable gas with a faint sweet smell. In medicine it is used for its anaesthetic and pain-reducing effects.\n\nIn food it is mainly a propellant for aerosol whipped cream: the gas dissolves in the fatty cream under pressure and expands into foam when the cream leaves the can. It is also used in cooking sprays."
   },
   {
     "code": "E943a",
     "name": "Butane",
-    "text": "Butane is a flammable hydrocarbon gas obtained from natural gas and petroleum refining. It is easily liquefied under pressure.\n\nIt is used as a propellant in aerosol products. In the EU this is for vegetable oil pan sprays.\n\nIt is approved in the EU for vegetable oil pan spray, approved in the UK and approved in the US."
+    "text": "Butane is a highly flammable, colourless hydrocarbon gas that is easily liquefied under pressure. It occurs in natural gas and is a component of liquefied petroleum gas (LPG).\n\nIn food it is used as a propellant. Under EU rules this use is limited to vegetable oil pan sprays for professional use, water-based emulsion sprays, and certain colour preparations for professional use."
   },
   {
     "code": "E943b",
     "name": "Isobutane",
-    "text": "Isobutane is a flammable hydrocarbon gas, an isomer of butane, obtained from natural gas and petroleum refining. It is easily liquefied under pressure.\n\nIt works as a propellant in aerosol products, such as cooking sprays.\n\nIt is approved in the EU for vegetable oil pan spray, approved in the UK and approved in the US."
+    "text": "Isobutane (2-methylpropane) is a colourless, odourless, flammable hydrocarbon gas, an isomer of butane. It is obtained by isomerisation of butane.\n\nIn food it is used as a propellant. Under EU rules this use is limited to vegetable oil pan sprays for professional use, water-based emulsion sprays, and certain colour preparations for professional use."
   },
   {
     "code": "E944",
     "name": "Propane",
-    "text": "Propane is a flammable hydrocarbon gas obtained from natural gas and petroleum refining, widely known as a fuel. It is easily liquefied under pressure.\n\nIn food it is used as a propellant in aerosol products, for example sprays of oil for greasing baking pans.\n\nIt is approved in the EU for vegetable oil pan spray, approved in the UK and approved in the US."
+    "text": "Propane is a flammable hydrocarbon gas, a by-product of natural gas processing and petroleum refining, widely used as a fuel in liquefied petroleum gas (LPG). It is easily liquefied under pressure.\n\nIn food it is used as a propellant. Under EU rules this use is limited to vegetable oil pan sprays for professional use, water-based emulsion sprays, and certain colour preparations for professional use."
   },
   {
     "code": "E945",
     "name": "Chloropentafluoroethane",
-    "text": "Chloropentafluoroethane is a synthetic chlorofluorocarbon (CFC) gas, formerly used as a refrigerant and aerosol propellant.\n\nIt is listed as a propellant. CFCs damage the stratospheric ozone layer and have been phased out worldwide.\n\nIt is banned in all countries in compliance with the Montreal Protocol, although the FDA lists it as a substance added to food in the US."
+    "text": "Chloropentafluoroethane (R-115, CFC-115) is a chlorofluorocarbon gas once used as a refrigerant. As a food additive it was listed as a propellant.\n\nBecause of its high ozone depletion potential and very long lifetime in the environment, its production and consumption were phased out from 1 January 1996 under the Montreal Protocol. It is also a potent greenhouse gas."
   },
   {
     "code": "E946",
     "name": "Octafluorocyclobutane",
-    "text": "Octafluorocyclobutane is a synthetic fully fluorinated gas, used in the past as an aerosol propellant and in industry.\n\nIt is listed as a propellant for foods such as whipped toppings.\n\nIt is banned in all countries in compliance with the Montreal Protocol, though the FDA lists it as a substance added to food in the US."
+    "text": "Octafluorocyclobutane (perfluorocyclobutane, C4F8) is a colourless, chemically inert gas, the fully fluorinated analogue of cyclobutane. It is made from tetrafluoroethylene and is used mainly in semiconductor manufacturing.\n\nBecause it is volatile and inert, it may be found as a propellant in some aerosol foods."
   },
   {
     "code": "E948",
     "name": "Oxygen",
-    "text": "Oxygen is the colourless, odourless gas that makes up about 21% of air. For industrial use it is obtained from liquefied air.\n\nAs a packaging gas it is used in some modified-atmosphere packs, for example to keep the red colour of fresh meat or to support fresh produce.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    "text": "Oxygen is a colourless, odourless and tasteless gas that makes up about 21% of the atmosphere. Industrially it is usually obtained by fractional distillation of liquefied air.\n\nIn food it is used as a packaging gas. In modified-atmosphere packs of red meat, high oxygen levels (around 80%) are used to keep the meat bright red. For most other foods, oxygen is reduced or replaced in the pack, because it speeds up spoilage."
   },
   {
     "code": "E949",
     "name": "Hydrogen",
-    "text": "Hydrogen is the lightest gas, colourless and odourless, and flammable. It is produced industrially from natural gas or by splitting water.\n\nIt is listed as a packaging gas. In food technology it is also used in the hydrogenation of oils.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    "text": "Hydrogen is the lightest element; as a gas it is colourless, odourless and highly flammable. Almost all of it is produced from fossil fuels, mainly by steam reforming of natural gas; it can also be made by electrolysis of water.\n\nIn food it is used as a packaging gas and also has antioxidant properties. Separately, hydrogen is used to convert unsaturated fats and oils into saturated ones by hydrogenation."
   },
   {
     "code": "E950",
-    "name": "Acesulfame potassium",
-    "text": "Acesulfame potassium (acesulfame K) is a synthetic, calorie-free sweetener about 200 times sweeter than sugar. It is a white crystalline powder, stable at high temperatures.\n\nIt is used in soft drinks, desserts, chewing gum and tabletop sweeteners, often blended with other sweeteners such as aspartame.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    "name": "Acesulfame K",
+    "text": "Acesulfame potassium (acesulfame K) is a synthetic, calorie-free sweetener, a white crystalline powder about 200 times sweeter than sugar. Like saccharin, it can leave a slightly bitter aftertaste at high concentrations.\n\nUnlike aspartame, it is stable to heat, so it can be used in baking and in products with a long shelf life. It is often blended with other sweeteners, usually sucralose or aspartame, to give a more sugar-like taste."
   },
   {
     "code": "E951",
     "name": "Aspartame",
-    "text": "Aspartame is a synthetic, low-calorie sweetener about 200 times sweeter than sugar. It is a compound of two amino acids, aspartic acid and phenylalanine.\n\nIt is used in diet soft drinks, desserts, yoghurts, chewing gum and tabletop sweeteners. It loses sweetness when heated, so it is little used in baking.\n\nProducts containing it must carry a warning that they contain a source of phenylalanine, because it is harmful to people with phenylketonuria. It is approved in the EU. No UK or US approval status is recorded for it."
+    "text": "Aspartame is a synthetic sweetener about 180 to 200 times sweeter than sugar, the methyl ester of a dipeptide of aspartic acid and phenylalanine.\n\nIt is used in diet soft drinks, chewing gum and tabletop sweeteners, but breaks down at high temperatures.\n\nAspartame is a source of phenylalanine, which people with phenylketonuria cannot properly metabolise, so EU labels must state that the food contains a source of phenylalanine.\n\nIn 2023 IARC classified aspartame as possibly carcinogenic to humans (Group 2B) on limited evidence. At the same time JECFA, the FAO/WHO expert committee on food additives, saw no reason to change the acceptable daily intake of 40 mg/kg body weight."
   },
   {
     "code": "E952",
-    "name": "Cyclamic acid and cyclamates",
-    "text": "Cyclamic acid and its sodium and calcium salts, known as cyclamates, are synthetic sweeteners roughly 30 to 50 times sweeter than sugar. They have no calories.\n\nThey are used in soft drinks, tabletop sweeteners and desserts, and are often blended with saccharin.\n\nThey are approved in the EU. No UK or US approval status is recorded for them."
+    "name": "Cyclamates",
+    "text": "Cyclamates are the sodium and calcium salts of cyclamic acid. They are synthetic sweeteners 30 to 50 times sweeter than sugar, the least potent of the commercial artificial sweeteners. They are cheap and heat-stable, so they can be used in cooking and baking.\n\nCyclamate is often mixed with saccharin, commonly 10 parts to 1, which masks the off-tastes of both.\n\nIn the United States cyclamate was withdrawn from foods in 1969 and 1970 after a study linked the cyclamate–saccharin mixture to bladder cancer in rats; the FDA has since stated that the evidence does not implicate cyclamate as a carcinogen."
   },
   {
     "code": "E953",
     "name": "Isomalt",
-    "text": "Isomalt, or isomaltitol, is a sugar alcohol (polyol) made from sucrose through enzymatic conversion and hydrogenation. It is about half as sweet as sugar and provides fewer calories.\n\nIt is used in sugar-free hard candies, chewing gum, chocolate and cough sweets, and does not promote tooth decay.\n\nIt is approved in the EU. In the EU, foods with large amounts of polyols must warn that excessive consumption may have a laxative effect."
+    "text": "Isomalt is a sugar alcohol (polyol) made from sucrose, usually from sugar beet: an enzyme first converts sucrose to isomaltulose, which is then hydrogenated. It is less sweet than sugar and provides 2 kcal per gram, half as much as sugar. It has little effect on blood sugar and does not promote tooth decay.\n\nIt is widely used in sugar-free sweets, especially hard-boiled candy, because it resists crystallisation.\n\nIt is incompletely absorbed and can cause diarrhoea and flatulence. EU labels of foods with more than 10% added polyols must state that excessive consumption may produce laxative effects."
   },
   {
     "code": "E954",
     "name": "Saccharin",
-    "text": "Saccharin and its sodium, potassium and calcium salts form one of the oldest synthetic sweeteners, about 300 to 500 times sweeter than sugar, with no calories. It can leave a slightly bitter aftertaste.\n\nIt is used in tabletop sweeteners, diet drinks, confectionery and in toothpaste and medicines.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    "text": "Saccharin, first produced in 1879, is a calorie-free synthetic sweetener about 500 times sweeter than sugar. It is mostly used as its sodium salt; the calcium salt is used by people limiting sodium. It is heat-stable but can leave a bitter or metallic aftertaste.\n\nIt sweetens drinks, sweets and baked goods and masks the bitter taste of some medicines.\n\nIn the 1970s high doses caused bladder cancer in rats. Later research found the mechanism specific to rats, and epidemiological studies showed no link in humans; IARC moved saccharin from Group 2B to Group 3, and in 2000 the US dropped its warning label."
   },
   {
     "code": "E955",
     "name": "Sucralose",
-    "text": "Sucralose (trichlorogalactosucrose) is a synthetic sweetener made from sucrose by replacing three hydroxyl groups with chlorine. It is about 600 times sweeter than sugar and provides no usable calories.\n\nIt is stable when heated, so it is used in drinks, baked goods, desserts and tabletop sweeteners.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    "text": "Sucralose (trichlorogalactosucrose) is a synthetic sweetener made by chlorinating sucrose, replacing three of its hydroxyl groups with chlorine. It is about 600 times sweeter than sugar. Most ingested sucralose is not absorbed and is excreted in the faeces.\n\nAt normal baking temperatures it is mostly heat-stable and keeps its sweetness, so it is used in baked goods. When heated above about 120 °C, chlorinated organic compounds can form in unknown amounts."
   },
   {
     "code": "E956",
     "name": "Alitame",
-    "text": "Alitame is a synthetic high-intensity sweetener built from the amino acids aspartic acid and alanine. It is far sweeter than sugar, reportedly by roughly 2,000 times.\n\nIt is listed as a sweetener and has seen limited use in food production, mainly in some countries outside Europe.\n\nNo EU, UK or US approval status is recorded for it."
+    "text": "Alitame is a synthetic dipeptide sweetener made from aspartic acid and alanine, developed by Pfizer in the early 1980s and marketed in some countries as Aclame. It is about 2,000 times sweeter than sugar and has no aftertaste.\n\nIt is more stable under hot or acidic conditions than aspartame. Unlike aspartame it contains no phenylalanine, so it can be used by people with phenylketonuria."
   },
   {
     "code": "E957",
     "name": "Thaumatin",
-    "text": "Thaumatin is a mixture of sweet-tasting proteins extracted from the fruit of the West African katemfe plant (Thaumatococcus daniellii). It is several thousand times sweeter than sugar, with a slow onset and lingering sweetness.\n\nIt is used as a sweetener and flavour enhancer in chewing gum, desserts, drinks and in animal feed.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    "text": "Thaumatin is a mixture of intensely sweet proteins first isolated from the fruit of the West African katemfe plant (Thaumatococcus daniellii), which has long been used locally to flavour foods and drinks.\n\nIt is a low-calorie sweetener and taste modifier, often used more for its flavour-modifying properties than as a sweetener. Its sweetness lasts a long time and at high concentrations leaves a liquorice-like aftertaste."
   },
   {
     "code": "E958",
     "name": "Glycyrrhizin",
-    "text": "Glycyrrhizin is the sweet-tasting compound extracted from the root of liquorice (Glycyrrhiza glabra). It is about 30 to 50 times sweeter than sugar and has a lingering liquorice flavour.\n\nIt is used as a sweetener and flavour enhancer in confectionery, particularly liquorice sweets, and in drinks and tobacco products.\n\nNo EU, UK or US approval status is recorded for it. Eating large amounts of liquorice is known to raise blood pressure in some people."
+    "text": "Glycyrrhizin (glycyrrhizic acid) is the main sweet-tasting constituent of liquorice root (Glycyrrhiza glabra), obtained as an extract by soaking and boiling the root in water. It is 30 to 50 times sweeter than sugar.\n\nIt is used as a sweetener and flavour enhancer. Regular consumption of black liquorice can lower blood potassium and raise blood pressure. In the EU, confectionery and drinks containing glycyrrhizinic acid above set levels must be labelled 'contains liquorice', and at higher levels must add that people with hypertension should avoid excessive consumption."
   },
   {
     "code": "E959",
-    "name": "Neohesperidine dihydrochalcone",
-    "text": "Neohesperidine dihydrochalcone (neohesperidine DC) is a semi-synthetic sweetener made from a flavonoid found in bitter oranges. It is roughly 1,000 times sweeter than sugar, with a slow onset and a lingering, cooling aftertaste.\n\nIt is used as a sweetener and flavour enhancer, masking bitterness in drinks, chewing gum, dairy products and pharmaceuticals.\n\nIt is approved in the EU."
+    "name": "Neohesperidine DC",
+    "text": "Neohesperidine dihydrochalcone (NHDC) is a sweetener made from citrus: neohesperidin, a bitter compound extracted from bitter orange, is treated with a strong base and hydrogenated. It is about 1,500 to 1,800 times sweeter than sugar at threshold concentrations and around 340 times at higher ones. Its sweetness starts slowly and lingers.\n\nIt is used as a flavour enhancer and sweetener, especially to mask bitterness, including in tablets and in livestock feed. It works synergistically with other sweeteners."
   },
   {
     "code": "E960",
     "name": "Steviol glycosides",
-    "text": "Steviol glycosides are sweet compounds, such as stevioside and rebaudioside A, extracted from the leaves of the stevia plant (Stevia rebaudiana), native to South America. They are about 200 to 300 times sweeter than sugar and have no calories.\n\nThey are used in soft drinks, dairy products, desserts and tabletop sweeteners. Some people notice a slightly bitter or liquorice-like aftertaste.\n\nThey are approved in the EU. No UK or US approval status is recorded for them."
+    "text": "Steviol glycosides, such as stevioside and rebaudioside A, are the compounds that give the leaves of the South American plant Stevia rebaudiana their sweet taste. Reported sweetness ranges from 30 to 320 times that of sugar; a recent evaluation put rebaudioside A at about 240 times and stevioside at about 140 times. Rebaudioside A had the least bitterness and aftertaste.\n\nThe acceptable daily intake is 4 mg per kg of body weight, expressed as steviol. The EU now lists them as E960a to E960d: extracted from stevia, from fermentation, enzymatically produced, and glucosylated."
   },
   {
     "code": "E961",
     "name": "Neotame",
-    "text": "Neotame is a synthetic, low-calorie sweetener chemically related to aspartame. It is much sweeter than sugar, roughly 7,000 to 13,000 times, so only tiny amounts are needed.\n\nIt is used as a sweetener in drinks, desserts, chewing gum and baked goods.\n\nIt is recorded as approved in 2010, but the country or region is not specified."
+    "text": "Neotame is a non-caloric artificial sweetener, an analogue of aspartame. By mass it is 7,000 to 13,000 times sweeter than sugar, so only tiny amounts are needed. It is chemically somewhat more stable than aspartame.\n\nIt is used as a sweetener and flavour enhancer. Neotame can form phenylalanine in the body, but at normal levels of use this is not significant for people with phenylketonuria."
   },
   {
     "code": "E962",
     "name": "Aspartame-acesulfame salt",
-    "text": "Aspartame-acesulfame salt is a synthetic sweetener formed by combining aspartame and acesulfame in a single salt. It is a white crystalline substance, sweeter than sugar and low in calories.\n\nIt is classed as a stabiliser, but it is used as a sweetener in drinks, chewing gum and confectionery. Like aspartame, it is a source of phenylalanine and is a concern for people with phenylketonuria.\n\nIt is approved in the EU."
+    "text": "Aspartame-acesulfame salt, marketed as Twinsweet, is a synthetic sweetener made by soaking a 2:1 mixture of aspartame and acesulfame potassium in an acidic solution and letting it crystallise; moisture and potassium are removed in the process. It is about 350 times sweeter than sugar.\n\nIt is used as a sweetener. Because it contains aspartame, a source of phenylalanine, EU labels must state that the food contains a source of phenylalanine."
   },
   {
     "code": "E964",
     "name": "Polyglycitol syrup",
-    "text": "Polyglycitol syrup is a mixture of polyols and sugar-alcohol polymers, made by hydrogenating starch hydrolysates, usually from corn or wheat starch. It is a thick, clear, sweet syrup, less sweet than sugar.\n\nIt is used as a sweetener and bulking agent in sugar-free confectionery and chewing gum.\n\nIt is approved in the EU. In the EU, foods rich in polyols must warn that excessive consumption may have a laxative effect."
+    "text": "Polyglycitol syrup, also called hydrogenated starch hydrolysates, is a mixture of sugar alcohols such as sorbitol, maltitol and longer-chain hydrogenated saccharides. It is made by partly breaking down starch, most often corn starch, and then hydrogenating it. It is 40 to 90% as sweet as sugar.\n\nIt is used like other polyols, often blended with other sweeteners, and prevents sugar crystals forming in syrups. Oral bacteria do not readily ferment it, so it does not promote tooth decay. In large amounts it is laxative; EU labels of foods with more than 10% added polyols must say so."
   },
   {
     "code": "E965",
     "name": "Maltitol",
-    "text": "Maltitol is a sugar alcohol (polyol) made by hydrogenating maltose from starch. It is about 75 to 90 percent as sweet as sugar and has fewer calories. It is sold as crystals or as maltitol syrup.\n\nIt is used as a sweetener, humectant and stabiliser in sugar-free chocolate, chewing gum, baked goods and ice cream.\n\nIt is approved in the EU. In the EU, excessive consumption may have a laxative effect, and labels must say so."
+    "text": "Maltitol is a sugar alcohol (polyol) made by hydrogenating maltose obtained from starch. It has 75 to 90% of the sweetness of sugar and provides 2 to 3 kcal per gram. It does not promote tooth decay. Maltitol syrup, made by hydrogenating corn syrup, contains 50 to 80% maltitol.\n\nIt is used in sugar-free hard candy, chewing gum, chocolate, baked goods and ice cream. It is largely fermented by gut bacteria and has a laxative effect; EU labels of foods with more than 10% added polyols must warn that excessive consumption may produce laxative effects."
   },
   {
     "code": "E966",
     "name": "Lactitol",
-    "text": "Lactitol is a sugar alcohol (polyol) made by hydrogenating lactose, the sugar of milk. It is about 30 to 40 percent as sweet as sugar and provides fewer calories.\n\nIt is used as a sweetener and bulking agent in sugar-free sweets, chocolate, baked goods and ice cream. It is also used in medicine as a laxative.\n\nIt is approved in the EU. In the EU, foods with large amounts of polyols must warn of a possible laxative effect."
+    "text": "Lactitol is a sugar alcohol (polyol) made by hydrogenating lactose, the sugar of milk. It has 30 to 40% of the sweetness of sugar and about 60% of its calories. It does not promote tooth decay or raise blood glucose.\n\nIt is used as a bulk sweetener in sugar-free sweets, biscuits, chocolate and ice cream. Most of it reaches the large intestine, where it draws in water; it is also used medically as a laxative. EU labels of foods with more than 10% added polyols must warn that excessive consumption may produce laxative effects."
   },
   {
     "code": "E967",
     "name": "Xylitol",
-    "text": "Xylitol is a sugar alcohol (polyol) found in small amounts in fruit and vegetables and produced industrially from xylose, often from birch wood or corncobs. It is about as sweet as sugar with roughly 40 percent fewer calories.\n\nIt is used in sugar-free chewing gum, sweets and toothpaste, and is known not to promote tooth decay.\n\nIt is approved in the EU. In the EU, excessive consumption may have a laxative effect, and labels must say so. Xylitol is highly toxic to dogs."
+    "text": "Xylitol is a sugar alcohol (polyol), sometimes called birch sugar because it can be extracted from birch wood. Industrially, xylose is obtained from plant material such as wood or maize waste and then hydrogenated. It is about as sweet as sugar with 40% fewer calories and has negligible effect on blood sugar.\n\nIt is used in chewing gum, sweets, toothpaste and medicines. High doses can cause flatulence and diarrhoea; EU labels of foods with more than 10% added polyols must warn of laxative effects. Xylitol is poisonous to dogs."
   },
   {
     "code": "E968",
     "name": "Erythritol",
-    "text": "Erythritol is a sugar alcohol (polyol) found naturally in small amounts in some fruit and fermented foods. It is produced industrially by fermenting glucose. It is about 60 to 70 percent as sweet as sugar and has almost no calories.\n\nIt is used as a sweetener and bulking agent in sugar-free drinks, confectionery, chocolate and tabletop sweeteners, and has a mild cooling effect.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    "text": "Erythritol is a sugar alcohol (polyol) found in small amounts in some fruits and fermented foods. It is produced from corn using enzymes and fermentation. It is 60 to 70% as sweet as sugar, almost calorie-free, does not affect blood sugar and does not cause tooth decay. It has a strong cooling effect when it dissolves.\n\nAbout 90% is absorbed and excreted unchanged in urine, so small doses rarely cause the bloating typical of other polyols. In 2023 EFSA set an acceptable daily intake of 0.5 g per kg of body weight, to protect against its laxative effect."
   },
   {
     "code": "E969",
     "name": "Advantame",
-    "text": "Advantame is a synthetic high-intensity sweetener chemically related to aspartame and neotame. It is extremely sweet, roughly 20,000 times sweeter than sugar, so only minute amounts are used.\n\nIt is used as a sweetener and flavour enhancer in drinks, desserts, chewing gum and confectionery.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    "text": "Advantame is a non-caloric artificial sweetener developed by Ajinomoto, an analogue of aspartame that can be made from aspartame and vanillin. By mass it is about 20,000 times sweeter than sugar and about 110 times sweeter than aspartame. It is chemically more stable than aspartame and has no notable off-flavours.\n\nIt is used as a sweetener and flavour enhancer. It can form phenylalanine in the body, but at normal levels of use this is not significant for people with phenylketonuria."
   },
   {
     "code": "E999",
     "name": "Quillaia extract",
-    "text": "Quillaia extract is a natural extract from the bark of the soapbark tree (Quillaja saponaria), which grows in Chile and other parts of South America. It is rich in saponins, which act like soap.\n\nIt works as a foaming agent and emulsifier, giving a stable foam in soft drinks such as root beer and ginger beer, and is also used in some cosmetics.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    "text": "Quillaia extract is obtained from the milled inner bark or small stems and branches of the soapbark tree (Quillaja saponaria). It contains high concentrations of saponins, along with tannins and other polyphenols.\n\nIn food it is used as a foaming agent in soft drinks and as an emulsifier. Highly purified quillaia saponins are also used as adjuvants in some veterinary and human vaccines."
   }
 ]

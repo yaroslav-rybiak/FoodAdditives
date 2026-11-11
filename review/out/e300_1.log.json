@@ -1,0 +1,398 @@
+[
+  {
+    "code": "E300",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed 'juices' as an antioxidant use (sources only mention vitamin C fortification of juices). Added production from glucose, flour treatment wording, nitrosamine role in cured meat, and EFSA 2015 safety conclusion, all from sources.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ascorbic_acid",
+      "https://en.wikipedia.org/wiki/Vitamin_C",
+      "https://en.wikipedia.org/wiki/Curing_(food_preservation)",
+      "https://doi.org/10.2903/j.efsa.2015.4087"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E301",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced 'some drinks' and 'flavour' protection. Added production method, acidity regulator function, supplement use and EFSA 2015 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_ascorbate",
+      "https://en.wikipedia.org/wiki/Ascorbic_acid",
+      "https://en.wikipedia.org/wiki/Vitamin_C",
+      "https://en.wikipedia.org/wiki/Curing_(food_preservation)",
+      "https://doi.org/10.2903/j.efsa.2015.4087"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E302",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced specific foods (processed meat, fruit products) and 'produced industrially'. Added calcium content, supplement use and EFSA 2015 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_ascorbate",
+      "https://en.wikipedia.org/wiki/Ascorbic_acid",
+      "https://en.wikipedia.org/wiki/Vitamin_C",
+      "https://doi.org/10.2903/j.efsa.2015.4087"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E303",
+    "verdict": "edited",
+    "changes": "Removed status sentence (EU/UK/US). Removed unsourced claim that it is not widely used in foods.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_ascorbate",
+      "https://en.wikipedia.org/wiki/Ascorbic_acid"
+    ],
+    "unresolved": "Wikipedia says E303 is permitted in Australia/New Zealand; not included as no regulator source was opened."
+  },
+  {
+    "code": "E304",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Named both esters (palmitate and stearate). Replaced 'preventing rancidity' with sourced 'protect fats from oxidation'. Added EFSA 2015 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ascorbyl_palmitate",
+      "https://en.wikipedia.org/wiki/Ascorbyl_stearate",
+      "https://en.wikipedia.org/wiki/Ascorbic_acid",
+      "https://doi.org/10.2903/j.efsa.2015.4289"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E305",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed 'made synthetically' and 'rancidity' wording not specific to the stearate in sources. Added margarine use, the fact that the EU lists it as E304(ii), and the sourced USDA 0.02% limit, attributed to the US.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ascorbyl_stearate",
+      "https://en.wikipedia.org/wiki/Ascorbic_acid",
+      "https://doi.org/10.2903/j.efsa.2015.4289"
+    ],
+    "unresolved": "USDA 0.02% limit is from Wikipedia citing Burdock (1996); not checked against current US regulation."
+  },
+  {
+    "code": "E306",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence (including conditions of use). Removed unsourced 'such as soybean oil'. Name changed to singular EU name; Russian name changed to the one on Russian Wikipedia's E-number list. Added mechanism and EFSA 2015 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tocopherol",
+      "https://doi.org/10.2903/j.efsa.2015.4247",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E300-E399"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E307",
+    "verdict": "edited",
+    "changes": "Removed EU/UK status sentence and the unsourced US claim about nitrosamine inhibition and pump-cured bacon. Added that the synthetic racemic form is less vitamin-active, and EFSA 2015 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tocopherol",
+      "https://en.wikipedia.org/wiki/Alpha-Tocopherol",
+      "https://doi.org/10.2903/j.efsa.2015.4247"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E308",
+    "verdict": "edited",
+    "changes": "Removed EU/UK status sentence and the unsourced US claim about nitrosamines and pump-cured bacon. Added occurrence in soybean/corn oil, lower use levels than alpha-tocopherol, EFSA 2015 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tocopherol",
+      "https://en.wikipedia.org/wiki/Gamma-Tocopherol",
+      "https://doi.org/10.2903/j.efsa.2015.4247"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E309",
+    "verdict": "edited",
+    "changes": "Removed EU/UK status sentence and the unsourced US claim about nitrosamines and pump-cured bacon. Added lower use levels than alpha-tocopherol and EFSA 2015 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tocopherol",
+      "https://en.wikipedia.org/wiki/Delta-Tocopherol",
+      "https://doi.org/10.2903/j.efsa.2015.4247"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E310",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced product list (fried foods, snacks, chewing gum) and 'often together with BHA and BHT'. Added 'since 1948', non-food uses and EFSA 2014 ADI and conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Propyl_gallate",
+      "https://doi.org/10.2903/j.efsa.2014.3642"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E311",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Kept and sourced the 2018 EU removal as history, with the reason from the regulation's recitals. Removed 'synthetic' (not stated in source); added sourced example foods and synergy with BHA/BHT.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Octyl_gallate",
+      "https://www.legislation.gov.uk/eur/2018/1481/introduction",
+      "https://doi.org/10.2903/j.efsa.2015.4248"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E312",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Kept and sourced the 2018 EU removal as history with its reason. Removed 'synthetic' and 'in fats and oils' (not in sources); added lauryl gallate synonym and preservative function.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dodecyl_gallate",
+      "https://www.legislation.gov.uk/eur/2018/1481/introduction",
+      "https://doi.org/10.2903/j.efsa.2015.4086"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E313",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced 'rarely used in food'. Corrected 'synthetic' to note natural occurrence (walnuts, wine) while the additive is produced from gallic acid and ethanol.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ethyl_gallate"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E314",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced 'from the wood' and 'protect fats and oils from rancidity'. Added composition and medical stool-test use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gum_guaicum",
+      "https://en.wikipedia.org/wiki/Guaiacum"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E315",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced 'little vitamin C activity' and 'fish products'. Clarified production, uses (cured meats, frozen vegetables), colour and nitrosamine effects; added EFSA 2016 ADI and conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Erythorbic_acid",
+      "https://doi.org/10.2903/j.efsa.2016.4360"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E316",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced 'some fish products'. Added production from sugars, soft drinks, curing effects and EFSA 2016 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_erythorbate",
+      "https://doi.org/10.2903/j.efsa.2016.4360"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E317",
+    "verdict": "rewritten",
+    "changes": "Input name 'Erythorbin acid' is not a real compound name (flagged 'citation needed' on English Wikipedia's E-number list); renamed to potassium erythorbate as listed for E317 on Russian Wikipedia's E-number list. Removed status sentence and unsourced claims ('obscure', 'not used in common foods'). Reduced to identity and function.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_erythorbate",
+      "https://en.wikipedia.org/wiki/E_number",
+      "https://en.wikipedia.org/wiki/International_Numbering_System_for_Food_Additives",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E300-E399"
+    ],
+    "unresolved": "Identity of E317 not confirmed from the Codex INS list (CXG 36 could not be downloaded). English Wikipedia lists 'erythorbin acid' (citation needed), Russian Wikipedia lists potassium erythorbate. Please check against CXG 36."
+  },
+  {
+    "code": "E318",
+    "verdict": "rewritten",
+    "changes": "Input name 'Calcium erythorbin' corrected to calcium erythorbate (English Wikipedia's E-number list links E318 to the Calcium erythorbate article; Russian list gives calcium erythorbate). Removed status sentence and unsourced claims ('obscure', 'apparently', 'not used in common foods').",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_erythorbate",
+      "https://en.wikipedia.org/wiki/E_number",
+      "https://en.wikipedia.org/wiki/International_Numbering_System_for_Food_Additives",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E300-E399"
+    ],
+    "unresolved": "Not checked against the Codex INS list (CXG 36 unavailable); English INS article gives 'sodium erythorbin' (citation needed) for 318. Russian Wikipedia spells it 'Эритробат кальция' (apparent typo); 'Эриторбат кальция' used."
+  },
+  {
+    "code": "E319",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced 'petroleum-derived' and product list (frying oils, snacks, instant noodles). Replaced vague 'limited to small amounts' with sourced 0.02% limit (EU and FDA). Added properties and a sourced safety note. Russian name corrected to 'Трет-бутилгидрохинон' (Russian Wikipedia); English name follows EU name.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tert-Butylhydroquinone",
+      "https://doi.org/10.2903/j.efsa.2004.84"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E320",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status and vague 'regulators limit amounts' sentences. Removed unsourced product list (snacks, cereals, chewing gum). Added composition, date of first use, other uses, and sourced safety note (forestomach tumours in rodents; EFSA 2011 view and ADI 1.0 mg/kg bw). English name per EU list.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Butylated_hydroxyanisole",
+      "https://doi.org/10.2903/j.efsa.2011.2392"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E321",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status and 'regulators set maximum levels' sentences. Removed unsourced product list (snacks, breakfast cereals, chewing gum) and 'often used together with BHA' softened to sourced 'sometimes'. Added production, mechanism, other uses, mixed animal cancer data and EFSA 2012 ADI.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Butylated_hydroxytoluene",
+      "https://doi.org/10.2903/j.efsa.2012.2588"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E322",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced 'baked goods and instant powders' and 'some antioxidant effect' in food. Replaced vague allergy remark with sourced statement on soy lecithin protein content. Added uses in chocolate/margarine, rapeseed source and EFSA 2017 conclusion. English name pluralised to EU name.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lecithin",
+      "https://doi.org/10.2903/j.efsa.2017.4742"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E323",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced 'not widely used in food'. Added design purpose and production from source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anoxomer"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E324",
+    "verdict": "edited",
+    "changes": "Removed EU/UK status sentence. Kept the US use limitation (sourced to 21 CFR 172.140 via Wikipedia), attributed to the US. Added pear-scald and fish-meal uses, EFSA 2015 feed opinion findings and 2017 EU suspension of feed authorisation as history.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ethoxyquin",
+      "https://doi.org/10.2903/j.efsa.2015.4272",
+      "https://en.wikipedia.org/wiki/E_number"
+    ],
+    "unresolved": "US limitation not checked directly on eCFR (21 CFR 172.140); it is also authorised in feed in the US with conditions per Wikipedia (omitted)."
+  },
+  {
+    "code": "E325",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced 'flavour enhancer' and meat/poultry use claims. Added taste, production detail, preservative and bulking functions, and sourced lactose/milk-allergy note.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_lactate"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E326",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced 'acidity regulator and antioxidant' functions; replaced with sourced antimicrobial action in meat and poultry. Added physical form.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_lactate"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E327",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced 'acidity regulator', 'canned fruit and vegetables' and 'drinks'. Added production history, calcium content and sourced food uses (fresh-cut fruit, baking powder, cheese making) and medical use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_lactate"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E328",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced 'acidity regulator' function and 'rarely used in food'. Added sourced antibacterial property and skin-lotion use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ammonium_lactate"
+    ],
+    "unresolved": "No source found describing its function as a food additive."
+  },
+  {
+    "code": "E329",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced 'rarely used in food'. Added supplement use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Magnesium_lactate"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E330",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced product examples (jams, canned foods, dairy) and 'preserve colour'. Added sourced uses (preservative, ice cream, caramel) and production detail.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Citric_acid"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E331",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Expanded product list and functions from sources; added medical anticoagulant use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_citrate",
+      "https://en.wikipedia.org/wiki/Monosodium_citrate",
+      "https://en.wikipedia.org/wiki/Disodium_citrate",
+      "https://en.wikipedia.org/wiki/Trisodium_citrate"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E332",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced product list (jams, dairy desserts, processed foods). Added production method, taste, soft-drink buffering and medical use from source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_citrate"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E333",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced functions and examples (firming agent, sequestrant, canned vegetables and fruit, fortified products). Added production route, preservative/flavour use and calcium content.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_citrate"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E334",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed unsourced product list (soft drinks, sweets, baking powder, jams, wine); baking powder applies to cream of tartar (E336), not the acid. Added antioxidant function, source from lees, EFSA 2020 group ADI.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tartaric_acid",
+      "https://doi.org/10.2903/j.efsa.2020.6030"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E335",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence (including EU food categories). Removed unsourced 'sequestrants' and 'limited range of foods'. Added sourced functions and examples, production and EFSA 2020 group ADI.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_tartrate",
+      "https://en.wikipedia.org/wiki/Monosodium_tartrate",
+      "https://doi.org/10.2903/j.efsa.2020.6030"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E336",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence (including EU food categories). Added sugar-syrup use and EFSA 2020 group ADI; other claims confirmed.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_bitartrate",
+      "https://en.wikipedia.org/wiki/Potassium_tartrate",
+      "https://doi.org/10.2903/j.efsa.2020.6030"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E337",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence (including EU and US use restrictions). Removed unsourced 'sequestrant' and 'in a few foods'. Added history, non-food uses and EFSA 2020 group ADI.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_sodium_tartrate",
+      "https://en.wikipedia.org/wiki/E_number",
+      "https://doi.org/10.2903/j.efsa.2020.6030"
+    ],
+    "unresolved": ""
+  }
+]

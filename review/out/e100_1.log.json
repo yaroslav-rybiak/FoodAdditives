@@ -1,0 +1,348 @@
+[
+ {
+  "code": "E100",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentence. 'Root' corrected to rhizomes. Food list replaced with sourced examples (curry powders, mustard, butter, cheese); unsourced baked goods, confectionery and drinks removed. Added polyphenol/curcuminoid identity and poor water solubility (sourced).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Curcumin",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E101",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Natural sources corrected to the sourced list (liver not in source). Unsourced uses (dairy, sauces, drinks) removed; fortification of flour and breakfast cereals kept (sourced). 'Formerly called lactoflavin' dropped (lactoflavin was the name of one early whey preparation, not simply a former name). Production by fermentation kept and made specific. EN name set to EU name 'Riboflavins'.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riboflavin",
+   "https://en.wikipedia.org/wiki/Flavin_mononucleotide",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": "EU sub-numbering (i)/(ii) is described from Wikipedia (riboflavin-5'-phosphate is part of E101); EUR-Lex Regulation 231/2012 could not be opened to confirm the exact wording."
+ },
+ {
+  "code": "E102",
+  "verdict": "edited",
+  "changes": "Removed status sentences and the unsourced 'being phased out' claim. Kept EU warning-label rule (sourced, labelling rule). 'Coated products' removed (not in source). Vague 'skin or respiratory symptoms' replaced with the sourced FDA figure for hives; source says asthma link is not confirmed. Added use with blue/green dyes for green shades (sourced).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tartrazine",
+   "https://en.wikipedia.org/wiki/Azorubine",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E103",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Removed unsourced 'textiles' and 'rarely encountered in food today'. Added naphthoquinone identity and pH colour change (sourced).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alkannin",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E104",
+  "verdict": "edited",
+  "changes": "Removed status sentences and unsourced 'being phased out'. Kept EU warning-label rule. 'Dull' and 'smoked fish coatings' removed (not in source); uses replaced with sourced list. Added 2009 EFSA ADI reduction (sourced).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Quinoline_Yellow_WS",
+   "https://en.wikipedia.org/wiki/Tartrazine",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E105",
+  "verdict": "edited",
+  "changes": "Removed status sentence and 'little current information' filler. Added sourced link to non-atopic asthma. RU name changed to the Russian Wikipedia form 'Жёлтый прочный AB'.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fast_Yellow_AB",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E106",
+  "verdict": "edited",
+  "changes": "Removed 'no status is recorded' sentences and the reference to 'E101a has no record'. Added sourced conversion to free riboflavin and flour fortification. EN name tidied to the common form; RU name taken from Russian Wikipedia list.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Flavin_mononucleotide",
+   "https://en.wikipedia.org/wiki/Riboflavin",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E107",
+  "verdict": "rewritten",
+  "changes": "Removed status sentence. Removed unsourced 'now obsolete'. Reduced to sourced identity facts.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yellow_2G",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E110",
+  "verdict": "edited",
+  "changes": "Removed status sentences and unsourced 'being phased out'. 'Banned in Norway' was wrong (source: not approved in Norway before 2001) and was removed. Soft drinks and baked goods removed (not in source); preserved fruits and amaranth blend added (sourced). Kept EU warning-label rule.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sunset_Yellow_FCF",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E111",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentence and 'little current information'. Added sourced regulatory history (prohibited in European food since 1 January 1978; never in Codex list), consistent with eu_authorised=false.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Orange_GGN",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E120",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Food list corrected to sourced list (sauces removed; gelatin desserts and fruit juices added). Production description added from source. 'Rarely' allergic reactions changed to 'can cause' since source gives no frequency. EN name simplified to 'Carmine'.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carmine",
+   "https://en.wikipedia.org/wiki/Cochineal",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E121",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences. Colour description 'orange to pink' removed (source gives orange-yellow solid or dark red powder). Added sourced year, level limit, solubility and IARC 2B classification.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Citrus_Red_2",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E122",
+  "verdict": "edited",
+  "changes": "Removed status sentences, unsourced 'being phased out' and the claim it is banned in Canada, Japan, Norway and the USA (not supported; source only says the US delisted it in 1963 for external drugs/cosmetics). Food list replaced with sourced examples. Kept EU warning-label rule (Regulation 1333/2008 Annex V per source). Added 2009 EFSA ADI. Names set to EU primary name 'Azorubine'.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Azorubine",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E123",
+  "verdict": "edited",
+  "changes": "Removed EU/UK status. Unsourced uses (drinks, sweets, desserts, alcoholic products) replaced with sourced use (glace cherries, cosmetics). The US ban is kept as sourced regulatory history with its reason (1976, rat tumour findings).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amaranth_(dye)",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E124",
+  "verdict": "edited",
+  "changes": "Removed status sentences and unsourced 'being phased out'. Unsourced food list removed. Added sourced stability properties. Kept EU warning-label rule.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ponceau_4R",
+   "https://en.wikipedia.org/wiki/Tartrazine",
+   "https://en.wikipedia.org/wiki/Azorubine",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E125",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences and 'little current information'. Added sourced history (EU food use ended at end of 1976, consistent with eu_authorised=false) and current cosmetic use.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scarlet_GN",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E126",
+  "verdict": "edited",
+  "changes": "Removed status sentences and 'little current information'. Added sourced synonyms, histology use and relation to amaranth.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ponceau_6R",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E127",
+  "verdict": "edited",
+  "changes": "Removed status sentences (EU cherry-only restriction, UK, US). Uses aligned with source. Added sourced safety findings and the 2025 US FDA revocation as dated regulatory history.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Erythrosine",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E128",
+  "verdict": "edited",
+  "changes": "Removed status sentence. 'Preserves' removed (not in source). Added sourced EU history (restricted uses; 2007 EFSA opinion and Commission suspension, consistent with eu_authorised=false) and non-food uses.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Red_2G",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E129",
+  "verdict": "edited",
+  "changes": "Removed status sentences, unsourced 'being phased out' and vague 'banned in several countries'. Food list replaced with sourced examples (sauces, snacks, cereals removed). Kept EU warning-label rule. Added 1971 origin.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Allura_Red_AC",
+   "https://en.wikipedia.org/wiki/Azorubine",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E130",
+  "verdict": "edited",
+  "changes": "Removed status sentence and 'little is documented'. Added sourced history and textile/pigment uses. RU name changed to the form in the Russian Wikipedia list.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Indanthrone_blue",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E131",
+  "verdict": "edited",
+  "changes": "Removed status sentences (EU red-fruit restriction, UK, US/Australia). Vague 'preserves and confectionery' replaced with sourced examples. Added sourced medical use and suspected allergic reactions.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patent_Blue_V",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E132",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Unsourced food list (sweets, ice cream, drinks, baked goods, pet food) removed. Added sourced production by sulfonation and non-food uses. EN name set from the EU name.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Indigo_carmine",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E133",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Uses aligned with sourced list ('dairy desserts' generalised to dairy products as in source; icings, packet soups, blue Curacao added). Added sourced absorption finding. RU name changed to the form in the Russian Wikipedia list.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brilliant_Blue_FCF",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E140",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Unsourced food list (sweets, ice cream, drinks, sauces) replaced with sourced examples (pasta, spirits). Source plants kept (supported by JECFA specification for chlorophyllins). Added sourced solubility notes. EN name set to EU name.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chlorophyll",
+   "https://en.wikipedia.org/wiki/Chlorophyllin",
+   "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-127.pdf",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": "RU name 'Хлорофиллы и хлорофиллины' follows the EU name; the Russian Wikipedia list uses just 'Хлорофилл'. Plant sources (grass, lucerne, nettle) are confirmed in the JECFA spec for copper chlorophyllins, not in a spec for E140 itself (EFSA site was blocked)."
+ },
+ {
+  "code": "E141",
+  "verdict": "edited",
+  "changes": "Removed status sentences (EU/UK, US citrus beverage mixes). Removed unsourced 'more stable, brighter green' and food list. Added sourced raw materials, solubility and product form from JECFA documents. EN name set to EU name.",
+  "sources": [
+   "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/Additive-127.pdf",
+   "INCHEM: JECFA FAO Nutrition Meetings Report Series 46a, no. 135 (chlorophyll copper complex)",
+   "https://en.wikipedia.org/wiki/Chlorophyllin",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": "RU name follows the EU name; the Russian Wikipedia list uses 'Хлорофилла медные комплексы'. No source opened gave specific foods, so none are listed."
+ },
+ {
+  "code": "E142",
+  "verdict": "edited",
+  "changes": "Removed status sentences. Synonym 'Acid Brilliant Green BS' not found in source, replaced with sourced synonyms. 'Some drinks' removed; gravy granules, ice cream, tinned peas added (sourced). Added ophthalmology use.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Green_S",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E143",
+  "verdict": "edited",
+  "changes": "Removed status sentence. 'Cosmetics' and 'drinks' removed (not in source). Added sourced absorption and 2017 WHO toxicology finding. RU name changed to the form in the Russian Wikipedia list.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fast_Green_FCF",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E150a",
+  "verdict": "edited",
+  "changes": "Removed status sentences (EU restrictions, UK, US). Production description aligned with JECFA. Sauces and confectionery removed (not in source); juice concentrates added.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Caramel_color",
+   "http://www.inchem.org/documents/jecfa/jecmono/v20je11.htm",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E150b",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Vague 'some other foods' replaced with sourced list. Added sourced properties. EN name uses EU spelling.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Caramel_color",
+   "http://www.inchem.org/documents/jecfa/jecmono/v20je11.htm",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E150c",
+  "verdict": "edited",
+  "changes": "Removed status sentences. 'Malt beverages' and 'baked goods' removed (not in source); liquorice, confectionery, gravy, soy and barbecue sauce added (sourced).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Caramel_color",
+   "http://www.inchem.org/documents/jecfa/jecmono/v20je11.htm",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E150d",
+  "verdict": "edited",
+  "changes": "Removed status sentence. 'Most often used' reworded to its sourced synonym 'soft-drink caramel'. Spirits removed (not in source for class IV); coffee, chocolate syrups, soups, seasonings added. RU name changed to the Russian Wikipedia list form.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Caramel_color",
+   "http://www.inchem.org/documents/jecfa/jecmono/v20je11.htm",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E151",
+  "verdict": "edited",
+  "changes": "Removed status sentences (EU seafood restriction, UK, US). Sauces removed (not in source); food list replaced with the sourced list. EN name set to EU name; RU name from Russian Wikipedia list.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brilliant_Black_BN",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ }
+]

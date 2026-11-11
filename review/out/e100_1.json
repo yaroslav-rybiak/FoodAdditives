@@ -1,0 +1,365 @@
+[
+ {
+  "code": "E100",
+  "en": {
+   "name": "Curcumin",
+   "text": "Curcumin is the bright yellow pigment of turmeric, obtained from the rhizomes of the plant Curcuma longa. Chemically it is a polyphenol of the curcuminoid group.\n\nAs a food additive it gives an orange-yellow colour and is used, for example, in curry powders, mustard, butter and cheese. It dissolves poorly in water."
+  },
+  "ru": {
+   "name": "Куркумин",
+   "text": "Куркумин — ярко-жёлтый пигмент куркумы, который получают из корневищ растения Curcuma longa. По химической природе это полифенол из группы куркуминоидов.\n\nКак пищевая добавка он придаёт оранжево-жёлтый цвет; его используют, например, в смесях карри, горчице, сливочном масле и сырах. В воде он растворяется плохо."
+  }
+ },
+ {
+  "code": "E101",
+  "en": {
+   "name": "Riboflavins",
+   "text": "Riboflavin is vitamin B2. In pure form it is a yellow-orange crystalline powder, and besides being a vitamin it is used as a food colour. It occurs naturally in meat, fish, eggs, dairy products and green vegetables.\n\nCommercial riboflavin is now made mainly by fermentation with fungi and genetically modified bacteria. The additive also covers riboflavin-5'-phosphate, a more water-soluble form. Riboflavin is also added to flour and breakfast cereals to enrich them."
+  },
+  "ru": {
+   "name": "Рибофлавин",
+   "text": "Рибофлавин — это витамин B2. В чистом виде это жёлто-оранжевый кристаллический порошок; помимо роли витамина, его используют как пищевой краситель. В природе он содержится в мясе, рыбе, яйцах, молочных продуктах и зелёных овощах.\n\nПромышленный рибофлавин сейчас получают в основном ферментацией с помощью грибов и генетически модифицированных бактерий. К этой добавке относится и рибофлавин-5'-фосфат — лучше растворимая в воде форма. Рибофлавин также добавляют в муку и готовые завтраки для их обогащения."
+  }
+ },
+ {
+  "code": "E102",
+  "en": {
+   "name": "Tartrazine",
+   "text": "Tartrazine is a synthetic lemon-yellow azo dye, known in the US as FD&C Yellow 5. It is used in soft drinks, sweets, desserts, snacks, sauces and many other processed foods, and combined with Brilliant Blue FCF or Green S it gives shades of green.\n\nIn the EU, foods containing it must carry the warning that it may have an adverse effect on activity and attention in children. According to the US FDA, it causes hives in fewer than 1 in 10,000 people."
+  },
+  "ru": {
+   "name": "Тартразин",
+   "text": "Тартразин — синтетический азокраситель лимонно-жёлтого цвета, в США известный как FD&C Yellow 5. Его применяют в газированных напитках, сладостях, десертах, снеках, соусах и многих других готовых продуктах, а в сочетании с бриллиантовым голубым FCF или зелёным S он даёт оттенки зелёного.\n\nВ ЕС на продуктах с ним должно быть предупреждение о том, что краситель может отрицательно влиять на активность и внимание детей. По данным FDA США, крапивницу он вызывает менее чем у 1 из 10 000 человек."
+  }
+ },
+ {
+  "code": "E103",
+  "en": {
+   "name": "Alkannin",
+   "text": "Alkannin is a natural red-brown pigment obtained from the roots of dyer's alkanet (Alkanna tinctoria), a plant of the Mediterranean region. Chemically it is a naphthoquinone derivative.\n\nIt is used as a food colouring and in cosmetics. It is deep red in acidic conditions and blue in alkaline ones."
+  },
+  "ru": {
+   "name": "Алканин",
+   "text": "Алканин — природный красно-коричневый пигмент, который получают из корней алканны красильной (Alkanna tinctoria), растения Средиземноморья. По химическому строению это производное нафтохинона.\n\nЕго используют как пищевой краситель и в косметике. В кислой среде он тёмно-красный, а в щелочной — синий."
+  }
+ },
+ {
+  "code": "E104",
+  "en": {
+   "name": "Quinoline Yellow",
+   "text": "Quinoline Yellow WS is a synthetic water-soluble dye that gives a greenish-yellow colour. It is used in drinks and in foods such as sauces, decorations and coatings.\n\nIn the EU, foods containing it must carry the warning that it may have an adverse effect on activity and attention in children. In 2009 EFSA lowered its acceptable daily intake from 10 to 0.5 mg per kg of body weight."
+  },
+  "ru": {
+   "name": "Хинолиновый жёлтый",
+   "text": "Хинолиновый жёлтый (Quinoline Yellow WS) — синтетический водорастворимый краситель зеленовато-жёлтого цвета. Его используют в напитках и в таких продуктах, как соусы, украшения и покрытия.\n\nВ ЕС на продуктах с ним должно быть предупреждение о том, что краситель может отрицательно влиять на активность и внимание детей. В 2009 году EFSA снизило его допустимое суточное потребление с 10 до 0,5 мг на кг массы тела."
+  }
+ },
+ {
+  "code": "E105",
+  "en": {
+   "name": "Fast Yellow AB",
+   "text": "Fast Yellow AB is a synthetic yellow azo dye that was formerly used as a food colour under the number E105. It is no longer used in food. It has been implicated in non-atopic asthma."
+  },
+  "ru": {
+   "name": "Жёлтый прочный AB",
+   "text": "Жёлтый прочный AB (Fast Yellow AB) — синтетический жёлтый азокраситель, который раньше применяли как пищевой краситель под номером E105. Сейчас в продуктах он не используется. Его связывают с неатопической астмой."
+  }
+ },
+ {
+  "code": "E106",
+  "en": {
+   "name": "Riboflavin-5'-phosphate sodium",
+   "text": "Riboflavin-5'-phosphate sodium is the sodium salt of riboflavin-5'-phosphate, a phosphate ester of vitamin B2 (riboflavin). It is used as a food colour, dissolves in water better than riboflavin itself and is quickly converted to free riboflavin after it is eaten.\n\nIt is also used to fortify flour with vitamin B2. It is closely related to E101."
+  },
+  "ru": {
+   "name": "Натриевая соль рибофлавин-5'-фосфата",
+   "text": "Натриевая соль рибофлавин-5'-фосфата — соль фосфорного эфира витамина B2 (рибофлавина). Её используют как пищевой краситель; в воде она растворяется лучше, чем сам рибофлавин, и после употребления быстро превращается в свободный рибофлавин.\n\nЕю также обогащают муку витамином B2. Вещество близко к добавке E101."
+  }
+ },
+ {
+  "code": "E107",
+  "en": {
+   "name": "Yellow 2G",
+   "text": "Yellow 2G is a synthetic yellow azo dye that has been used as a food colouring under the number E107 (colour index CI 18965). It is a yellow powder that dissolves in water."
+  },
+  "ru": {
+   "name": "Жёлтый 2G",
+   "text": "Жёлтый 2G (Yellow 2G) — синтетический жёлтый азокраситель, который применялся как пищевой краситель под номером E107 (индекс цвета CI 18965). Это жёлтый порошок, растворимый в воде."
+  }
+ },
+ {
+  "code": "E110",
+  "en": {
+   "name": "Sunset Yellow FCF",
+   "text": "Sunset Yellow FCF, also called Orange Yellow S and, in the US, FD&C Yellow 6, is a synthetic orange azo dye derived from petroleum. It is used in sweets, desserts, snacks, sauces and preserved fruits, and together with amaranth (E123) to give a brown colour to chocolate and caramel products.\n\nIn the EU, foods containing it must carry the warning that it may have an adverse effect on activity and attention in children."
+  },
+  "ru": {
+   "name": "Жёлтый «солнечный закат»",
+   "text": "Жёлтый «солнечный закат» FCF (Sunset Yellow FCF), также называемый апельсиновым жёлтым S, в США — FD&C Yellow 6, — синтетический оранжевый азокраситель, получаемый из нефтепродуктов. Его используют в сладостях, десертах, снеках, соусах и консервированных фруктах, а вместе с амарантом (E123) — для придания коричневого цвета шоколадным и карамельным изделиям.\n\nВ ЕС на продуктах с ним должно быть предупреждение о том, что краситель может отрицательно влиять на активность и внимание детей."
+  }
+ },
+ {
+  "code": "E111",
+  "en": {
+   "name": "Orange GGN",
+   "text": "Orange GGN, also known as alpha-naphthol orange, is a synthetic orange azo dye that was formerly used as a food colour. In Europe it has been prohibited in food since 1 January 1978, and it has never been included in the Codex Alimentarius list of food additives."
+  },
+  "ru": {
+   "name": "Оранжевый GGN",
+   "text": "Оранжевый GGN, или оранжевый альфа-нафтол, — синтетический оранжевый азокраситель, который раньше применяли как пищевой. В Европе он запрещён в продуктах с 1 января 1978 года, а в перечень пищевых добавок Кодекса Алиментариус он никогда не входил."
+  }
+ },
+ {
+  "code": "E120",
+  "en": {
+   "name": "Carmine",
+   "text": "Carmine is a bright red pigment made from carminic acid, which is extracted from cochineal and some other scale insects: the powdered insect bodies are boiled and the extract is precipitated with alum. It is also known as cochineal, cochineal extract or Natural Red 4. Because it comes from insects, it is not suitable for vegetarians or vegans.\n\nIt is used in yoghurt, sweets, gelatin desserts, meat products and drinks, including fruit juices. Carmine can cause allergic reactions in some people."
+  },
+  "ru": {
+   "name": "Кармин",
+   "text": "Кармин — ярко-красный пигмент на основе карминовой кислоты, которую извлекают из кошенили и некоторых других червецов: измельчённые тела насекомых вываривают, а из экстракта осаждают пигмент квасцами. Его также называют кошенилью, экстрактом кошенили или Natural Red 4. Поскольку его получают из насекомых, он не подходит вегетарианцам и веганам.\n\nЕго используют в йогуртах, сладостях, желейных десертах, мясных изделиях и напитках, в том числе фруктовых соках. Кармин может вызывать аллергические реакции у некоторых людей."
+  }
+ },
+ {
+  "code": "E121",
+  "en": {
+   "name": "Citrus Red 2",
+   "text": "Citrus Red 2 is a synthetic azo dye that does not dissolve in water but dissolves readily in many organic solvents. Its food use is very narrow: in the United States it has been used since 1956 to colour the skin of some oranges, at no more than 2 mg per kg of fruit.\n\nThe International Agency for Research on Cancer classifies it as possibly carcinogenic to humans (group 2B)."
+  },
+  "ru": {
+   "name": "Цитрусовый красный 2",
+   "text": "Цитрусовый красный 2 (Citrus Red 2) — синтетический азокраситель, который не растворяется в воде, но хорошо растворяется во многих органических растворителях. Его пищевое применение очень узкое: в США с 1956 года им окрашивают кожуру некоторых апельсинов, не более 2 мг на кг плодов.\n\nМеждународное агентство по изучению рака относит его к возможным канцерогенам для человека (группа 2B)."
+  }
+ },
+ {
+  "code": "E122",
+  "en": {
+   "name": "Azorubine (carmoisine)",
+   "text": "Azorubine, also called carmoisine, is a synthetic red azo dye. It is mainly used in foods that are heat-treated after fermentation; examples include some cheeses, dried fruit and some alcoholic drinks.\n\nIn the EU, foods containing it must carry the warning that it may have an adverse effect on activity and attention in children. EFSA re-evaluated it in 2009 and kept its acceptable daily intake at 4 mg per kg of body weight."
+  },
+  "ru": {
+   "name": "Азорубин (кармуазин)",
+   "text": "Азорубин, или кармуазин, — синтетический красный азокраситель. Его применяют главным образом в продуктах, которые после брожения проходят термообработку, например в некоторых сырах, сухофруктах и алкогольных напитках.\n\nВ ЕС на продуктах с ним должно быть предупреждение о том, что краситель может отрицательно влиять на активность и внимание детей. В 2009 году EFSA повторно оценило его и сохранило допустимое суточное потребление 4 мг на кг массы тела."
+  }
+ },
+ {
+  "code": "E123",
+  "en": {
+   "name": "Amaranth",
+   "text": "Amaranth, also known as FD&C Red No. 2, is a synthetic red azo dye. It has nothing to do with the amaranth plant apart from the name, which was taken from the red-coloured amaranth grain. It is used in foods and cosmetics; in the United Kingdom it is best known for colouring glacé cherries.\n\nThe US FDA withdrew it in 1976 after its own tests found more malignant tumours in female rats given high doses."
+  },
+  "ru": {
+   "name": "Амарант",
+   "text": "Амарант (FD&C Red No. 2) — синтетический красный азокраситель. С растением амарантом его связывает только название, взятое от красного зерна амаранта. Его используют в продуктах и косметике; в Великобритании он больше всего известен как краситель засахаренных вишен.\n\nВ 1976 году FDA США запретило его после того, как в собственных испытаниях ведомства у самок крыс, получавших высокие дозы, чаще возникали злокачественные опухоли."
+  }
+ },
+ {
+  "code": "E124",
+  "en": {
+   "name": "Ponceau 4R",
+   "text": "Ponceau 4R, also called Cochineal Red A or Brilliant Scarlet 4R, is a synthetic strawberry-red azo dye. Despite one of its names, it is not made from cochineal insects. It is stable to light, heat and acid but fades in the presence of ascorbic acid (vitamin C).\n\nIn the EU, foods containing it must carry the warning that it may have an adverse effect on activity and attention in children."
+  },
+  "ru": {
+   "name": "Понсо 4R",
+   "text": "Понсо 4R, он же Cochineal Red A или Brilliant Scarlet 4R, — синтетический азокраситель клубнично-красного цвета. Несмотря на одно из названий, его не получают из кошенили. Он устойчив к свету, нагреванию и кислотам, но обесцвечивается в присутствии аскорбиновой кислоты (витамина C).\n\nВ ЕС на продуктах с ним должно быть предупреждение о том, что краситель может отрицательно влиять на активность и внимание детей."
+  }
+ },
+ {
+  "code": "E125",
+  "en": {
+   "name": "Ponceau SX",
+   "text": "Ponceau SX, also called Scarlet GN or FD&C Red No. 4, is a synthetic red azo dye that was once used as a food colour. In the EU it was allowed in food until the end of 1976. Today it is mainly used in cosmetics such as shampoos, bubble baths and liquid soaps."
+  },
+  "ru": {
+   "name": "Понсо SX",
+   "text": "Понсо SX, также называемый Scarlet GN или FD&C Red No. 4, — синтетический красный азокраситель, который раньше использовали как пищевой. В ЕС его допускалось применять в продуктах до конца 1976 года. Сегодня его используют главным образом в косметике: шампунях, пенах для ванн и жидком мыле."
+  }
+ },
+ {
+  "code": "E126",
+  "en": {
+   "name": "Ponceau 6R",
+   "text": "Ponceau 6R, also called crystal ponceau 6R or crystal scarlet, is a synthetic red azo dye that was formerly used as a food colour under the number E126. It is also used in histology to stain fibrin, and it is closely related to the dye amaranth (E123)."
+  },
+  "ru": {
+   "name": "Понсо 6R",
+   "text": "Понсо 6R (Ponceau 6R), также называемый кристаллическим понсо 6R, — синтетический красный азокраситель, который раньше применяли как пищевой под номером E126. Его также используют в гистологии для окрашивания фибрина; он близок к красителю амаранту (E123)."
+  }
+ },
+ {
+  "code": "E127",
+  "en": {
+   "name": "Erythrosine",
+   "text": "Erythrosine, also known as FD&C Red No. 3, is a synthetic red-pink dye containing iodine; chemically it is the disodium salt of tetraiodofluorescein. It is used in sweets, ice pops, cake-decorating gels and especially cherries, and also in printing inks and dental plaque disclosing agents.\n\nStudies in rats linked long-term intake of high doses to thyroid tumours, although the dye is not genotoxic. On that basis the US FDA revoked its use in food in January 2025, with enforcement from 2027."
+  },
+  "ru": {
+   "name": "Эритрозин",
+   "text": "Эритрозин, или FD&C Red No. 3, — синтетический розово-красный краситель, содержащий йод; по химической природе это динатриевая соль тетрайодфлуоресцеина. Его используют в сладостях, фруктовом льде, гелях для украшения тортов и особенно для окрашивания вишен, а также в типографских красках и средствах для выявления зубного налёта.\n\nВ исследованиях на крысах длительное потребление высоких доз связывали с опухолями щитовидной железы, хотя генотоксичным краситель не является. На этом основании FDA США в январе 2025 года отменило его применение в пищевых продуктах с вступлением в силу в 2027 году."
+  }
+ },
+ {
+  "code": "E128",
+  "en": {
+   "name": "Red 2G",
+   "text": "Red 2G is a synthetic red azo dye. In the EU it was used only in breakfast sausages and burger meat containing cereal or vegetables. In July 2007 EFSA concluded that it may be carcinogenic because it is converted to aniline in the body, and the European Commission suspended its use as a food colour the same month. It is also used in inks and paper."
+  },
+  "ru": {
+   "name": "Красный 2G",
+   "text": "Красный 2G (Red 2G) — синтетический красный азокраситель. В ЕС его применяли только в сосисках для завтрака и мясе для бургеров с добавлением злаков или овощей. В июле 2007 года EFSA пришло к выводу, что он может быть канцерогенным, поскольку в организме превращается в анилин, и в том же месяце Еврокомиссия приостановила его использование как пищевого красителя. Его также используют в чернилах и бумаге."
+  }
+ },
+ {
+  "code": "E129",
+  "en": {
+   "name": "Allura Red AC",
+   "text": "Allura Red AC, also known as FD&C Red 40, is a synthetic red azo dye. It was developed in 1971 as a replacement for amaranth and is now the most widely used red food dye in the United States. It is found in soft drinks, sweets, cotton candy, cherry-flavoured products, dairy products and some medicines.\n\nIn the EU, foods containing it must carry the warning that it may have an adverse effect on activity and attention in children."
+  },
+  "ru": {
+   "name": "Красный очаровательный AC",
+   "text": "Красный очаровательный AC (Allura Red AC), в США — FD&C Red 40, — синтетический красный азокраситель. Его разработали в 1971 году на замену амаранту, и сейчас это самый распространённый красный пищевой краситель в США. Он встречается в газированных напитках, сладостях, сахарной вате, продуктах со вкусом вишни, молочных продуктах и некоторых лекарствах.\n\nВ ЕС на продуктах с ним должно быть предупреждение о том, что краситель может отрицательно влиять на активность и внимание детей."
+  }
+ },
+ {
+  "code": "E130",
+  "en": {
+   "name": "Indanthrene blue RS",
+   "text": "Indanthrene blue RS (indanthrone) is a synthetic dark blue anthraquinone dye first made by BASF in 1901. It is mainly a vat dye for cotton and other cellulose textiles and a pigment for paints and enamels, valued for its colour fastness. It has been assigned the food colour number E130."
+  },
+  "ru": {
+   "name": "Синий индантрен RS",
+   "text": "Синий индантрен RS (индантрон) — синтетический тёмно-синий антрахиноновый краситель, впервые полученный компанией BASF в 1901 году. В основном это кубовый краситель для хлопка и других целлюлозных тканей и пигмент для красок и эмалей, ценимый за прочность окраски. Ему присвоен номер пищевого красителя E130."
+  }
+ },
+ {
+  "code": "E131",
+  "en": {
+   "name": "Patent Blue V",
+   "text": "Patent Blue V is a synthetic sky-blue triphenylmethane dye. It is not widely used in food; in Europe it may be found in Scotch eggs, some jelly sweets, blue Curaçao and some gelatin desserts. In medicine it is used to stain lymph vessels.\n\nHealth authorities in some countries suspect that it may cause allergic reactions, from itching and rash to, rarely, anaphylactic shock."
+  },
+  "ru": {
+   "name": "Синий патентованный V",
+   "text": "Синий патентованный V (Patent Blue V) — синтетический небесно-голубой трифенилметановый краситель. В пищевых продуктах он используется нечасто; в Европе его можно встретить в яйцах по-шотландски, некоторых желейных конфетах, ликёре блю кюрасао и некоторых желейных десертах. В медицине им окрашивают лимфатические сосуды.\n\nОрганы здравоохранения ряда стран подозревают, что он может вызывать аллергические реакции — от зуда и сыпи до, в редких случаях, анафилактического шока."
+  }
+ },
+ {
+  "code": "E132",
+  "en": {
+   "name": "Indigotine (indigo carmine)",
+   "text": "Indigotine, also called indigo carmine or FD&C Blue No. 2, is made from indigo by sulfonation, which makes it water-soluble. Like indigo, it gives a blue colour, and it is one of the few blue food colours. It is also used in pharmaceutical capsules and cosmetics, as a pH indicator, and in medicine as a contrast agent and stain."
+  },
+  "ru": {
+   "name": "Индигокармин (индиготин)",
+   "text": "Индиготин, или индигокармин (FD&C Blue No. 2), получают из индиго сульфированием, которое делает его растворимым в воде. Как и индиго, он даёт синий цвет и относится к немногим синим пищевым красителям. Его также используют в капсулах лекарств и в косметике, как индикатор pH и в медицине как контрастное и окрашивающее средство."
+  }
+ },
+ {
+  "code": "E133",
+  "en": {
+   "name": "Brilliant Blue FCF",
+   "text": "Brilliant Blue FCF, also known as FD&C Blue No. 1, is a synthetic blue triarylmethane dye. Combined with tartrazine (E102) it gives shades of green. It is used in ice cream, sweets, icings, soft drinks, dairy products, canned processed peas, packet soups and the liqueur blue Curaçao, as well as in cosmetics.\n\nIn studies on rodents it was poorly absorbed from the gut, and most of it was excreted."
+  },
+  "ru": {
+   "name": "Бриллиантовый голубой FCF",
+   "text": "Бриллиантовый голубой FCF (синий блестящий FCF, FD&C Blue No. 1) — синтетический синий триарилметановый краситель. В сочетании с тартразином (E102) он даёт оттенки зелёного. Его используют в мороженом, сладостях, глазури, газированных напитках, молочных продуктах, консервированном горошке, супах быстрого приготовления и ликёре блю кюрасао, а также в косметике.\n\nВ исследованиях на грызунах он плохо всасывался в кишечнике и в основном выводился из организма."
+  }
+ },
+ {
+  "code": "E140",
+  "en": {
+   "name": "Chlorophylls and chlorophyllins",
+   "text": "Chlorophylls are the green pigments of plants. Chlorophyllins are water-soluble salts made from chlorophyll; the sodium chlorophyllins used as additives keep the original magnesium at their centre. The pigments are extracted from plant material such as grass, lucerne (alfalfa) and nettle.\n\nChlorophyll itself does not dissolve in water, so it is first mixed with a little vegetable oil. It is used to colour foods and drinks green, for example pasta and spirits."
+  },
+  "ru": {
+   "name": "Хлорофиллы и хлорофиллины",
+   "text": "Хлорофиллы — зелёные пигменты растений. Хлорофиллины — водорастворимые соли, получаемые из хлорофилла; в натриевых хлорофиллинах, используемых как добавка, в центре молекулы остаётся природный магний. Пигменты извлекают из растительного сырья, например травы, люцерны и крапивы.\n\nСам хлорофилл в воде не растворяется, поэтому его сначала смешивают с небольшим количеством растительного масла. Им окрашивают в зелёный цвет продукты и напитки, например макаронные изделия и крепкие напитки."
+  }
+ },
+ {
+  "code": "E141",
+  "en": {
+   "name": "Copper complexes of chlorophylls and chlorophyllins",
+   "text": "Copper complexes of chlorophylls and chlorophyllins are green colours made from chlorophyll extracted from plants such as grass, lucerne (alfalfa) and nettle, in which copper takes the place of the magnesium of the natural pigment. The chlorophyll form dissolves in oil; the chlorophyllin form is made into water-soluble sodium and potassium salts and is supplied as a dark green powder or solution."
+  },
+  "ru": {
+   "name": "Медные комплексы хлорофиллов и хлорофиллинов",
+   "text": "Медные комплексы хлорофиллов и хлорофиллинов — зелёные красители, которые получают из хлорофилла, извлечённого из растений, например травы, люцерны и крапивы; в них место магния природного пигмента занимает медь. Хлорофилловая форма растворяется в жирах, а хлорофиллиновая выпускается в виде водорастворимых солей натрия и калия — тёмно-зелёного порошка или раствора."
+  }
+ },
+ {
+  "code": "E142",
+  "en": {
+   "name": "Green S",
+   "text": "Green S, also known as Food Green S or lissamine green B, is a synthetic green triarylmethane dye. It is used in foods such as mint sauce, desserts, gravy granules, sweets, ice cream and tinned peas. Because it can stain living cells, it is also used in ophthalmology to diagnose disorders of the eye surface, such as dry eye."
+  },
+  "ru": {
+   "name": "Зелёный S",
+   "text": "Зелёный S (Green S), также известный как пищевой зелёный S или лиссаминовый зелёный B, — синтетический зелёный триарилметановый краситель. Его используют в мятном соусе, десертах, гранулированной подливе, сладостях, мороженом и консервированном горошке. Поскольку он окрашивает живые клетки, его также применяют в офтальмологии для диагностики заболеваний поверхности глаза, например сухости глаз."
+  }
+ },
+ {
+  "code": "E143",
+  "en": {
+   "name": "Fast Green FCF",
+   "text": "Fast Green FCF, also known as FD&C Green No. 3, is a synthetic turquoise triarylmethane dye used as a food colour. It is poorly absorbed from the gut. A 2017 re-evaluation published by the WHO found it to have low toxicity and to be neither carcinogenic nor genotoxic. It is also used as a stain in histology and for proteins in laboratory analysis."
+  },
+  "ru": {
+   "name": "Зелёный стойкий FCF",
+   "text": "Зелёный стойкий FCF (Fast Green FCF, FD&C Green No. 3) — синтетический бирюзовый триарилметановый краситель, применяемый как пищевой. В кишечнике он всасывается плохо. Переоценка, опубликованная ВОЗ в 2017 году, показала, что он малотоксичен и не является ни канцерогеном, ни генотоксичным веществом. Его также используют для окрашивания препаратов в гистологии и белков в лабораторном анализе."
+  }
+ },
+ {
+  "code": "E150a",
+  "en": {
+   "name": "Plain caramel",
+   "text": "Plain caramel (caramel colour class I, also called caustic or spirit caramel) is a brown colour made by controlled heating of carbohydrates with an acid or alkali, without the ammonium or sulphite compounds used for the other classes.\n\nIt is used in whisky and other spirits, biscuits, crackers and other baked goods, and juice concentrates."
+  },
+  "ru": {
+   "name": "Сахарный колер I (простой)",
+   "text": "Простой сахарный колер (карамельный краситель класса I, также называемый каустическим или спиртовым) — коричневый краситель, который получают контролируемым нагреванием углеводов с кислотой или щёлочью, без соединений аммония и сульфитов, применяемых для других классов.\n\nЕго используют в виски и других крепких напитках, печенье, крекерах и другой выпечке, а также в концентратах соков."
+  }
+ },
+ {
+  "code": "E150b",
+  "en": {
+   "name": "Caustic sulphite caramel",
+   "text": "Caustic sulphite caramel (caramel colour class II) is a brown colour made by controlled heating of carbohydrates with sulphite compounds in the presence of an alkali. It has a mild flavour, a distinctly reddish tone and good stability in alcohol.\n\nIt is used in tea, wine, sherry, brandy, cognac, rum, whisky and some vinegars."
+  },
+  "ru": {
+   "name": "Сахарный колер II (щелочно-сульфитный)",
+   "text": "Щелочно-сульфитный сахарный колер (карамельный краситель класса II) — коричневый краситель, который получают контролируемым нагреванием углеводов с соединениями сульфитов в присутствии щёлочи. У него мягкий вкус, выраженный красноватый оттенок и хорошая устойчивость в спирте.\n\nЕго используют в чае, вине, хересе, бренди, коньяке, роме, виски и некоторых уксусах."
+  }
+ },
+ {
+  "code": "E150c",
+  "en": {
+   "name": "Ammonia caramel",
+   "text": "Ammonia caramel (caramel colour class III, also called baker's, confectioner's or beer caramel) is a red-brown colour made by controlled heating of carbohydrates with ammonium compounds.\n\nIt is used in beer, breakfast cereals, liquorice, confectionery, gravy and sauces such as soy and barbecue sauce."
+  },
+  "ru": {
+   "name": "Сахарный колер III (аммиачный)",
+   "text": "Аммиачный сахарный колер (карамельный краситель класса III, также называемый пекарским, кондитерским или пивным колером) — красно-коричневый краситель, который получают контролируемым нагреванием углеводов с соединениями аммония.\n\nЕго используют в пиве, готовых завтраках, лакричных изделиях, кондитерских изделиях, подливах и соусах, например соевом и барбекю."
+  }
+ },
+ {
+  "code": "E150d",
+  "en": {
+   "name": "Sulphite ammonia caramel",
+   "text": "Sulphite ammonia caramel (caramel colour class IV, also called soft-drink or acid-proof caramel) is a dark brown colour made by controlled heating of carbohydrates with both sulphite and ammonium compounds. It is stable in acidic conditions.\n\nIt is used in soft drinks such as colas, balsamic vinegar, coffee, chocolate syrups, sauces, soups and seasonings."
+  },
+  "ru": {
+   "name": "Сахарный колер IV (аммиачно-сульфитный)",
+   "text": "Аммиачно-сульфитный сахарный колер (карамельный краситель класса IV, также называемый колером для безалкогольных напитков или кислотоустойчивым) — тёмно-коричневый краситель, который получают контролируемым нагреванием углеводов одновременно с соединениями сульфитов и аммония. Он устойчив в кислой среде.\n\nЕго используют в газированных напитках, например колах, бальзамическом уксусе, кофе, шоколадных сиропах, соусах, супах и приправах."
+  }
+ },
+ {
+  "code": "E151",
+  "en": {
+   "name": "Brilliant Black PN",
+   "text": "Brilliant Black PN, also called Brilliant Black BN or Black PN, is a synthetic black azo dye. It is used in food decorations and coatings, desserts, sweets, ice cream, mustard, red fruit jams, soft drinks, flavoured milk drinks, fish paste and lumpfish caviar."
+  },
+  "ru": {
+   "name": "Бриллиантовый чёрный BN",
+   "text": "Бриллиантовый чёрный BN, также называемый чёрным блестящим BN или чёрным PN, — синтетический чёрный азокраситель. Его используют в украшениях и покрытиях для продуктов, десертах, сладостях, мороженом, горчице, джемах из красных ягод, газированных напитках, ароматизированных молочных напитках, рыбной пасте и икре пинагора."
+  }
+ }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "code": "E432",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced uses (sauces, dressings, desserts, flavour preparations, drinks) and 'disperses flavours'; added sourced use (wetting agent in mouth drops), non-food uses and the JECFA/EFSA group ADI. Production wording aligned with source (ethoxylation of sorbitan monolaurate).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polysorbate_20",
+      "https://en.wikipedia.org/wiki/Polysorbate",
+      "https://doi.org/10.2903/j.efsa.2015.4152",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E433",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced uses (sauces, dressings, flavour preparations); kept ice cream (role sourced), desserts (gelatin desserts per 21 CFR 172.840), vitamin preparations, pharma/cosmetics; added vaccines, group ADI and the ex vivo gut-microbiota finding reported on Wikipedia.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polysorbate_80",
+      "https://www.ecfr.gov/current/title-21/section-172.840",
+      "https://doi.org/10.2903/j.efsa.2015.4152",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E434",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced uses (bakery fillings, whipped toppings, desserts) and foam-stabilising claim; added group ADI.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polysorbate",
+      "https://doi.org/10.2903/j.efsa.2015.4152",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": "No source found for specific food uses of polysorbate 40."
+  },
+  {
+    "code": "E435",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced 'improves the texture of fatty foods'. Uses confirmed by 21 CFR 172.836 and Wikipedia (hot cocoa mix); added confectionery coatings, drink mixes, group ADI.",
+    "sources": [
+      "https://www.ecfr.gov/current/title-21/section-172.836",
+      "https://en.wikipedia.org/wiki/Polysorbate_80",
+      "https://en.wikipedia.org/wiki/Polysorbate",
+      "https://doi.org/10.2903/j.efsa.2015.4152"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E436",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Production and uses checked against 21 CFR 172.838; 'desserts' made specific (frozen desserts), added cakes, icings, coffee whiteners and group ADI; foam-stabilising claim dropped.",
+    "sources": [
+      "https://www.ecfr.gov/current/title-21/section-172.838",
+      "https://en.wikipedia.org/wiki/Polysorbate",
+      "https://doi.org/10.2903/j.efsa.2015.4152"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E440",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Made the amidated-pectin description specific (less calcium needed) per source; 'fruit fillings, confectionery and dairy desserts' aligned to source wording. Names changed to plural per EU name and Russian list ('Пектины').",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pectin",
+      "https://ru.wikipedia.org/wiki/Пектины",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E441",
+    "verdict": "edited",
+    "changes": "Removed status sentence (not listed in EU/UK, US). Corrected 'clear gel' to colourless/slightly yellow, thermoreversible gel; raw materials and uses aligned with source (added ice cream, dips, yoghurts).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gelatin"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E442",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Corrected garbled chemical description to 'ammonium salts of phosphorylated glycerides' made from glycerol and partially hardened (rapeseed) oil. Deleted unsourced viscosity-reduction claim; added lecithin-alternative role and ADI 30 mg/kg. Russian name changed to the Russian list name.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mixed_ammonium_salts_of_phosphorylated_glycerides",
+      "https://doi.org/10.2903/j.efsa.2016.4597",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": "Viscosity-lowering effect in chocolate is plausible but was not found in an opened source, so it was deleted."
+  },
+  {
+    "code": "E443",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence and the unsourced 'bromine can accumulate in the body' claim. Replaced vague 'restricted or withdrawn in several countries' with sourced, attributed history (FDA revocation July 2024 and its reason; Japan 2010; Canada 2024). Added density/1931 detail from source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brominated_vegetable_oil"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E444",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced 'thick, honey-like' and 'cloudy beverages'; production corrected to esterification with acetic and isobutyric anhydrides; added BVO-alternative role, cosmetic use and ADI 20 mg/kg (EFSA 2016, JECFA 1997).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sucrose_acetate_isobutyrate",
+      "https://en.wikipedia.org/wiki/Brominated_vegetable_oil",
+      "https://doi.org/10.2903/j.efsa.2016.4489"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E445",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Corrected Russian gloss 'эфиры живичной канифоли' (gum rosin, a different material) and Russian name to the Russian list name. Deleted unsourced 'coating on citrus fruit' and 'cloudy drinks'; added BVO-alternative role, chewing gum and ice cream, and EFSA 2023 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Glycerol_ester_of_wood_rosin",
+      "https://doi.org/10.2903/j.efsa.2023.8110",
+      "https://doi.org/10.2903/j.efsa.2018.5370",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E446",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Replaced vague 'related to fatty acid esters' with the composition from 21 CFR 172.765; deleted unsourced 'little used'; US use attributed to US regulations and corrected (it is used in shortenings/oils for those foods).",
+    "sources": [
+      "https://www.ecfr.gov/current/title-21/section-172.765",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E450",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences and the vague 'total phosphate intake is regulated'. Production corrected (thermal condensation of sodium dihydrogen phosphate). Deleted unsourced 'processed cheese'; functions and uses aligned with sources; added EFSA 2019 group ADI and the note on children's exposure.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pyrophosphate",
+      "https://en.wikipedia.org/wiki/Disodium_pyrophosphate",
+      "https://doi.org/10.2903/j.efsa.2019.5674",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E451",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Production corrected from 'made from phosphoric acid' to source description; 'sequestrants in processed foods' deleted (not in source); added poultry, sale-weight note, detergent use and EFSA 2019 group ADI.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_triphosphate",
+      "https://doi.org/10.2903/j.efsa.2019.5674",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E452",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Removed ammonium polyphosphate from the list (not among E452 forms in the opened source); deleted unsourced 'made from phosphoric acid' and 'processed cheese' (replaced with sourced example foods for sodium hexametaphosphate); added functions, health note and EFSA 2019 group ADI.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polyphosphate",
+      "https://en.wikipedia.org/wiki/Sodium_hexametaphosphate",
+      "https://doi.org/10.2903/j.efsa.2019.5674",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": "Russian Wikipedia's list also includes ammonium polyphosphate (v) under E452; the EU official forms were not verified in an opened legal text."
+  },
+  {
+    "code": "E456",
+    "verdict": "new",
+    "changes": "New article written from the EFSA 2016 opinion and wine-science papers: identity, production, function in wine (tartrate stabilisation), typical use level, EFSA safety conclusion.",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2016.4435",
+      "https://openalex.org/W2796599349",
+      "https://doi.org/10.1051/bioconf/20191204009",
+      "https://doi.org/10.20870/oeno-one.2020.54.1.2527",
+      "https://en.wikipedia.org/wiki/Polyaspartic_acid"
+    ],
+    "unresolved": "Russian name 'Полиаспартат калия' is a direct chemical name; E456 is not on Russian Wikipedia's E400-E499 list and no Russian regulatory name was found."
+  },
+  {
+    "code": "E459",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced specific uses (flavours and vitamins, instant powders, tablet binder); kept identity, enzymatic production, inclusion complexes; added digestion and EFSA 2016 ADI with exceedance note.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cyclodextrin",
+      "https://doi.org/10.2903/j.efsa.2016.4628",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E460",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced 'powdered cellulose is finely ground'; corrected 'grated cheese' to processed cheese per source; uses aligned with source (texturiser, fat substitute, tablets); added EFSA 2018 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cellulose",
+      "https://en.wikipedia.org/wiki/Microcrystalline_cellulose",
+      "https://doi.org/10.2903/j.efsa.2018.5047"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E461",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Added production method; deleted unsourced uses (batters, sauces, gluten-free baking) and 'binder'; added capsules, laxative use and EFSA 2018 conclusion; 'acts like dietary fibre' replaced by sourced 'not absorbed'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Methyl_cellulose",
+      "https://doi.org/10.2903/j.efsa.2018.5047"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E462",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced 'dissolves in some organic solvents' and 'filler'; chemistry described per source; added food functions and EFSA 2018 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ethyl_cellulose",
+      "https://doi.org/10.2903/j.efsa.2018.5047"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E463",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. 'Dissolves in water and many solvents and forms films' corrected to the source's temperature-dependent solubility; deleted unsourced 'whipped toppings' and 'coatings'; added functions per source and EFSA 2018 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hydroxypropyl_cellulose",
+      "https://doi.org/10.2903/j.efsa.2018.5047"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E463a",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced 'insoluble in water but swells strongly'; kept tablet binder/disintegrant role (food supplements in tablet form per EFSA; compaction and disintegration per pharmaceutics study); added EFSA 2018 conclusion.",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2018.5062",
+      "https://doi.org/10.3390/macromol2010007"
+    ],
+    "unresolved": "Russian name is a direct translation; E463a is not on Russian Wikipedia's E-number list."
+  },
+  {
+    "code": "E464",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Names changed to the EU name and the Russian list/Wikipedia name (hypromellose kept as synonym). Deleted unsourced production detail (methyl chloride, propylene oxide), 'sauces' and 'coatings'; 'gluten-free baking' reduced to the sourced research on oat bread; added controlled-release tablets, artificial tears and EFSA 2018 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hypromellose",
+      "https://doi.org/10.2903/j.efsa.2018.5047",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E465",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced 'stabiliser' and 'whipped products'; added preparation method and EFSA 2018 conclusion. Russian name changed to the Russian list name 'Метилэтилцеллюлоза'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ethyl_methyl_cellulose",
+      "https://doi.org/10.2903/j.efsa.2018.5047",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E466",
+    "verdict": "edited",
+    "changes": "Removed status sentences, including the incorrect 'not approved in the US'. Names changed to EU name / Russian list name. Deleted unsourced 'clear' solutions, 'sauces, dressings, baked goods'; uses aligned to source (ice cream, mayonnaise, beverages, gluten-free/reduced-fat foods, wine); added EFSA 2018 conclusion and the 2023 scoping review on gut effects.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carboxymethyl_cellulose",
+      "https://doi.org/10.2903/j.efsa.2018.5047",
+      "https://doi.org/10.1080/10408444.2023.2270574",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E467",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced 'mainly known for industrial uses such as paints and adhesives'; added sourced INS emulsifier listing and laxative use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ethulose",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E468",
+    "verdict": "edited",
+    "changes": "Removed status sentences, including the unsourced claim that it is 'under discussion for a future amendment of the EU directive'. Added production and swelling mechanism from source; English name changed to the EU name. Added EFSA 2018 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_croscarmellose",
+      "https://en.wikipedia.org/wiki/Cellulose",
+      "https://doi.org/10.2903/j.efsa.2018.5047",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": "Russian Wikipedia's list spells it 'Кроскарамеллоза' (likely a typo); kept the usual spelling 'Кроскармеллоза'. Could not open the Russian article to confirm."
+  },
+  {
+    "code": "E469",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced 'lower-viscosity product' and 'source of soluble fibre'; English name aligned with EU name; added EFSA 2018 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carboxymethyl_cellulose",
+      "https://en.wikipedia.org/wiki/Cellulose",
+      "https://doi.org/10.2903/j.efsa.2018.5047"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E470a",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced anti-caking role ('keep powders free-flowing'); production and properties aligned with sources; added digestion and EFSA 2018 conclusion. Names aligned with EU name and Russian list.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_stearate",
+      "https://en.wikipedia.org/wiki/Potassium_stearate",
+      "https://en.wikipedia.org/wiki/Calcium_stearate",
+      "https://doi.org/10.2903/j.efsa.2018.5180",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E470b",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced 'fine powders that repel water' and 'emulsifiers'; production and uses aligned with source (anti-caking, release agent in pressed candies, tablet lubricant); added EFSA 2018 conclusion. Russian name aligned with Russian list.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Magnesium_stearate",
+      "https://doi.org/10.2903/j.efsa.2018.5180",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E471",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsourced 'among the most widely used emulsifiers', 'keep products soft' and product list (margarine, ice cream, sweets, spreads), replaced with sourced uses; added natural occurrence, glycerolysis, EFSA 2017 conclusion and the 2024 observational cancer study with its correlation-only caveat.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mono-_and_diglycerides_of_fatty_acids",
+      "https://doi.org/10.2903/j.efsa.2017.5045",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E472a",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Production corrected per 21 CFR 172.828 (triacetin interesterification or acetic anhydride, not 'acetic acid'); deleted unsourced 'helps whip' and 'whipped toppings, baked goods'; kept emulsifier and coatings; added plasticiser use and EFSA 2020 conclusion. Russian name aligned with Russian list.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Acetylated_monoglyceride",
+      "https://www.ecfr.gov/current/title-21/section-172.828",
+      "https://doi.org/10.2903/j.efsa.2020.6032",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E472b",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Production restated per 21 CFR 172.852; deleted unsourced 'improves aeration and stability' and 'whipped toppings, baked goods, baby food'; added plasticiser function and EFSA 2020 conclusion. Russian name aligned with Russian list.",
+    "sources": [
+      "https://www.ecfr.gov/current/title-21/section-172.852",
+      "https://doi.org/10.2903/j.efsa.2020.6032",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400-E499"
+    ],
+    "unresolved": "No opened source gave specific food products for E472b."
+  }
+]

@@ -1,0 +1,355 @@
+[
+  {
+    "code": "E929",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Added acid catalyst and explosive nature from source; replaced unsourced 'strong oxidizing agent'. Flour bleaching/maturing kept (sourced).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Acetone_peroxide",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E930",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Removed unsourced 'made industrially' and 'strengthen dough'; function set to flour treatment agent (bleaching and improving) per source; added CaO2, solubility and oxygen release in water.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_peroxide",
+      "Codex CXG 36-1989 (cached PDF)",
+      "TR CU 029/2012 (EAEU), cached"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E938",
+    "verdict": "edited",
+    "changes": "Removed status sentence (incl. unsourced US claim). Corrected atmospheric share from 'about 1%' to about 0.93%. Removed unsourced example foods (snacks, prepared foods); kept packaging gas and wine use (sourced).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Argon",
+      "https://eur-lex.europa.eu/eli/reg/2008/1333/2025-04-23 (cached text)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E939",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Removed 'detect leaks in packaging' (source describes industrial leak detection, not a food use). Function per TR CU 029/2012: propellant and packaging gas. Added natural-gas extraction detail.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Helium",
+      "TR CU 029/2012 (EAEU), cached",
+      "https://eur-lex.europa.eu/eli/reg/2008/1333/2025-04-23 (cached text)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E940",
+    "verdict": "edited",
+    "changes": "Removed 'banned in all countries' and FDA status sentence. Function corrected from packaging gas to propellant (Codex). Montreal Protocol phase-out dates (1996/2010) kept as sourced history. Russian name aligned with ru.wikipedia (Дифтордихлорметан).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dichlorodifluoromethane",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E941",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Removed unsourced example foods (crisps, coffee, nuts, wine) and the whipped-topping propellant claim (the source attributes whipped cream to nitrous oxide). Added sourced uses: modified atmosphere packaging alone or with CO2, beer keg pressurisation; production method corrected to fractional distillation of liquid air or mechanical separation.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nitrogen",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E942",
+    "verdict": "edited",
+    "changes": "Removed status sentence and unsourced 'made industrially'. Whipped cream mechanism reworded per source; added cooking sprays (sourced); 'non-flammable' added.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nitrous_oxide",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E943a",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Source says butane is a trace component of natural gas and part of LPG; dropped 'petroleum refining' origin wording. EU use restriction kept as a labelling/use rule and completed from Annex II Part E and Annex III of Reg. 1333/2008 (pan sprays for professional use, water-based emulsion sprays, colour preparations).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Butane",
+      "https://eur-lex.europa.eu/eli/reg/2008/1333/2025-04-23 (cached text)",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E943b",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Corrected origin: source says isobutane is obtained by isomerisation of butane (not directly from natural gas/refining). Added colourless/odourless. Cooking spray example replaced by the exact EU use conditions from Reg. 1333/2008.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Isobutane",
+      "https://eur-lex.europa.eu/eli/reg/2008/1333/2025-04-23 (cached text)",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E944",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Origin and fuel use confirmed; EU use conditions stated precisely from Reg. 1333/2008 (also water-based emulsion sprays and colour preparations).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Propane",
+      "https://eur-lex.europa.eu/eli/reg/2008/1333/2025-04-23 (cached text)",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E945",
+    "verdict": "edited",
+    "changes": "Removed 'banned in all countries' and FDA status sentence. Removed unsourced 'aerosol propellant' general use; food function propellant per Codex. Montreal Protocol phase-out from 1 January 1996 kept as sourced history; added greenhouse-gas note.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chloropentafluoroethane",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E946",
+    "verdict": "rewritten",
+    "changes": "Removed false Montreal Protocol claim (octafluorocyclobutane is a perfluorocarbon, not an ozone-depleting CFC; the source presents it as a replacement for CFC refrigerants) and the FDA status sentence. Removed unsourced 'whipped toppings' and 'past aerosol propellant' claims. Added identity, production and main use from source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Octafluorocyclobutane",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E948",
+    "verdict": "edited",
+    "changes": "Removed 'no status recorded' sentence. Red-meat colour use confirmed and made precise (~80% O2, oxymyoglobin). Removed incorrect 'support fresh produce' (source says oxygen keeps produce respiration high and shortens shelf life). Added tasteless and fractional distillation.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oxygen",
+      "https://en.wikipedia.org/wiki/Modified_atmosphere",
+      "https://eur-lex.europa.eu/eli/reg/2008/1333/2025-04-23 (cached text)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E949",
+    "verdict": "edited",
+    "changes": "Removed status/'no status recorded' sentence. Production corrected to mainly steam reforming of natural gas, electrolysis as alternative. Added antioxidant property per source. Hydrogenation of fats and oils kept (sourced) but framed as a separate process use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hydrogen",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E950",
+    "verdict": "edited",
+    "changes": "Removed status sentence. 200x sweetness, calorie-free, white crystalline powder and heat stability confirmed. Removed unsourced product list (soft drinks, desserts, chewing gum, tabletop); replaced with sourced baking/long-shelf-life use and blending with sucralose or aspartame. Added aftertaste. English name set to EU official 'Acesulfame K'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Acesulfame_potassium",
+      "Codex CXG 36-1989 (cached PDF)",
+      "TR CU 029/2012 (EAEU), cached"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E951",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Sweetness corrected to 180-200x; identity made precise (methyl ester of dipeptide); 'low-calorie' reworded to negligible calorie contribution per source; removed unsourced 'desserts, yoghurts'. Heat breakdown confirmed. Phenylalanine warning kept and verified as EU labelling rule (Reg. 1169/2011 Annex III 2.3). Added sourced 2023 IARC Group 2B classification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aspartame",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/III/adopted"
+    ],
+    "unresolved": "IARC 2023 classification was added (sourced); owner may want to decide whether to keep it, or pair it with the JECFA ADI of 40 mg/kg bw also given in the source."
+  },
+  {
+    "code": "E952",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Sweetness 30-50x confirmed. Removed unsourced 'no calories' and product list (soft drinks, desserts); kept saccharin blend (with sourced 10:1 ratio), added heat stability. Added sourced US regulatory history (1969-1970 withdrawal, FDA later statement). English name set to EU official 'Cyclamates'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cyclamate",
+      "TR CU 029/2012 (EAEU), cached"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E953",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Removed unsourced 'about half as sweet' (source only says less sweet) and unsourced product list (chewing gum, chocolate, cough sweets); kept sourced hard-candy use, production route, 2 kcal/g, tooth-friendly. Added sourced GI side effects. Polyol laxative warning verified and made precise (>10% added polyols, Reg. 1169/2011 Annex III 2.4).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Isomalt",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/III/adopted"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E954",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Sweetness corrected from 300-500x to about 500x (source). Removed unsourced toothpaste use; potassium salt not mentioned in source text dropped from prose (Codex lists it under 954). Added sourced 1879 origin, heat stability, and rat bladder-cancer history with IARC reclassification and the 2000 US label change.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saccharin",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E955",
+    "verdict": "edited",
+    "changes": "Removed status sentence. 600x confirmed. Replaced unsourced 'no usable calories' with sourced absorption/excretion statement; removed unsourced product list; heat stability qualified per source and sourced note on chlorinated compounds above 120 °C added.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sucralose"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E956",
+    "verdict": "edited",
+    "changes": "Removed 'no status recorded'. Sweetness 2000x now sourced (hedge removed). Removed unsourced 'limited use mainly outside Europe'; added sourced developer, brand, stability and phenylalanine-free note. Aspartic acid + alanine composition confirmed via PubChem IUPAC name.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alitame",
+      "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/alitame/property/IUPACName,MolecularFormula/JSON"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E957",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Removed unsourced 'several thousand times sweeter' (source gives only a molar-basis figure) and unsourced product list incl. animal feed. Added sourced taste-modifier role, local use of katemfe, liquorice-like aftertaste.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thaumatin",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E958",
+    "verdict": "edited",
+    "changes": "Removed 'no status recorded'. 30-50x confirmed. Removed unsourced 'lingering liquorice flavour', tobacco and product list. Blood-pressure claim made precise and sourced (also potassium). Added verified EU liquorice labelling rule (Reg. 1169/2011 Annex III 3.1-3.3). Russian name aligned with ru.wikipedia (Глицирризиновая кислота).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Glycyrrhizin",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/III/adopted",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E959",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Sweetness corrected from 'roughly 1,000x' to 1,500-1,800x at threshold / ~340x at higher concentrations (source). Removed unsourced 'cooling aftertaste' and product list (drinks, gum, dairy); added sourced production route, pharma/feed use, synergy. English name set to EU official 'Neohesperidine DC'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Neohesperidin_dihydrochalcone",
+      "https://eur-lex.europa.eu/eli/reg/2008/1333/2025-04-23 (cached text)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E960",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence. Sweetness '200-300x' replaced with sourced range (30-320x, Reb A ~240x, stevioside ~140x). Removed unsourced 'no calories', product list and 'liquorice-like aftertaste'. Added sourced ADI (4 mg/kg bw as steviol) and EU subdivision into E960a-d with official names. Russian name per TR CU 029/2012 (Стевиолгликозиды).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Steviol_glycoside",
+      "https://eur-lex.europa.eu/eli/reg/2008/1333/2025-04-23 (cached text)",
+      "TR CU 029/2012 (EAEU), cached"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E961",
+    "verdict": "edited",
+    "changes": "Removed garbled status sentence ('approved in 2010, country not specified'). 7,000-13,000x confirmed (by mass); 'low-calorie' corrected to non-caloric. Removed unsourced product list; added sourced stability and phenylalanine/PKU note; function sweetener and flavour enhancer per Codex.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Neotame",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E962",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence. Corrected function: it is a sweetener (Codex, TR CU 029/2012), not a stabiliser. Removed unsourced 'white crystalline, low in calories' and product list. Added sourced production (2:1 aspartame:acesulfame K), Twinsweet, ~350x. Phenylalanine statement replaced with verified EU labelling rule (Reg. 1169/2011 Annex III 2.3 covers aspartame-acesulfame salt). Russian name per TR CU 029/2012.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aspartame-acesulfame_salt",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/III/adopted",
+      "Codex CXG 36-1989 (cached PDF)",
+      "TR CU 029/2012 (EAEU), cached"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E964",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence. Removed unsourced 'thick, clear syrup', 'corn or wheat' (source: most often corn, also potato or wheat) and 'bulking agent' use list. Added sourced composition, 40-90% sweetness, crystallisation modifier, non-cariogenic. Polyol laxative warning verified and made precise (>10% added polyols).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hydrogenated_starch_hydrolysate",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/III/adopted",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": "Russian name 'Полиглицитольный сироп' could not be checked: no ru.wikipedia article and E964 is not in TR CU 029/2012."
+  },
+  {
+    "code": "E965",
+    "verdict": "edited",
+    "changes": "Removed status sentence. 75-90% sweetness confirmed; 'fewer calories' made precise (2-3 kcal/g). Removed humectant/stabiliser wording from use list; product list confirmed by source. Added syrup composition and non-cariogenic. Laxative warning verified and made precise (Reg. 1169/2011 Annex III 2.4).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Maltitol",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/III/adopted"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E966",
+    "verdict": "edited",
+    "changes": "Removed status sentence. 30-40% sweetness and medical laxative use confirmed; 'fewer calories' made precise (~60% of sugar). Product list adjusted to source (biscuits instead of baked goods). Added non-cariogenic, no blood-glucose rise, mechanism. Polyol warning verified and made precise (>10% added polyols, Reg. 1169/2011 Annex III 2.4). Russian name kept as in TR CU 029/2012 (Лактит; ru.wikipedia uses Лактитол).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lactitol",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/III/adopted",
+      "TR CU 029/2012 (EAEU), cached"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E967",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Removed unsourced 'found in fruit and vegetables' and 'corncobs' wording (source: wood, maize/wheat/rice processing waste) and the claim that it does not promote tooth decay (source: Cochrane found benefit only for xylitol-fluoride toothpaste, insufficient evidence otherwise). 40% fewer calories, sweetness and dog toxicity confirmed; added blood-sugar note and GI effects; polyol warning made precise.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Xylitol",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/III/adopted"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E968",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Corrected 'mild cooling effect' to strong (source). Production corrected to corn via enzymes and fermentation. Removed unsourced product list. Added sourced absorption/excretion, no blood-sugar effect, non-cariogenic, and EFSA 2023 intake limit of 0.5 g/kg bw/day. EFSA ADI confirmed from the opinion abstract.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Erythritol",
+      "https://doi.org/10.2903/j.efsa.2023.8430"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E969",
+    "verdict": "edited",
+    "changes": "Removed status sentence. 20,000x confirmed (by mass). Removed unsourced 'related to neotame' and product list. Added sourced developer, synthesis from aspartame and vanillin, stability, phenylalanine/PKU note; function per Codex.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Advantame",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E999",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Removed unsourced 'grows in Chile and other parts of South America', 'act like soap', root beer/ginger beer examples and cosmetics use. Kept saponins, foaming agent in soft drinks, emulsifier (Codex). Added sourced polyphenols and vaccine-adjuvant use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Quillaia",
+      "Codex CXG 36-1989 (cached PDF)",
+      "TR CU 029/2012 (EAEU), cached"
+    ],
+    "unresolved": ""
+  }
+]

@@ -1,23 +1,107 @@
 [
-{"code": "E620", "name": "Glutamic acid", "text": "Glutamic acid is an amino acid found in nearly all proteins. For food use it is usually produced by bacterial fermentation of sugar sources, and it also occurs naturally in tomatoes, cheese and soy sauce.\n\nIt works as a flavour enhancer, adding the savoury taste known as umami to soups, sauces, snacks and seasoning blends.\n\nIt is approved in the EU for salt and seasonings, approved in the UK, and approved in the US for salt."},
-{"code": "E621", "name": "Monosodium glutamate", "text": "Monosodium glutamate (MSG) is the sodium salt of glutamic acid. It is made industrially by fermenting starch or sugar, and the same compound occurs naturally in foods such as tomatoes, Parmesan and seaweed.\n\nIt is one of the most widely used flavour enhancers, adding umami to instant noodles, soups, stock cubes, snacks and processed meats.\n\nIt is approved in the EU for salt and seasonings, approved in the UK and approved in the US. Regulators consider it safe at normal intakes, though some people report short-lived symptoms after large doses, which controlled studies have not reliably confirmed."},
-{"code": "E622", "name": "Monopotassium glutamate", "text": "Monopotassium glutamate is the potassium salt of glutamic acid, an amino acid. It is produced by fermentation and neutralisation with a potassium compound.\n\nIt acts as a flavour enhancer giving savoury, umami taste, and is sometimes used instead of monosodium glutamate in products where sodium content is to be reduced, such as seasonings and soups.\n\nIt is approved in the EU for salt and seasonings, approved in the UK and approved in the US."},
-{"code": "E623", "name": "Calcium diglutamate", "text": "Calcium diglutamate is the calcium salt of glutamic acid, an amino acid that occurs in many protein-rich foods. It is made by fermentation followed by reaction with a calcium compound.\n\nIt is used as a flavour enhancer to give a savoury, umami taste to seasonings and similar products, and it is much less common than monosodium glutamate.\n\nIt is approved in the EU for salt and seasonings and approved in the UK. In the US it is not approved, although it has a recognised listing there."},
-{"code": "E624", "name": "Monoammonium glutamate", "text": "Monoammonium glutamate is the ammonium salt of glutamic acid, an amino acid. It is produced from glutamic acid obtained by fermentation.\n\nIt is used as a flavour enhancer that adds savoury, umami taste, and it is rarely used compared with monosodium glutamate. Like other glutamates, it can replace part of the salt in seasoned foods.\n\nIt is approved in the EU for salt and seasonings, approved in the UK and approved in the US."},
-{"code": "E625", "name": "Magnesium diglutamate", "text": "Magnesium diglutamate is the magnesium salt of glutamic acid, an amino acid. It is made from glutamic acid produced by fermentation and a magnesium compound.\n\nIt serves as a flavour enhancer, giving savoury umami taste to seasonings and similar products. It is a minor member of the glutamate group and is much less widely used than the sodium salt.\n\nIt is approved in the EU for salt and seasonings, approved in the UK and approved in the US."},
-{"code": "E626", "name": "Guanylic acid", "text": "Guanylic acid is a nucleotide, a building block of RNA. For food use it is usually obtained from yeast or produced by fermentation, and it occurs naturally in mushrooms.\n\nIt is a flavour enhancer that strongly boosts umami, especially together with glutamates. In practice its sodium salt is used far more often than the free acid.\n\nIt is approved in the EU for salt and seasonings and approved in the UK, but not approved in the US."},
-{"code": "E627", "name": "Disodium guanylate", "text": "Disodium guanylate is the sodium salt of guanylic acid, a nucleotide. It is produced from yeast RNA or by fermentation, and similar compounds occur naturally in dried mushrooms.\n\nIt is a flavour enhancer used in small amounts, almost always together with monosodium glutamate, because the two strengthen each other's umami effect. Typical products are instant noodles, soups, crisps and sauces.\n\nIt is approved in the EU for salt and seasonings, approved in the UK and approved in the US. Being rich in purines, it is usually advised against for people with gout."},
-{"code": "E628", "name": "Dipotassium guanylate", "text": "Dipotassium guanylate is the potassium salt of guanylic acid, a nucleotide that forms part of RNA. It is obtained from yeast or by fermentation.\n\nIt is a flavour enhancer that intensifies savoury umami taste, mostly in combination with glutamates. It is used much less often than the sodium salt.\n\nIt is approved in the EU for salt and seasonings and approved in the UK, but not approved in the US."},
-{"code": "E629", "name": "Calcium guanylate", "text": "Calcium guanylate is the calcium salt of guanylic acid, a nucleotide that forms part of RNA. It is obtained from yeast or by fermentation.\n\nIt is a flavour enhancer that intensifies savoury umami taste, usually together with glutamates. It is a minor additive, used far less than disodium guanylate.\n\nIt is approved in the EU for salt and seasonings and approved in the UK, but not approved in the US."},
-{"code": "E630", "name": "Inosinic acid", "text": "Inosinic acid is a nucleotide that occurs naturally in meat and fish, where it contributes to savoury flavour. For food use it is produced mainly by bacterial fermentation.\n\nIt is a flavour enhancer that amplifies umami, particularly in combination with glutamates. Its salts are used more often than the free acid.\n\nIt is approved in the EU for salt and seasonings and approved in the UK, but not approved in the US."},
-{"code": "E631", "name": "Disodium inosinate", "text": "Disodium inosinate is the sodium salt of inosinic acid, a nucleotide found naturally in meat and fish. It is made commercially by fermentation, or sometimes from meat or fish extracts.\n\nIt is a flavour enhancer, usually combined with monosodium glutamate or disodium guanylate, in instant noodles, soups, snacks, sauces and seasoning mixes.\n\nIt is approved in the EU for salt and seasonings, approved in the UK and approved in the US. Because it is metabolised to uric acid, it is generally not recommended for people with gout."},
-{"code": "E632", "name": "Dipotassium inosinate", "text": "Dipotassium inosinate is the potassium salt of inosinic acid, a nucleotide found naturally in meat and fish. It is produced by fermentation.\n\nIt is a flavour enhancer that boosts savoury umami taste, mostly alongside glutamates. It is used much less than the sodium salt.\n\nIt is approved in the EU for salt and seasonings and approved in the UK, but not approved in the US."},
-{"code": "E633", "name": "Calcium inosinate", "text": "Calcium inosinate is the calcium salt of inosinic acid, a nucleotide found naturally in meat and fish. It is produced by fermentation.\n\nIt is a flavour enhancer that boosts savoury umami taste, usually together with glutamates, and it is a minor additive.\n\nIt is approved in the EU for salt and seasonings and approved in the UK, but not approved in the US."},
-{"code": "E634", "name": "Calcium 5'-ribonucleotides", "text": "Calcium 5'-ribonucleotides are a mixture of the calcium salts of guanylic and inosinic acids, nucleotides that are components of RNA. They are generally obtained from yeast or by fermentation.\n\nThe mixture is used as a flavour enhancer, giving a strong savoury umami taste in small amounts, usually together with glutamates.\n\nIt is approved in the EU for salt and seasonings and approved in the UK, but not approved in the US."},
-{"code": "E635", "name": "Disodium 5'-ribonucleotides", "text": "Disodium 5'-ribonucleotides are a mixture of disodium guanylate and disodium inosinate, nucleotides that are components of RNA. They are obtained from yeast or by fermentation.\n\nThe mixture is a flavour enhancer used in small amounts, often with monosodium glutamate, in instant noodles, soups, snacks and seasonings. It is more widely used than the single compounds.\n\nIt is approved in the EU for salt and seasonings and approved in the UK, but not approved in the US."},
-{"code": "E636", "name": "Maltol", "text": "Maltol is an organic compound with a sweet, caramel-like aroma. It occurs naturally in roasted malt and in the bark of larch trees, and it can also be produced synthetically.\n\nIt is used as a flavour enhancer in baked goods, confectionery, soft drinks and dairy products, where it adds a warm, sweet note and can make a product taste sweeter.\n\nIt is not approved in the EU and UK, and is approved in the US."},
-{"code": "E637", "name": "Ethyl maltol", "text": "Ethyl maltol is a synthetic relative of maltol, a compound with a sweet, caramel-like aroma. It does not occur naturally in significant amounts and is made by chemical synthesis.\n\nIt is a flavour enhancer that is considerably stronger than maltol, and is used in small amounts in confectionery, baked goods, drinks and dairy desserts to add a sweet, fruity note.\n\nIt is not approved in the EU and UK, and is approved in the US."},
-{"code": "E640", "name": "Glycine and its sodium salt", "text": "Glycine is the simplest amino acid and a common component of proteins. For food use it is produced synthetically. It is also available as a sodium salt.\n\nIt is used as a flavour enhancer, and its mildly sweet taste helps round off flavour. It is used in sweeteners, seasonings and similar products.\n\nIt is approved in the EU for sweeteners and approved in the UK. In the US, glycine is approved; no separate US status is recorded for the sodium salt."},
-{"code": "E641", "name": "L-leucine", "text": "L-leucine is an essential amino acid found in most protein-rich foods. For food use it is produced by fermentation or obtained from protein hydrolysis.\n\nIt is used as a flavour enhancer, mainly in sweeteners and similar products, and is also familiar as a nutritional supplement.\n\nIt is approved in the EU for sweeteners, approved in the UK and approved in the US."},
-{"code": "E650", "name": "Zinc acetate", "text": "Zinc acetate is the zinc salt of acetic acid, a white crystalline compound made synthetically. Zinc is an essential trace element, but this compound is used as a food additive in very small amounts.\n\nIt is classed as a flavour enhancer and is used in chewing gum.\n\nIt is approved in the EU for chewing gum and approved in the UK. In the US it is approved for food packaging rather than as a direct food additive."}
+  {
+    "code": "E620",
+    "name": "Glutamic acid",
+    "text": "Glutamic acid is one of the amino acids that make up proteins. In its free form it is responsible for the savoury taste known as umami, and it occurs naturally in foods such as cheese, soy sauce and tomatoes.\n\nFor food use the L-form is obtained by fermentation or by hydrolysis of proteins such as wheat gluten. It is used as a flavour enhancer, although glutamate is more often added in the form of its sodium salt, monosodium glutamate (E621)."
+  },
+  {
+    "code": "E621",
+    "name": "Monosodium glutamate",
+    "text": "Monosodium glutamate (MSG) is the sodium salt of glutamic acid. Glutamate occurs naturally in foods such as tomatoes, cheese and kombu seaweed; MSG was first isolated in 1908 by the Japanese chemist Kikunae Ikeda, who was studying the savoury taste of kombu.\n\nToday it is made mainly by bacterial fermentation of carbohydrates from sugar beet, sugar cane, tapioca or molasses. It adds umami taste to stock cubes, soups, ramen, gravies, condiments and savoury snacks.\n\nBlinded studies have not shown the headaches and other symptoms popularly attributed to MSG when it is eaten with food in normal amounts."
+  },
+  {
+    "code": "E622",
+    "name": "Monopotassium glutamate",
+    "text": "Monopotassium glutamate is the potassium salt of glutamic acid, an amino acid.\n\nIt is used as a flavour enhancer that gives a savoury umami taste, and serves as a sodium-free alternative to monosodium glutamate (E621)."
+  },
+  {
+    "code": "E623",
+    "name": "Calcium diglutamate",
+    "text": "Calcium diglutamate is a calcium salt of glutamic acid, an amino acid present in protein-containing foods. It can be prepared by reacting glutamic acid with calcium carbonate.\n\nIt is a flavour enhancer. Because the glutamate is what carries the taste, it gives the same savoury umami effect as monosodium glutamate (E621) without adding sodium."
+  },
+  {
+    "code": "E624",
+    "name": "Monoammonium glutamate",
+    "text": "Monoammonium glutamate is the ammonium salt of glutamic acid, an amino acid.\n\nIt is used as a flavour enhancer that gives a savoury umami taste, like the other salts of glutamic acid such as monosodium glutamate (E621)."
+  },
+  {
+    "code": "E625",
+    "name": "Magnesium diglutamate",
+    "text": "Magnesium diglutamate is a magnesium salt of glutamic acid, an amino acid.\n\nIt is used as a flavour enhancer that gives a savoury umami taste, like the other salts of glutamic acid such as monosodium glutamate (E621)."
+  },
+  {
+    "code": "E626",
+    "name": "Guanylic acid",
+    "text": "Guanylic acid (guanosine monophosphate) is a nucleotide, one of the building blocks of RNA. It was first identified as the umami substance in dried shiitake mushrooms and occurs in a number of other mushrooms. Commercially it is produced by microbial fermentation.\n\nIt is a flavour enhancer that provides umami taste, but it is mostly used in the form of its salts, such as disodium guanylate (E627). Being fairly expensive, these are usually combined with glutamates."
+  },
+  {
+    "code": "E627",
+    "name": "Disodium guanylate",
+    "text": "Disodium guanylate is the sodium salt of guanylic acid (E626), a nucleotide first identified as the umami substance of dried shiitake mushrooms. It is produced mainly by bacterial fermentation.\n\nIt is a fairly expensive flavour enhancer, so it is usually used together with monosodium glutamate or another glutamate source, and often with disodium inosinate. Typical products are instant noodles, crisps and other snacks, savoury rice, tinned vegetables, cured meats and packet soups.\n\nJECFA has noted that large intakes of guanylates and inosinates can raise uric acid levels, which is relevant for people prone to gout."
+  },
+  {
+    "code": "E628",
+    "name": "Dipotassium guanylate",
+    "text": "Dipotassium guanylate is a potassium salt of guanylic acid (E626), a nucleotide that is one of the building blocks of RNA.\n\nIt is used as a flavour enhancer to provide umami taste. Like the other guanylates, it is usually combined with glutamates."
+  },
+  {
+    "code": "E629",
+    "name": "Calcium guanylate",
+    "text": "Calcium guanylate is the calcium salt of guanylic acid (E626), a nucleotide present in all living cells as part of RNA.\n\nIt is used as a flavour enhancer that provides umami taste."
+  },
+  {
+    "code": "E630",
+    "name": "Inosinic acid",
+    "text": "Inosinic acid (inosine monophosphate) is a nucleotide that occurs naturally in meat and fish. For food use it is made by fermentation of sugars or obtained from animal products.\n\nIt is a flavour enhancer for umami taste, although its salts, such as disodium inosinate (E631), are the forms usually used. Inosinates act in synergy with glutamates and are mostly used in soups, sauces and seasonings to intensify and balance meaty flavour."
+  },
+  {
+    "code": "E631",
+    "name": "Disodium inosinate",
+    "text": "Disodium inosinate is the sodium salt of inosinic acid (E630), a nucleotide found naturally in meat and fish. Large-scale production is now mainly by bacterial fermentation, although it can also be prepared from animal products.\n\nIt is a relatively expensive flavour enhancer that works in synergy with monosodium glutamate or other glutamate sources, and is often combined with disodium guanylate (as E635).\n\nJECFA has noted that large intakes of inosinates and guanylates can raise uric acid levels, which is relevant for people prone to gout."
+  },
+  {
+    "code": "E632",
+    "name": "Dipotassium inosinate",
+    "text": "Dipotassium inosinate is a potassium salt of inosinic acid (E630), a nucleotide found naturally in meat and fish.\n\nLike the other inosinates, it is a flavour enhancer that intensifies umami taste and is mostly used in soups, sauces and seasonings."
+  },
+  {
+    "code": "E633",
+    "name": "Calcium inosinate",
+    "text": "Calcium inosinate is a calcium salt of inosinic acid (E630), a nucleotide found naturally in meat and fish.\n\nLike the other inosinates, it is a flavour enhancer that intensifies umami taste and is mostly used in soups, sauces and seasonings."
+  },
+  {
+    "code": "E634",
+    "name": "Calcium 5'-ribonucleotides",
+    "text": "Calcium 5'-ribonucleotides are a mixture of the calcium salts of the nucleotides inosinic acid and guanylic acid.\n\nThe mixture is used as a flavour enhancer. On their own these compounds have little taste, but combined with glutamates such as monosodium glutamate they strongly boost umami."
+  },
+  {
+    "code": "E635",
+    "name": "Disodium 5'-ribonucleotides",
+    "text": "Disodium 5'-ribonucleotides are a mixture of disodium inosinate (E631) and disodium guanylate (E627), the sodium salts of the nucleotides inosinic acid and guanylic acid. Large-scale production is mainly by bacterial fermentation.\n\nThe mixture works in synergy with glutamates: a blend of 98% monosodium glutamate and 2% of this mixture has about four times the flavour-enhancing power of monosodium glutamate alone. It is mainly used in flavoured noodles, snack foods, crisps, crackers, sauces and fast food.\n\nJECFA evaluated it in 1974 and again in 1993 and did not consider a numerical acceptable daily intake necessary."
+  },
+  {
+    "code": "E636",
+    "name": "Maltol",
+    "text": "Maltol is a naturally occurring organic compound with a caramel-like odour. It is found in the bark of larch trees and the needles of pine trees, and it forms when malt is roasted, which gives it its name, and when bread is baked.\n\nIt is used mainly as a flavour enhancer and to give foods a pleasant aroma, and it is also used in perfumes, cosmetics and pharmaceuticals."
+  },
+  {
+    "code": "E637",
+    "name": "Ethyl maltol",
+    "text": "Ethyl maltol is an organic compound closely related to maltol (E636), with an ethyl group in place of maltol's methyl group. It is a white solid with a sweet smell often described as caramelised sugar or caramelised fruit.\n\nIt is a common flavouring in confectionery and is widely used in other foods, as well as in perfumes, cosmetics and pharmaceuticals."
+  },
+  {
+    "code": "E640",
+    "name": "Glycine and its sodium salt",
+    "text": "Glycine is the simplest stable amino acid and one of the building blocks of proteins. The body makes it, and it is also obtained from the diet. For food use it is produced by chemical synthesis. This additive number also covers its sodium salt.\n\nIn food it serves as a flavour enhancer: glycine is mildly sweet, which gave it its name from the Greek word for sweet, and it counters the aftertaste of saccharin. It also has some preservative properties."
+  },
+  {
+    "code": "E641",
+    "name": "L-leucine",
+    "text": "L-leucine is an essential amino acid: the body cannot make it, so it must come from the diet, mainly from protein-containing foods such as meat, dairy products, soy products, beans and other legumes.\n\nAs a food additive it is classed as a flavour enhancer; in the EU its listed use is in table-top sweeteners in tablet form. Leucine is also sold as a dietary supplement."
+  },
+  {
+    "code": "E650",
+    "name": "Zinc acetate",
+    "text": "Zinc acetate is the zinc salt of acetic acid, a colourless solid that commonly occurs as the dihydrate.\n\nAs a food additive it is classed as a flavour enhancer and is used in chewing gum. Zinc acetate is also used in dietary supplements and in some lozenges for the common cold."
+  }
 ]

@@ -1,0 +1,353 @@
+[
+  {
+    "code": "E1413",
+    "eu_authorised": true,
+    "eu_official_name": "Phosphated distarch phosphate",
+    "en": {
+      "name": "Phosphated distarch phosphate",
+      "text": "Phosphated distarch phosphate is a modified starch that is both cross-linked and esterified with phosphates. The base starch comes from maize, potato or similar crops.\n\nIt is used as a thickening agent and stabiliser in sauces, desserts and frozen foods, where it keeps a smooth texture.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Фосфатированный дикрахмалфосфат",
+      "text": "Фосфатированный дикрахмалфосфат — модифицированный крахмал, который одновременно сшит и этерифицирован фосфатами. Исходный крахмал получают из кукурузы, картофеля и подобных культур.\n\nИспользуется как загуститель и стабилизатор в соусах, десертах и замороженных продуктах, где сохраняет гладкую текстуру.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1414",
+    "eu_authorised": true,
+    "eu_official_name": "Acetylated distarch phosphate",
+    "en": {
+      "name": "Acetylated distarch phosphate",
+      "text": "Acetylated distarch phosphate is a modified starch that is cross-linked with phosphate and also acetylated. The base starch comes from maize, potato, tapioca or similar crops.\n\nIt is used as a thickening agent, stabiliser and emulsifier, especially in sauces, soups, fillings and frozen foods, where it tolerates heat, acid and freezing.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Ацетилированный дикрахмалфосфат",
+      "text": "Ацетилированный дикрахмалфосфат — модифицированный крахмал, сшитый фосфатом и дополнительно ацетилированный. Исходный крахмал получают из кукурузы, картофеля, тапиоки и подобных культур.\n\nПрименяется как загуститель, стабилизатор и эмульгатор, особенно в соусах, супах, начинках и замороженных продуктах, где выдерживает нагрев, кислоту и заморозку.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1420",
+    "eu_authorised": true,
+    "eu_official_name": "Acetylated starch",
+    "en": {
+      "name": "Acetylated starch",
+      "text": "Acetylated starch, also called starch acetate, is a modified starch esterified with acetic anhydride. The starch comes from maize, potato, tapioca or similar crops.\n\nThe acetyl groups prevent the starch paste from thickening or turning cloudy when cooled. It is used as a thickening agent and stabiliser in canned and frozen foods, sauces and fillings.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Ацетилированный крахмал",
+      "text": "Ацетилированный крахмал, или ацетат крахмала, — модифицированный крахмал, этерифицированный уксусным ангидридом. Исходный крахмал получают из кукурузы, картофеля, тапиоки и подобных культур.\n\nАцетильные группы мешают клейстеру густеть и мутнеть при охлаждении. Используется как загуститель и стабилизатор в консервах, замороженных продуктах, соусах и начинках.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1421",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Starch acetate (vinyl acetate)",
+      "text": "This is a modified starch esterified with vinyl acetate, giving acetylated starch similar to E1420 but made with a different reagent. The base starch comes from maize, potato or similar crops.\n\nIt is used as a thickening agent and stabiliser in foods where a stable, smooth paste is wanted.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Ацетат крахмала (винилацетат)",
+      "text": "Это модифицированный крахмал, этерифицированный винилацетатом; получается ацетилированный крахмал, похожий на E1420, но с другим реагентом. Исходный крахмал берут из кукурузы, картофеля и подобных культур.\n\nИспользуется как загуститель и стабилизатор в продуктах, где нужен стабильный гладкий клейстер.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1422",
+    "eu_authorised": true,
+    "eu_official_name": "Acetylated distarch adipate",
+    "en": {
+      "name": "Acetylated distarch adipate",
+      "text": "Acetylated distarch adipate is a modified starch cross-linked with adipic acid and acetylated with acetic anhydride. The base starch comes from maize, potato, tapioca or similar crops.\n\nIt is used as a thickening agent and stabiliser in sauces, soups, dressings, fillings and baby foods, because it resists heat, acid and freezing.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Ацетилированный дикрахмаладипат",
+      "text": "Ацетилированный дикрахмаладипат — модифицированный крахмал, сшитый адипиновой кислотой и ацетилированный уксусным ангидридом. Исходный крахмал получают из кукурузы, картофеля, тапиоки и подобных культур.\n\nИспользуется как загуститель и стабилизатор в соусах, супах, заправках, начинках и детском питании, так как устойчив к нагреву, кислотам и заморозке.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1423",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Acetylated distarch glycerol",
+      "text": "Acetylated distarch glycerol is a modified starch in which starch chains are cross-linked with glycerol and acetylated. The base starch comes from maize, potato or similar crops.\n\nIt is used as a thickening agent in foods.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Ацетилированный дикрахмалглицерин",
+      "text": "Ацетилированный дикрахмалглицерин — модифицированный крахмал, цепи которого сшиты глицерином и ацетилированы. Исходный крахмал берут из кукурузы, картофеля и подобных культур.\n\nПрименяется как загуститель в пищевых продуктах.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1430",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Distarch glycerine",
+      "text": "Distarch glycerine is a modified starch whose chains are cross-linked with glycerol. The starch comes from maize, potato or other crops.\n\nIt is used as a thickening agent and stabiliser in foods that need a stable paste.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Дикрахмалглицерин",
+      "text": "Дикрахмалглицерин — модифицированный крахмал, цепи которого сшиты глицерином. Крахмал берут из кукурузы, картофеля или других культур.\n\nИспользуется как загуститель и стабилизатор в продуктах, которым нужен устойчивый клейстер.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1440",
+    "eu_authorised": true,
+    "eu_official_name": "Hydroxy propyl starch",
+    "en": {
+      "name": "Hydroxypropyl starch",
+      "text": "Hydroxypropyl starch is a modified starch made by reacting starch with propylene oxide. The starch comes from maize, potato, tapioca or similar crops.\n\nIt forms stable, clear pastes that resist freezing and thawing. It is used as a thickening agent and emulsifier in sauces, desserts, fillings and frozen foods.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Гидроксипропилкрахмал",
+      "text": "Гидроксипропилкрахмал — модифицированный крахмал, получаемый реакцией крахмала с оксидом пропилена. Крахмал берут из кукурузы, картофеля, тапиоки и подобных культур.\n\nОбразует стабильные прозрачные клейстеры, устойчивые к заморозке и размораживанию. Применяется как загуститель и эмульгатор в соусах, десертах, начинках и замороженных продуктах.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1441",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Hydroxypropyl distarch glycerine",
+      "text": "Hydroxypropyl distarch glycerine is a modified starch that is cross-linked with glycerol and also reacted with propylene oxide. The base starch comes from maize, potato or similar crops.\n\nIt is used as a thickening agent and stabiliser in foods that need a stable texture.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Гидроксипропилдикрахмалглицерин",
+      "text": "Гидроксипропилдикрахмалглицерин — модифицированный крахмал, сшитый глицерином и обработанный оксидом пропилена. Исходный крахмал берут из кукурузы, картофеля и подобных культур.\n\nИспользуется как загуститель и стабилизатор в продуктах, которым нужна устойчивая текстура.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1442",
+    "eu_authorised": true,
+    "eu_official_name": "Hydroxy propyl distarch phosphate",
+    "en": {
+      "name": "Hydroxypropyl distarch phosphate",
+      "text": "Hydroxypropyl distarch phosphate is a modified starch that is cross-linked with phosphate and also reacted with propylene oxide. The base starch comes from maize, potato, tapioca or similar crops.\n\nIt is used as a thickening agent and stabiliser in sauces, desserts, fillings and frozen foods, where it tolerates heat, acid and freezing.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Гидроксипропилдикрахмалфосфат",
+      "text": "Гидроксипропилдикрахмалфосфат — модифицированный крахмал, сшитый фосфатом и обработанный оксидом пропилена. Исходный крахмал получают из кукурузы, картофеля, тапиоки и подобных культур.\n\nПрименяется как загуститель и стабилизатор в соусах, десертах, начинках и замороженных продуктах, где выдерживает нагрев, кислоту и заморозку.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1443",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Hydroxypropyl distarch glycerol",
+      "text": "Hydroxypropyl distarch glycerol is a modified starch that is cross-linked with glycerol and treated with propylene oxide. The base starch comes from maize, potato or similar crops.\n\nIt acts as a thickener in foods.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Гидроксипропилдикрахмалглицерол",
+      "text": "Гидроксипропилдикрахмалглицерол — модифицированный крахмал, сшитый глицерином и обработанный оксидом пропилена. Исходный крахмал берут из кукурузы, картофеля и подобных культур.\n\nДействует как загуститель.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1450",
+    "eu_authorised": true,
+    "eu_official_name": "Starch sodium octenyl succinate",
+    "en": {
+      "name": "Starch sodium octenyl succinate",
+      "text": "Starch sodium octenyl succinate is a modified starch esterified with octenyl succinic anhydride, which gives it both water-loving and fat-loving properties. The base starch comes from maize, waxy maize or similar crops.\n\nIt is used as an emulsifier and stabiliser, for example in beverage emulsions, flavour encapsulation and dressings.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Октенилсукцинат натрия крахмала",
+      "text": "Это модифицированный крахмал, этерифицированный октенилянтарным ангидридом, благодаря чему он сочетает водо- и жиролюбивые свойства. Исходный крахмал берут из кукурузы, восковой кукурузы и подобных культур.\n\nИспользуется как эмульгатор и стабилизатор, например в эмульсиях для напитков, при инкапсулировании ароматизаторов, в соусах.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1451",
+    "eu_authorised": true,
+    "eu_official_name": "Acetylated oxidised starch",
+    "en": {
+      "name": "Acetylated oxidised starch",
+      "text": "Acetylated oxidised starch is a modified starch that has been oxidised and then acetylated. The base starch comes from maize, potato or similar crops.\n\nIt is used as a thickening agent and emulsifier in foods such as sauces, batters and fillings.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Ацетилированный окисленный крахмал",
+      "text": "Ацетилированный окисленный крахмал — модифицированный крахмал, который сначала окислен, а затем ацетилирован. Исходный крахмал берут из кукурузы, картофеля и подобных культур.\n\nИспользуется как загуститель и эмульгатор в соусах, кляре, начинках и других продуктах.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1452",
+    "eu_authorised": true,
+    "eu_official_name": "Starch aluminium octenyl succinate",
+    "en": {
+      "name": "Starch aluminium octenyl succinate",
+      "text": "Starch aluminium octenyl succinate is a modified starch esterified with octenyl succinic anhydride and combined with aluminium. The base starch comes from maize or similar crops.\n\nIt is used in powdered foods and supplements, where it works as an anti-caking agent and helps keep powders free-flowing.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Октенилсукцинат алюминия крахмала",
+      "text": "Это модифицированный крахмал, этерифицированный октенилянтарным ангидридом и связанный с алюминием. Исходный крахмал берут из кукурузы и подобных культур.\n\nПрименяется в порошкообразных продуктах и добавках как добавка против слёживания, сохраняющая сыпучесть порошка.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1501",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Benzylated hydrocarbons",
+      "text": "Benzylated hydrocarbons are synthetic compounds. Little reliable information is available about this additive.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Бензилированные углеводороды",
+      "text": "Бензилированные углеводороды — синтетические соединения. Надёжных сведений об этой добавке мало.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1502",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Butane-1,3-diol",
+      "text": "Butane-1,3-diol, also called 1,3-butylene glycol, is a synthetic alcohol with two hydroxyl groups. It is a colourless, syrupy, water-soluble liquid.\n\nIt can serve as a solvent for flavourings and as a humectant.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Бутан-1,3-диол",
+      "text": "Бутан-1,3-диол, или 1,3-бутиленгликоль, — синтетический спирт с двумя гидроксильными группами. Это бесцветная сиропообразная жидкость, растворимая в воде.\n\nМожет служить растворителем для ароматизаторов и влагоудерживающим агентом.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1503",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Castor oil",
+      "text": "Castor oil is a vegetable oil pressed from the seeds of the castor plant (Ricinus communis). It consists mostly of ricinoleic acid.\n\nIn food it is used as a release agent and as a component of coatings and glazes on sweets, as well as a flavouring solvent. It is also classed as a resolving agent.\n\nNo EU or US approval status is recorded for it. In larger amounts castor oil is known to act as a laxative."
+    },
+    "ru": {
+      "name": "Касторовое масло",
+      "text": "Касторовое масло — растительное масло, отжимаемое из семян клещевины (Ricinus communis). Состоит в основном из рицинолевой кислоты.\n\nВ пище применяется как антиадгезив и компонент покрытий и глазури для сладостей, а также как растворитель ароматизаторов. Также относится к разделяющим агентам.\n\nСведений о разрешении этой добавки в ЕС и США нет. В больших количествах касторовое масло, как известно, оказывает слабительное действие."
+    }
+  },
+  {
+    "code": "E1504",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ethyl acetate",
+      "text": "Ethyl acetate is the ester of ethanol and acetic acid. It occurs naturally in fruits and wine and is also produced industrially. It is a volatile liquid with a fruity smell.\n\nIt is used as a solvent for flavourings and in extracting natural substances, for example in decaffeination.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Этилацетат",
+      "text": "Этилацетат — сложный эфир этанола и уксусной кислоты. Встречается в природе в фруктах и вине, а также производится промышленно. Это летучая жидкость с фруктовым запахом.\n\nИспользуется как растворитель для ароматизаторов и при экстракции природных веществ, например при декофеинизации.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1505",
+    "eu_authorised": true,
+    "eu_official_name": "Triethyl citrate",
+    "en": {
+      "name": "Triethyl citrate",
+      "text": "Triethyl citrate is the ethyl ester of citric acid, produced by synthesis. It is a colourless, nearly odourless liquid.\n\nIn food it is used as a foam stabiliser, notably to help whipped egg white keep its volume, and as a solvent and carrier for flavourings. It is also used as a plasticiser in coatings.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Триэтилцитрат",
+      "text": "Триэтилцитрат — этиловый эфир лимонной кислоты, получаемый синтетически. Это бесцветная жидкость почти без запаха.\n\nВ пище применяется как пеностабилизатор, в частности помогает взбитому яичному белку сохранять объём, а также как растворитель и носитель ароматизаторов. Кроме того, используется как пластификатор в покрытиях.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1510",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ethanol",
+      "text": "Ethanol is the alcohol found in alcoholic drinks. It is produced by fermentation of sugars or synthetically.\n\nAs an additive it is used as a solvent and carrier for flavourings, colours and other additives. Only small residual amounts remain in finished foods.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Этанол",
+      "text": "Этанол — спирт, содержащийся в алкогольных напитках. Его получают брожением сахаров или синтетически.\n\nКак добавка используется в качестве растворителя и носителя для ароматизаторов, красителей и других добавок. В готовых продуктах остаются лишь небольшие остаточные количества.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1516",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Glyceryl monoacetate",
+      "text": "Glyceryl monoacetate, or monoacetin, is an ester of glycerol and acetic acid. It is made synthetically and is a colourless, viscous liquid.\n\nIn food it serves as a solvent for flavourings.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Моноацетат глицерина",
+      "text": "Моноацетат глицерина, или моноацетин, — сложный эфир глицерина и уксусной кислоты. Получают синтетически; это бесцветная вязкая жидкость.\n\nВ пище служит растворителем для ароматизаторов.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1517",
+    "eu_authorised": true,
+    "eu_official_name": "Glyceryl diacetate (diacetin)",
+    "en": {
+      "name": "Glyceryl diacetate",
+      "text": "Glyceryl diacetate, also called diacetin, is an ester of glycerol with two acetic acid groups. It is made synthetically.\n\nIn food it is used as a solvent for flavourings.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Диацетат глицерина",
+      "text": "Диацетат глицерина, или диацетин, — сложный эфир глицерина с двумя остатками уксусной кислоты. Получают синтетически.\n\nВ пище используется как растворитель для ароматизаторов.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1518",
+    "eu_authorised": true,
+    "eu_official_name": "Glyceryl triacetate (triacetin)",
+    "en": {
+      "name": "Glyceryl triacetate",
+      "text": "Glyceryl triacetate, or triacetin, is an ester of glycerol with three acetic acid groups. It is made synthetically and is an oily liquid with a faint odour.\n\nIn food it is used as a humectant and as a solvent and carrier for flavourings, for example in chewing gum and baked goods.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Триацетат глицерина",
+      "text": "Триацетат глицерина, или триацетин, — сложный эфир глицерина с тремя остатками уксусной кислоты. Получают синтетически; это маслянистая жидкость со слабым запахом.\n\nВ пище применяется как влагоудерживающий агент, а также как растворитель и носитель ароматизаторов, например в жевательной резинке и выпечке.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1519",
+    "eu_authorised": true,
+    "eu_official_name": "Benzyl alcohol",
+    "en": {
+      "name": "Benzyl alcohol",
+      "text": "Benzyl alcohol is an aromatic alcohol that occurs naturally in some plants, essential oils and fruits, and is also produced synthetically. It has a faint sweet smell.\n\nIn food it is used as a solvent and carrier for flavourings.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Бензиловый спирт",
+      "text": "Бензиловый спирт — ароматический спирт, который в природе содержится в некоторых растениях, эфирных маслах и фруктах, а также производится синтетически. Имеет слабый сладковатый запах.\n\nВ пище используется как растворитель и носитель ароматизаторов.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1520",
+    "eu_authorised": true,
+    "eu_official_name": "Propane-1, 2-diol (propylene glycol)",
+    "en": {
+      "name": "Propylene glycol",
+      "text": "Propylene glycol is a synthetic, colourless, slightly sweet and viscous liquid, produced from petrochemical raw materials. It is not the same as the toxic ethylene glycol.\n\nIn food it is used as a humectant and as a solvent and carrier for flavourings and colours, for example in baked goods, sauces and drinks.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Пропиленгликоль",
+      "text": "Пропиленгликоль — синтетическая бесцветная, слегка сладковатая вязкая жидкость, получаемая из нефтехимического сырья. Не следует путать его с токсичным этиленгликолем.\n\nВ пище используется как влагоудерживающий агент, а также как растворитель и носитель ароматизаторов и красителей, например в выпечке, соусах и напитках.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1521",
+    "eu_authorised": true,
+    "eu_official_name": "Polyethylene glycol",
+    "en": {
+      "name": "Polyethylene glycol",
+      "text": "Polyethylene glycol 8000 is a synthetic water-soluble polymer of ethylene oxide. It is a waxy white solid.\n\nIn food and supplements it is used as a coating, binder and glazing agent, for example on tablets.\n\nIt is noted as approved in 2010, but the region is not stated, so its EU and US status is unclear."
+    },
+    "ru": {
+      "name": "Полиэтиленгликоль",
+      "text": "Полиэтиленгликоль 8000 — синтетический водорастворимый полимер оксида этилена, твёрдое воскообразное белое вещество.\n\nВ пище и добавках применяется как покрытие, связующее и глазирователь, например для таблеток.\n\nОтмечено, что добавка одобрена в 2010 году, но регион не указан, поэтому её статус в ЕС и США неясен."
+    }
+  },
+  {
+    "code": "E1525",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Hydroxyethyl cellulose",
+      "text": "Hydroxyethyl cellulose is a modified cellulose, made by reacting plant cellulose with ethylene oxide. It dissolves in water to give a thick, clear solution.\n\nIt is used as a thickening agent in foods and supplements and as a binder and film former.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Гидроксиэтилцеллюлоза",
+      "text": "Гидроксиэтилцеллюлоза — модифицированная целлюлоза, получаемая реакцией растительной целлюлозы с оксидом этилена. Растворяется в воде, образуя густой прозрачный раствор.\n\nИспользуется как загуститель в продуктах и добавках, а также как связующее и плёнкообразователь.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  }
+]

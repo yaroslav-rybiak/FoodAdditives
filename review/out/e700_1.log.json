@@ -1,0 +1,160 @@
+[
+  {
+    "code": "E701",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Reworded origin to match source (isolated from Streptomyces or semi-synthetic); added sourced 1940s discovery and former/ongoing use at subtherapeutic levels in feed as growth promoters.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tetracycline_antibiotics",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru&titles=Tetracycline_antibiotics"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E702",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Removed 'used mainly in veterinary medicine' and 'formerly given in feed' (not stated in the chlortetracycline source); replaced with sourced veterinary and human uses and 1945 discovery.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chlortetracycline"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E703",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence and unsupported 'widely'. Added sourced details: second tetracycline discovered, commercial use from 1950, example indications, US use in livestock feed.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oxytetracycline"
+    ],
+    "unresolved": "No Russian Wikipedia article; Russian name is the standard INN form."
+  },
+  {
+    "code": "E704",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Removed claim that a derivative was used in human medicine (not in source opened). Added sourced 1954 discovery, comparison with erythromycin, veterinary use for pigs and poultry.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oleandomycin"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E705",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Removed veterinary use and 'classic' (not found in sources opened). Added sourced indications and reason for injection. Russian name changed to the pharmacopoeial form used for benzylpenicillin salts.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Benzylpenicillin",
+      "https://ru.wikipedia.org/wiki/Бензилпенициллин"
+    ],
+    "unresolved": "Veterinary use of penicillin G salts not found in the sources opened, so it was removed."
+  },
+  {
+    "code": "E706",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Removed veterinary use (not found in sources opened). Added sourced spectrum, indications and reason for injection. Russian name changed to pharmacopoeial form.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Benzylpenicillin",
+      "https://ru.wikipedia.org/wiki/Бензилпенициллин"
+    ],
+    "unresolved": "Veterinary use not found in the sources opened, so it was removed."
+  },
+  {
+    "code": "E707",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Removed veterinary use (not found in sources opened). Added sourced depot mechanism, indications and 1948 introduction. Russian name changed to the form used on Russian Wikipedia (novocaine salt).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Procaine_benzylpenicillin",
+      "https://ru.wikipedia.org/wiki/Бензилпенициллин"
+    ],
+    "unresolved": "Veterinary use not found in the sources opened, so it was removed."
+  },
+  {
+    "code": "E708",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Removed veterinary use and 'deep injection'/'very slowly' (not in source as worded). Added sourced indications. Russian name changed to Russian Wikipedia title.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Benzathine_benzylpenicillin",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru&titles=Benzathine_benzylpenicillin"
+    ],
+    "unresolved": "Veterinary use not found in the sources opened, so it was removed."
+  },
+  {
+    "code": "E710",
+    "verdict": "edited",
+    "changes": "Removed EU food-additive status sentence. Removed unsourced veterinary use. Added 1954 isolation, toxoplasmosis use, and sourced 1998 EU withdrawal of feed-additive authorisation (Council Reg. 2821/98). Name changed to singular, matching Wikipedia titles in both languages.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spiramycin",
+      "https://www.legislation.gov.uk/eur/1998/2821/pdfs/eur_19982821_adopted_en.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E711",
+    "verdict": "edited",
+    "changes": "Removed EU status sentences. Removed unsourced producer organism (S. virginiae) and veterinary-medicine wording. Replaced vague 'banned in the EU' with sourced 1998 withdrawal of feed-additive authorisation and its reason (Council Reg. 2821/98). Added fuel-ethanol use. Name changed to singular.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Virginiamycin",
+      "https://www.legislation.gov.uk/eur/1998/2821/pdfs/eur_19982821_adopted_en.pdf"
+    ],
+    "unresolved": "No Russian Wikipedia article; Russian name is the standard transliteration."
+  },
+  {
+    "code": "E712",
+    "verdict": "edited",
+    "changes": "Removed EU status sentences. Replaced vague 'no longer permitted in the EU' with sourced 2006 end of antibiotic feed additives (Reg. 1831/2003 Art. 11(2)). Added composition and producing organisms. Council Reg. 2821/98 recitals list flavophospholipol among antibiotics used in feedingstuffs.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bambermycin",
+      "https://www.legislation.gov.uk/eur/2003/1831/article/11/adopted",
+      "https://www.legislation.gov.uk/eur/1998/2821/pdfs/eur_19982821_adopted_en.pdf"
+    ],
+    "unresolved": "No Russian Wikipedia article; Russian name kept."
+  },
+  {
+    "code": "E713",
+    "verdict": "edited",
+    "changes": "Removed EU status sentences. Replaced vague 'no longer allowed in the EU' with sourced 1998 withdrawal of tylosin phosphate (Council Reg. 2821/98). Replaced unsourced 'cattle, pigs and poultry' with sourced examples; added sourced horse toxicity.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tylosin",
+      "https://www.legislation.gov.uk/eur/1998/2821/pdfs/eur_19982821_adopted_en.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E714",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence and unsourced 'not used in human medicine'. Name simplified from Monensin A to Monensin (article covers the substance). Expanded uses from sources; horse toxicity confirmed and kept. Poultry use supported by an EFSA opinion title (monensin sodium for chickens and turkeys).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Monensin",
+      "https://doi.org/10.2903/j.efsa.2019.5891"
+    ],
+    "unresolved": "No Russian Wikipedia article; Russian name is the standard transliteration."
+  },
+  {
+    "code": "E715",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Removed unsourced EU ban 'in the 1990s' and unsourced 'not used in human medicine'. Added sourced history: Danish ban in 1995 over vancomycin resistance, followed by other European countries. Added producer organism and poultry use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Avoparcin"
+    ],
+    "unresolved": "No Russian Wikipedia article; Russian name kept. EU-level withdrawal year not verified, so it is not stated."
+  },
+  {
+    "code": "E716",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence and unsourced 'not a human medicine'. Added sourced spectrum and description of coccidiosis.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Salinomycin"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E717",
+    "verdict": "rewritten",
+    "changes": "Removed EU status sentence. Removed unverified 'orthosomycin group', 'veterinary practice', poultry/pig species and 'not used in human medicine' (no acceptable source found). Kept producer organism (PubChem/ChEBI). Feed-additive use supported by Council Reg. 2821/98 recitals listing avilamycin among antibiotics in feedingstuffs; added 2006 EU rule.",
+    "sources": [
+      "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/avilamycin%20A/description/JSON",
+      "https://www.legislation.gov.uk/eur/1998/2821/pdfs/eur_19982821_adopted_en.pdf",
+      "https://www.legislation.gov.uk/eur/2003/1831/article/11/adopted",
+      "https://en.wikipedia.org/w/api.php?action=query&titles=Avilamycin (page missing)"
+    ],
+    "unresolved": "No English or Russian Wikipedia article. Whether avilamycin is still used outside the EU (e.g. US approval) was not checked."
+  }
+]

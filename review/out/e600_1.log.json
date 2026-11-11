@@ -1,0 +1,223 @@
+[
+  {
+    "code": "E620",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Production corrected to source (fermentation or hydrolysis of proteins such as gluten); dropped unsourced product list (soups, sauces, snacks, seasoning blends); added that glutamate is more often added as MSG.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Glutamic_acid",
+      "https://en.wikipedia.org/wiki/Monosodium_glutamate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "TR CU 029/2012 (EAEU), cached PDF"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E621",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status and the vague 'regulators consider it safe' sentence; replaced with the sourced finding of blinded studies. Production made specific (fermentation of carbohydrates from sugar beet, cane, tapioca, molasses). Product list aligned with source (dropped processed meats; added stock cubes, gravies, condiments). Seaweed specified as kombu; added 1908 Ikeda discovery.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Monosodium_glutamate",
+      "https://en.wikipedia.org/wiki/Glutamate_flavoring",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E622",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced production method and product list (seasonings, soups); kept identity, function and sodium-free MSG alternative (sourced).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Monopotassium_glutamate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E623",
+    "verdict": "edited",
+    "changes": "Removed status sentences (incl. US listing remark). Replaced unsourced 'fermentation then calcium compound' with sourced preparation from glutamic acid and calcium carbonate; deleted unsourced 'much less common than MSG'; added sourced point that it gives MSG's effect without sodium. RU text now uses the TR CU 029 name 'Глутамат кальция' consistently with the title.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_diglutamate",
+      "https://en.wikipedia.org/wiki/Glutamic_acid",
+      "TR CU 029/2012 (EAEU), cached PDF"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E624",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced production method, 'rarely used compared with MSG' and 'can replace part of the salt'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Monoammonium_glutamate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E625",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced production method and 'minor member, much less used than the sodium salt'. RU text now uses the TR CU 029 name 'Глутамат магния' consistently with the title.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Magnesium_diglutamate",
+      "https://en.wikipedia.org/wiki/Glutamate_flavoring",
+      "TR CU 029/2012 (EAEU), cached PDF"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E626",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Production corrected to microbial fermentation (yeast not supported for the acid). Mushroom occurrence made specific (first identified in dried shiitake). 'Strongly boosts' softened to sourced wording; added sourced reason (cost) for combining with glutamates.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Guanosine_monophosphate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E627",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Production: dropped unsourced 'yeast RNA'; fermentation kept. Product list aligned with source. Replaced the from-memory gout sentence ('rich in purines, usually advised against for people with gout'): no source supports a general recommendation; JECFA 1974 monograph supports that large intakes of guanylates/inosinates raise serum uric acid and are relevant to people with gouty diathesis, so the sentence now states that, attributed to JECFA.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Disodium_guanylate",
+      "https://en.wikipedia.org/wiki/Guanosine_monophosphate",
+      "https://inchem.org/documents/jecfa/jecmono/v06je02.htm"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E628",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced 'obtained from yeast or by fermentation' and 'used much less often than the sodium salt'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dipotassium_guanylate",
+      "https://en.wikipedia.org/wiki/Guanosine_monophosphate"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E629",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Source corrected from 'yeast or fermentation' to 'yeast extract or fish'; deleted unsourced 'minor additive, used far less than disodium guanylate'; added sourced use in low-salt products.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_guanylate",
+      "https://en.wikipedia.org/wiki/Guanosine_monophosphate"
+    ],
+    "unresolved": "Wikipedia's 'prepared from yeast extract or fish' claim for calcium guanylate is thinly referenced; a human may want to confirm or drop it."
+  },
+  {
+    "code": "E630",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Production: 'mainly bacterial fermentation' replaced with both sourced routes (fermentation of sugars or animal products; sources disagree on which dominates for the acid). Added sourced typical uses (soups, sauces, seasonings).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Inosinic_acid",
+      "https://en.wikipedia.org/wiki/Disodium_inosinate"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E631",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced product list (instant noodles, snacks etc.). Replaced from-memory gout sentence ('metabolised to uric acid, generally not recommended for people with gout') with the JECFA 1974 finding that large intakes raise uric acid and are relevant to people with gouty diathesis.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Disodium_inosinate",
+      "https://en.wikipedia.org/wiki/Inosinic_acid",
+      "https://inchem.org/documents/jecfa/jecmono/v06je02.htm"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E632",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced 'produced by fermentation' and 'used much less than the sodium salt'; added sourced typical uses of inosinate salts.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Inosinic_acid",
+      "https://en.wikipedia.org/wiki/Disodium_inosinate"
+    ],
+    "unresolved": "No dedicated source for the potassium salt (Wikipedia redirects to disodium inosinate); text limited to identity and the uses Wikipedia gives for E631-E633 collectively."
+  },
+  {
+    "code": "E633",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced 'produced by fermentation' and 'minor additive'; added sourced typical uses of inosinate salts.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_inosinate",
+      "https://en.wikipedia.org/wiki/Inosinic_acid"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E634",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced 'obtained from yeast or by fermentation'; added sourced synergy with glutamate. Dropped the claim that both nucleotides are RNA components (inosinic acid is not a standard RNA nucleotide).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_5%27-ribonucleotides",
+      "https://inchem.org/documents/jecfa/jecmono/v06je02.htm",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E635",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Corrected 'nucleotides that are components of RNA' (inosinic acid is not a standard RNA nucleotide). Production narrowed to sourced bacterial fermentation (yeast unsourced). Deleted unsourced 'more widely used than the single compounds'. Product list aligned with source; added sourced synergy figure and JECFA 1974/1993 evaluation (no numerical ADI needed).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Disodium_ribonucleotides",
+      "https://en.wikipedia.org/wiki/Disodium_inosinate",
+      "https://inchem.org/documents/jecfa/jecmono/v06je02.htm"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E636",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Natural sources: both languages now say larch bark and pine needles (source), replacing EN 'larch' only and RU 'some coniferous trees'; added formation in bread baking. Deleted unsourced 'can be produced synthetically', the product list and 'can make a product taste sweeter'; added sourced non-food uses.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Maltol",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E637",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced 'does not occur naturally, made by chemical synthesis', 'considerably stronger than maltol', and the product list beyond confectionery; added sourced structural relation to maltol, odour description and other uses.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ethyl_maltol",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E640",
+    "verdict": "edited",
+    "changes": "Removed status sentences (incl. 'no separate US status is recorded'). Deleted unsourced use list (sweeteners, seasonings); added sourced function (mildly sweet, counters saccharin aftertaste, preservative properties) and production by chemical synthesis.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Glycine",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "TR CU 029/2012 (EAEU), cached PDF"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E641",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced production method (fermentation/protein hydrolysis) and 'mainly in sweeteners'; RU 'sports nutrition' aligned to the sourced 'dietary supplement'; added sourced dietary sources.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Leucine",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": "Russian name 'L-лейцин' kept; E641 is not in the TR CU 029 additive list, Russian Wikipedia article is 'Лейцин'."
+  },
+  {
+    "code": "E650",
+    "verdict": "edited",
+    "changes": "Removed status sentences (incl. US packaging remark). Corrected 'white crystalline, made synthetically' to colourless solid/dihydrate; deleted unsourced 'very small amounts' and trace-element remark; chewing-gum use kept (supported by TR CU 029 use table); added sourced supplement and cold-lozenge uses.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Zinc_acetate",
+      "TR CU 029/2012 (EAEU), cached PDF",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": "Chewing-gum use verified only in the EAEU regulation (TR CU 029, 1 g/kg in chewing gum), not in an EU text."
+  }
+]

@@ -1,0 +1,334 @@
+E100	Curcumin	|E 100|
+E101	Riboflavins	|E 101|
+E102	Tartrazine	|E 102|
+E104	Quinoline Yellow	|E 104|
+E110	Sunset Yellow FCF/Orange Yellow S	|E 110|
+E120	Carminic acid, Carmine	|[F3E 120|
+E122	Azorubine, Carmoisine	|E 122|
+E123	Amaranth	|E 123|
+E124	Ponceau 4R, Cochineal Red A	|E 124|
+E127	Erythrosine	|E 127|
+E129	Allura Red AC	|E 129|
+E131	Patent Blue V	|E 131|
+E132	Indigotine, Indigo carmine	|E 132|
+E133	Brilliant Blue FCF	|E 133|
+E140	Chlorophylls and chlorophyllins	|E 140|
+E141	Copper complexes of chlorophylls, chlorophyllins	|E 141|
+E142	Green S	|E 142|
+E150a	Plain caramel a	|E 150a|
+E150b	Caustic sulphite caramel	|E 150b|
+E150c	Ammonia caramel	|E 150c|
+E150d	Sulphite ammonia caramel	|E 150d|
+E151	Brilliant Black PN	|[F4E 151|
+E153	Vegetable carbon	|E 153|
+E155	Brown HT	|E 155|
+E160a	Carotenes	|E 160a|
+E160b(i)	Annatto bixin	|[F5E 160b(i)|
+E160b(ii)	Annatto norbixin	|E 160b(ii)|
+E160c	Paprika extract, capsanthin, capsorubin	|E 160c|
+E160d	Lycopene	|E 160d|
+E160e	Beta-apo-8′-carotenal (C 30)	|E 160e|
+E161b	Lutein	|E 161b|
+E161g	Canthaxanthin b	|E 161g|
+E162	Beetroot Red, betanin	|E 162|
+E163	Anthocyanins	|E 163|
+E170	Calcium carbonate	|E 170|
+E171	Titanium dioxide	|E 171|
+E172	Iron oxides and hydroxides	|E 172|
+E173	Aluminium	|E 173|
+E174	Silver	|E 174|
+E175	Gold	|E 175|
+E180	Litholrubine BK	|E 180|
+E420	Sorbitols	|E 420|
+E421	Mannitol	|E 421|
+E950	Acesulfame K	|E 950|
+E951	Aspartame	|E 951|
+E952	Cyclamates	|E 952|
+E953	Isomalt	|E 953|
+E954	Saccharins	|E 954|
+E955	Sucralose	|E 955|
+E957	Thaumatin	|E 957|
+E959	Neohesperidine DC	|E 959|
+E960	Steviol glycosides	|[F6E 960|
+E961	Neotame	|E 961|
+E962	Salt of aspartame-acesulfame	|E 962|
+E964	Polyglycitol syrup	|[F7E 964|
+E965	Maltitols	|E 965|
+E966	Lactitol	|E 966|
+E967	Xylitol	|E 967|
+E968	Erythritol	|E 968|
+E969	Advantame	|[F8E 969|
+E170	Calcium carbonate	|E 170|
+E172	Iron oxides and hydroxides	|[F11E 172|
+E200	Sorbic acid	|E 200|
+E202	Potassium sorbate	|E 202|
+E210	Benzoic acid a	|E 210|
+E211	Sodium benzoate a	|E 211|
+E212	Potassium benzoate a	|E 212|
+E213	Calcium benzoate a	|E 213|
+E214	Ethyl-p-hydroxybenzoate	|E 214|
+E215	Sodium ethyl p-hydroxybenzoate	|E 215|
+E218	Methyl p-hydroxybenzoate	|E 218|
+E219	Sodium methyl p-hydroxybenzoate	|E 219|
+E220	Sulphur dioxide	|E 220|
+E221	Sodium sulphite	|E 221|
+E222	Sodium hydrogen sulphite	|E 222|
+E223	Sodium metabisulphite	|E 223|
+E224	Potassium metabisulphite	|E 224|
+E226	Calcium sulphite	|E 226|
+E227	Calcium hydrogen sulphite	|E 227|
+E228	Potassium hydrogen sulphite	|E 228|
+E234	Nisin	|E 234|
+E235	Natamycin	|E 235|
+E239	Hexamethylene tetramine	|E 239|
+E242	Dimethyl dicarbonate	|E 242|
+E243	Ethyl lauroyl arginate	|[F13E 243|
+E249	Potassium nitrite	|E 249|
+E250	Sodium nitrite	|E 250|
+E251	Sodium nitrate	|E 251|
+E252	Potassium nitrate	|E 252|
+E260	Acetic acid	|E 260|
+E261	Potassium acetates d	|[F14E 261|
+E262	Sodium acetates	|E 262|
+E263	Calcium acetate	|E 263|
+E270	Lactic acid	|E 270|
+E280	Propionic acid	|E 280|
+E281	Sodium propionate	|E 281|
+E282	Calcium propionate	|E 282|
+E283	Potassium propionate	|E 283|
+E284	Boric acid	|E 284|
+E285	Sodium tetraborate (borax)	|E 285|
+E290	Carbon dioxide	|E 290|
+E296	Malic acid	|E 296|
+E297	Fumaric acid	|E 297|
+E300	Ascorbic acid	|E 300|
+E301	Sodium ascorbate	|E 301|
+E302	Calcium ascorbate	|E 302|
+E304	Fatty acid esters of ascorbic acid	|E 304|
+E306	Tocopherol-rich extract	|E 306|
+E307	Alpha-tocopherol	|E 307|
+E308	Gamma-tocopherol	|E 308|
+E309	Delta-tocopherol	|E 309|
+E310	Propyl gallate	|E 310|
+E315	Erythorbic acid	|E 315|
+E316	Sodium erythorbate	|E 316|
+E319	Tertiary-butyl hydroquinone (TBHQ)	|E 319|
+E320	Butylated hydroxyanisole (BHA)	|E 320|
+E321	Butylated hydroxytoluene (BHT)	|E 321|
+E322	Lecithins	|E 322|
+E325	Sodium lactate	|E 325|
+E326	Potassium lactate	|E 326|
+E327	Calcium lactate	|E 327|
+E330	Citric acid	|E 330|
+E331	Sodium citrates	|E 331|
+E332	Potassium citrates	|E 332|
+E333	Calcium citrates	|E 333|
+E334	Tartaric acid (L(+)-)	|E 334|
+E335	Sodium tartrates	|E 335|
+E336	Potassium tartrates	|E 336|
+E337	Sodium potassium tartrate	|E 337|
+E338	Phosphoric acid	|E 338|
+E339	Sodium phosphates	|E 339|
+E340	Potassium phosphates	|E 340|
+E341	Calcium phosphates	|E 341|
+E343	Magnesium phosphates	|E 343|
+E350	Sodium malates	|E 350|
+E351	Potassium malate	|E 351|
+E352	Calcium malates	|E 352|
+E353	Metatartaric acid	|E 353|
+E354	Calcium tartrate	|E 354|
+E355	Adipic acid	|E 355|
+E356	Sodium adipate	|E 356|
+E357	Potassium adipate	|E 357|
+E363	Succinic acid	|E 363|
+E380	Triammonium citrate	|E 380|
+E385	Calcium disodium ethylene diamine tetra-acetate (Calcium disodium EDTA)	|E 385|
+E392	Extracts of rosemary	|E 392|
+E400	Alginic acid	|E 400|
+E401	Sodium alginate	|E 401|
+E402	Potassium alginate	|E 402|
+E403	Ammonium alginate	|E 403|
+E404	Calcium alginate	|E 404|
+E405	Propane-1, 2-diol alginate	|E 405|
+E406	Agar	|E 406|
+E407a	Processed euchema seaweed	|E 407a|
+E407	Carrageenan	|E 407|
+E410	Locust bean gum	|E 410|
+E412	Guar gum	|E 412|
+E413	Tragacanth	|E 413|
+E414	Gum arabic (acacia gum)	|E 414|
+E415	Xanthan gum	|E 415|
+E416	Karaya gum	|E 416|
+E417	Tara gum	|E 417|
+E418	Gellan gum	|E 418|
+E422	Glycerol	|E 422|
+E423	Octenyl succinic acid modified gum arabic	|[F16E 423|
+E425	Konjac	|E 425|
+E426	Soybean hemicellulose	|E 426|
+E427	Cassia gum	|E 427|
+E431	Polyoxyethylene (40) stearate	|E 431|
+E432	Polyoxyethylene sorbitan monolaurate (polysorbate 20)	|E 432|
+E433	Polyoxyethylene sorbitan monooleate (polysorbate 80)	|E 433|
+E434	Polyoxyethylene sorbitan monopalmitate (polysorbate 40)	|E 434|
+E435	Polyoxyethylene sorbitan monostearate (polysorbate 60)	|E 435|
+E436	Polyoxyethylene sorbitan tristearate (polysorbate 65)	|E 436|
+E440	Pectins	|E 440|
+E442	Ammonium phosphatides	|E 442|
+E444	Sucrose acetate isobutyrate	|E 444|
+E445	Glycerol esters of wood rosins	|E 445|
+E450	Diphosphates	|E 450|
+E451	Triphosphates	|E 451|
+E452	Polyphosphates	|E 452|
+E456	Potassium polyaspartate	|[F17E 456|
+E459	Beta-cyclodextrin	|E 459|
+E460	Cellulose	|E 460|
+E461	Methyl cellulose	|E 461|
+E462	Ethyl cellulose	|E 462|
+E463	Hydroxypropyl cellulose	|E 463|
+E463a	Low-substituted hydroxypropyl cellulose (L-HPC)	|[F18E 463a|
+E464	Hydroxypropyl methyl cellulose	|E 464|
+E465	Ethyl methyl cellulose	|E 465|
+E466	Sodium carboxy methyl cellulose, Cellulose gum	|[F4E 466|
+E468	Cross-linked sodium carboxy methyl cellulose, cross linked cellulose gum	|E 468|
+E469	Enzymatically hydrolysed carboxy methyl cellulose, Enzymatically hydrolysed cellulose gum	|E 469|
+E470a	Sodium, potassium and calcium salts of fatty acids	|E 470a|
+E470b	Magnesium salts of fatty acids	|E 470b|
+E471	Mono-and diglycerides of fatty acids	|E 471|
+E472a	Acetic acid esters of mono- and diglycerides of fatty acids	|E 472a|
+E472b	Lactic acid esters of mono- and diglycerides of fatty acids	|E 472b|
+E472c	Citric acid esters of mono- and diglycerides of fatty acids	|E 472c|
+E472d	Tartaric acid esters of mono- and diglycerides of fatty acids	|E 472d|
+E472e	Mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids	|E 472e|
+E472f	Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids	|E 472f|
+E473	Sucrose esters of fatty acids	|E 473|
+E474	Sucroglycerides	|E 474|
+E475	Polyglycerol esters of fatty acids	|E 475|
+E476	Polyglycerol polyricinoleate	|E 476|
+E477	Propane-1,2-diol esters of fatty acids	|E 477|
+E479b	Thermally oxidised soya bean oil interacted with mono- and diglycerides of fatty acids	|E 479b|
+E481	Sodium stearoyl-2-lactylate	|E 481|
+E482	Calcium stearoyl-2-lactylate	|E 482|
+E483	Stearyl tartrate	|E 483|
+E491	Sorbitan monostearate	|E 491|
+E492	Sorbitan tristearate	|E 492|
+E493	Sorbitan monolaurate	|E 493|
+E494	Sorbitan monooleate	|E 494|
+E495	Sorbitan monopalmitate	|E 495|
+E499	Stigmasterol-rich plant sterols	|[F19E 499|
+E500	Sodium carbonates	|E 500|
+E501	Potassium carbonates	|E 501|
+E503	Ammonium carbonates	|E 503|
+E504	Magnesium carbonates	|E 504|
+E507	Hydrochloric acid	|E 507|
+E508	Potassium chloride	|E 508|
+E509	Calcium chloride	|E 509|
+E511	Magnesium chloride	|E 511|
+E512	Stannous chloride	|E 512|
+E513	Sulphuric acid	|E 513|
+E514	Sodium sulphates	|E 514|
+E515	Potassium sulphates	|E 515|
+E516	Calcium sulphate	|E 516|
+E517	Ammonium sulphate	|E 517|
+E520	Aluminium sulphate	|E 520|
+E521	Aluminium sodium sulphate	|E 521|
+E522	Aluminium potassium sulphate	|E 522|
+E523	Aluminium ammonium sulphate	|E 523|
+E524	Sodium hydroxide	|E 524|
+E525	Potassium hydroxide	|E 525|
+E526	Calcium hydroxide	|E 526|
+E527	Ammonium hydroxide	|E 527|
+E528	Magnesium hydroxide	|E 528|
+E529	Calcium oxide	|E 529|
+E530	Magnesium oxide	|E 530|
+E534	Iron tartrate	|[F20E 534|
+E535	Sodium ferrocyanide	|E 535|
+E536	Potassium ferrocyanide	|E 536|
+E538	Calcium ferrocyanide	|E 538|
+E541	Sodium aluminium phosphate acidic	|E 541|
+E551	Silicon dioxide	|E 551|
+E552	Calcium silicate	|E 552|
+E553a	Magnesium silicate	|E 553a|
+E553b	Talc	|E 553b|
+E554	Sodium aluminium silicate	|E 554|
+E555	Potassium aluminium silicate	|E 555|
+E556	Calcium aluminium silicate b	|[F21E 556|
+E558	Bentonite c	|E 558|
+E559	Aluminium silicate (Kaolin) b	|E 559|
+E570	Fatty acids	|E 570|
+E574	Gluconic acid	|E 574|
+E575	Glucono-delta-lactone	|E 575|
+E576	Sodium gluconate	|E 576|
+E577	Potassium gluconate	|E 577|
+E578	Calcium gluconate	|E 578|
+E579	Ferrous gluconate	|E 579|
+E585	Ferrous lactate	|E 585|
+E586	4-Hexylresorcinol	|E 586|
+E620	Glutamic acid	|E 620|
+E621	Monosodium glutamate	|E 621|
+E622	Monopotassium glutamate	|E 622|
+E623	Calcium diglutamate	|E 623|
+E624	Monoammonium glutamate	|E 624|
+E625	Magnesium diglutamate	|E 625|
+E626	Guanylic acid	|E 626|
+E627	Disodium guanylate	|E 627|
+E628	Dipotassium guanylate	|E 628|
+E629	Calcium guanylate	|E 629|
+E630	Inosinic acid	|E 630|
+E631	Disodium inosinate	|E 631|
+E632	Dipotassium inosinate	|E 632|
+E633	Calcium inosinate	|E 633|
+E634	Calcium 5′-ribonucleotides	|E 634|
+E635	Disodium 5′-ribonucleotides	|E 635|
+E640	Glycine and its sodium salt	|E 640|
+E641	L-leucine	|[F22E 641|
+E650	Zinc acetate	|E 650|
+E900	Dimethyl polysiloxane	|E 900|
+E901	Beeswax, white and yellow	|E 901|
+E902	Candelilla wax	|E 902|
+E903	Carnauba wax	|E 903|
+E904	Shellac	|E 904|
+E905	Microcrystalline wax	|E 905|
+E907	Hydrogenated poly-1-decene	|E 907|
+E914	Oxidised polyethylene wax	|E 914|
+E920	L-cysteine	|E 920|
+E927b	Carbamide	|E 927b|
+E938	Argon	|E 938|
+E939	Helium	|E 939|
+E941	Nitrogen	|E 941|
+E942	Nitrous oxide	|E 942|
+E943a	Butane	|E 943a|
+E943b	Isobutane	|E 943b|
+E944	Propane	|E 944|
+E948	Oxygen	|E 948|
+E949	Hydrogen	|E 949|
+E999	Quillaia extract	|E 999|
+E1103	Invertase	|E 1103|
+E1105	Lysozyme	|E 1105|
+E1200	Polydextrose	|E 1200|
+E1201	Polyvinylpyrrolidone	|E 1201|
+E1202	Polyvinylpolypyrrolidone	|E 1202|
+E1203	Polyvinyl alcohol (PVA)	|E 1203|
+E1204	Pullulan	|E 1204|
+E1205	Basic methacrylate copolymer	|E 1205|
+E1206	Neutral methacrylate copolymer	|[F24E 1206|
+E1207	Anionic methacrylate copolymer	|E 1207|
+E1208	Polyvinylpyrrolidone-vinyl acetate copolymer	|[F25E 1208|
+E1209	Polyvinyl alcohol-polyethylene glycol- graft -co-polymer	|[F26E 1209|
+E1404	Oxidised starch	|E 1404|
+E1410	Monostarch phosphate	|E 1410|
+E1412	Distarch phosphate	|E 1412|
+E1413	Phosphated distarch phosphate	|E 1413|
+E1414	Acetylated distarch phosphate	|E 1414|
+E1420	Acetylated starch	|E 1420|
+E1422	Acetylated distarch adipate	|E 1422|
+E1440	Hydroxy propyl starch	|E 1440|
+E1442	Hydroxy propyl distarch phosphate	|E 1442|
+E1450	Starch sodium octenyl succinate	|E 1450|
+E1451	Acetylated oxidised starch	|E 1451|
+E1452	Starch aluminium octenyl succinate	|E 1452|
+E1505	Triethyl citrate	|E 1505|
+E1517	Glyceryl diacetate (diacetin)	|E 1517|
+E1518	Glyceryl triacetate (triacetin)	|E 1518|
+E1519	Benzyl alcohol	|E 1519|
+E1520	Propane-1, 2-diol (propylene glycol)	|E 1520|
+E1521	Polyethylene glycol	|E 1521|

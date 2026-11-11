@@ -1,0 +1,379 @@
+[
+  {
+    "code": "E500",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Deleted unsupported claim about use in cocoa and confectionery. Added functions (anti-caking agent, stabiliser) per Wikipedia and Codex; 'mined' changed to natural deposits of trona (supported).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_carbonate",
+      "https://en.wikipedia.org/wiki/Sodium_bicarbonate",
+      "https://en.wikipedia.org/wiki/Sodium_sesquicarbonate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E500_—_E599"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E501",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported 'drinks' and 'buffers'; made cocoa use specific (Dutch-process, potassium carbonate), wine use attributed to potassium bicarbonate, added gingerbread use and stabiliser function (sourced).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_carbonate",
+      "https://en.wikipedia.org/wiki/Potassium_bicarbonate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E503",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported cocoa-processing claim and 'ammonia escapes completely'. 'Synthetic' replaced by production from ammonia and CO2; added sourced traditional uses (speculoos, Lebkuchen).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ammonium_carbonate",
+      "https://en.wikipedia.org/wiki/Ammonium_bicarbonate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E504",
+    "verdict": "edited",
+    "changes": "Corrected group member: E504(ii) is magnesium hydroxide carbonate, not magnesium bicarbonate (Codex INS 504(ii)). Removed status sentence. Deleted unsupported 'spices'. Colour retention and carrier functions tied to the respective substances per Codex; added sourced 1911 table-salt fact.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Magnesium_carbonate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": "Russian Wikipedia's E-number list names E504(ii) as magnesium bicarbonate (гидрокарбонат магния); Codex gives magnesium hydroxide carbonate."
+  },
+  {
+    "code": "E505",
+    "verdict": "edited",
+    "changes": "Removed status sentence and the unsourced claim that it is not used as an additive in the EU/UK/US. Supplement use specified as iron supplement for anaemia (sourced); preparation added.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Iron(II)_carbonate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E507",
+    "verdict": "edited",
+    "changes": "Removed status sentence (which also wrongly called it a raising agent). Deleted unsupported claims (modified starches, sugar products, 'neutralised or removed during manufacture', 'very small amounts'); replaced with sourced uses (process-water pH, production of gelatine, fructose, citric acid, aspartame, HVP).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hydrochloric_acid",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E508",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported 'brines' origin and 'gelling aid in jellies and desserts'; replaced with Codex functions (flavour enhancer, firming agent, stabiliser/thickener synergist). Taste wording aligned with source (bitter/metallic aftertaste).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_chloride",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E509",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Corrected origin (brine purification; Solvay by-product from limestone). Cheese claim corrected: it restores calcium balance in processed milk. Added sourced uses (tofu, salty taste in pickles).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_chloride"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E510",
+    "verdict": "edited",
+    "changes": "Removed malformed status sentence. Deleted unsupported 'made synthetically', taste description and 'dough improver'; added sourced acidifier use, crisp cookies, and the regions where salty liquorice is popular.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ammonium_chloride",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E511",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported claims: 'main source of bitter taste in sea salt', canned vegetables, mineral waters. Bitter taste restated per source; firming/colour retention/stabiliser functions from Codex; supplement use per source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Magnesium_chloride",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E512",
+    "verdict": "edited",
+    "changes": "Removed status sentence (EU asparagus-only claim could not be confirmed from an opened source; EFSA abstract only says one food category). Deleted 'canned white asparagus' and 'limited because of tin content'; uses per Wikipedia (some canned and bottled foods). Added EFSA 2018 re-evaluation conclusion. Russian name changed to 'Хлорид олова(II)' (ruwiki).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tin(II)_chloride",
+      "https://doi.org/10.2903/j.efsa.2018.5295",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E500_—_E599"
+    ],
+    "unresolved": "Very limited use could not be backed by more than the EFSA statement that it is used in one food category and labelled on no products in GNPD; kept 'very limited' on that basis."
+  },
+  {
+    "code": "E513",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence. Deleted all unsupported claims (brewing water, starches and sugar products, 'neutralised during processing', 'not a natural food component'). Reduced to identity and Codex function. English name set to EU spelling 'Sulphuric acid'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sulfuric_acid",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E514",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported 'diluent and carrier for colourings', 'dry preparations', 'use levels are small'. Added sourced origin details; function per Codex (both acidity regulators). Name set to EU 'Sodium sulphates'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_sulfate",
+      "https://en.wikipedia.org/wiki/Sodium_bisulfate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E515",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported 'salt substitutes' and 'carriers'; function per Codex (acidity regulator). Added sourced origin and winemaking-related use of potassium bisulfate. Name set to EU 'Potassium sulphates'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_sulfate",
+      "https://en.wikipedia.org/wiki/Potassium_bisulfate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E516",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported brewing, canned vegetables and carrier uses; 'synthetic' replaced by industrial by-product origin. Functions per Codex; product examples from the FDA use list quoted by Wikipedia/PubChem.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_sulfate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E517",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Corrected preparation (neutralisation of sulfuric acid with ammonia/ammonium hydroxide). Deleted unsupported 'acidity regulator' and 'small amounts'; functions per FDA 21 CFR 184.1143 and Codex. Name set to EU 'Ammonium sulphate'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ammonium_sulfate",
+      "https://www.ecfr.gov/current/title-21/section-184.1143",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E518",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported bitter-taste/laxative/limited-use sentence; added sourced uses (brewing salt, tofu coagulant, bottled water) and flavour enhancer function (Codex, FDA 21 CFR 184.1443).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Magnesium_sulfate",
+      "https://www.ecfr.gov/current/title-21/section-184.1443",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E519",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Added colour retention function (Codex); nutrient use per FDA 21 CFR 184.1261. Replaced unsourced 'uses are tightly limited' with sourced toxicity note. Russian name set to 'Сульфат меди(II)'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Copper(II)_sulfate",
+      "https://www.ecfr.gov/current/title-21/section-184.1261",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E520",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unverified product examples (candied fruit, egg whites) and the EU aluminium-limit sentence (not checked against an opened source).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aluminium_sulfate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": "EU restriction of aluminium-containing additives (and their permitted foods) could be added as sourced history if a reviewer wants it."
+  },
+  {
+    "code": "E521",
+    "verdict": "edited",
+    "changes": "Removed status sentence and unsourced EU restriction sentence. Added acidity regulator function (Wikipedia, Codex) and sourced baking-powder detail.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_aluminium_sulfate",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E522",
+    "verdict": "edited",
+    "changes": "Removed status sentence and unsourced aluminium-restriction sentence. Corrected 'used since antiquity in pickling' (antiquity use was dyeing); deleted unverified candied fruit/egg white examples and 'firming agent'; functions per Codex (acidity regulator, stabiliser); pickling use sourced.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_alum",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E523",
+    "verdict": "edited",
+    "changes": "Removed status sentence and unsourced aluminium-intake and 'small amounts' claims. Corrected 'produced synthetically' to sourced production route; added natural mineral; functions per Codex.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ammonium_alum",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E524",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported 'neutralised or rinsed away, leaving only traces'. Uses checked and extended from source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_hydroxide",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E525",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported uses (fruit and vegetable peeling, starches, 'processing aid', 'neutralised during processing'); kept sourced olives and cocoa.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_hydroxide",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E526",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Tortillas replaced by hominy and 'clarifying juices' specified as sugar cane/beet juice (as in source); calcium supplement use specified.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_hydroxide",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E527",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported cocoa/caramel examples, 'processing aid' and 'evaporates or is neutralised'. Added sourced antimicrobial effect; production per FDA 21 CFR 184.1139.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ammonia_solution",
+      "https://www.ecfr.gov/current/title-21/section-184.1139",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E528",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported cocoa/confectionery examples and acid neutralisation claim; added colour retention function (Codex); sea-water production route specified.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Magnesium_hydroxide",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E529",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported 'source of calcium', sugar refining and maize treatment, and 'converted into harmless calcium compounds'; functions per Wikipedia and Codex (acidity regulator, flour treatment agent, raising agent).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_oxide",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E530",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported 'keeps salt free-flowing'; product examples from the FDA list cited by Wikipedia/PubChem; production and medicinal uses corrected per source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Magnesium_oxide",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E534",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence (UK/US status), the 'very rarely used, little information' remark and the unsupported link to ferrocyanides. Names set to EU 'Iron tartrate' / 'Тартрат железа'. Composition and mode of action from EFSA FEEDAP opinion and a peer-reviewed study of the iron meso-tartrate anticaking agent.",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2015.4114",
+      "https://doi.org/10.1021/acsomega.0c03776",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": "No Wikipedia/EFSA food-additive opinion on E534 was opened; mode-of-action sentence rests on an ACS Omega study (not on the brief's source list). Russian name not on Russian Wikipedia's E-list; 'Тартрат железа' is a direct rendering of the EU name."
+  },
+  {
+    "code": "E535",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported cheese-brine and wine uses; 'made synthetically' replaced by sourced production route. Safety statement rewritten from the EFSA 2018 re-evaluation (low absorption, no accumulation, kidney target, group ADI 0.03 mg/kg bw as ferrocyanide ion, no concern).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_ferrocyanide",
+      "https://doi.org/10.2903/j.efsa.2018.5374",
+      "https://www.ecfr.gov/current/title-21/section-172.490"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E536",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Wine use kept in the general form the source supports (used in wine production); deleted unsupported 'remove excess iron and copper'. Safety statement from EFSA 2018.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_ferrocyanide",
+      "https://doi.org/10.2903/j.efsa.2018.5374"
+    ],
+    "unresolved": "Wikipedia only says it is used in wine production; the specific purpose (removing excess iron/copper, 'blue fining') was not confirmed and was removed."
+  },
+  {
+    "code": "E537",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence, the 'little information' remark and the reference to related salts. Reduced to identity and Codex function.",
+    "sources": [
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E500_—_E599"
+    ],
+    "unresolved": "No source beyond the Codex list found for this substance."
+  },
+  {
+    "code": "E538",
+    "verdict": "edited",
+    "changes": "Removed status sentence. 'Synthetic' and 'very small amounts' deleted (unsupported); added sourced properties (insoluble, Prussian blue precursor). Safety statement from EFSA 2018.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_ferrocyanide",
+      "https://doi.org/10.2903/j.efsa.2018.5374"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E539",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported 'bind trace metals', 'remove excess chlorine or iodine' and 'small amounts'; functions per Codex (antioxidant/antibrowning, sequestrant) and FDA 21 CFR 184.1807 (reducing agent; table salt and alcoholic beverages).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_thiosulfate",
+      "https://www.ecfr.gov/current/title-21/section-184.1807",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E540",
+    "verdict": "rewritten",
+    "changes": "Identity corrected: the draft's 'dicalcium ferrocyanide' is unsupported (it comes from an uncited entry in English Wikipedia's E-number table; calcium ferrocyanide is INS 538). Codex CXG 36-1989 (2019 amendment) has no INS 540 (the list goes 539 -> 541) and lists dicalcium diphosphate as 450(vi); JECFA specifications give dicalcium diphosphate / calcium pyrophosphate as INS 450(vi). Entry rewritten for dicalcium diphosphate, the substance Russian Wikipedia's E-list gives for E540, with JECFA description, functional uses and group MTDI. Status sentences removed; names changed (EN 'Dicalcium diphosphate', RU 'Дикальция дифосфат').",
+    "sources": [
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "https://inchem.org/documents/jecfa/jeceval/jec_541.htm",
+      "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/Monograph1/additive-152-m1.pdf",
+      "https://en.wikipedia.org/wiki/E_number",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E500_—_E599"
+    ],
+    "unresolved": "That E540 was historically used for dicalcium diphosphate rests only on Russian Wikipedia's list (no Codex or JECFA document opened mentions 540). The text therefore says the code is 'commonly given' for it, not that it was officially assigned. A human may prefer to drop the entry or retitle it."
+  }
+]
