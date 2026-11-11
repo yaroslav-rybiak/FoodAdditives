@@ -3,6 +3,39 @@
 Paused on 2026-11-11. This branch (`content-review`) holds the half-finished content review.
 `master` does not have any of it. Delete this `review/` folder before merging to `master`.
 
+## Progress (updated 2026-11-11, second pause)
+
+- Reviewed and saved in `review/out/`: 8 of 17 chunks, 267 of 529 entries (E100 to E472b):
+  `e100_1 e100_2 e200_1 e200_2 e300_1 e300_2 e400_1 e400_2`.
+- Not started: `e400_3 e500_1 e500_2 e600_1 e700_1 e900_1 e900_2 e1000_1 e1000_2`.
+- Run two chunks at a time. Reviewers must checkpoint: append each finished entry to
+  `out/<chunk>.jsonl` and `out/<chunk>.log.jsonl`, and skip codes already there on a rerun.
+  Agents that wrote output only at the end lost everything when interrupted.
+- Tips that worked: reuse `work/<chunk>/` as a source cache; Wikipedia `action=raw` when the
+  API rate-limits; legislation.gov.uk for EU legal texts; OpenAlex for EFSA abstracts; Codex
+  CXG 36-1989 for functional classes (Wikipedia's E-number table has wrong classes).
+- The app data in `res/raw*` is still unchanged; nothing is merged yet.
+
+## Queued: second look by the strongest model (owner asked for this, not yet run)
+
+Give the items the reviewers marked unresolved to one Fable agent, after all chunks are done
+(or sooner for the finished ones). The full list is the non-empty `unresolved` fields in
+`review/out/*.log.json`. Known so far:
+
+- E317, E318: renamed potassium / calcium erythorbate; confirm against the Codex INS list.
+- E424: confirm the EU authorisation (reported as Regulation (EU) 2026/2298, from
+  8 November 2026); it rests on one web search result.
+- E391: English Wikipedia says phytic acid is allowed in the EU; the 2020 EU list does not
+  have it. Confirm `eu_authorised` false.
+- E106: same substance as E101(ii) in the EU; decide how to word it.
+- E152, E153, E164: English and Russian Wikipedia disagree on identity or name.
+- E201, E213, E230 to E233: regulatory history that could not be sourced.
+- About 20 Russian names with no Russian source (see logs: E140, E141, E209, E242, E243,
+  E262, E266, E267, E283, E353, E380, E388, E392, E407a, E423, E427, E428, E456, E463a, E468).
+- Entries cut to one or two sentences for lack of sources: E344, E370, E411, E430, E431,
+  E434, E472b, E328.
+- E123, E127, E443: US history kept in the text; confirm that fits the policy.
+
 ## Decisions already made
 
 - Show EU status only (no UK/US), as data, not in the article text.
