@@ -1,67 +1,327 @@
 [
-{"code":"E100","name":"Curcumin","text":"Curcumin is the yellow-orange pigment of turmeric, extracted from the root of the plant Curcuma longa. It is used to colour mustard, curry powders, dairy products, baked goods, confectionery and drinks.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."},
-{"code":"E101","name":"Riboflavin","text":"Riboflavin is vitamin B2, formerly called lactoflavin. It occurs naturally in milk, eggs and liver, and the additive is usually produced by fermentation or synthesis. It gives a yellow-orange colour and is also used to fortify foods, for example in cereals, dairy products, sauces and drinks. The E101(i) form is riboflavin itself and the (ii) form is riboflavin-5'-phosphate.\n\nRegulatory status: approved in the EU with conditions, approved in the UK and approved in the US."},
-{"code":"E102","name":"Tartrazine","text":"Tartrazine is a synthetic lemon-yellow azo dye, also known in the US as FD&C Yellow 5. It is used in soft drinks, sweets, desserts, sauces, snacks and coated products.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US. Products in the EU and UK require a warning label, and its use is described as being phased out there. The label warns that the colour may have an adverse effect on activity and attention in children. Some sensitive people may also react to it with skin or respiratory symptoms."},
-{"code":"E103","name":"Alkannin","text":"Alkannin is a red-brown natural pigment obtained from the roots of alkanet (Alkanna tinctoria). It has been used mainly as a dye for cosmetics, textiles and some foods, but it is rarely encountered in food today.\n\nIt is not approved in the EU, the UK or the US, so it should not be present in foods sold in those markets."},
-{"code":"E104","name":"Quinoline Yellow","text":"Quinoline Yellow WS is a synthetic dye that gives a dull or greenish yellow colour. It is used in sweets, desserts, soft drinks, smoked fish coatings and similar products where permitted.\n\nIt is approved in the EU with conditions and approved in the UK. Products in the EU and UK require a warning label saying the colour may affect activity and attention in children, and its use is described as being phased out. It is not approved in the US."},
-{"code":"E105","name":"Fast Yellow AB","text":"Fast Yellow AB is a synthetic yellow azo dye that was once used as a food colour. It is no longer in use as a food additive, and little current information about it is available.\n\nIt is forbidden in the EU, the UK and the US, so it does not appear in foods sold in these markets."},
-{"code":"E106","name":"Riboflavin-5'-sodium phosphate","text":"Riboflavin-5'-sodium phosphate is the sodium salt of the phosphate ester of riboflavin (vitamin B2). It is a yellow, water-soluble form of the vitamin that can be used as a food colour and as a source of vitamin B2.\n\nIt is closely related to E101a and has no individual record of its own. No separate EU, UK or US approval status is recorded for it."},
-{"code":"E107","name":"Yellow 2G","text":"Yellow 2G is a synthetic yellow azo dye. It was used in the past to colour foods, but it is now obsolete as a food additive.\n\nIt is not approved in the EU, the UK or the US, so it should not be found in foods in those markets."},
-{"code":"E110","name":"Sunset Yellow FCF","text":"Sunset Yellow FCF, also called Orange Yellow S or FD&C Yellow 6, is a synthetic yellow-orange azo dye. It is used in soft drinks, sweets, desserts, snacks, sauces and baked goods.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US. Products in the EU and UK require a warning label about possible effects on activity and attention in children, and its use is being phased out there. It is also banned in Norway."},
-{"code":"E111","name":"Orange GGN","text":"Orange GGN is a synthetic orange azo dye that was once used to colour foods. It is no longer used as a food additive and there is little current information about it.\n\nIt is forbidden in the EU, the UK and the US."},
-{"code":"E120","name":"Carmine (cochineal)","text":"Cochineal, carminic acid and carmine (Natural Red 4) are crimson pigments obtained from the dried bodies of the cochineal insect, which lives on cacti. This is an animal-derived colour, so it is not suitable for vegetarians and vegans.\n\nIt is used in drinks, yoghurts, sweets, meat products and sauces. It is approved in the EU with conditions, approved in the UK and approved in the US. Carmine can rarely cause allergic reactions in sensitive people."},
-{"code":"E121","name":"Citrus Red 2","text":"Citrus Red 2 is a synthetic orange to pink dye. Its use is very narrow: it colours the skin of some oranges and is not applied to the edible part.\n\nIt is approved in the US only for colouring the skin of oranges. It is not approved in the EU and the UK."},
-{"code":"E122","name":"Carmoisine","text":"Carmoisine, also called azorubine, is a synthetic azo dye that gives a red to maroon colour. It is used in sweets, jellies, desserts, drinks and baked goods.\n\nIt is approved in the EU with conditions and approved in the UK. Products in the EU and UK require a warning label about possible effects on activity and attention in children, and its use is being phased out. It is also banned in Canada, Japan, Norway and the USA."},
-{"code":"E123","name":"Amaranth","text":"Amaranth, also known as FD&C Red 2, is a synthetic red azo dye. It is not related to the amaranth plant. It has been used in drinks, sweets, desserts and some alcoholic products.\n\nIt is approved in the EU with conditions and approved in the UK, but banned in the United States."},
-{"code":"E124","name":"Ponceau 4R","text":"Ponceau 4R, also called Cochineal Red A or Brilliant Scarlet 4R, is a synthetic pink-red azo dye. Despite the name, it is not made from cochineal. It is used in sweets, desserts, soft drinks and processed meat or fish products.\n\nIt is approved in the EU with conditions and approved in the UK. Products in the EU and UK require a warning label about possible effects on activity and attention in children, and its use is being phased out. It is not approved in the US."},
-{"code":"E125","name":"Ponceau SX","text":"Ponceau SX, also called Scarlet GN, is a synthetic red azo dye. It is not a common food colour today, and little current information about its food use is available.\n\nIn the US it is permitted only for externally applied drugs and cosmetics. It is not approved in the EU and the UK, so it should not be present in foods there."},
-{"code":"E126","name":"Ponceau 6R","text":"Ponceau 6R is a synthetic red azo dye. It is an obsolete food colour about which little current information is available.\n\nIt is not approved in the EU and the UK. No US approval status is recorded for it."},
-{"code":"E127","name":"Erythrosine","text":"Erythrosine, also known as FD&C Red 3, is a synthetic pink-red dye based on iodine. It is best known for colouring cocktail and glace cherries, and it has also been used in sweets and baked goods.\n\nIt is approved in the UK and approved in the EU for cocktail, candied and bigareaux cherries only. It is banned in the US."},
-{"code":"E128","name":"Red 2G","text":"Red 2G is a synthetic red or pink azo dye that was once used to colour foods such as sausages and preserves. It is now obsolete as a food additive.\n\nIt is not approved in the EU, the UK or the US."},
-{"code":"E129","name":"Allura Red AC","text":"Allura Red AC, also known as FD&C Red 40, is a synthetic red azo dye. It is one of the most widely used red colours, found in soft drinks, sweets, desserts, sauces, snacks and cereals.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US. Products in the EU and UK require a warning label about possible effects on activity and attention in children, and its use is being phased out. It is also banned in several individual countries."},
-{"code":"E130","name":"Indanthrene blue RS","text":"Indanthrene blue RS is a synthetic blue vat dye, an anthraquinone-type pigment better known as a textile dye than as a food colour. Little is documented about its use in food.\n\nIt is not approved in the EU, the UK or the US, so it should not be present in foods in those markets."},
-{"code":"E131","name":"Patent Blue V","text":"Patent Blue V is a synthetic sky-blue dye of the triarylmethane group. In food it has been used in a few products, such as some preserves and confectionery.\n\nIt is approved in the EU for preserves of red fruit only and approved in the UK. It is banned in the US and Australia."},
-{"code":"E132","name":"Indigo carmine","text":"Indigo carmine, also called indigotine or FD&C Blue 2, is a synthetic dye related to the natural indigo, giving a deep blue colour. It is used in sweets, ice cream, drinks, baked goods and pet food.\n\nIt is approved in the EU and the UK and approved in the US."},
-{"code":"E133","name":"Brilliant Blue FCF","text":"Brilliant Blue FCF, also known as FD&C Blue 1, is a synthetic blue dye of the triarylmethane group. It is used alone or mixed with yellow dyes to make green, in drinks, sweets, ice cream, dairy desserts and canned peas.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."},
-{"code":"E140","name":"Chlorophylls","text":"Chlorophylls and chlorophyllins are the green pigments of plants, commonly extracted from grass, alfalfa or nettle. Chlorophyllins are the water-soluble derivatives made from the natural pigment.\n\nThey give a green colour to sweets, ice cream, drinks, sauces and other foods. They are approved in the EU with conditions, approved in the UK and approved in the US."},
-{"code":"E141","name":"Copper complexes of chlorophylls","text":"Copper complexes of chlorophylls and chlorophyllins are made from natural chlorophyll by replacing the central magnesium with copper. This gives a more stable, brighter green colour than the natural pigment. They are used in sweets, ice cream, soups and drinks.\n\nThey are approved in the EU with conditions and approved in the UK. In the US they are approved for citrus-based dry beverage mixes."},
-{"code":"E142","name":"Green S","text":"Green S is a synthetic green dye of the triarylmethane group, also known as Acid Brilliant Green BS. It has been used in sweets, desserts, mint sauce and some drinks.\n\nIt is approved in the EU with conditions and approved in the UK. It is not approved in the US."},
-{"code":"E143","name":"Fast Green FCF","text":"Fast Green FCF, also known as FD&C Green 3, is a synthetic turquoise-green dye of the triarylmethane group. It has been used in food and drinks, and also in cosmetics and as a biological stain.\n\nIt is approved in the US and not approved in the EU and the UK."},
-{"code":"E150a","name":"Plain caramel","text":"Plain caramel (caramel I) is a brown colour made by heating sugars, without ammonia or sulfite compounds. It is the simplest of the four caramel colour classes and is used in spirits, sauces, baked goods and confectionery.\n\nIt is approved in the EU only in seaweed-based fish roe analogues, and only E150a made from honey for a specific type of mead. It is approved in the UK and approved in the US."},
-{"code":"E150b","name":"Caustic sulfite caramel","text":"Caustic sulfite caramel (caramel II) is a brown colour made by heating sugars with sulfite compounds in the presence of an alkali, but without ammonia. It is used in drinks such as fortified wines and spirits, and in some other foods.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."},
-{"code":"E150c","name":"Ammonia caramel","text":"Ammonia caramel (caramel III) is a brown colour made by heating sugars with ammonia compounds. It is used in products such as beer, malt beverages, breakfast cereals, sauces and baked goods.\n\nIt is approved in the EU only for breakfast cereals and for beer and malt beverages, with conditions. It is approved in the UK and approved in the US."},
-{"code":"E150d","name":"Sulfite ammonia caramel","text":"Sulfite ammonia caramel (caramel IV) is a brown colour made by heating sugars with both sulfite and ammonia compounds. It is the caramel colour most often used in soft drinks, particularly colas, and also in sauces, vinegars and spirits.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."},
-{"code":"E151","name":"Brilliant Black BN","text":"Brilliant Black BN, also called Black PN, is a synthetic black azo dye. It has been used in sauces, desserts, fish roe substitutes, confectionery and drinks where permitted.\n\nIt is approved in the EU only in processed seafood, with conditions. It is approved in the UK, and banned in the US."},
-{"code":"E152","name":"Carbon black","text":"Carbon black (hydrocarbon black) is a black pigment made by the incomplete combustion of hydrocarbons. It was once used as a food colour but is now rarely encountered, and it is known mainly as an industrial pigment.\n\nIt is not approved in the EU, the UK or the US."},
-{"code":"E153","name":"Vegetable carbon","text":"Vegetable carbon is a black pigment made by charring plant material such as wood or peat. It is used in confectionery, liquorice-type sweets, cheese rind and some decorative products.\n\nIt is approved in the EU with conditions and approved in the UK. It is banned in the US."},
-{"code":"E154","name":"Brown FK","text":"Brown FK, called kipper brown, is a synthetic mixture of azo dyes that gives a brown colour. It was used only for dyeing smoked fish, known as kippers.\n\nThe EU approval was withdrawn in November 2011. It is not approved in the UK or the US."},
-{"code":"E155","name":"Brown HT","text":"Brown HT, also called chocolate brown HT, is a synthetic brown azo dye. It has been used in chocolate-flavoured cakes, confectionery, sauces and some other foods.\n\nIt is approved in the EU in precooked crustaceans and in fresh meat only for the purpose of health marking. It is approved in the UK and not approved in the US."},
-{"code":"E160a","name":"Carotenes","text":"Carotenes (alpha-, beta- and gamma-carotene) are yellow-orange pigments found in carrots, palm oil and many other plants. The additive can be extracted from plants or algae, or produced synthetically. Beta-carotene is also a precursor of vitamin A.\n\nIt colours margarine, cheese, drinks, baked goods and confectionery. It is approved in the EU with conditions and approved in the UK. In the US only beta-carotene is approved."},
-{"code":"E160b","name":"Annatto","text":"Annatto is an orange natural colour extracted from the seeds of the achiote tree (Bixa orellana). Its main pigments are bixin, which is fat-soluble, and norbixin, which is water-soluble.\n\nIt is widely used to colour cheese, butter, margarine, snacks, smoked fish and cereals. It is approved in the EU with conditions, approved in the UK and approved in the US. Rare allergic reactions to annatto have been reported."},
-{"code":"E160c","name":"Paprika extract","text":"Paprika extract is a red natural colour obtained from the ripe fruits of the red pepper Capsicum annuum. Its main pigments are capsanthin and capsorubin. It is used in sausages, sauces, snacks, cheese, soups and seasoning blends.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."},
-{"code":"E160d","name":"Lycopene","text":"Lycopene is the red carotenoid pigment of tomatoes, watermelon and pink grapefruit. The additive is extracted from tomatoes or produced by fermentation or chemical synthesis.\n\nIt gives colour to drinks, sauces, soups, desserts and meat products. It is approved in the EU with conditions, approved in the UK and approved in the US."},
-{"code":"E160e","name":"Beta-apo-8'-carotenal","text":"Beta-apo-8'-carotenal is an orange-red to yellow carotenoid pigment. It occurs in small amounts in citrus fruit and spinach, but the additive is normally made synthetically. It is used in cheese, soups, sauces, drinks and baked goods.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."},
-{"code":"E160f","name":"Ethyl ester of beta-apo-8'-carotenic acid","text":"The ethyl ester of beta-apo-8'-carotenic acid is a synthetic carotenoid-type pigment giving an orange-red to yellow colour. It is closely related to E160e. It is little used today and little current information is available.\n\nIt is not approved in the EU, the UK or the US."},
-{"code":"E161a","name":"Flavoxanthin","text":"Flavoxanthin is a golden-yellow carotenoid pigment of the xanthophyll group, found in some flowers such as buttercups. It has hardly any practical use as a food colour.\n\nIt is not approved in the EU, the UK or the US."},
-{"code":"E161b","name":"Lutein","text":"Lutein is a yellow to orange-red carotenoid pigment found in marigold flowers, green leafy vegetables and egg yolk. The additive is usually extracted from marigold petals. It is used to colour dairy products, baked goods, drinks, and also animal feed.\n\nIt is approved in the EU with conditions and approved in the UK. In the US it is approved for chicken feed only."},
-{"code":"E161c","name":"Cryptoxanthin","text":"Cryptoxanthin is an orange-red carotenoid pigment found in fruits such as papaya, oranges and red peppers. It is a precursor of vitamin A, but it is not used as a food colour in practice.\n\nIt is not approved in the EU, the UK or the US."},
-{"code":"E161d","name":"Rubixanthin","text":"Rubixanthin is an orange-red carotenoid pigment found in rose hips and some other plants. It is of mainly scientific interest and is not a practical food colour.\n\nIt is not approved in the EU, the UK or the US."},
-{"code":"E161e","name":"Violaxanthin","text":"Violaxanthin is an orange carotenoid pigment found in many green plants and in some flowers, such as pansies. It is not used as a practical food colour.\n\nIt is not approved in the EU, the UK or the US."},
-{"code":"E161f","name":"Rhodoxanthin","text":"Rhodoxanthin is a carotenoid pigment found in some conifers, yews and a few other plants, which gives a deep red to purple colour. It has no practical use as a food colour.\n\nIt is not approved in the EU, the UK or the US."},
-{"code":"E161g","name":"Canthaxanthin","text":"Canthaxanthin is a carotenoid pigment found in some mushrooms, crustaceans and fish. The additive is made synthetically. It has been used to colour animal feed, for example to deepen the colour of egg yolks and of farmed salmon flesh.\n\nIt is approved in the EU for medicinal products only, approved in the UK and approved in the US. High intakes have been associated with deposits in the retina."},
-{"code":"E161h","name":"Zeaxanthin","text":"Zeaxanthin is a yellow-orange carotenoid pigment found in maize, paprika, egg yolk and many leafy vegetables. It is present in the human retina together with lutein.\n\nIt is not approved in the EU, the UK or the US as a food colour with this number."},
-{"code":"E161i","name":"Citranaxanthin","text":"Citranaxanthin is a synthetic carotenoid-type pigment that gives a deep yellow to orange colour. It is used mainly in poultry feed to colour egg yolks and skin, and little is documented about its use in human food.\n\nIt is not approved in the EU, the UK or the US."},
-{"code":"E161j","name":"Astaxanthin","text":"Astaxanthin is a red carotenoid pigment found in algae, shrimp, krill and salmon, to which it gives their pink-red colour. It is produced from algae or yeast, or synthetically.\n\nIt is not approved in the EU and the UK as a food additive. In the US it is approved for salmonid fish feed only."},
-{"code":"E162","name":"Beetroot red","text":"Beetroot red, whose main pigment is betanin, is a red natural colour extracted from red beet (Beta vulgaris). It is sensitive to heat, light and oxygen, so it is used mainly in products that are not heated for long, such as ice cream, yoghurt, desserts, sweets and sauces.\n\nIt is approved in the EU with conditions, approved in the UK and approved in the US."},
-{"code":"E163","name":"Anthocyanins","text":"Anthocyanins are water-soluble plant pigments responsible for the red, purple and blue colours of berries, grapes, red cabbage, purple carrots and many flowers. Their colour depends on acidity, giving red in acid conditions and bluish or green shades as the pH rises.\n\nThey are used in drinks, confectionery, jams and dairy products. They are approved in the EU with conditions and approved in the UK. In the US, grape extract anthocyanin is approved for beverages only."},
-{"code":"E164","name":"Saffron","text":"Saffron is a spice made from the dried stigmas of the crocus flower (Crocus sativus). Its pigment, crocin, gives dishes a yellow-orange colour, and it is also a flavouring. It is one of the most expensive spices in the world.\n\nIt is not approved in the EU and the UK as an additive with this number. In the US it is approved."},
-{"code":"E170","name":"Calcium carbonate","text":"Calcium carbonate is a white mineral compound that occurs naturally as chalk, limestone and marble, and is also produced industrially. As a food additive it works as a white colour and as an anticaking agent, acidity regulator and calcium supplement. It is used in confectionery, bread flour, dairy alternatives and supplements.\n\nIt is approved in the EU with conditions and approved in the UK. In the US it is approved for dietary supplements, candies and chewing gum only."},
-{"code":"E171","name":"Titanium dioxide","text":"Titanium dioxide is a white mineral pigment, made from titanium ores. It was used to whiten and brighten confectionery, chewing gum, sauces, icing and coatings, and also in medicines and cosmetics.\n\nIt is no longer approved in the EU for food products as of June 2022, because of the identification of potential carcinogenic effects. It remains approved in the EU for medicinal products only. It is approved in the UK, except Northern Ireland, and approved in the US for specific foods."},
-{"code":"E172","name":"Iron oxides and hydroxides","text":"Iron oxides and iron hydroxides are mineral pigments, produced synthetically, which give yellow, red, brown or black shades. They are used in confectionery, pet food, sausage casings, supplements and decorations.\n\nThey are approved in the EU with conditions and approved in the UK. In the US they are approved for sausage casings, dietary supplements, candies and chewing gum."},
-{"code":"E173","name":"Aluminium","text":"Aluminium used as an additive is a fine silver-grey metallic powder. It is used to give a metallic finish to the surface of products such as sugar confectionery and cake decorations.\n\nIt is approved in the EU only for external coatings of sugar confectionery. It is approved in the UK and not approved in the US."},
-{"code":"E174","name":"Silver","text":"Silver, used as a food additive, is the metal in a very thin leaf or powder. It is applied only as a decorative silver surface on products such as confectionery, chocolates and liqueurs, and it passes through the body without being used.\n\nIt is approved in the EU only for external coatings of confectionery and for decoration of chocolates and liqueurs. It is approved in the UK and not approved in the US."},
-{"code":"E175","name":"Gold","text":"Gold, used as a food additive, is the metal in the form of very thin leaf or powder. It is used purely for decoration, for example on chocolates, confectionery, liqueurs and luxury desserts. Gold is chemically inert, so it is not digested.\n\nIt is approved in the EU only for external coatings of confectionery and for decoration of chocolates and liqueurs. It is approved in the UK and not approved in the US."},
-{"code":"E180","name":"Lithol Rubine BK","text":"Lithol Rubine BK, also called Pigment Rubine, is a synthetic red azo pigment (a calcium salt). It is used in a very narrow way, for colouring the rind of some cheeses.\n\nIt is approved in the EU only in edible cheese rind, with conditions. It is approved in the UK and not approved in the US."},
-{"code":"E181","name":"Tannin","text":"Tannins are natural plant substances found in oak bark, galls, tea, grapes and many other plants. They give a brown colour and astringency. They are also used as clarifying agents, for example in wine and beer production.\n\nTannin is not approved in the EU and the UK as an additive with this number. It is approved in the US."},
-{"code":"E182","name":"Orcein","text":"Orcein, also called orchil, is a purple natural dye obtained from lichens by treating them with ammonia in the presence of air. It is better known as a textile dye and a biological stain than as a food colour.\n\nIt is not approved in the EU, the UK or the US."}
+  {
+    "code": "E100",
+    "name": "Curcumin",
+    "text": "Curcumin is the bright yellow pigment of turmeric, obtained from the rhizomes of the plant Curcuma longa. Chemically it is a polyphenol of the curcuminoid group.\n\nAs a food additive it gives an orange-yellow colour and is used, for example, in curry powders, mustard, butter and cheese. It dissolves poorly in water."
+  },
+  {
+    "code": "E101",
+    "name": "Riboflavins",
+    "text": "Riboflavin is vitamin B2. In pure form it is a yellow-orange crystalline powder, and besides being a vitamin it is used as a food colour. It occurs naturally in meat, fish, eggs, dairy products and green vegetables.\n\nCommercial riboflavin is now made mainly by fermentation with fungi and genetically modified bacteria. The additive has two forms: riboflavin itself, E101(i), and riboflavin-5'-phosphate, E101(ii), which dissolves better in water. Riboflavin is also added to flour and breakfast cereals to enrich them."
+  },
+  {
+    "code": "E102",
+    "name": "Tartrazine",
+    "text": "Tartrazine is a synthetic lemon-yellow azo dye, known in the US as FD&C Yellow 5. It is used in soft drinks, sweets, desserts, snacks, sauces and many other processed foods, and combined with Brilliant Blue FCF or Green S it gives shades of green.\n\nIn the EU, foods containing it must carry the warning that it may have an adverse effect on activity and attention in children. According to the US FDA, it causes hives in fewer than 1 in 10,000 people."
+  },
+  {
+    "code": "E103",
+    "name": "Alkannin",
+    "text": "Alkannin is a natural red-brown pigment obtained from the roots of dyer's alkanet (Alkanna tinctoria), a plant of the Mediterranean region. Chemically it is a naphthoquinone derivative.\n\nIt is used as a food colouring and in cosmetics. It is deep red in acidic conditions and blue in alkaline ones."
+  },
+  {
+    "code": "E104",
+    "name": "Quinoline Yellow",
+    "text": "Quinoline Yellow WS is a synthetic water-soluble dye that gives a greenish-yellow colour. It is used in drinks and in foods such as sauces, decorations and coatings.\n\nIn the EU, foods containing it must carry the warning that it may have an adverse effect on activity and attention in children. In 2009 EFSA lowered its acceptable daily intake from 10 to 0.5 mg per kg of body weight."
+  },
+  {
+    "code": "E105",
+    "name": "Fast Yellow AB",
+    "text": "Fast Yellow AB is a synthetic yellow azo dye that was formerly used as a food colour under the number E105. It is no longer used in food. It has been implicated in non-atopic asthma."
+  },
+  {
+    "code": "E106",
+    "name": "Riboflavin-5'-phosphate sodium",
+    "text": "Riboflavin-5'-phosphate sodium is the sodium salt of riboflavin-5'-phosphate, a phosphate ester of vitamin B2 (riboflavin). It is used as a food colour, dissolves in water better than riboflavin itself and is quickly converted to free riboflavin after it is eaten.\n\nIt is also used to fortify flour with vitamin B2.\n\nIn EU law and in the international Codex numbering system this substance is not numbered E106: it is listed as form (ii) of E101 (riboflavins)."
+  },
+  {
+    "code": "E107",
+    "name": "Yellow 2G",
+    "text": "Yellow 2G is a synthetic yellow azo dye that has been used as a food colouring under the number E107 (colour index CI 18965). It is a yellow powder that dissolves in water."
+  },
+  {
+    "code": "E110",
+    "name": "Sunset Yellow FCF",
+    "text": "Sunset Yellow FCF, also called Orange Yellow S and, in the US, FD&C Yellow 6, is a synthetic orange azo dye derived from petroleum. It is used in sweets, desserts, snacks, sauces and preserved fruits, and together with amaranth (E123) to give a brown colour to chocolate and caramel products.\n\nIn the EU, foods containing it must carry the warning that it may have an adverse effect on activity and attention in children."
+  },
+  {
+    "code": "E111",
+    "name": "Orange GGN",
+    "text": "Orange GGN, also known as alpha-naphthol orange, is a synthetic orange azo dye that was formerly used as a food colour. In Europe it has been prohibited in food since 1 January 1978, and it has never been included in the Codex Alimentarius list of food additives."
+  },
+  {
+    "code": "E120",
+    "name": "Carmine",
+    "text": "Carmine is a bright red pigment made from carminic acid, which is extracted from cochineal and some other scale insects: the powdered insect bodies are boiled and the extract is precipitated with alum. It is also known as cochineal, cochineal extract or Natural Red 4. Because it comes from insects, it is not suitable for vegetarians or vegans.\n\nIt is used in yoghurt, sweets, gelatin desserts, meat products and drinks, including fruit juices. Carmine can cause allergic reactions in some people."
+  },
+  {
+    "code": "E121",
+    "name": "Citrus Red 2",
+    "text": "Citrus Red 2 is a synthetic azo dye that does not dissolve in water but dissolves readily in many organic solvents. Its food use is very narrow: in the United States it has been used since 1956 to colour the skin of some oranges, at no more than 2 mg per kg of fruit.\n\nThe International Agency for Research on Cancer classifies it as possibly carcinogenic to humans (group 2B)."
+  },
+  {
+    "code": "E122",
+    "name": "Azorubine (carmoisine)",
+    "text": "Azorubine, also called carmoisine, is a synthetic red azo dye. It is mainly used in foods that are heat-treated after fermentation; examples include some cheeses, dried fruit and some alcoholic drinks.\n\nIn the EU, foods containing it must carry the warning that it may have an adverse effect on activity and attention in children. EFSA re-evaluated it in 2009 and kept its acceptable daily intake at 4 mg per kg of body weight."
+  },
+  {
+    "code": "E123",
+    "name": "Amaranth",
+    "text": "Amaranth, also known as FD&C Red No. 2, is a synthetic red azo dye. It has nothing to do with the amaranth plant apart from the name, which was taken from the red-coloured amaranth grain. It is used in foods and cosmetics; in the United Kingdom it is best known for colouring glacé cherries.\n\nIn the United States, the FDA ended its listing as a colour for food, drugs and cosmetics in 1976, stating that it did so to protect public health."
+  },
+  {
+    "code": "E124",
+    "name": "Ponceau 4R",
+    "text": "Ponceau 4R, also called Cochineal Red A or Brilliant Scarlet 4R, is a synthetic strawberry-red azo dye. Despite one of its names, it is not made from cochineal insects. It is stable to light, heat and acid but fades in the presence of ascorbic acid (vitamin C).\n\nIn the EU, foods containing it must carry the warning that it may have an adverse effect on activity and attention in children."
+  },
+  {
+    "code": "E125",
+    "name": "Ponceau SX",
+    "text": "Ponceau SX, also called Scarlet GN or FD&C Red No. 4, is a synthetic red azo dye that was once used as a food colour. In the EU it was allowed in food until the end of 1976. Today it is mainly used in cosmetics such as shampoos, bubble baths and liquid soaps."
+  },
+  {
+    "code": "E126",
+    "name": "Ponceau 6R",
+    "text": "Ponceau 6R, also called crystal ponceau 6R or crystal scarlet, is a synthetic red azo dye that was formerly used as a food colour under the number E126. It is also used in histology to stain fibrin, and it is closely related to the dye amaranth (E123)."
+  },
+  {
+    "code": "E127",
+    "name": "Erythrosine",
+    "text": "Erythrosine, also known as FD&C Red No. 3, is a synthetic red-pink dye containing iodine; chemically it is the disodium salt of tetraiodofluorescein. It is used in sweets, ice pops, cake-decorating gels and especially cherries, and also in printing inks and dental plaque disclosing agents.\n\nStudies linked high doses to thyroid tumours in male rats. The US FDA considers that the dye is probably not genotoxic and that these tumours have limited relevance to humans, but US law does not allow colour additives that cause cancer in animals. In January 2025 the FDA therefore revoked its use in food, effective 15 January 2027."
+  },
+  {
+    "code": "E128",
+    "name": "Red 2G",
+    "text": "Red 2G is a synthetic red azo dye. In the EU it was used only in breakfast sausages and burger meat containing cereal or vegetables. In July 2007 EFSA concluded that it may be carcinogenic because it is converted to aniline in the body, and the European Commission suspended its use as a food colour the same month. It is also used in inks and paper."
+  },
+  {
+    "code": "E129",
+    "name": "Allura Red AC",
+    "text": "Allura Red AC, also known as FD&C Red 40, is a synthetic red azo dye. It was developed in 1971 as a replacement for amaranth and is now the most widely used red food dye in the United States. It is found in soft drinks, sweets, cotton candy, cherry-flavoured products, dairy products and some medicines.\n\nIn the EU, foods containing it must carry the warning that it may have an adverse effect on activity and attention in children."
+  },
+  {
+    "code": "E130",
+    "name": "Indanthrene blue RS",
+    "text": "Indanthrene blue RS (indanthrone) is a synthetic dark blue anthraquinone dye first made by BASF in 1901. It is mainly a vat dye for cotton and other cellulose textiles and a pigment for paints and enamels, valued for its colour fastness. It has been assigned the food colour number E130."
+  },
+  {
+    "code": "E131",
+    "name": "Patent Blue V",
+    "text": "Patent Blue V is a synthetic sky-blue triphenylmethane dye. It is not widely used in food; in Europe it may be found in Scotch eggs, some jelly sweets, blue Curaçao and some gelatin desserts. In medicine it is used to stain lymph vessels.\n\nHealth authorities in some countries suspect that it may cause allergic reactions, from itching and rash to, rarely, anaphylactic shock."
+  },
+  {
+    "code": "E132",
+    "name": "Indigotine (indigo carmine)",
+    "text": "Indigotine, also called indigo carmine or FD&C Blue No. 2, is made from indigo by sulfonation, which makes it water-soluble. Like indigo, it gives a blue colour, and it is one of the few blue food colours. It is also used in pharmaceutical capsules and cosmetics, as a pH indicator, and in medicine as a contrast agent and stain."
+  },
+  {
+    "code": "E133",
+    "name": "Brilliant Blue FCF",
+    "text": "Brilliant Blue FCF, also known as FD&C Blue No. 1, is a synthetic blue triarylmethane dye. Combined with tartrazine (E102) it gives shades of green. It is used in ice cream, sweets, icings, soft drinks, dairy products, canned processed peas, packet soups and the liqueur blue Curaçao, as well as in cosmetics.\n\nIn studies on rodents it was poorly absorbed from the gut, and most of it was excreted."
+  },
+  {
+    "code": "E140",
+    "name": "Chlorophylls and chlorophyllins",
+    "text": "Chlorophylls are the green pigments of plants. Chlorophyllins are water-soluble salts made from chlorophyll; the sodium chlorophyllins used as additives keep the original magnesium at their centre. The pigments are extracted from plant material such as grass, lucerne (alfalfa) and nettle.\n\nChlorophyll itself does not dissolve in water, so it is first mixed with a little vegetable oil. It is used to colour foods and drinks green, for example pasta and spirits."
+  },
+  {
+    "code": "E141",
+    "name": "Copper complexes of chlorophylls and chlorophyllins",
+    "text": "Copper complexes of chlorophylls and chlorophyllins are green colours made from chlorophyll extracted from plants such as grass, lucerne (alfalfa) and nettle, in which copper takes the place of the magnesium of the natural pigment. The chlorophyll form dissolves in oil; the chlorophyllin form is made into water-soluble sodium and potassium salts and is supplied as a dark green powder or solution."
+  },
+  {
+    "code": "E142",
+    "name": "Green S",
+    "text": "Green S, also known as Food Green S or lissamine green B, is a synthetic green triarylmethane dye. It is used in foods such as mint sauce, desserts, gravy granules, sweets, ice cream and tinned peas. Because it can stain living cells, it is also used in ophthalmology to diagnose disorders of the eye surface, such as dry eye."
+  },
+  {
+    "code": "E143",
+    "name": "Fast Green FCF",
+    "text": "Fast Green FCF, also known as FD&C Green No. 3, is a synthetic turquoise triarylmethane dye used as a food colour. It is poorly absorbed from the gut. A 2017 re-evaluation published by the WHO found it to have low toxicity and to be neither carcinogenic nor genotoxic. It is also used as a stain in histology and for proteins in laboratory analysis."
+  },
+  {
+    "code": "E150a",
+    "name": "Plain caramel",
+    "text": "Plain caramel (caramel colour class I, also called caustic or spirit caramel) is a brown colour made by controlled heating of carbohydrates with an acid or alkali, without the ammonium or sulphite compounds used for the other classes.\n\nIt is used in whisky and other spirits, biscuits, crackers and other baked goods, and juice concentrates."
+  },
+  {
+    "code": "E150b",
+    "name": "Caustic sulphite caramel",
+    "text": "Caustic sulphite caramel (caramel colour class II) is a brown colour made by controlled heating of carbohydrates with sulphite compounds in the presence of an alkali. It has a mild flavour, a distinctly reddish tone and good stability in alcohol.\n\nIt is used in tea, wine, sherry, brandy, cognac, rum, whisky and some vinegars."
+  },
+  {
+    "code": "E150c",
+    "name": "Ammonia caramel",
+    "text": "Ammonia caramel (caramel colour class III, also called baker's, confectioner's or beer caramel) is a red-brown colour made by controlled heating of carbohydrates with ammonium compounds.\n\nIt is used in beer, breakfast cereals, liquorice, confectionery, gravy and sauces such as soy and barbecue sauce."
+  },
+  {
+    "code": "E150d",
+    "name": "Sulphite ammonia caramel",
+    "text": "Sulphite ammonia caramel (caramel colour class IV, also called soft-drink or acid-proof caramel) is a dark brown colour made by controlled heating of carbohydrates with both sulphite and ammonium compounds. It is stable in acidic conditions.\n\nIt is used in soft drinks such as colas, balsamic vinegar, coffee, chocolate syrups, sauces, soups and seasonings."
+  },
+  {
+    "code": "E151",
+    "name": "Brilliant Black PN",
+    "text": "Brilliant Black PN, also called Brilliant Black BN or Black PN, is a synthetic black azo dye. It is used in food decorations and coatings, desserts, sweets, ice cream, mustard, red fruit jams, soft drinks, flavoured milk drinks, fish paste and lumpfish caviar."
+  },
+  {
+    "code": "E152",
+    "name": "Carbon black",
+    "text": "Carbon black is a black form of carbon produced by the incomplete combustion of petroleum products, coal tar or vegetable matter in a limited supply of air. It is used mainly as a colorant and reinforcing filler in tyres and other rubber products and as a pigment in plastics, paints and inks. In the international Codex numbering system, the number 152 denotes carbon black from hydrocarbon sources as a food colour.\n\nIn the EEC the number E152 originally belonged to a different substance, the synthetic azo dye Black 7984 (Food Black 2), which was deleted from the list of food colours from 1 January 1977."
+  },
+  {
+    "code": "E153",
+    "name": "Vegetable carbon",
+    "text": "Vegetable carbon is a black colour that consists essentially of finely divided carbon. It is made by carbonising plant material such as wood, coconut shells, bamboo or peat, followed by activation, washing, drying and grinding.\n\nAmong foods, it is used in liquorice and other sweets and in flavoured fermented milk products."
+  },
+  {
+    "code": "E154",
+    "name": "Brown FK",
+    "text": "Brown FK, also called kipper brown, is a mixture of six synthetic azo dyes with added sodium chloride and/or sodium sulfate. It is very soluble in water and gives a brown colour. It was once used in smoked and cured mackerel and other fish, including kippers, and in some cooked hams and other meats, because its colour did not fade during cooking.\n\nIn 2011 the European Food Safety Authority found that Brown FK was no longer used and that the toxicity data were too limited to conclude on its safety."
+  },
+  {
+    "code": "E155",
+    "name": "Brown HT",
+    "text": "Brown HT, also called chocolate brown HT, is a synthetic brown diazo dye made from coal tar. It is used as a colour in place of cocoa or caramel, mainly in chocolate cakes, but also in desserts, biscuits, sweets, cheeses, yoghurts, jams, ice cream, breakfast cereals and other foods."
+  },
+  {
+    "code": "E160a",
+    "name": "Carotenes",
+    "text": "Carotenes are orange and yellow pigments that give carrots their colour and occur in many other fruits and vegetables, in palm oil and in milk fat. Beta-carotene, the most common form, is converted in the body into vitamin A; alpha- and gamma-carotene have weaker vitamin A activity.\n\nThe additive is produced synthetically or from natural sources such as the fungus Blakeslea trispora or the alga Dunaliella salina. It colours products such as juices, cakes, desserts, butter and margarine."
+  },
+  {
+    "code": "E160b",
+    "name": "Annatto",
+    "text": "Annatto is an orange natural colour extracted from the seeds of the achiote tree (Bixa orellana). Its main pigments are bixin, which is fat-soluble, and norbixin, which is water-soluble.\n\nIt is widely used to colour cheese, butter, margarine, snacks, smoked fish and breakfast cereals. Rare allergic reactions to annatto have been reported."
+  },
+  {
+    "code": "E160c",
+    "name": "Paprika extract",
+    "text": "Paprika extract is a red natural colour obtained by solvent extraction from the fruits of the peppers Capsicum annuum or Capsicum frutescens; the solvents are removed before use. Its main colouring compounds are capsanthin and capsorubin, and it is much milder than capsicum oleoresin.\n\nIt is used in cheese, sausages, margarine, oils, sauces, snacks, drinks and desserts, and in poultry feed to deepen the colour of egg yolks."
+  },
+  {
+    "code": "E160d",
+    "name": "Lycopene",
+    "text": "Lycopene is the bright red carotenoid pigment of tomatoes. It is also found in watermelon, pink grapefruit, pink guava, papaya and rose hips, and tomato products such as ketchup are the main dietary source. Unlike beta-carotene, it has no vitamin A activity.\n\nBecause of its strong colour, it is used as a food colouring."
+  },
+  {
+    "code": "E160e",
+    "name": "Beta-apo-8'-carotenal",
+    "text": "Beta-apo-8'-carotenal (apocarotenal) is an orange to orange-red carotenoid found in spinach and citrus fruits. Like other carotenoids it is a precursor of vitamin A, with about half the provitamin A activity of beta-carotene.\n\nIt is used in fat-based foods such as margarine, sauces and salad dressings, and in drinks, dairy products and sweets."
+  },
+  {
+    "code": "E160f",
+    "name": "Ethyl ester of beta-apo-8'-carotenic acid",
+    "text": "The ethyl ester of beta-apo-8'-carotenic acid, also called Food orange 7, is an orange-red carotenoid. It occurs in small quantities in some plants but has been produced commercially from beta-apo-8'-carotenal (E160e).\n\nIt was removed from the EU list of food additives in November 2011 because it was no longer being manufactured."
+  },
+  {
+    "code": "E161a",
+    "name": "Flavoxanthin",
+    "text": "Flavoxanthin is a natural golden-yellow xanthophyll, a type of carotenoid pigment, found in small quantities in a variety of plants. It is used as a food colour."
+  },
+  {
+    "code": "E161b",
+    "name": "Lutein",
+    "text": "Lutein is a carotenoid pigment (a xanthophyll) made by plants and found in large amounts in green leafy vegetables such as spinach and kale, as well as in egg yolks. It appears yellow at low concentrations and orange-red at high concentrations.\n\nAs a food additive it is extracted from the petals of the Mexican marigold (Tagetes erecta). It is used as a colour in foods and dietary supplements and is added to animal feed, for example to colour egg yolks."
+  },
+  {
+    "code": "E161c",
+    "name": "Cryptoxanthin",
+    "text": "Cryptoxanthin (beta-cryptoxanthin) is a natural carotenoid pigment of the xanthophyll class, closely related to beta-carotene. It has been found in orange rind, papaya, winter squashes such as butternut, Physalis fruits, apples, egg yolk and butter. The body converts it into vitamin A. It is also used to colour food."
+  },
+  {
+    "code": "E161d",
+    "name": "Rubixanthin",
+    "text": "Rubixanthin, also called natural yellow 27, is a natural xanthophyll (carotenoid) pigment with a red-orange colour, found in rose hips. It is used as a food colour."
+  },
+  {
+    "code": "E161e",
+    "name": "Violaxanthin",
+    "text": "Violaxanthin is an orange xanthophyll (carotenoid) pigment found in a variety of plants. Plants form it from zeaxanthin, and it takes part in the xanthophyll cycle, which helps them deal with excess light. It is used as a food colour."
+  },
+  {
+    "code": "E161f",
+    "name": "Rhodoxanthin",
+    "text": "Rhodoxanthin is a purple xanthophyll (carotenoid) pigment found in small quantities in a variety of plants, including the yew (Taxus baccata), and in the feathers of some birds. It is used as a food colour."
+  },
+  {
+    "code": "E161g",
+    "name": "Canthaxanthin",
+    "text": "Canthaxanthin is a keto-carotenoid pigment widely distributed in nature. It was first isolated from edible mushrooms and has also been found in green algae, bacteria, crustaceans and fish. It is added to feed for farmed trout and salmon and for poultry.\n\nIn people who took very high amounts in sun-tanning pills, canthaxanthin crystals were deposited in the retina; the deposits disappeared after the pills were stopped.\n\nThe EU list of additives still contains E161g only because it is used to colour medicines; the list notes that it may not be used in any food category."
+  },
+  {
+    "code": "E161h",
+    "name": "Zeaxanthin",
+    "text": "Zeaxanthin is one of the most common carotenoids in nature. It is the main yellow pigment of maize and also gives colour to paprika, saffron and goji berries. It occurs in the leaves of most green plants, and together with lutein it is one of the two main carotenoids in the retina of the human eye. It is used as a food colour."
+  },
+  {
+    "code": "E161i",
+    "name": "Citranaxanthin",
+    "text": "Citranaxanthin is a carotenoid pigment. It has natural sources but is generally prepared synthetically. It is used as an animal feed additive to give a yellow colour to chicken fat and egg yolks."
+  },
+  {
+    "code": "E161j",
+    "name": "Astaxanthin",
+    "text": "Astaxanthin is a red, fat-soluble carotenoid pigment. It is produced naturally by the microalga Haematococcus pluvialis, the yeast Xanthophyllomyces dendrorhous and some bacteria, and animals that feed on them, such as salmon, trout, shrimp, krill and flamingos, take on its red-orange colour.\n\nNearly all commercial astaxanthin for fish farming is made synthetically. It is used mainly as a feed additive to colour farmed salmon and egg yolks, and also as a dietary supplement."
+  },
+  {
+    "code": "E162",
+    "name": "Beetroot red",
+    "text": "Beetroot red is a red food colour obtained from beets, usually from beet juice extract; its main pigment is betanin. Its shade depends on pH, from bright bluish-red to blue-violet, and it breaks down in alkaline conditions.\n\nBetanin is degraded by light, heat and oxygen, so it is used mainly in frozen products, products with a short shelf life and dry products. Its most common uses are ice cream and powdered soft drinks; it is also used in some sweets, soups, and tomato and bacon products."
+  },
+  {
+    "code": "E163",
+    "name": "Anthocyanins",
+    "text": "Anthocyanins are water-soluble plant pigments that give the red, purple, blue or black colours of blueberries, raspberries, blackcurrants, grapes, red cabbage, black carrots and many other plants. Their colour depends on acidity: red or pink in acidic conditions, purple near neutral and greenish-yellow in alkaline conditions.\n\nThey are used to colour foods and drinks. Red grape skin and blackcurrant extracts have a long history of use as food colours in Europe."
+  },
+  {
+    "code": "E164",
+    "name": "Gardenia yellow (saffron, crocin)",
+    "text": "The number 164 is used for yellow colours based on crocin and crocetin, the carotenoid pigments of saffron. In the international Codex numbering system it denotes gardenia yellow, a colour from the fruit of Gardenia jasminoides, which contains the same pigments; in Australia and New Zealand it denotes saffron, crocetin or crocin.\n\nSaffron itself is a spice made from the dried crimson stigmas and styles of the saffron crocus (Crocus sativus); picrocrocin and safranal are responsible for its taste and aroma. The stigmas are harvested by hand, which makes saffron costly. The FAO/WHO expert committee JECFA regards saffron as a food rather than a food additive."
+  },
+  {
+    "code": "E170",
+    "name": "Calcium carbonate",
+    "text": "Calcium carbonate is a white compound found in rocks such as chalk, limestone and marble, and in eggshells and seashells. Food-grade calcium carbonate is made from pure quarried marble or is precipitated from calcium hydroxide with carbon dioxide.\n\nAs a food additive it is used as a colour, acidity regulator, anticaking agent and stabiliser, and as a firming agent in canned and bottled vegetables. It is a calcium source in some soy and almond drinks, and in the UK it is added by law to milled bread flour other than wholemeal."
+  },
+  {
+    "code": "E171",
+    "name": "Titanium dioxide",
+    "text": "Titanium dioxide is a white pigment produced mainly from the mineral ilmenite. It is the most widely used white pigment and gives whiteness and opacity to paints, plastics, paper, medicines, toothpaste and sunscreens. In food it has been used in sweets, chewing gum, chocolates, ice cream, pastries, frostings and some cheeses.\n\nIn 2021 the European Food Safety Authority concluded that it could no longer be considered safe as a food additive, because concerns about genotoxicity (damage to DNA) could not be ruled out. The EU then withdrew its authorisation for use in food in 2022."
+  },
+  {
+    "code": "E172",
+    "name": "Iron oxides and hydroxides",
+    "text": "Iron oxides and hydroxides are inorganic pigments that are widespread in nature. They come in black, red and yellow forms and give earthy shades from yellow and orange through red and brown to black. They are inexpensive, strongly coloured and durable, and are used in paints, coatings and coloured concrete as well as to colour food."
+  },
+  {
+    "code": "E173",
+    "name": "Aluminium",
+    "text": "Aluminium used as a food additive is the metal itself, which gives a silver to grey metallic colour. It is used as a decorative metallic coating on the outside of sugar confectionery."
+  },
+  {
+    "code": "E174",
+    "name": "Silver",
+    "text": "Silver used as a food colour is the pure metal, applied as a decorative coating. Examples are silver decorations on confectionery and chocolates, silver dragées used on cakes, biscuits and other desserts, and the thin silver foil called vark used on South Asian sweets. It is also used in liqueurs.\n\nIn 2025 the European Food Safety Authority reported that the available data were insufficient to conclude on the safety of silver as a food additive."
+  },
+  {
+    "code": "E175",
+    "name": "Gold",
+    "text": "Gold used as a food additive is high-purity metallic gold applied as leaf, flakes or powder, purely for decoration, for example on chocolates, sweets, cakes and desserts and in liqueurs such as Danziger Goldwasser. Metallic gold is chemically inert: it has no taste, provides no nutrition, is not absorbed during digestion and leaves the body unaltered.\n\nIn its 2016 re-evaluation, EFSA noted that the additive may contain minute amounts of gold nanoparticles, which have shown genotoxicity in mammalian cells in laboratory tests."
+  },
+  {
+    "code": "E180",
+    "name": "Litholrubine BK",
+    "text": "Litholrubine BK (Lithol Rubine BK, also called Pigment Rubine) is a reddish synthetic azo dye, usually supplied as a calcium salt. As a food colour it is used to colour cheese rind. It is also used to dye plastics, paints and printing inks, where it is a standard magenta, and in some lip balms."
+  },
+  {
+    "code": "E181",
+    "name": "Tannin",
+    "text": "Tannins are astringent plant polyphenols that bind to and precipitate proteins. They are abundant in oak bark and cause the dry, puckering feeling in the mouth after unripe fruit, red wine or tea. Tannic acid, a specific tannin, is a yellow to light brown powder usually extracted from tara pods, gallnuts or sumac leaves."
+  },
+  {
+    "code": "E182",
+    "name": "Orcein",
+    "text": "Orcein is a dye extracted from several species of lichen, mainly Roccella tinctoria. Orcinol from the lichens is converted into orcein by ammonia and air. Orcein is reddish-brown, while the related lichen dye orchil is purple-blue. Orcein is used as a stain in microscopy, for example to make chromosomes visible.\n\nIt has not been allowed as a food colour in Europe since January 1977."
+  }
 ]

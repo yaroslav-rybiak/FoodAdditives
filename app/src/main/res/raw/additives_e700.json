@@ -1,18 +1,82 @@
 [
-{"code":"E701","name":"Tetracyclines","text":"Tetracyclines are a family of broad-spectrum antibiotics originally derived from soil bacteria of the genus Streptomyces. They are used in human and veterinary medicine to treat a range of bacterial infections.\n\nThe number E701 was assigned to them in the E-number scheme, but they are antibiotics, not food additives. They are not authorised as food additives in the EU."},
-{"code":"E702","name":"Chlortetracycline","text":"Chlortetracycline is a tetracycline antibiotic produced by the soil bacterium Streptomyces aureofaciens. It is used mainly in veterinary medicine, and in the past it was also given to farm animals in feed.\n\nIt holds the number E702, but it is an antibiotic and not a food additive. It is not an authorised food additive in the EU."},
-{"code":"E703","name":"Oxytetracycline","text":"Oxytetracycline is a tetracycline antibiotic obtained from the bacterium Streptomyces rimosus. It is used in human medicine and widely in veterinary medicine against bacterial infections.\n\nIt has the number E703, but it is a medicine rather than a food additive. It is not an authorised food additive in the EU."},
-{"code":"E704","name":"Oleandomycin","text":"Oleandomycin is a macrolide antibiotic produced by Streptomyces antibioticus. It has been used mainly in veterinary medicine, and a derivative of it has been used in human medicine.\n\nIt was given the number E704, but it is an antibiotic, not a food additive. It is not an authorised food additive in the EU."},
-{"code":"E705","name":"Penicillin G potassium","text":"Penicillin G potassium is the potassium salt of penicillin G (benzylpenicillin), a classic penicillin antibiotic. It is given by injection in human and veterinary medicine to treat bacterial infections.\n\nIt holds the number E705, but it is a medicine and not a food additive. It is not an authorised food additive in the EU."},
-{"code":"E706","name":"Penicillin G sodium","text":"Penicillin G sodium is the sodium salt of penicillin G (benzylpenicillin), a penicillin antibiotic. It is used in injectable form in human and veterinary medicine against susceptible bacteria.\n\nIt has the number E706, but it is an antibiotic, not a food additive. It is not an authorised food additive in the EU."},
-{"code":"E707","name":"Penicillin G procaine","text":"Penicillin G procaine is a salt of penicillin G with the local anaesthetic procaine. It dissolves slowly after injection, so the antibiotic is released over a longer time. It is used in human and veterinary medicine.\n\nIt holds the number E707, but it is a medicine and not a food additive. It is not an authorised food additive in the EU."},
-{"code":"E708","name":"Penicillin G benzathine","text":"Penicillin G benzathine is a long-acting form of penicillin G given by deep injection, from which the antibiotic is released very slowly. It is used in human medicine, for example against syphilis, and in veterinary medicine.\n\nIt has the number E708, but it is a medicine, not a food additive. It is not an authorised food additive in the EU."},
-{"code":"E710","name":"Spiramycins","text":"Spiramycins are macrolide antibiotics produced by Streptomyces ambofaciens. They are used in human medicine and in veterinary medicine against certain bacterial and parasitic infections.\n\nThey were assigned the number E710, but they are antibiotics and not food additives. They are not authorised as food additives in the EU."},
-{"code":"E711","name":"Virginiamycins","text":"Virginiamycins are a mixture of two streptogramin antibiotics produced by Streptomyces virginiae. They have been used in veterinary medicine and formerly as a growth promoter in animal feed; that use was banned in the EU.\n\nThey hold the number E711, but they are antibiotics, not food additives. They are not authorised as food additives in the EU."},
-{"code":"E712","name":"Flavomycin","text":"Flavomycin, also called flavophospholipol or bambermycin, is an antibiotic used in animal husbandry and not in human medicine. It was formerly added to livestock feed to promote growth; this use is no longer permitted in the EU.\n\nIt has the number E712, but it is not a food additive. It is not an authorised food additive in the EU."},
-{"code":"E713","name":"Tylosin","text":"Tylosin is a macrolide antibiotic produced by Streptomyces fradiae. It is used in veterinary medicine for cattle, pigs and poultry, and it was formerly used as a growth promoter in feed, which is no longer allowed in the EU.\n\nIt holds the number E713, but it is an antibiotic, not a food additive. It is not an authorised food additive in the EU."},
-{"code":"E714","name":"Monensin A","text":"Monensin is an ionophore antibiotic produced by Streptomyces cinnamonensis. It is used in animal husbandry, mainly as a coccidiostat for poultry and in cattle feed, and is not used in human medicine. It is toxic to horses.\n\nIt has the number E714, but it is not a food additive. It is not an authorised food additive in the EU."},
-{"code":"E715","name":"Avoparcin","text":"Avoparcin is a glycopeptide antibiotic that was used as a growth promoter in animal feed. It was banned in the EU in the 1990s because of concern about antibiotic resistance. It was not used in human medicine.\n\nIt holds the number E715, but it is an antibiotic, not a food additive. It is not an authorised food additive in the EU."},
-{"code":"E716","name":"Salinomycin","text":"Salinomycin is an ionophore antibiotic produced by Streptomyces albus. It is used in animal husbandry, mainly as a coccidiostat to control parasitic infection in poultry, and is not a human medicine.\n\nIt has the number E716, but it is not a food additive. It is not an authorised food additive in the EU."},
-{"code":"E717","name":"Avilamycin","text":"Avilamycin is an antibiotic of the orthosomycin group produced by Streptomyces viridochromogenes. It is used in veterinary practice, in particular in feed for poultry and pigs, and is not used in human medicine.\n\nIt holds the number E717, but it is an antibiotic, not a food additive. It is not an authorised food additive in the EU."}
+  {
+    "code": "E701",
+    "name": "Tetracyclines",
+    "text": "Tetracyclines are a group of broad-spectrum antibiotics that are isolated from several species of Streptomyces bacteria or made semi-synthetically from them. They were discovered in the 1940s.\n\nTetracyclines have been used extensively to prevent and treat infections in humans and animals, and also at low doses in animal feed as growth promoters.\n\nThe group was given the number E701, but tetracyclines are antibiotics, not food additives."
+  },
+  {
+    "code": "E702",
+    "name": "Chlortetracycline",
+    "text": "Chlortetracycline is a tetracycline antibiotic and the first of the group to be identified. It was discovered in 1945 as a product of the soil bacterium Streptomyces aureofaciens.\n\nIn veterinary medicine it is used, for example, against conjunctivitis in cats, dogs and horses and against respiratory infections in calves, pigs and chickens. In humans it is used in a combination skin cream.\n\nIt has the number E702, but it is an antibiotic, not a food additive."
+  },
+  {
+    "code": "E703",
+    "name": "Oxytetracycline",
+    "text": "Oxytetracycline is a broad-spectrum tetracycline antibiotic, the second of the group to be discovered. It was first obtained from the soil bacterium Streptomyces rimosus and came into commercial use in 1950.\n\nIt is used in human medicine against infections such as those caused by Chlamydia and Mycoplasma, and in veterinary medicine. In the United States it is added to livestock feed to prevent disease in cattle and poultry.\n\nIt has the number E703, but it is a medicine, not a food additive."
+  },
+  {
+    "code": "E704",
+    "name": "Oleandomycin",
+    "text": "Oleandomycin is a macrolide antibiotic produced by strains of the bacterium Streptomyces antibioticus. It was discovered in 1954 and is weaker than the related antibiotic erythromycin.\n\nIt is used as a veterinary antibiotic in some countries, including for pigs and poultry.\n\nIt was given the number E704, but it is an antibiotic, not a food additive."
+  },
+  {
+    "code": "E705",
+    "name": "Penicillin G potassium",
+    "text": "Penicillin G potassium is the potassium salt of benzylpenicillin (penicillin G), a penicillin antibiotic used to treat bacterial infections such as pneumonia, strep throat and syphilis. Because it is poorly absorbed when taken by mouth, benzylpenicillin is generally given by injection into a vein or muscle.\n\nIt holds the number E705, but it is a medicine, not a food additive."
+  },
+  {
+    "code": "E706",
+    "name": "Penicillin G sodium",
+    "text": "Penicillin G sodium is the sodium salt of benzylpenicillin (penicillin G), a penicillin antibiotic that acts mainly against gram-positive bacteria. Benzylpenicillin is used to treat infections such as pneumonia, diphtheria, tetanus and syphilis, and is generally given by injection because it is poorly absorbed when taken by mouth.\n\nIt has the number E706, but it is an antibiotic, not a food additive."
+  },
+  {
+    "code": "E707",
+    "name": "Penicillin G procaine",
+    "text": "Penicillin G procaine is a salt of benzylpenicillin with the local anaesthetic procaine. It dissolves poorly, so after injection into a muscle it forms a deposit from which the antibiotic is released slowly over an extended period.\n\nIt is used against infections such as syphilis, anthrax, pneumonia and diphtheria, and was introduced for medical use in 1948.\n\nIt holds the number E707, but it is a medicine, not a food additive."
+  },
+  {
+    "code": "E708",
+    "name": "Penicillin G benzathine",
+    "text": "Penicillin G benzathine (benzathine benzylpenicillin) is a long-acting form of benzylpenicillin given by injection into a muscle; the benzathine component releases the penicillin slowly.\n\nIt is used to treat strep throat, diphtheria, syphilis and yaws, and to prevent rheumatic fever.\n\nIt has the number E708, but it is a medicine, not a food additive."
+  },
+  {
+    "code": "E710",
+    "name": "Spiramycin",
+    "text": "Spiramycin is a macrolide antibiotic that was isolated in 1954 as a product of the bacterium Streptomyces ambofaciens. It also acts against some parasites and is used in human medicine to treat toxoplasmosis and various soft-tissue infections.\n\nSpiramycin was formerly authorised in the EU as an antibiotic additive in animal feed; that authorisation was withdrawn in 1998 to protect human health.\n\nIt has the number E710, but it is an antibiotic, not a food additive."
+  },
+  {
+    "code": "E711",
+    "name": "Virginiamycin",
+    "text": "Virginiamycin is a streptogramin antibiotic made up of two components, virginiamycin M1 and virginiamycin S1. It is used in livestock to prevent and treat infections and to speed up the animals' growth, and in the fuel ethanol industry to prevent microbial contamination.\n\nIn 1998 the EU withdrew its authorisation as a feed additive, because resistance to it could reduce the effectiveness of related antibiotics used in human medicine.\n\nIt has the number E711, but it is an antibiotic, not a food additive."
+  },
+  {
+    "code": "E712",
+    "name": "Flavomycin",
+    "text": "Flavomycin, also called bambermycin or flavophospholipol, is a complex of antibiotics, mainly moenomycins A and C, obtained from the bacteria Streptomyces bambergiensis and Streptomyces ghanaensis. It is intended solely for use in animal nutrition and has been fed to beef and dairy cattle, poultry and pigs to improve their performance.\n\nUnder EU feed law, antibiotics other than coccidiostats and histomonostats could no longer be used as feed additives from 1 January 2006.\n\nIt has the number E712, but it is not a food additive."
+  },
+  {
+    "code": "E713",
+    "name": "Tylosin",
+    "text": "Tylosin is a macrolide antibiotic produced by fermentation by the bacterium Streptomyces fradiae. It is used in veterinary medicine to treat bacterial infections in many species, for example respiratory infections and mastitis in cattle and pneumonia and enteritis in pigs. It has also been used as a growth promoter in animals raised for food. Given by mouth it can be fatal to horses.\n\nIn 1998 the EU withdrew the authorisation of tylosin phosphate as a feed additive to protect human health.\n\nIt has the number E713, but it is an antibiotic, not a food additive."
+  },
+  {
+    "code": "E714",
+    "name": "Monensin",
+    "text": "Monensin is a polyether antibiotic isolated from the bacterium Streptomyces cinnamonensis. It is an ionophore, a compound that carries metal ions such as sodium across cell membranes.\n\nIt is widely used in feed for beef and dairy cattle to prevent coccidiosis, a parasitic disease, and to prevent bloat, and as a coccidiostat for chickens and turkeys. It is also used in laboratory research. Monensin is especially toxic to horses, and accidental poisoning has killed horses.\n\nIt has the number E714, but it is not a food additive."
+  },
+  {
+    "code": "E715",
+    "name": "Avoparcin",
+    "text": "Avoparcin is a glycopeptide antibiotic, produced by the bacterium Streptomyces candidus, that acts against Gram-positive bacteria. It was added to livestock feed to promote growth in chickens, pigs and cattle, and to help prevent necrotic enteritis in poultry.\n\nBecause it is chemically similar to vancomycin, its use in animals raised concern about vancomycin-resistant bacteria. Denmark banned it as a feed additive in 1995 and Germany in 1996, and in 1997 the EU withdrew its authorisation as a precaution.\n\nIt has the number E715, but it is an antibiotic, not a food additive."
+  },
+  {
+    "code": "E716",
+    "name": "Salinomycin",
+    "text": "Salinomycin is an ionophore antibiotic that also acts as a coccidiostat. It is produced by the bacterium Streptomyces albus and is active against Gram-positive bacteria but not against fungi or Gram-negative bacteria.\n\nIt is used in chicken feed to control coccidiosis, a parasitic disease that damages the intestines of farm animals.\n\nIt has the number E716, but it is not a food additive."
+  },
+  {
+    "code": "E717",
+    "name": "Avilamycin",
+    "text": "Avilamycin is an antibiotic produced by the bacterium Streptomyces viridochromogenes; chemically it is an oligosaccharide derivative.\n\nIt has been used as an antibiotic additive in animal feed. Under EU feed law, antibiotics other than coccidiostats and histomonostats could no longer be used as feed additives from 1 January 2006.\n\nIt has the number E717, but it is an antibiotic, not a food additive."
+  }
 ]
