@@ -1,4 +1,15 @@
-# Content review: work in progress
+# Content review: finished on 2026-11-11, not yet merged to master
+
+All 17 chunks and both second-look passes are done and merged into `res/raw` and
+`res/raw-ru` (531 articles, EU list of 331 codes). Tests, builds and lint pass. The sections
+below are the working notes from the review and are kept for the record; where they say
+"not done" or "queued", that is now out of date. Per-entry changes and sources are in
+`review/out/*.log.json` and `review/out/second_look_*.jsonl`.
+
+Open decisions for the owner: keep or drop entries whose code has no official meaning
+(E1430, E1441, E1501, E1525, and E543, E924b, E1502, E1510, E1516); whether E106 and E305
+should stay as separate entries; the title of E164; the spelling of E902 in Russian.
+Not checked: EU amendments between April 2025 and November 2026 other than E424.
 
 Paused on 2026-11-11. This branch (`content-review`) holds the half-finished content review.
 `master` does not have any of it. Delete this `review/` folder before merging to `master`.
