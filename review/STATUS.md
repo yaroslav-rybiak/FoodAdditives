@@ -48,6 +48,20 @@ My first parse of the EU list missed its footnotes. Corrected in `eu_authorised.
 
 The texts of these four must be checked against the corrected status in the final second look.
 
+The first second-look pass found that EUR-Lex opens with a browser User-Agent and cached the
+consolidated Regulation 1333/2008 of 23.04.2025 (`/tmp/fa-eu/r1333_2025.txt`). Comparing its
+Part B with `eu_authorised.json` confirmed the list and found three more differences:
+
+- E345 (magnesium citrate, listed as E 345(i) trimagnesium dicitrate) is authorised: added.
+- E322a (oat lecithin) and E1210 (carbomer) are authorised but have no article yet. Write
+  them in the final second look, then add both codes to `eu_authorised.json`.
+- E171 and E161g are on the list only because medicines use them; both stay not authorised.
+- E424 (2026) is confirmed from the Official Journal. Amendments between April 2025 and
+  November 2026 other than E424 have not been checked.
+
+First second-look pass (55 entries, E100 to E472b) is in `review/out/second_look_1.jsonl`;
+its `en`/`ru` override the chunk output for those codes at merge time.
+
 ## Decisions already made
 
 - Show EU status only (no UK/US), as data, not in the article text.
