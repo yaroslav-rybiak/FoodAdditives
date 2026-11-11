@@ -1,4 +1,4 @@
-package com.yrybyak.foodadditives;
+package com.yrybiak.foodadditives;
 
 import android.app.Application;
 

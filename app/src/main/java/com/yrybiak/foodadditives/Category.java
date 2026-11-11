@@ -1,9 +1,10 @@
-package com.yrybyak.foodadditives;
+package com.yrybiak.foodadditives;
 
 import android.content.res.Resources;
 
 import androidx.annotation.RawRes;
 import androidx.annotation.StringRes;
+import androidx.core.os.ConfigurationCompat;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -14,6 +15,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 /** A range of E numbers (e.g. E100–E199) and the additives listed in it. */
@@ -46,6 +48,10 @@ final class Category {
     @RawRes
     private final int additives;
 
+    /** Additives parsed by the last {@link #loadAdditives} call, and the language they are in. */
+    private List<Additive> cached;
+    private String cachedLocales;
+
     private Category(String range, @StringRes int title, @RawRes int additives) {
         this.range = range;
         this.title = title;
@@ -57,8 +63,18 @@ final class Category {
         return index >= 0 && index < ALL.length ? ALL[index] : null;
     }
 
-    /** Reads the category's additives in the current language. */
-    List<Additive> loadAdditives(Resources resources) {
+    /** Returns the category's additives in the current language. */
+    synchronized List<Additive> loadAdditives(Resources resources) {
+        String locales =
+                ConfigurationCompat.getLocales(resources.getConfiguration()).toLanguageTags();
+        if (cached == null || !locales.equals(cachedLocales)) {
+            cached = Collections.unmodifiableList(readAdditives(resources));
+            cachedLocales = locales;
+        }
+        return cached;
+    }
+
+    private List<Additive> readAdditives(Resources resources) {
         try (InputStream input = resources.openRawResource(additives)) {
             ByteArrayOutputStream bytes = new ByteArrayOutputStream();
             byte[] buffer = new byte[8192];
