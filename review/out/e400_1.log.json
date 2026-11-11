@@ -1,0 +1,394 @@
+[
+  {
+    "code": "E400",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status paragraph. Removed unsourced product list (desserts, puddings, jams, soups). Kept seaweed origin and functions (Codex classes incl. emulsifier). Added sourced EFSA 2017 re-evaluation conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alginic_acid",
+      "https://doi.org/10.2903/j.efsa.2017.5049",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E401",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Removed unsourced uses (sauces, desserts, restructured foods, fruit preparations); kept ice cream and spherification, added drinks, jellies and meat analogues from source. Added EFSA 2017 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alginic_acid",
+      "https://en.wikipedia.org/wiki/Calcium_alginate",
+      "https://doi.org/10.2903/j.efsa.2017.5049",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E402",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Removed unsourced product list and the calcium-gel claim specific to this salt. Added EFSA 2017 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alginic_acid",
+      "https://doi.org/10.2903/j.efsa.2017.5049",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E403",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Removed unsourced product list and 'less common than sodium alginate'. Added appearance and emulsifier function from source; added EFSA 2017 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ammonium_alginate",
+      "https://doi.org/10.2903/j.efsa.2017.5049",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E404",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Removed unsourced 'films' and product list (desserts, restructured meat/fruit, sausage casings). Added formation from sodium alginate plus calcium and spherification from source; added EFSA 2017 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_alginate",
+      "https://doi.org/10.2903/j.efsa.2017.5049",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E405",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Deleted unsourced claims: production with propylene oxide, acid stability, salad dressings, acidic drinks, beer foam. Kept emulsifier/stabiliser/thickener; added foaming agent (Codex) and example foods from 21 CFR 172.858. Added EFSA 2018 ADI 55 mg/kg bw.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Propylene_glycol_alginate",
+      "https://www.ecfr.gov/current/title-21/section-172.858",
+      "https://doi.org/10.2903/j.efsa.2018.5371",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E406",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Removed unsourced 'dairy products' and 'bakery fillings'; added sourced uses (jams, ice cream, soups, sweets) and the gel/melt hysteresis.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Agar",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E407",
+    "verdict": "edited",
+    "changes": "Removed status paragraph and the memory-written note 'concerns about degraded carrageenan, but regulators have approved the food-grade form'. Replaced with sourced EFSA 2018 conclusion (no genotoxicity/carcinogenicity concern, temporary group ADI 75 mg/kg bw due to data gaps; poligeenan not used in food). Added kappa/iota/lambda distinction; uses checked against source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carrageenan",
+      "https://doi.org/10.2903/j.efsa.2018.5238",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E407a",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Deleted unsourced 'mainly in meat products'. Clarified production (semi-refined, alkali-cooked, higher cellulose). Added EFSA 2018 shared temporary ADI.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carrageenan",
+      "https://en.wikipedia.org/wiki/Eucheuma",
+      "https://doi.org/10.2903/j.efsa.2018.5238",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": "Russian name kept as 'Переработанные водоросли Eucheuma'; Russian Wikipedia's list calls it 'Каррагинан из водорослей Euchema'. Official Russian regulatory name not checked."
+  },
+  {
+    "code": "E408",
+    "verdict": "edited",
+    "changes": "Removed status paragraph and 'rarely used'. Corrected US use list: 'frozen yogurt' and 'sour cream' are actually frozen dessert analogs and sour cream analogs; added snack dips. Added composition (washed, pasteurised yeast cell walls; glucan:mannan about 2:1) and functions from 21 CFR 172.898. Uses kept without status wording.",
+    "sources": [
+      "https://www.ecfr.gov/current/title-21/section-172.898",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E409",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Deleted unsourced 'dissolves easily, low viscosity', 'little-used' and 'dietary fibre supplements'. Added source (water extract of western larch, galactose:arabinose about 6:1), functions and example foods from 21 CFR 172.610.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Arabinogalactan",
+      "https://www.ecfr.gov/current/title-21/section-172.610",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E410",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Deleted unsourced claims: gels with xanthan or carrageenan, product list (ice cream, dairy desserts, cream cheese, sauces, fillings). Added Mediterranean origin, galactomannan chemistry and EFSA 2017 re-evaluation conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Locust_bean_gum",
+      "https://doi.org/10.2903/j.efsa.2017.4646",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E411",
+    "verdict": "rewritten",
+    "changes": "Removed status paragraph. No source found describing oat gum as a food additive (no Wikipedia article, no CFR or JECFA entry found), so the 'beta-glucan extract' and 'rarely used' claims were deleted. Reduced to identity and Codex functions (thickener, stabiliser).",
+    "sources": [
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://en.wikipedia.org/wiki/Oat_beta-glucan",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": "Composition of oat gum (whether it is essentially oat beta-glucan) could not be confirmed from an authoritative source."
+  },
+  {
+    "code": "E412",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Corrected origin ('mainly India and Pakistan' -> India about 80% of supply). Kept cold-water thickening with sourced detail. Verified the memory-written 2007 dioxin note but corrected it: source describes a European Commission health warning to member states (not an EU recall), cause pentachlorophenol-contaminated guar gum from India.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Guar_gum",
+      "https://doi.org/10.2903/j.efsa.2017.4669",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E413",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Deleted unsourced 'one of the oldest gums' and 'acid-stable'; replaced unsourced product list (dressings, sauces, icings) with sourced uses (sugar gum paste, lozenges). Added Iran as main producer and EFSA 2017 conclusion. Russian name changed to 'Трагакантовая камедь' (Russian Wikipedia E-number list).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tragacanth",
+      "https://doi.org/10.2903/j.efsa.2017.4789",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E414",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Corrected origin (mostly Sudan, about 70%, and the Sahel). Deleted unsourced 'flavour encapsulation' and 'very effective'. Added sourced uses, flatulence at large doses and EFSA 2017 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gum_arabic",
+      "https://doi.org/10.2903/j.efsa.2017.4741",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E415",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Deleted unsourced 'stable to heat and acid'. Replaced unsourced 'laxative effect in large amounts' with EFSA 2017 finding (abdominal discomfort in some individuals at high intake; no safety concern). Added shear-thinning and ice cream from source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Xanthan_gum",
+      "https://doi.org/10.2903/j.efsa.2017.4909",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E416",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Deleted unsourced 'native to India', 'swells strongly', and food examples (desserts, bakery). Added chemistry, laxative use and EFSA 2016 conclusion incl. 7 g/day adult intake advice.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gum_karaya",
+      "https://doi.org/10.2903/j.efsa.2016.4598",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E417",
+    "verdict": "edited",
+    "changes": "Removed status sentence (which also wrongly said 'not approved in the US'; FDA calls tara gum's safety profile well established). Corrected 'grown mainly in Peru' to native to Peru; deleted unsourced dairy/sauces, kept ice cream. Added EFSA 2017 conclusion and distinction from tara flour (2022 US illnesses). Russian name changed to 'Камедь тары' per Russian Wikipedia list.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tara_spinosa",
+      "https://doi.org/10.2903/j.efsa.2017.4863",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E418",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Replaced 'heat-stable gels at very low concentrations' with sourced comparison to agar and acyl types. Deleted unsourced jellies, fruit preparations, dairy drinks; kept plant milks and added vegan gummies. Added EFSA 2018 conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gellan_gum",
+      "https://doi.org/10.2903/j.efsa.2018.5296",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E419",
+    "verdict": "edited",
+    "changes": "Removed status paragraph and 'where it is permitted'. Deleted unsourced comparison with gum arabic. Origin and beverage emulsifier use confirmed in 21 CFR 184.1333; functions from Codex; calico printing from Wikipedia.",
+    "sources": [
+      "https://www.ecfr.gov/current/title-21/section-184.1333",
+      "https://en.wikipedia.org/wiki/Terminalia_anogeissiana",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E420",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Corrected source (made by reducing glucose, mostly from starch). Deleted unsourced 'diabetic products'; added sourced uses and calorie value. Kept laxative effect; replaced vague EU warning claim with the verified labelling rule (Reg. 1169/2011 Annex III item 2.4). Name tidied from 'Sorbitols'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sorbitol",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/III",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E421",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced 'mushrooms' and 'about half as sweet as sugar'. Kept low hygroscopicity and chewing-gum use; added coating of hard sweets and dried fruit, laxative threshold (about 20 g), and the verified EU polyol labelling warning.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mannitol",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/III",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E422",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Corrected 'by-product of fat processing' wording to sourced origin (triglycerides in animal fats and vegetable oils, or synthetic). Replaced unsourced product list (cakes, icings, confectionery, soft cookies) with sourced examples. Added EFSA 2017 conclusion and its note on young children and flavoured drinks.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Glycerol",
+      "https://doi.org/10.2903/j.efsa.2017.4720",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E423",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Deleted unsourced claims that it is a better emulsifier than plain gum arabic, especially for oil-in-water emulsions, and the product list (drinks, sauces, icings); kept flavour-oil emulsions from EFSA. Added EFSA 2010 and JECFA 2009 conclusions. Russian name: 'октенилсукциновой' changed to standard Russian 'октенилянтарной'.",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2010.1539",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf"
+    ],
+    "unresolved": "E423 is missing from Russian Wikipedia's E400-E499 list; Russian name not checked against Russian regulations."
+  },
+  {
+    "code": "E424",
+    "verdict": "edited",
+    "changes": "Removed status paragraph (it also wrongly treated the producing organism names). Corrected organism: originally described as Alcaligenes faecalis, now classed as Agrobacterium. Corrected gel description to sourced 'elastic gel on heating'; deleted unsourced uses (noodles, tofu-like products, meat and fish products, Asian cuisine). Added EFSA 2024 conclusion and functions.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Curdlan",
+      "https://doi.org/10.2903/j.efsa.2024.8985",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": "eu_official_name is null; the EU authorisation (reported as Regulation (EU) 2026/2298, applicable from 8 Nov 2026) was not verified in this task."
+  },
+  {
+    "code": "E425",
+    "verdict": "edited",
+    "changes": "Removed status paragraph (incl. 'not approved in the US'). Corrected 'tuber' to corm; added glucomannan content. Verified the memory-written mini-cup note against Directive 2003/52/EC and rewrote it as history: in 2003 the EU removed jelly confectionery including jelly mini-cups from konjac's conditions of use after choking deaths in third countries (the 2004 mini-cup suspension Decision 2004/374/EC does not list E425). Added EFSA 2017 conclusion (total intake below 3 g/day).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Amorphophallus_konjac",
+      "https://en.wikipedia.org/wiki/Glucomannan",
+      "https://www.legislation.gov.uk/eudr/2003/52/contents",
+      "https://www.legislation.gov.uk/eudn/2004/374/contents",
+      "https://doi.org/10.2903/j.efsa.2017.4864",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E426",
+    "verdict": "edited",
+    "changes": "Removed status paragraph (incl. US/FDA database remark). Deleted unsourced 'water-soluble', 'from soybean fibre' and 'acidic protein drinks'. Added Codex functions and EFSA 2017 conclusion incl. residual-protein/allergen recommendation.",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2017.4721",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E427",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Corrected source to seed endosperm; added composition (>=75% polysaccharide, mannose:galactose 5:1). Deleted unsourced gel formation with xanthan and food list (processed cheese, dairy desserts, ice cream); kept pet food (E499 in feed).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cassia_gum",
+      "https://en.wikipedia.org/wiki/Senna_obtusifolia",
+      "https://doi.org/10.2903/j.efsa.2006.389",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf"
+    ],
+    "unresolved": "E427 is missing from Russian Wikipedia's E400-E499 list; Russian name 'Кассиевая камедь' kept but not verified against Russian regulations."
+  },
+  {
+    "code": "E428",
+    "verdict": "edited",
+    "changes": "Removed status sentence (EU/UK 'not considered an additive', US approved). Corrected 'sets into a clear gel' to sourced properties (thermoreversible gel); added fish as a source. Deleted 'desserts'; added ice cream from source. Halal/kosher wording replaced by sourced 'religious objections'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gelatin",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf"
+    ],
+    "unresolved": "E428 is missing from Russian Wikipedia's E400-E499 list; 'Желатин' is the standard Russian name."
+  },
+  {
+    "code": "E429",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Corrected and expanded composition and sources from 21 CFR 184.1553 (incl. heat denaturation); 'main use is culture media' softened to sourced 'also widely used in nutrient media'; added food functions (CFR, Codex emulsifier).",
+    "sources": [
+      "https://www.ecfr.gov/current/title-21/section-184.1553",
+      "https://en.wikipedia.org/wiki/Peptide#Peptones",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E430",
+    "verdict": "rewritten",
+    "changes": "Removed status paragraph. Deleted unsourced 'formerly used in bakery products to keep them soft'. Reduced to identity (from the name) and Codex function (emulsifier).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polyoxyethylene_stearate",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": "No authoritative source found for its past food uses."
+  },
+  {
+    "code": "E431",
+    "verdict": "rewritten",
+    "changes": "Removed status paragraph. Deleted unsourced 'historically used to improve the texture of bakery goods'. Reduced to identity and emulsifier function (Codex; Wikipedia).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polyoxyethylene_stearate",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": "No EFSA opinion on E431 was found; typical food uses could not be sourced."
+  }
+]

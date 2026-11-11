@@ -1,0 +1,365 @@
+[
+  {
+    "code": "E400",
+    "en": {
+      "name": "Alginic acid",
+      "text": "Alginic acid is a polysaccharide found in brown seaweed. It absorbs water and forms a viscous gum; its salts are known as alginates.\n\nIn food it is used mainly as a thickener, stabiliser and gelling agent, and it can also act as an emulsifier, humectant and carrier.\n\nIn 2017 EFSA re-evaluated alginic acid and its salts (E400 to E404) and found no safety concern at the reported uses, with no need for a numerical acceptable daily intake."
+    },
+    "ru": {
+      "name": "Альгиновая кислота",
+      "text": "Альгиновая кислота - полисахарид, содержащийся в бурых водорослях. Она впитывает воду и образует вязкую камедь; её соли называют альгинатами.\n\nВ пищевых продуктах применяется в основном как загуститель, стабилизатор и желирующий агент, а также может выступать эмульгатором, влагоудерживающим агентом и носителем.\n\nВ 2017 году EFSA повторно оценило альгиновую кислоту и её соли (E400-E404) и не выявило опасений для безопасности при заявленных способах применения; численная допустимая суточная доза не потребовалась."
+    }
+  },
+  {
+    "code": "E401",
+    "en": {
+      "name": "Sodium alginate",
+      "text": "Sodium alginate is the sodium salt of alginic acid and the main form in which alginate is extracted from brown seaweed. In water it forms a viscous gum, and adding calcium salts turns the solution into a gel.\n\nIt is used as a thickener, stabiliser and gelling agent, for example in drinks, ice cream and jellies, and with soy protein in meat analogues. Cooks use it with calcium for spherification.\n\nIn 2017 EFSA re-evaluated alginates (E400 to E404) and found no safety concern at the reported uses."
+    },
+    "ru": {
+      "name": "Альгинат натрия",
+      "text": "Альгинат натрия - натриевая соль альгиновой кислоты и основная форма, в которой альгинат извлекают из бурых водорослей. В воде он образует вязкую камедь, а при добавлении солей кальция раствор превращается в гель.\n\nПрименяется как загуститель, стабилизатор и желирующий агент, например в напитках, мороженом и желе, а вместе с соевым белком - в аналогах мяса. В кулинарии его используют с кальцием для сферификации.\n\nВ 2017 году EFSA повторно оценило альгинаты (E400-E404) и не выявило опасений для безопасности при заявленных способах применения."
+    }
+  },
+  {
+    "code": "E402",
+    "en": {
+      "name": "Potassium alginate",
+      "text": "Potassium alginate is the potassium salt of alginic acid, a polysaccharide obtained from brown seaweed.\n\nLike the other alginates, it is used in food mainly as a thickener, stabiliser and gelling agent.\n\nIn 2017 EFSA re-evaluated alginic acid and its salts (E400 to E404) and found no safety concern at the reported uses."
+    },
+    "ru": {
+      "name": "Альгинат калия",
+      "text": "Альгинат калия - калиевая соль альгиновой кислоты, полисахарида, получаемого из бурых водорослей.\n\nКак и другие альгинаты, в пищевых продуктах применяется в основном как загуститель, стабилизатор и желирующий агент.\n\nВ 2017 году EFSA повторно оценило альгиновую кислоту и её соли (E400-E404) и не выявило опасений для безопасности при заявленных способах применения."
+    }
+  },
+  {
+    "code": "E403",
+    "en": {
+      "name": "Ammonium alginate",
+      "text": "Ammonium alginate is the ammonium salt of alginic acid, a polysaccharide found in brown seaweed. It is a water-soluble white to yellowish-brown powder or granulate.\n\nIt is used in food as a thickener, stabiliser, gelling agent and emulsifier.\n\nIn 2017 EFSA re-evaluated alginic acid and its salts (E400 to E404) and found no safety concern at the reported uses."
+    },
+    "ru": {
+      "name": "Альгинат аммония",
+      "text": "Альгинат аммония - аммонийная соль альгиновой кислоты, полисахарида, содержащегося в бурых водорослях. Это растворимый в воде порошок или гранулы от белого до желтовато-коричневого цвета.\n\nВ пищевых продуктах применяется как загуститель, стабилизатор, желирующий агент и эмульгатор.\n\nВ 2017 году EFSA повторно оценило альгиновую кислоту и её соли (E400-E404) и не выявило опасений для безопасности при заявленных способах применения."
+    }
+  },
+  {
+    "code": "E404",
+    "en": {
+      "name": "Calcium alginate",
+      "text": "Calcium alginate is the calcium salt of alginic acid, a polysaccharide from brown seaweed. It is insoluble in water and gelatinous; it forms when a calcium salt such as calcium chloride is added to a sodium alginate solution.\n\nIn food it is used as a thickener, stabiliser and gelling agent, and this reaction is the basis of spherification in molecular gastronomy.\n\nIn 2017 EFSA re-evaluated alginic acid and its salts (E400 to E404) and found no safety concern at the reported uses."
+    },
+    "ru": {
+      "name": "Альгинат кальция",
+      "text": "Альгинат кальция - кальциевая соль альгиновой кислоты, полисахарида из бурых водорослей. Он нерастворим в воде, имеет студенистую консистенцию и образуется при добавлении соли кальция, например хлорида кальция, к раствору альгината натрия.\n\nВ пищевых продуктах применяется как загуститель, стабилизатор и желирующий агент; эта же реакция лежит в основе сферификации в молекулярной кухне.\n\nВ 2017 году EFSA повторно оценило альгиновую кислоту и её соли (E400-E404) и не выявило опасений для безопасности при заявленных способах применения."
+    }
+  },
+  {
+    "code": "E405",
+    "en": {
+      "name": "Propylene glycol alginate",
+      "text": "Propylene glycol alginate (propane-1,2-diol alginate) is an ester of alginic acid, which comes from brown seaweed (kelp). Part of the acid groups of the alginate are esterified with propylene glycol; the rest are free or neutralised.\n\nIt is used as a thickener, stabiliser, emulsifier and foaming agent, for example in frozen dairy desserts, sauces, gravies and condiments.\n\nIn the body it is broken down into alginic acid and propylene glycol. EFSA's 2018 re-evaluation set an acceptable daily intake of 55 mg per kg of body weight and found that estimated intakes did not exceed it."
+    },
+    "ru": {
+      "name": "Альгинат пропиленгликоля",
+      "text": "Альгинат пропиленгликоля (пропан-1,2-диолальгинат) - сложный эфир альгиновой кислоты, получаемой из бурых водорослей (ламинарии). Часть кислотных групп альгината этерифицирована пропиленгликолем, остальные свободны или нейтрализованы.\n\nПрименяется как загуститель, стабилизатор, эмульгатор и пенообразователь, например в замороженных молочных десертах, соусах, подливах и приправах.\n\nВ организме он расщепляется на альгиновую кислоту и пропиленгликоль. При повторной оценке в 2018 году EFSA установило допустимую суточную дозу 55 мг на кг массы тела и пришло к выводу, что расчётное потребление её не превышает."
+    }
+  },
+  {
+    "code": "E406",
+    "en": {
+      "name": "Agar",
+      "text": "Agar (agar-agar) is a jelly-forming mixture of polysaccharides obtained from the cell walls of certain red seaweeds. It dissolves in boiling water and sets into a gel on cooling, and the gel melts again only at a much higher temperature. It is used as a vegetarian and vegan substitute for gelatin.\n\nIt is used as a gelling agent, thickener and stabiliser in jellies, jams, desserts, ice cream, sweets and soups, and is also widely used to make culture media in microbiology."
+    },
+    "ru": {
+      "name": "Агар",
+      "text": "Агар (агар-агар) - желеобразующая смесь полисахаридов, получаемая из клеточных стенок некоторых красных водорослей. Он растворяется в кипящей воде и при охлаждении застывает в гель, который снова плавится лишь при значительно более высокой температуре. Используется как вегетарианская и веганская замена желатина.\n\nПрименяется как желирующий агент, загуститель и стабилизатор в желе, джемах, десертах, мороженом, конфетах и супах, а также широко используется для приготовления питательных сред в микробиологии."
+    }
+  },
+  {
+    "code": "E407",
+    "en": {
+      "name": "Carrageenan",
+      "text": "Carrageenan is a group of sulfated polysaccharides extracted from red seaweeds. The kappa and iota types form gels, kappa reacts with milk proteins, and lambda only thickens.\n\nIt is used as a thickener, gelling agent and stabiliser in dairy products such as ice cream, yogurt and chocolate milk, in desserts, processed meats and plant milks.\n\nIn its 2018 re-evaluation EFSA found no genotoxicity or carcinogenicity concern but noted data gaps, so it made the acceptable daily intake of 75 mg per kg of body weight temporary. Poligeenan, a degraded low-molecular-weight form, is not used in food."
+    },
+    "ru": {
+      "name": "Каррагинан",
+      "text": "Каррагинан - группа сульфатированных полисахаридов, извлекаемых из красных водорослей. Каппа- и йота-каррагинаны образуют гели, каппа-форма взаимодействует с белками молока, а лямбда-форма только загущает.\n\nПрименяется как загуститель, желирующий агент и стабилизатор в молочных продуктах, таких как мороженое, йогурт и шоколадное молоко, в десертах, мясных изделиях и растительном молоке.\n\nПри повторной оценке в 2018 году EFSA не выявило опасений в отношении генотоксичности и канцерогенности, но отметило пробелы в данных и поэтому сделало допустимую суточную дозу 75 мг на кг массы тела временной. Полигинан, деградированная низкомолекулярная форма, в пищевых продуктах не используется."
+    }
+  },
+  {
+    "code": "E407a",
+    "en": {
+      "name": "Processed eucheuma seaweed",
+      "text": "Processed eucheuma seaweed is semi-refined carrageenan. Red seaweeds such as Eucheuma are washed, cooked in hot alkali, dried and milled without dissolving and filtering out the carrageenan, so the product keeps much more of the seaweed's cellulose than refined carrageenan (E407).\n\nIt is used as a thickener, gelling agent and stabiliser, like carrageenan.\n\nEFSA evaluated it together with carrageenan in 2018, and the two share one temporary acceptable daily intake of 75 mg per kg of body weight."
+    },
+    "ru": {
+      "name": "Переработанные водоросли Eucheuma",
+      "text": "Переработанные водоросли Eucheuma - это полуочищенный каррагинан. Красные водоросли, например Eucheuma, промывают, варят в горячей щёлочи, сушат и измельчают, не растворяя и не отфильтровывая каррагинан, поэтому в продукте остаётся гораздо больше целлюлозы водорослей, чем в очищенном каррагинане (E407).\n\nПрименяется, как и каррагинан, в качестве загустителя, желирующего агента и стабилизатора.\n\nEFSA оценило его в 2018 году вместе с каррагинаном; для них установлена общая временная допустимая суточная доза 75 мг на кг массы тела."
+    }
+  },
+  {
+    "code": "E408",
+    "en": {
+      "name": "Baker's yeast glycan",
+      "text": "Baker's yeast glycan is made from the cell walls of baker's yeast (Saccharomyces cerevisiae), which are ground, washed, pasteurised and dried. It consists mainly of long-chain carbohydrates, glucan and mannan in a ratio of about 2:1.\n\nIt is used as a thickener, stabiliser, emulsifier and texturiser in salad dressings, in imitations of frozen desserts, sour cream and cheese spread, and in cheese- and sour-cream-flavoured snack dips."
+    },
+    "ru": {
+      "name": "Гликан пекарских дрожжей",
+      "text": "Гликан пекарских дрожжей получают из клеточных стенок пекарских дрожжей (Saccharomyces cerevisiae), которые измельчают, промывают, пастеризуют и сушат. Он состоит в основном из длинноцепочечных углеводов - глюкана и маннана в соотношении примерно 2:1.\n\nПрименяется как загуститель, стабилизатор, эмульгатор и текстуратор в салатных заправках, в аналогах замороженных десертов, сметаны и сырной пасты, а также в соусах-дипах со вкусом сыра и сметаны."
+    }
+  },
+  {
+    "code": "E409",
+    "en": {
+      "name": "Arabinogalactan",
+      "text": "Arabinogalactan (larch gum) is a polysaccharide built from the sugars arabinose and galactose. The food additive is extracted with water from western larch wood and contains roughly six galactose units for every arabinose unit. Arabinogalactans are also a major component of plant gums such as gum arabic.\n\nIt is used as an emulsifier, stabiliser, binder and thickener, for example in essential oils, flavour bases, tabletop sweeteners, dressings and pudding mixes."
+    },
+    "ru": {
+      "name": "Арабиногалактан",
+      "text": "Арабиногалактан (лиственничная камедь) - полисахарид, построенный из сахаров арабинозы и галактозы. Пищевую добавку извлекают водой из древесины западной лиственницы; на одно звено арабинозы в ней приходится примерно шесть звеньев галактозы. Арабиногалактаны также являются основным компонентом растительных камедей, например гуммиарабика.\n\nПрименяется как эмульгатор, стабилизатор, связующее и загуститель, например в эфирных маслах, вкусоароматических основах, столовых подсластителях, заправках и смесях для пудингов."
+    }
+  },
+  {
+    "code": "E410",
+    "en": {
+      "name": "Locust bean gum",
+      "text": "Locust bean gum, also called carob gum, is a galactomannan, a polysaccharide of mannose and galactose units, obtained from the seeds of the carob tree, which is native to the Mediterranean. It is a white to yellowish powder that disperses in hot or cold water.\n\nIt is used as a thickener, stabiliser and emulsifier.\n\nIn 2017 EFSA re-evaluated it and found no need for a numerical acceptable daily intake and no safety concern for the general population at the reported uses. It is barely digested and is fermented by gut bacteria."
+    },
+    "ru": {
+      "name": "Камедь рожкового дерева",
+      "text": "Камедь рожкового дерева, или камедь кароба, - галактоманнан, полисахарид из звеньев маннозы и галактозы, получаемый из семян рожкового дерева, родом из Средиземноморья. Это порошок от белого до желтоватого цвета, который диспергируется в горячей и холодной воде.\n\nПрименяется как загуститель, стабилизатор и эмульгатор.\n\nВ 2017 году EFSA провело её повторную оценку и пришло к выводу, что численная допустимая суточная доза не нужна, а при заявленных способах применения нет опасений для безопасности населения в целом. Она почти не переваривается и сбраживается кишечными бактериями."
+    }
+  },
+  {
+    "code": "E411",
+    "en": {
+      "name": "Oat gum",
+      "text": "Oat gum is a plant gum obtained from oats.\n\nIt is used as a thickener and stabiliser, increasing the viscosity of foods and helping to keep their texture uniform."
+    },
+    "ru": {
+      "name": "Овсяная камедь",
+      "text": "Овсяная камедь - растительная камедь, получаемая из овса.\n\nПрименяется как загуститель и стабилизатор: повышает вязкость продуктов и помогает сохранять их однородную консистенцию."
+    }
+  },
+  {
+    "code": "E412",
+    "en": {
+      "name": "Guar gum",
+      "text": "Guar gum is a galactomannan polysaccharide obtained from the seeds of the guar plant; India produces about 80% of the world's supply. It hydrates quickly in cold water and has up to eight times the thickening power of starch.\n\nIt is used as a thickener, stabiliser and emulsifier in sauces, dressings, soups, ice cream, yogurt and other dairy products, baked goods and gluten-free products.\n\nIn July 2007 the European Commission alerted member states after high levels of dioxins were found in guar gum from India contaminated with the pesticide pentachlorophenol."
+    },
+    "ru": {
+      "name": "Гуаровая камедь",
+      "text": "Гуаровая камедь - полисахарид-галактоманнан, получаемый из семян растения гуар; около 80% мирового производства приходится на Индию. Она быстро набухает в холодной воде и загущает до восьми раз сильнее крахмала.\n\nПрименяется как загуститель, стабилизатор и эмульгатор в соусах, заправках, супах, мороженом, йогурте и других молочных продуктах, выпечке и безглютеновых продуктах.\n\nВ июле 2007 года Европейская комиссия предупредила страны-члены после того, как в гуаровой камеди из Индии, загрязнённой пестицидом пентахлорфенолом, обнаружили высокое содержание диоксинов."
+    }
+  },
+  {
+    "code": "E413",
+    "en": {
+      "name": "Tragacanth",
+      "text": "Tragacanth is a natural gum obtained from the dried sap of several Middle Eastern shrubs of the genus Astragalus; Iran is the largest producer. It is a mixture of polysaccharides that absorbs water to form a gel or thick paste.\n\nIt is used as a thickener, stabiliser and emulsifier. In confectionery it is mixed with sugar to make gum paste for edible decorations, and it is found in some lozenges.\n\nIn 2017 EFSA re-evaluated tragacanth and found no need for a numerical acceptable daily intake and no safety concern at the reported uses."
+    },
+    "ru": {
+      "name": "Трагакантовая камедь",
+      "text": "Трагакант - природная камедь, получаемая из высохшего сока нескольких ближневосточных кустарников рода Astragalus; крупнейший производитель - Иран. Это смесь полисахаридов, которая впитывает воду и образует гель или густую пасту.\n\nПрименяется как загуститель, стабилизатор и эмульгатор. В кондитерском деле его смешивают с сахаром для мастики, из которой делают съедобные украшения; он также входит в состав некоторых пастилок.\n\nВ 2017 году EFSA провело повторную оценку трагаканта и пришло к выводу, что численная допустимая суточная доза не нужна и при заявленных способах применения нет опасений для безопасности."
+    }
+  },
+  {
+    "code": "E414",
+    "en": {
+      "name": "Gum arabic",
+      "text": "Gum arabic, also called acacia gum, is the dried exudate of certain Acacia trees, harvested mostly in Sudan and across the Sahel. It is a water-soluble mixture of polysaccharides and glycoproteins.\n\nIt is used as a stabiliser, emulsifier and thickener, for example to bind sweeteners and flavourings in soft drinks and in icing, fillings, soft candy, gumdrops and chewing gum.\n\nIt is fermented in the large intestine; very large doses can cause flatulence. In 2017 EFSA re-evaluated it and found no need for a numerical acceptable daily intake and no safety concern for the general population."
+    },
+    "ru": {
+      "name": "Гуммиарабик",
+      "text": "Гуммиарабик, или акациевая камедь, - высохшие выделения некоторых видов акации, которые собирают в основном в Судане и по всему Сахелю. Это растворимая в воде смесь полисахаридов и гликопротеинов.\n\nПрименяется как стабилизатор, эмульгатор и загуститель, например для связывания подсластителей и ароматизаторов в безалкогольных напитках, а также в глазури, начинках, мягких и жевательных конфетах и жевательной резинке.\n\nОн сбраживается в толстой кишке; очень большие дозы могут вызывать метеоризм. В 2017 году EFSA провело его повторную оценку и пришло к выводу, что численная допустимая суточная доза не нужна и нет опасений для безопасности населения в целом."
+    }
+  },
+  {
+    "code": "E415",
+    "en": {
+      "name": "Xanthan gum",
+      "text": "Xanthan gum is a polysaccharide produced by fermenting sugars such as glucose and sucrose with the bacterium Xanthomonas campestris. Even 1% in a liquid raises its viscosity markedly, and the thickened liquid thins while it is stirred or poured and thickens again at rest.\n\nIt is used as a thickener and stabiliser in sauces, salad dressings, ice cream, gluten-free baking, dairy products and drinks.\n\nIn its 2017 re-evaluation EFSA found no safety concern for the general population; some people taking large amounts reported abdominal discomfort."
+    },
+    "ru": {
+      "name": "Ксантановая камедь",
+      "text": "Ксантановая камедь - полисахарид, получаемый сбраживанием сахаров, например глюкозы и сахарозы, бактерией Xanthomonas campestris. Даже 1% камеди заметно повышает вязкость жидкости, причём загущённая жидкость разжижается при перемешивании или выливании и снова густеет в покое.\n\nПрименяется как загуститель и стабилизатор в соусах, салатных заправках, мороженом, безглютеновой выпечке, молочных продуктах и напитках.\n\nПри повторной оценке в 2017 году EFSA не выявило опасений для безопасности населения в целом; некоторые люди при приёме больших количеств отмечали дискомфорт в животе."
+    }
+  },
+  {
+    "code": "E416",
+    "en": {
+      "name": "Karaya gum",
+      "text": "Karaya gum (sterculia gum) is a plant gum that seeps from trees of the genus Sterculia, such as Sterculia urens. Chemically it is an acidic polysaccharide made of galactose, rhamnose and galacturonic acid.\n\nIn food it is used as a thickener, stabiliser and emulsifier. Outside food it is used as a laxative and as a denture adhesive.\n\nIn 2016 EFSA found no safety concern at the estimated intake from food, but advised that adult intake should stay below 7 g a day, the level at which some people had abdominal discomfort."
+    },
+    "ru": {
+      "name": "Камедь карайи",
+      "text": "Камедь карайи (камедь стеркулии) - растительная камедь, которая выделяется из деревьев рода Sterculia, например Sterculia urens. Химически это кислый полисахарид из галактозы, рамнозы и галактуроновой кислоты.\n\nВ пищевых продуктах применяется как загуститель, стабилизатор и эмульгатор. Вне пищевой промышленности используется как слабительное и как клей для зубных протезов.\n\nВ 2016 году EFSA не выявило опасений для безопасности при расчётном потреблении с пищей, но указало, что взрослым не следует получать более 7 г в день: при таком количестве у некоторых людей возникал дискомфорт в животе."
+    }
+  },
+  {
+    "code": "E417",
+    "en": {
+      "name": "Tara gum",
+      "text": "Tara gum is a galactomannan made by grinding the endosperm of the seeds of the tara tree, native to Peru. It is a white or beige powder. Its solutions are less viscous than guar gum but more viscous than locust bean gum.\n\nIt is used as a thickener, stabiliser and gelling agent, for example in ice cream.\n\nIn 2017 EFSA found no need for a numerical acceptable daily intake and no safety concern at the reported uses. It is distinct from tara flour, made from the seed germ, which sickened consumers in the US in 2022."
+    },
+    "ru": {
+      "name": "Камедь тары",
+      "text": "Камедь тары - галактоманнан, получаемый размолом эндосперма семян дерева тара, родом из Перу. Это белый или бежевый порошок. Её растворы менее вязкие, чем растворы гуаровой камеди, но более вязкие, чем растворы камеди рожкового дерева.\n\nПрименяется как загуститель, стабилизатор и желирующий агент, например в мороженом.\n\nВ 2017 году EFSA пришло к выводу, что численная допустимая суточная доза не нужна и при заявленных способах применения нет опасений для безопасности. Её следует отличать от муки тары из зародыша семян, которая в 2022 году вызвала отравления потребителей в США."
+    }
+  },
+  {
+    "code": "E418",
+    "en": {
+      "name": "Gellan gum",
+      "text": "Gellan gum is a polysaccharide produced by fermentation with the bacterium Sphingomonas elodea. It forms clear gels and needs only about half the concentration of agar for the same gel strength; low-acyl types give firm, brittle gels and high-acyl types soft, elastic ones.\n\nIt is used as a gelling agent, thickener and stabiliser, for example in vegan gummy sweets as a gelatin substitute and in plant-based milks to keep protein suspended.\n\nIn 2018 EFSA found no need for a numerical acceptable daily intake and no safety concern at the reported uses."
+    },
+    "ru": {
+      "name": "Геллановая камедь",
+      "text": "Геллановая камедь - полисахарид, получаемый ферментацией с помощью бактерии Sphingomonas elodea. Она образует прозрачные гели, и для той же прочности геля её нужно примерно вдвое меньше, чем агара; низкоацильные формы дают плотные хрупкие гели, высокоацильные - мягкие и упругие.\n\nПрименяется как желирующий агент, загуститель и стабилизатор, например в веганских жевательных конфетах вместо желатина и в растительном молоке, где удерживает белок во взвешенном состоянии.\n\nВ 2018 году EFSA пришло к выводу, что численная допустимая суточная доза не нужна и при заявленных способах применения нет опасений для безопасности."
+    }
+  },
+  {
+    "code": "E419",
+    "en": {
+      "name": "Gum ghatti",
+      "text": "Gum ghatti (Indian gum) is a natural gum that exudes from wounds in the bark of Anogeissus latifolia, a tree of the dry deciduous forests of India and Sri Lanka.\n\nIt is used as an emulsifier, stabiliser and thickener, mainly as an emulsifier in soft drinks and drink bases. Outside food it has been used in calico printing."
+    },
+    "ru": {
+      "name": "Камедь гхатти",
+      "text": "Камедь гхатти (индийская камедь) - природная камедь, которая выделяется из повреждений коры дерева Anogeissus latifolia, растущего в сухих листопадных лесах Индии и Шри-Ланки.\n\nПрименяется как эмульгатор, стабилизатор и загуститель, главным образом как эмульгатор в безалкогольных напитках и основах для них. Вне пищевой промышленности использовалась для набивки ситца."
+    }
+  },
+  {
+    "code": "E420",
+    "en": {
+      "name": "Sorbitol",
+      "text": "Sorbitol is a sugar alcohol made by reducing glucose, mostly from starch; it also occurs naturally in apples, stone fruits and berries. E420 covers sorbitol and sorbitol syrup. It is about half as sweet as sugar and provides roughly 2.5 to 3.4 kcal per gram instead of about 4.\n\nIt is used as a sweetener, humectant and bulking agent in sugar-free chewing gum, mints, diet foods, biscuits and fruit preserves.\n\nLike other sugar alcohols it can cause digestive upset and acts as a laxative in larger amounts. In the EU, foods with more than 10% added polyols must carry the warning \"excessive consumption may produce laxative effects\"."
+    },
+    "ru": {
+      "name": "Сорбит",
+      "text": "Сорбит (сорбитол) - сахарный спирт, получаемый восстановлением глюкозы, в основном из крахмала; в природе встречается в яблоках, косточковых плодах и ягодах. E420 включает сорбит и сорбитовый сироп. Он примерно вдвое менее сладок, чем сахар, и даёт около 2,5-3,4 ккал на грамм вместо примерно 4.\n\nПрименяется как подсластитель, влагоудерживающий агент и наполнитель в жевательной резинке без сахара, мятных конфетах, диетических продуктах, печенье и фруктовых консервах.\n\nКак и другие сахарные спирты, может вызывать расстройство пищеварения и в больших количествах действует как слабительное. В ЕС продукты, содержащие более 10% добавленных полиолов, должны иметь предупреждение «чрезмерное потребление может оказывать слабительное действие»."
+    }
+  },
+  {
+    "code": "E421",
+    "en": {
+      "name": "Mannitol",
+      "text": "Mannitol is a sugar alcohol found in almost all plants and in seaweed. It is made industrially by hydrogenating fructose or extracted from seaweed. It raises blood glucose less than sugar and hardly absorbs moisture from the air.\n\nIt is used as a sweetener, anti-caking agent, humectant and bulking agent, for example in chewing gum and as a coating for hard sweets and dried fruit.\n\nOral doses above about 20 g act as a laxative. In the EU, foods with more than 10% added polyols must carry the warning \"excessive consumption may produce laxative effects\"."
+    },
+    "ru": {
+      "name": "Маннит",
+      "text": "Маннит - сахарный спирт, который содержится почти во всех растениях и в водорослях. В промышленности его получают гидрированием фруктозы или извлекают из водорослей. Он повышает уровень глюкозы в крови меньше, чем сахар, и почти не поглощает влагу из воздуха.\n\nПрименяется как подсластитель, антислёживающий агент, влагоудерживающий агент и наполнитель, например в жевательной резинке и для покрытия леденцов и сухофруктов.\n\nПри приёме внутрь более 20 г действует как слабительное. В ЕС продукты, содержащие более 10% добавленных полиолов, должны иметь предупреждение «чрезмерное потребление может оказывать слабительное действие»."
+    }
+  },
+  {
+    "code": "E422",
+    "en": {
+      "name": "Glycerol",
+      "text": "Glycerol (glycerine) is a colourless, odourless, sweet-tasting, viscous liquid. It is obtained mainly from animal fats and vegetable oils, where it is bound in triglycerides, and can also be made synthetically.\n\nIn food it is used as a humectant, solvent, sweetener and thickener, for example as a filler in low-fat biscuits and to thicken liqueurs.\n\nIn 2017 EFSA found no safety concern at the reported uses, but noted that infants and toddlers could reach a dose with a therapeutic effect by drinking less than one 330 ml can of a flavoured drink."
+    },
+    "ru": {
+      "name": "Глицерин",
+      "text": "Глицерин (глицерол) - бесцветная вязкая жидкость без запаха со сладким вкусом. Его получают главным образом из животных жиров и растительных масел, где он входит в состав триглицеридов, а также синтетически.\n\nВ пищевых продуктах применяется как влагоудерживающий агент, растворитель, подсластитель и загуститель, например как наполнитель в нежирном печенье и для загущения ликёров.\n\nВ 2017 году EFSA не выявило опасений для безопасности при заявленных способах применения, но отметило, что младенцы и маленькие дети могут получить дозу с терапевтическим действием, выпив меньше одной банки (330 мл) ароматизированного напитка."
+    }
+  },
+  {
+    "code": "E423",
+    "en": {
+      "name": "Octenyl succinic acid modified gum arabic",
+      "text": "This additive is gum arabic (acacia gum, E414) that has been chemically modified with octenyl succinic anhydride.\n\nIt is used as an emulsifier, mainly in flavour-oil emulsions for flavourings.\n\nIn 2010 EFSA concluded that its use as an emulsifier at the proposed uses and levels raised no safety concern, based on its own toxicity data together with data on gum arabic and on starch modified in the same way (E1450). In 2009 JECFA had set a temporary acceptable daily intake for it without a numerical limit."
+    },
+    "ru": {
+      "name": "Гуммиарабик, модифицированный октенилянтарной кислотой",
+      "text": "Эта добавка - гуммиарабик (акациевая камедь, E414), химически модифицированный ангидридом октенилянтарной кислоты.\n\nПрименяется как эмульгатор, главным образом в эмульсиях ароматических масел для ароматизаторов.\n\nВ 2010 году EFSA пришло к выводу, что его применение как эмульгатора в предложенных целях и количествах не вызывает опасений для безопасности; вывод основан на собственных токсикологических данных добавки, а также на данных о гуммиарабике и о крахмале, модифицированном тем же способом (E1450). В 2009 году JECFA установил для него временную допустимую суточную дозу без численного ограничения."
+    }
+  },
+  {
+    "code": "E424",
+    "en": {
+      "name": "Curdlan",
+      "text": "Curdlan is a high-molecular-weight polysaccharide made of glucose units joined by beta-1,3 links. It is produced by bacterial fermentation; the producing strain was first described as Alcaligenes faecalis and is now classed in the genus Agrobacterium. It does not dissolve in water, but a suspension forms an elastic gel when heated.\n\nIt is used as a gelling and firming agent, stabiliser and thickener.\n\nIn 2024 EFSA found no safety concern at the proposed uses. Curdlan is not absorbed; gut bacteria break it down, largely to carbon dioxide."
+    },
+    "ru": {
+      "name": "Курдлан",
+      "text": "Курдлан - высокомолекулярный полисахарид из остатков глюкозы, соединённых бета-1,3-связями. Его получают бактериальной ферментацией; штамм-продуцент сначала был описан как Alcaligenes faecalis, а теперь относится к роду Agrobacterium. В воде он не растворяется, но его суспензия при нагревании образует упругий гель.\n\nПрименяется как желирующий агент, уплотнитель, стабилизатор и загуститель.\n\nВ 2024 году EFSA не выявило опасений для безопасности при предложенных способах применения. Курдлан не всасывается; кишечные бактерии расщепляют его, в основном до углекислого газа."
+    }
+  },
+  {
+    "code": "E425",
+    "en": {
+      "name": "Konjac",
+      "text": "Konjac (konjac gum and konjac glucomannan) is obtained from the corm of the konjac plant (Amorphophallus konjac). The dried corm is about 40% glucomannan, a water-soluble polysaccharide and dietary fibre that gives firm, elastic jellies.\n\nIt is used as a thickener, gelling agent, stabiliser and emulsifier, and is the basis of shirataki noodles and konjac jellies.\n\nIn 2003 the EU ruled out konjac in jelly confectionery, including jelly mini-cups, after such sweets caused choking deaths of children and elderly people elsewhere. In 2017 EFSA found no safety concern provided total intake from all sources stays below 3 g a day."
+    },
+    "ru": {
+      "name": "Конжак",
+      "text": "Конжак (конжаковая камедь и конжаковый глюкоманнан) получают из клубнелуковицы растения конжак (Amorphophallus konjac). Высушенная клубнелуковица примерно на 40% состоит из глюкоманнана - водорастворимого полисахарида и пищевого волокна, образующего плотные упругие желе.\n\nПрименяется как загуститель, желирующий агент, стабилизатор и эмульгатор; из него делают лапшу ширатаки и желе конжак.\n\nВ 2003 году ЕС исключил применение конжака в желейных кондитерских изделиях, включая желе в мини-стаканчиках, после того как такие сладости привели к гибели от удушья детей и пожилых людей в других странах. В 2017 году EFSA не выявило опасений для безопасности при условии, что общее потребление из всех источников остаётся ниже 3 г в день."
+    }
+  },
+  {
+    "code": "E426",
+    "en": {
+      "name": "Soybean hemicellulose",
+      "text": "Soybean hemicellulose is a polysaccharide fraction obtained from soybeans. It is used as an emulsifier, stabiliser, thickener and anti-caking agent.\n\nIt is not absorbed intact but is extensively fermented by gut bacteria. In its 2017 re-evaluation EFSA found a safety concern very unlikely and no need for a numerical acceptable daily intake. Because the additive can contain residual soy proteins, EFSA recommended reducing them as far as possible and informing consumers that potentially allergenic proteins may be present."
+    },
+    "ru": {
+      "name": "Гемицеллюлоза сои",
+      "text": "Гемицеллюлоза сои - полисахаридная фракция, получаемая из соевых бобов. Применяется как эмульгатор, стабилизатор, загуститель и антислёживающий агент.\n\nВ неизменном виде она не всасывается, но активно сбраживается кишечными бактериями. При повторной оценке в 2017 году EFSA признало опасения для безопасности очень маловероятными, а численную допустимую суточную дозу - ненужной. Поскольку добавка может содержать остаточные соевые белки, EFSA рекомендовало максимально снизить их содержание и информировать потребителей о возможном присутствии потенциально аллергенных белков."
+    }
+  },
+  {
+    "code": "E427",
+    "en": {
+      "name": "Cassia gum",
+      "text": "Cassia gum is made from the endosperm of the seeds of Senna obtusifolia and Senna tora (also called Cassia obtusifolia and Cassia tora). It is at least 75% polysaccharide, mainly a galactomannan with about five mannose units per galactose unit.\n\nIt is used as a thickener, gelling agent, stabiliser and emulsifier. It is also used in pet food, where it has the feed additive number E499."
+    },
+    "ru": {
+      "name": "Кассиевая камедь",
+      "text": "Кассиевую камедь получают из эндосперма семян Senna obtusifolia и Senna tora (их также называют Cassia obtusifolia и Cassia tora). Она не менее чем на 75% состоит из полисахаридов, главным образом галактоманнана, в котором на одно звено галактозы приходится около пяти звеньев маннозы.\n\nПрименяется как загуститель, желирующий агент, стабилизатор и эмульгатор. Используется также в кормах для домашних животных, где имеет номер кормовой добавки E499."
+    }
+  },
+  {
+    "code": "E428",
+    "en": {
+      "name": "Gelatin",
+      "text": "Gelatin is a translucent, colourless, nearly flavourless mixture of proteins and peptides made by partial hydrolysis of collagen from the skin, bones and connective tissue of animals, mostly pigs and cattle, sometimes fish. It dissolves in hot water and forms a gel on cooling that melts again when reheated.\n\nIt is used as a gelling agent, stabiliser and thickener in jellies, gummy sweets, marshmallows, ice cream, yogurts and capsules.\n\nBeing of animal origin, it is not suitable for vegetarians, and pork or beef gelatin raises religious objections for some consumers."
+    },
+    "ru": {
+      "name": "Желатин",
+      "text": "Желатин - прозрачная бесцветная, почти безвкусная смесь белков и пептидов, получаемая частичным гидролизом коллагена из кожи, костей и соединительной ткани животных, чаще всего свиней и крупного рогатого скота, иногда рыбы. Растворяется в горячей воде и при охлаждении образует гель, который снова плавится при нагревании.\n\nПрименяется как желирующий агент, стабилизатор и загуститель в желе, жевательных конфетах, зефире, мороженом, йогуртах и капсулах.\n\nКак продукт животного происхождения, он не подходит вегетарианцам, а свиной или говяжий желатин у части потребителей вызывает религиозные возражения."
+    }
+  },
+  {
+    "code": "E429",
+    "en": {
+      "name": "Peptones",
+      "text": "Peptones are variable mixtures of polypeptides, oligopeptides and amino acids made by partially breaking down proteins such as casein, whey protein, egg albumin, gelatin, animal tissue or soy protein with enzymes, acids or heat.\n\nIn food they are used as emulsifiers and surface-active agents, as processing aids and as nutrient supplements. They are also widely used in nutrient media for growing bacteria and fungi."
+    },
+    "ru": {
+      "name": "Пептоны",
+      "text": "Пептоны - смеси переменного состава из полипептидов, олигопептидов и аминокислот, получаемые частичным расщеплением белков, например казеина, сывороточного белка, яичного альбумина, желатина, тканей животных или соевого белка, с помощью ферментов, кислот или нагревания.\n\nВ пищевых продуктах применяются как эмульгаторы и поверхностно-активные вещества, технологические вспомогательные средства и питательные добавки. Также широко используются в питательных средах для выращивания бактерий и грибов."
+    }
+  },
+  {
+    "code": "E430",
+    "en": {
+      "name": "Polyoxyethylene (8) stearate",
+      "text": "Polyoxyethylene (8) stearate is a synthetic non-ionic surfactant: an ester of stearic acid, a fatty acid, with a polyethylene glycol chain of about eight oxyethylene units.\n\nIn food it is classed as an emulsifier, helping oil and water mix."
+    },
+    "ru": {
+      "name": "Полиоксиэтилен (8) стеарат",
+      "text": "Полиоксиэтилен (8) стеарат - синтетическое неионогенное поверхностно-активное вещество: эфир стеариновой (жирной) кислоты и полиэтиленгликолевой цепи примерно из восьми оксиэтиленовых звеньев.\n\nВ пищевых продуктах относится к эмульгаторам и помогает смешивать масло и воду."
+    }
+  },
+  {
+    "code": "E431",
+    "en": {
+      "name": "Polyoxyethylene (40) stearate",
+      "text": "Polyoxyethylene (40) stearate is a synthetic non-ionic surfactant: an ester of stearic acid, a fatty acid, with a polyethylene glycol chain of about forty oxyethylene units.\n\nIn food it is used as an emulsifier, helping oil and water mix."
+    },
+    "ru": {
+      "name": "Полиоксиэтилен (40) стеарат",
+      "text": "Полиоксиэтилен (40) стеарат - синтетическое неионогенное поверхностно-активное вещество: эфир стеариновой (жирной) кислоты и полиэтиленгликолевой цепи примерно из сорока оксиэтиленовых звеньев.\n\nВ пищевых продуктах применяется как эмульгатор и помогает смешивать масло и воду."
+    }
+  }
+]
