@@ -1,0 +1,302 @@
+[
+  {
+    "code": "E1000",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence. Deleted unsourced claims that it is isolated from animal bile or prepared chemically and that it is rarely used. Added sourced identity (main bile acid made by the liver from cholesterol, insoluble in water, salts are cholates). Emulsifier function confirmed by Codex.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cholic_acid",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1001",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence. Name changed to Codex group name 'Choline salts and esters' and the six member compounds listed. Deleted unsourced 'usually produced industrially'. Food sources aligned with the Wikipedia article (liver, egg yolks, dairy). Added sourced use of choline chloride and bitartrate in supplements. Emulsifier function confirmed by Codex.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Choline",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": "Russian name is a translation of the Codex group name; the code is not in TR TS 029/2012."
+  },
+  {
+    "code": "E1100",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Corrected function: Codex classes amylases as flour treatment agents, not stabilisers or flavour enhancers. Replaced 'malt' with sourced origins (pig pancreas, moulds, Bacillus). Deleted unsourced syrup production. Occupational allergy narrowed to the sourced claim (bakers' dermatitis or asthma).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Amylase",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1101",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Added flour treatment agent to functions (Codex). Named the microbial sources from Codex. Deleted unsourced cheese-ripening claim and unsourced worker-allergy claim. Beer use corrected to the sourced 'freeze-resistant beer' (ficin); bromelain source corrected to pineapple; added sourced bread-improver use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Protease",
+      "https://en.wikipedia.org/wiki/Papain",
+      "https://en.wikipedia.org/wiki/Bromelain",
+      "https://en.wikipedia.org/wiki/Ficain",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1102",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Reaction corrected: products are gluconic acid (via glucono-lactone) and hydrogen peroxide. Deleted unsourced claim that commercial production is by A. niger fermentation; kept that it is made by fungi such as A. niger. Deleted unsourced beverages and mayonnaise; kept dried egg powder and dough strengthening. Added honey preservative fact.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Glucose_oxidase",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1103",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Confectionery examples aligned with source (chocolate-covered sweets, cordials, fondants; liquefies the sugar); removed invented 'chocolate-covered cherry-type centres' wording. Added sourced note that bees make it for honey.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Invertase",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1104",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Added Codex function (flavour enhancer). Deleted unsourced baking and dairy-processing uses. Cheese use made specific from EFSA opinion (pregastric lipase from calves, kids, lambs; free fatty acids enhance flavour).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lipase",
+      "https://doi.org/10.2903/j.efsa.2023.8253",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1105",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Natural occurrence aligned with source (tears, saliva, human milk, mucus, egg white). Uses aligned with EFSA (cheese, beer, wine; prevents late blowing by Clostridium tyrobutyricum). Allergy statement reworded to EFSA's conclusion about residues in treated foods.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lysozyme",
+      "https://doi.org/10.2903/j.efsa.2023.7918",
+      "/tmp/fa-eu/r1333_2025.txt (Reg. 1333/2008 Annex II, consolidated 2025)"
+    ],
+    "unresolved": "Reg. 1333/2008 says the E 1105 additive authorisation is to be repealed once the EU list of food enzymes applies; eu_authorised=true is correct as of the 2025 text."
+  },
+  {
+    "code": "E1200",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Production made specific (about 10% sorbitol, citric or phosphoric acid). Added sourced 1 kcal/g and soluble-fibre classification. Function list aligned with Codex (bulking agent added; unsourced 'carrier' removed). Typical foods aligned with source. Laxative effect kept (SCF/EFSA), intestinal gas added (source).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polydextrose",
+      "https://doi.org/10.2903/j.efsa.2021.6363",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1201",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted 'not found in nature' and unsourced clarifying-aid use. Functions aligned with Codex (stabiliser, thickener, dispersing agent, coating agent). Food use restated as mainly food supplements (EFSA 2020 exposure based only on supplements). Added sourced low oral absorption and pharmaceutical binder use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polyvinylpyrrolidone",
+      "https://doi.org/10.2903/j.efsa.2020.6215",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "/tmp/fa-eu/r1333_2025.txt (Reg. 1333/2008 Annex II, consolidated 2025)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1202",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Added crospovidone name and tablet disintegrant use (Wikipedia, SCF via EFSA 2020). Beer/wine polyphenol removal and negligible residue after filtration kept (EFSA 2020). Replaced unsourced 'prevent haze' wording with sourced clear beer with stable foam.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polyvinylpolypyrrolidone",
+      "https://doi.org/10.2903/j.efsa.2020.6215",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1203",
+    "verdict": "edited",
+    "changes": "Removed confused status sentence (unclear 2010 approval). Production specified as hydrolysis of polyvinyl acetate (source). Functions aligned with Codex (coating, sealing, binder). Use narrowed to food supplements in tablet form per EU conditions of use; capsules dropped (EU use is tablets and coated tablets).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polyvinyl_alcohol",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "/tmp/fa-eu/r1333_2025.txt (Reg. 1333/2008 Annex II, consolidated 2025)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1204",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced 'natural' and oxygen-barrier claim. Production stated as fermentation of hydrolysed starch (EFSA 2025). Uses aligned with sources (breath-freshening films, vegetarian capsules, glazing agent, thickener). Added EFSA finding on partial non-digestion and flatulence at high intake.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pullulan",
+      "https://doi.org/10.2903/j.efsa.2025.9267",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1205",
+    "verdict": "new",
+    "changes": "New article written from EU specifications and EFSA 2016 opinion: monomers, solubility (insoluble in water, films soluble in gastric juice), use as glazing/coating agent in solid food supplements for moisture protection and taste/odour masking, lack of absorption.",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2016.4490",
+      "https://www.legislation.gov.uk/eur/2012/231/annex/2020-12-31",
+      "/tmp/fa-eu/r1333_2025.txt (Reg. 1333/2008 Annex II, consolidated 2025)",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": "Russian name is a translation; no Russian regulatory or Wikipedia name found (not in TR TS 029/2012)."
+  },
+  {
+    "code": "E1206",
+    "verdict": "new",
+    "changes": "New article from EU specifications (copolymer of methyl methacrylate and ethyl acrylate, emulsion polymerisation), EFSA 2010 (30% water dispersion, glazing agent in solid supplements, essentially not absorbed) and EU conditions of use (solid supplements except chewable).",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2010.1655",
+      "https://www.legislation.gov.uk/eur/2012/231/annex/2020-12-31",
+      "/tmp/fa-eu/r1333_2025.txt (Reg. 1333/2008 Annex II, consolidated 2025)"
+    ],
+    "unresolved": "Russian name is a translation; no Russian regulatory or Wikipedia name found."
+  },
+  {
+    "code": "E1207",
+    "verdict": "new",
+    "changes": "New article from EU specifications (copolymer of methacrylic acid, methyl methacrylate, methyl acrylate), EFSA 2010 (water dispersion, coating agent for solid supplements, essentially not absorbed) and EU conditions of use.",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2010.1656",
+      "https://www.legislation.gov.uk/eur/2012/231/annex/2020-12-31",
+      "/tmp/fa-eu/r1333_2025.txt (Reg. 1333/2008 Annex II, consolidated 2025)"
+    ],
+    "unresolved": "Russian name is a translation; no Russian regulatory or Wikipedia name found."
+  },
+  {
+    "code": "E1208",
+    "verdict": "new",
+    "changes": "New article from EU specifications (copovidone; copolymerisation of N-vinyl-2-pyrrolidone and vinyl acetate), EFSA 2010 (binding/coating agent in solid supplements; poorly absorbed, largely excreted intact) and EU conditions of use.",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2010.1948",
+      "https://www.legislation.gov.uk/eur/2012/231/annex/2020-12-31",
+      "/tmp/fa-eu/r1333_2025.txt (Reg. 1333/2008 Annex II, consolidated 2025)"
+    ],
+    "unresolved": "Russian name is a translation; no Russian regulatory or Wikipedia name found."
+  },
+  {
+    "code": "E1209",
+    "verdict": "new",
+    "changes": "New article from EU specifications (about 75% PVA and 25% PEG units; white to faintly yellow powder) and EFSA 2017 (instant-release film coating for solid food supplements; negligible absorption), EU conditions of use (solid supplements except chewable).",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2017.4865",
+      "https://www.legislation.gov.uk/eur/2012/231/annex/2020-12-31",
+      "/tmp/fa-eu/r1333_2025.txt (Reg. 1333/2008 Annex II, consolidated 2025)"
+    ],
+    "unresolved": "Russian name is a translation; no Russian regulatory or Wikipedia name found."
+  },
+  {
+    "code": "E1400",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced list of starch crops. Description aligned with source (roasting with little or no acid; white, yellow or brown; low-viscosity solutions). Functions aligned with Codex (thickener, stabiliser, emulsifier, carrier); use stated as crispness in batters, coatings and glazes (source); unsourced confectionery and snacks removed.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dextrin",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1401",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced 'below gelatinisation temperature' and crop list. Added sourced thin-boiling name and hydrochloric acid example. Gum sweets replaced by sourced jelly bean shells. Emulsifier added (Codex). Russian name changed to TR TS 029/2012 form.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Modified_starch",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "TR CU 029/2012 (EAEU), cached PDF"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1402",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced crop list, viscosity claim and food examples (confectionery, desserts). Added potassium hydroxide (source). Functions from Codex. Name changed to Codex 'Alkaline-treated starch'; Russian name to TR TS 029/2012 form.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Modified_starch",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "TR CU 029/2012 (EAEU), cached PDF"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1403",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced peracetic acid and 'properties close to ordinary starch'; kept hydrogen peroxide (source). Functions from Codex (emulsifier added). Russian name to TR TS 029/2012 form.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Modified_starch",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "TR CU 029/2012 (EAEU), cached PDF"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1404",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced 'clearer, more stable paste, good adhesion' and unsourced food list (coatings, dressings, confectionery). Added EFSA facts (alkaline hypochlorite treatment, 'chlorinated' name without chlorine) and source-backed viscosity reduction and stickier batter. Functions per Codex. Name spelled per EU list.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Modified_starch",
+      "https://doi.org/10.2903/j.efsa.2017.4911",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "TR CU 029/2012 (EAEU), cached PDF"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1405",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced 'thinner solutions' and 'bulking ingredient'. Added sourced examples (maltodextrin, cyclodextrin). Functions from Codex. Russian name kept (matches TR TS 029/2012).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Modified_starch",
+      "https://en.wikipedia.org/wiki/Dextrin",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "TR CU 029/2012 (EAEU), cached PDF"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1410",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Manufacturing reagents aligned with EFSA/EU definition. Deleted unsourced crop list and freeze-thaw/frozen foods, sauces, desserts claims; added sourced reduction of retrogradation and water absorption. Emulsifier added (Codex). Added sourced note on digestion. Russian name corrected to TR TS form 'Монокрахмалфосфат' (was 'Моно-крахмалфосфат').",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Monostarch_phosphate",
+      "https://en.wikipedia.org/wiki/Modified_starch",
+      "https://doi.org/10.2903/j.efsa.2017.4911",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "TR CU 029/2012 (EAEU), cached PDF"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1411",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence. Corrected the chemistry: chains are cross-linked by glycerol diether bridges formed by epichlorohydrin treatment (JECFA 1971), not 'cross-linked with glycerol'. Deleted unsourced emulsifier function, crop list and cooking-stability claim. Reduced to identity and intended use as a modified-starch thickener.",
+    "sources": [
+      "https://inchem.org/documents/jecfa/jecmono/v001je16.htm",
+      "https://en.wikipedia.org/wiki/Modified_starch"
+    ],
+    "unresolved": "Code is absent from the current Codex INS list and from TR TS 029/2012; functional class rests only on its status as a modified starch. Russian name 'Дикрахмалглицерин' could not be checked against a Russian regulation."
+  },
+  {
+    "code": "E1412",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Reagents confirmed by EFSA/EU definition. Deleted unsourced crop list, resistance to heat/acid/stirring and food list (sauces, soups, desserts, baby foods); kept sourced effect on texture/rheology. Emulsifier added (Codex). Added sourced note on digestion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Distarch_phosphate",
+      "https://en.wikipedia.org/wiki/Modified_starch",
+      "https://doi.org/10.2903/j.efsa.2017.4911",
+      "https://www.fao.org/fao-who-codexalimentarius/codex-texts/guidelines/en/ (CXG 36-1989)",
+      "TR CU 029/2012 (EAEU), cached PDF"
+    ],
+    "unresolved": ""
+  }
+]

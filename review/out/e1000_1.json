@@ -1,0 +1,299 @@
+[
+  {
+    "code": "E1000",
+    "en": {
+      "name": "Cholic acid",
+      "text": "Cholic acid is one of the two main bile acids that the liver makes from cholesterol. It is a white crystalline substance that does not dissolve in water; its salts are called cholates.\n\nAs a food additive it is classed as an emulsifier, a substance that helps fat and water mix."
+    },
+    "ru": {
+      "name": "Холевая кислота",
+      "text": "Холевая кислота — одна из двух основных жёлчных кислот, которые печень синтезирует из холестерина. Это белое кристаллическое вещество, нерастворимое в воде; её соли называют холатами.\n\nКак пищевая добавка относится к эмульгаторам — веществам, помогающим смешивать жир и воду."
+    }
+  },
+  {
+    "code": "E1001",
+    "en": {
+      "name": "Choline salts and esters",
+      "text": "This group covers compounds of choline: choline acetate, carbonate, chloride, citrate, tartrate and lactate. Choline is an essential nutrient found in foods such as liver, egg yolks and dairy products.\n\nAs food additives these compounds are classed as emulsifiers, which help keep fat and water mixed. Choline chloride and choline bitartrate are also used in dietary supplements."
+    },
+    "ru": {
+      "name": "Соли и эфиры холина",
+      "text": "К этой группе относятся соединения холина: ацетат, карбонат, хлорид, цитрат, тартрат и лактат холина. Холин — незаменимое питательное вещество, которое содержится, например, в печени, яичных желтках и молочных продуктах.\n\nКак пищевые добавки эти соединения относятся к эмульгаторам, помогающим удерживать жир и воду в однородной смеси. Хлорид и битартрат холина применяются также в биологически активных добавках."
+    }
+  },
+  {
+    "code": "E1100",
+    "en": {
+      "name": "Amylases",
+      "text": "Amylases are enzymes that break starch down into sugars. They occur naturally in human saliva and the pancreas, as well as in plants, fungi and bacteria. For food use amylase may be obtained from pig pancreas or from moulds, and some amylases are produced by bacteria such as Bacillus species.\n\nAs a food additive amylase is classed as a flour treatment agent. In breadmaking it turns starch in flour into sugars that yeast can ferment, and amylases are also important in brewing.\n\nBakers with long exposure to amylase-enriched flour are at risk of developing dermatitis or asthma."
+    },
+    "ru": {
+      "name": "Амилазы",
+      "text": "Амилазы — ферменты, расщепляющие крахмал до сахаров. В природе они содержатся в слюне и поджелудочной железе человека, а также в растениях, грибах и бактериях. Для пищевых целей амилазу получают из поджелудочной железы свиней или из плесневых грибов; часть амилаз производят бактерии, например рода Bacillus.\n\nКак пищевая добавка амилаза относится к улучшителям муки. В хлебопечении она превращает крахмал муки в сахара, которые сбраживают дрожжи; амилазы важны и в пивоварении.\n\nУ пекарей, долго работающих с мукой, обогащённой амилазой, повышен риск дерматита и астмы."
+    }
+  },
+  {
+    "code": "E1101",
+    "en": {
+      "name": "Proteases",
+      "text": "Proteases are enzymes that break down proteins. The group includes papain from papaya, bromelain from pineapple, ficin from the latex of fig trees, and proteases produced by microorganisms such as Aspergillus oryzae and Bacillus subtilis.\n\nAs food additives they are classed as flour treatment agents, flavour enhancers and stabilisers. Papain and bromelain are widely used to tenderise meat, proteases are added to bread improvers, and ficin has been used in making freeze-resistant beer."
+    },
+    "ru": {
+      "name": "Протеазы",
+      "text": "Протеазы — ферменты, расщепляющие белки. В группу входят папаин из папайи, бромелаин из ананаса, фицин из млечного сока фикусов, а также протеазы, которые производят микроорганизмы, например Aspergillus oryzae и Bacillus subtilis.\n\nКак пищевые добавки они относятся к улучшителям муки, усилителям вкуса и стабилизаторам. Папаин и бромелаин широко применяют для размягчения мяса, протеазы входят в состав хлебопекарных улучшителей, а фицин использовали при производстве морозоустойчивого пива."
+    }
+  },
+  {
+    "code": "E1102",
+    "en": {
+      "name": "Glucose oxidase",
+      "text": "Glucose oxidase is an enzyme that uses oxygen to oxidise glucose, producing gluconic acid and hydrogen peroxide. It is made by certain fungi, such as Aspergillus niger, and by some insects; honeybees add it to honey, where it acts as a natural preservative.\n\nAs a food additive it is classed as an antioxidant. It is used to remove oxygen and glucose from packaged foods such as dried egg powder, preventing unwanted browning and off-flavours, and it strengthens dough in baking."
+    },
+    "ru": {
+      "name": "Глюкозооксидаза",
+      "text": "Глюкозооксидаза — фермент, который с помощью кислорода окисляет глюкозу с образованием глюконовой кислоты и пероксида водорода. Её вырабатывают некоторые грибы, например Aspergillus niger, и некоторые насекомые; пчёлы добавляют её в мёд, где она действует как природный консервант.\n\nКак пищевая добавка относится к антиокислителям. Её применяют, чтобы удалить кислород и глюкозу из упакованных продуктов, например яичного порошка, предотвращая нежелательное потемнение и посторонний привкус; в хлебопечении она укрепляет тесто."
+    }
+  },
+  {
+    "code": "E1103",
+    "en": {
+      "name": "Invertase",
+      "text": "Invertase is an enzyme that splits sucrose into glucose and fructose, producing invert sugar syrup. It is made by many organisms, including bees, which use it to make honey; for industrial use it is usually obtained from yeast.\n\nAs a food additive it is classed as a stabiliser. In chocolate-covered sweets, cordials and fondants it liquefies the sugar, giving soft or liquid centres."
+    },
+    "ru": {
+      "name": "Инвертаза",
+      "text": "Инвертаза — фермент, расщепляющий сахарозу на глюкозу и фруктозу, в результате чего образуется инвертный сахарный сироп. Её вырабатывают многие организмы, в том числе пчёлы, которые используют её для получения мёда; для промышленности её обычно получают из дрожжей.\n\nКак пищевая добавка относится к стабилизаторам. В конфетах в шоколадной глазури, ликёрных конфетах и помадках она разжижает сахар, делая начинку мягкой или жидкой."
+    }
+  },
+  {
+    "code": "E1104",
+    "en": {
+      "name": "Lipases",
+      "text": "Lipases are enzymes that break down fats, releasing fatty acids. They are generally obtained from animal sources, but can also be produced by microorganisms.\n\nAs a food additive lipase is classed as a flavour enhancer. Lipase from the pregastric (mouth and throat) tissues of calves, young goats and lambs has been used in cheese making for centuries: the fatty acids it releases from milk fat enhance the flavour of the cheese."
+    },
+    "ru": {
+      "name": "Липазы",
+      "text": "Липазы — ферменты, расщепляющие жиры с высвобождением жирных кислот. Обычно их получают из животного сырья, но их могут производить и микроорганизмы.\n\nКак пищевая добавка липаза относится к усилителям вкуса. Липазу из преджелудочных тканей (ротовой полости и глотки) телят, козлят и ягнят веками применяют в сыроделии: жирные кислоты, которые она высвобождает из молочного жира, усиливают вкус сыра."
+    }
+  },
+  {
+    "code": "E1105",
+    "en": {
+      "name": "Lysozyme",
+      "text": "Lysozyme is an enzyme that breaks down the cell walls of bacteria, especially Gram-positive bacteria. It occurs in tears, saliva, human milk and mucus, and in large amounts in egg white; the food additive is obtained from hen egg white.\n\nIt is used as a preservative in cheese making, beer and wine. In ripened cheeses it helps prevent the late gas formation (\"blowing\") caused by Clostridium bacteria.\n\nBecause it comes from egg, residues in treated foods may trigger allergic reactions in people sensitive to egg."
+    },
+    "ru": {
+      "name": "Лизоцим",
+      "text": "Лизоцим — фермент, разрушающий клеточные стенки бактерий, прежде всего грамположительных. Он содержится в слезах, слюне, женском молоке и слизи, а в больших количествах — в яичном белке; пищевую добавку получают из белка куриных яиц.\n\nПрименяется как консервант в сыроделии, пивоварении и виноделии. В зрелых сырах помогает предотвратить позднее газообразование («вспучивание»), вызываемое бактериями рода Clostridium.\n\nПоскольку лизоцим получают из яиц, его остатки в обработанных продуктах могут вызывать аллергические реакции у людей, чувствительных к яйцу."
+    }
+  },
+  {
+    "code": "E1200",
+    "en": {
+      "name": "Polydextrose",
+      "text": "Polydextrose is a synthetic polymer of glucose. It is made by heating glucose with about 10 percent sorbitol and a small amount of citric or phosphoric acid. It counts as soluble fibre and provides about 1 kcal per gram.\n\nIt is used as a bulking agent, humectant, stabiliser and thickener, and replaces sugar, starch or fat in drinks, cakes, sweets, desserts, breakfast cereals and salad dressings.\n\nLarge amounts can have a laxative effect and cause intestinal gas."
+    },
+    "ru": {
+      "name": "Полидекстроза",
+      "text": "Полидекстроза — синтетический полимер глюкозы. Её получают нагреванием глюкозы примерно с 10 % сорбита и небольшим количеством лимонной или фосфорной кислоты. Она относится к растворимым пищевым волокнам и даёт около 1 ккал на грамм.\n\nПрименяется как наполнитель, влагоудерживающий агент, стабилизатор и загуститель; заменяет сахар, крахмал или жир в напитках, выпечке, сладостях, десертах, сухих завтраках и салатных заправках.\n\nВ больших количествах может оказывать слабительное действие и вызывать газообразование в кишечнике."
+    }
+  },
+  {
+    "code": "E1201",
+    "en": {
+      "name": "Polyvinylpyrrolidone",
+      "text": "Polyvinylpyrrolidone (PVP), also called povidone, is a synthetic water-soluble polymer made from N-vinylpyrrolidone. When taken by mouth, little or none of it is absorbed into the body.\n\nAs a food additive it is classed as a stabiliser, thickener, dispersing agent and coating agent. In food its use is mainly in food supplements such as tablets; in medicines it is a common tablet binder."
+    },
+    "ru": {
+      "name": "Поливинилпирролидон",
+      "text": "Поливинилпирролидон (ПВП), или повидон, — синтетический водорастворимый полимер, получаемый из N-винилпирролидона. При приёме внутрь он почти или совсем не всасывается в организм.\n\nКак пищевая добавка относится к стабилизаторам, загустителям, диспергаторам и агентам для покрытия. В пищевой отрасли применяется главным образом в биологически активных добавках, например в таблетках; в лекарствах это распространённое связующее для таблеток."
+    }
+  },
+  {
+    "code": "E1202",
+    "en": {
+      "name": "Polyvinylpolypyrrolidone",
+      "text": "Polyvinylpolypyrrolidone (PVPP), also called crospovidone, is a highly cross-linked form of polyvinylpyrrolidone. It does not dissolve in water but absorbs it and swells rapidly, which makes it useful as a disintegrant in tablets, including food supplements.\n\nIn winemaking and brewing it is used as a processing aid that binds polyphenols and tannins, giving clear beers with stable foam. It is then removed by filtration, so only negligible amounts remain in the drink."
+    },
+    "ru": {
+      "name": "Поливинилполипирролидон",
+      "text": "Поливинилполипирролидон (ПВПП), или кросповидон, — сильно сшитая форма поливинилпирролидона. Он не растворяется в воде, но впитывает её и быстро набухает, поэтому служит разрыхлителем в таблетках, в том числе в биологически активных добавках.\n\nВ виноделии и пивоварении применяется как технологическое вспомогательное средство, связывающее полифенолы и дубильные вещества; благодаря этому пиво получается прозрачным, со стойкой пеной. Затем его удаляют фильтрацией, и в напитке остаются лишь ничтожные количества."
+    }
+  },
+  {
+    "code": "E1203",
+    "en": {
+      "name": "Polyvinyl alcohol",
+      "text": "Polyvinyl alcohol is a synthetic water-soluble polymer. It is not made from its own monomer but by hydrolysis of polyvinyl acetate.\n\nAs a food additive it is classed as a coating and sealing agent and as a binder. Its food use is mainly as a coating for food supplements in tablet form."
+    },
+    "ru": {
+      "name": "Поливиниловый спирт",
+      "text": "Поливиниловый спирт — синтетический водорастворимый полимер. Его получают не из собственного мономера, а гидролизом поливинилацетата.\n\nКак пищевая добавка относится к агентам для покрытия и герметизации и к связующим веществам. В пищевой отрасли применяется главным образом как покрытие для биологически активных добавок в форме таблеток."
+    }
+  },
+  {
+    "code": "E1204",
+    "en": {
+      "name": "Pullulan",
+      "text": "Pullulan is a polysaccharide made of glucose units. It is produced by fermenting hydrolysed starch with the fungus Aureobasidium pullulans.\n\nIt is edible and almost tasteless, and its main commercial use is in edible films such as breath-freshening strips. It is also used to make capsules, as a vegetarian alternative to gelatine, and as a glazing agent and thickener.\n\nPart of it is not digested and is fermented in the gut; large amounts can cause flatulence."
+    },
+    "ru": {
+      "name": "Пуллулан",
+      "text": "Пуллулан — полисахарид, состоящий из остатков глюкозы. Его получают сбраживанием гидролизованного крахмала с помощью гриба Aureobasidium pullulans.\n\nОн съедобен и почти не имеет вкуса; главное коммерческое применение — съедобные плёнки, например освежающие дыхание пластинки. Из него также делают капсулы как вегетарианскую замену желатину; используется как глазирователь и загуститель.\n\nЧасть пуллулана не переваривается и сбраживается в кишечнике; большие количества могут вызывать метеоризм."
+    }
+  },
+  {
+    "code": "E1205",
+    "en": {
+      "name": "Basic methacrylate copolymer",
+      "text": "Basic methacrylate copolymer is a synthetic polymer made from three monomers: methyl methacrylate, butyl methacrylate and dimethylaminoethyl methacrylate. The solid polymer does not dissolve in water, but films made from it dissolve in stomach acid.\n\nIt is used as a glazing and coating agent on solid food supplements such as tablets, where the coating protects against moisture and masks taste or odour. Because of its large molecular size it is not absorbed by the body."
+    },
+    "ru": {
+      "name": "Основный метакрилатный сополимер",
+      "text": "Основный метакрилатный сополимер — синтетический полимер из трёх мономеров: метилметакрилата, бутилметакрилата и диметиламиноэтилметакрилата. Твёрдый полимер не растворяется в воде, но плёнки из него растворяются в желудочном соке.\n\nПрименяется как глазирователь и агент для покрытия твёрдых биологически активных добавок, например таблеток: оболочка защищает от влаги и маскирует вкус или запах. Из-за большого размера молекул он не всасывается в организм."
+    }
+  },
+  {
+    "code": "E1206",
+    "en": {
+      "name": "Neutral methacrylate copolymer",
+      "text": "Neutral methacrylate copolymer is a synthetic polymer made from methyl methacrylate and ethyl acrylate by emulsion polymerisation. It is supplied as a dispersion in water.\n\nIt is used as a glazing agent to coat food supplements in solid form, such as tablets and capsules, but not chewable ones. It is essentially not absorbed by the body."
+    },
+    "ru": {
+      "name": "Нейтральный метакрилатный сополимер",
+      "text": "Нейтральный метакрилатный сополимер — синтетический полимер, получаемый из метилметакрилата и этилакрилата эмульсионной полимеризацией. Поставляется в виде водной дисперсии.\n\nПрименяется как глазирователь для покрытия биологически активных добавок в твёрдой форме, например таблеток и капсул, кроме жевательных. В организме практически не всасывается."
+    }
+  },
+  {
+    "code": "E1207",
+    "en": {
+      "name": "Anionic methacrylate copolymer",
+      "text": "Anionic methacrylate copolymer is a synthetic polymer made from methacrylic acid, methyl methacrylate and methyl acrylate by emulsion polymerisation. It is supplied as a dispersion in water.\n\nIt is used as a coating agent for food supplements in solid form, such as tablets and capsules, but not chewable ones. It is essentially not absorbed by the body."
+    },
+    "ru": {
+      "name": "Анионный метакрилатный сополимер",
+      "text": "Анионный метакрилатный сополимер — синтетический полимер, получаемый из метакриловой кислоты, метилметакрилата и метилакрилата эмульсионной полимеризацией. Поставляется в виде водной дисперсии.\n\nПрименяется как агент для покрытия биологически активных добавок в твёрдой форме, например таблеток и капсул, кроме жевательных. В организме практически не всасывается."
+    }
+  },
+  {
+    "code": "E1208",
+    "en": {
+      "name": "Polyvinylpyrrolidone-vinyl acetate copolymer",
+      "text": "Polyvinylpyrrolidone-vinyl acetate copolymer, also called copovidone, is a synthetic polymer made by copolymerising N-vinyl-2-pyrrolidone with vinyl acetate.\n\nIt is used as a binding and coating agent in food supplements in solid form, such as tablets, but not chewable ones. Little of it is absorbed when swallowed; most passes through the gut unchanged and is excreted."
+    },
+    "ru": {
+      "name": "Сополимер поливинилпирролидона и винилацетата",
+      "text": "Сополимер поливинилпирролидона и винилацетата, или коповидон, — синтетический полимер, получаемый сополимеризацией N-винил-2-пирролидона с винилацетатом.\n\nПрименяется как связующее вещество и агент для покрытия в биологически активных добавках в твёрдой форме, например таблетках, кроме жевательных. При проглатывании всасывается слабо; большая часть проходит через кишечник в неизменном виде и выводится."
+    }
+  },
+  {
+    "code": "E1209",
+    "en": {
+      "name": "Polyvinyl alcohol-polyethylene glycol graft copolymer",
+      "text": "This is a synthetic graft copolymer made of about 75 percent polyvinyl alcohol units and 25 percent polyethylene glycol units. It is a white to faintly yellow powder.\n\nIt is used to make quick-dissolving film coatings for food supplements in solid form, such as tablets and capsules, but not chewable ones. Its absorption by the body is negligible."
+    },
+    "ru": {
+      "name": "Привитой сополимер поливинилового спирта и полиэтиленгликоля",
+      "text": "Это синтетический привитой сополимер, примерно на 75 % состоящий из звеньев поливинилового спирта и на 25 % — из звеньев полиэтиленгликоля. Представляет собой порошок от белого до слегка желтоватого цвета.\n\nИз него делают быстрорастворимые плёночные оболочки для биологически активных добавок в твёрдой форме, например таблеток и капсул, кроме жевательных. Всасывание в организме ничтожно мало."
+    }
+  },
+  {
+    "code": "E1400",
+    "en": {
+      "name": "Dextrins",
+      "text": "Dextrins are carbohydrates made of glucose units, with shorter chains than starch. For industrial use they are made by roasting dry starch, with or without a little acid. They are white, yellow or brown powders that dissolve partly or fully in water, giving solutions of low viscosity.\n\nAs a food additive dextrin is classed as a thickener, stabiliser, emulsifier and carrier. White dextrins are used to add crispness to batters, coatings and glazes."
+    },
+    "ru": {
+      "name": "Декстрины",
+      "text": "Декстрины — углеводы из остатков глюкозы с более короткими цепями, чем у крахмала. В промышленности их получают обжариванием сухого крахмала с небольшим количеством кислоты или без неё. Это белые, жёлтые или коричневые порошки, частично или полностью растворимые в воде; их растворы имеют низкую вязкость.\n\nКак пищевая добавка декстрин относится к загустителям, стабилизаторам, эмульгаторам и носителям. Белые декстрины придают хрусткость кляру, панировке и глазури."
+    }
+  },
+  {
+    "code": "E1401",
+    "en": {
+      "name": "Acid-treated starch",
+      "text": "Acid-treated starch, also called thin-boiling starch, is made by treating starch with an inorganic acid such as hydrochloric acid. This partly breaks down the starch molecules and lowers the viscosity of the cooked starch.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier. One example of its use is forming the shell of jelly beans."
+    },
+    "ru": {
+      "name": "Крахмал, обработанный кислотой",
+      "text": "Крахмал, обработанный кислотой, или жидкокипящий крахмал, получают обработкой крахмала неорганической кислотой, например соляной. При этом молекулы крахмала частично расщепляются, и вязкость сваренного крахмала снижается.\n\nКак пищевая добавка относится к загустителям, стабилизаторам и эмульгаторам. Например, из него делают оболочку драже типа «джелли бинс»."
+    }
+  },
+  {
+    "code": "E1402",
+    "en": {
+      "name": "Alkaline-treated starch",
+      "text": "Alkaline-treated starch is a modified starch made by treating starch with an alkali such as sodium hydroxide or potassium hydroxide.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier, like other modified starches."
+    },
+    "ru": {
+      "name": "Крахмал, обработанный щелочью",
+      "text": "Крахмал, обработанный щелочью, — модифицированный крахмал, который получают обработкой крахмала щёлочью, например гидроксидом натрия или гидроксидом калия.\n\nКак пищевая добавка относится к загустителям, стабилизаторам и эмульгаторам, как и другие модифицированные крахмалы."
+    }
+  },
+  {
+    "code": "E1403",
+    "en": {
+      "name": "Bleached starch",
+      "text": "Bleached starch is a modified starch that has been whitened by treatment with a bleaching agent such as hydrogen peroxide.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier, like other modified starches."
+    },
+    "ru": {
+      "name": "Крахмал отбелённый",
+      "text": "Отбелённый крахмал — модифицированный крахмал, осветлённый обработкой отбеливающим веществом, например пероксидом водорода.\n\nКак пищевая добавка относится к загустителям, стабилизаторам и эмульгаторам, как и другие модифицированные крахмалы."
+    }
+  },
+  {
+    "code": "E1404",
+    "en": {
+      "name": "Oxidised starch",
+      "text": "Oxidised starch is made by treating starch in an alkaline slurry with sodium hypochlorite. Because of this it is sometimes called \"chlorinated\" starch, although its structure contains no chlorine. The treatment lowers the viscosity of the cooked starch.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier. It is used, for example, to make batter stickier."
+    },
+    "ru": {
+      "name": "Крахмал окисленный",
+      "text": "Окисленный крахмал получают обработкой крахмала гипохлоритом натрия в щелочной суспензии. Поэтому его иногда называют «хлорированным» крахмалом, хотя хлора в его структуре нет. Обработка снижает вязкость сваренного крахмала.\n\nКак пищевая добавка относится к загустителям, стабилизаторам и эмульгаторам. Например, его используют, чтобы кляр лучше прилипал."
+    }
+  },
+  {
+    "code": "E1405",
+    "en": {
+      "name": "Enzyme-treated starch",
+      "text": "Enzyme-treated starch is starch that has been partly broken down by enzymes such as amylases, giving shorter carbohydrate chains. Products made this way include maltodextrin and cyclodextrin.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier."
+    },
+    "ru": {
+      "name": "Крахмал, обработанный ферментами",
+      "text": "Крахмал, обработанный ферментами, — крахмал, частично расщеплённый ферментами, например амилазами, до более коротких углеводных цепей. Таким способом получают, в частности, мальтодекстрин и циклодекстрин.\n\nКак пищевая добавка относится к загустителям, стабилизаторам и эмульгаторам."
+    }
+  },
+  {
+    "code": "E1410",
+    "en": {
+      "name": "Monostarch phosphate",
+      "text": "Monostarch phosphate is a modified starch made by esterifying starch with orthophosphoric acid, sodium or potassium orthophosphate, or sodium tripolyphosphate. The phosphate groups reduce retrogradation, the gradual stiffening and water loss of cooked starch, and let the starch absorb more water.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier.\n\nIt is not absorbed intact: intestinal enzymes break much of it down, and the rest is fermented by gut bacteria."
+    },
+    "ru": {
+      "name": "Монокрахмалфосфат",
+      "text": "Монокрахмалфосфат — модифицированный крахмал, получаемый этерификацией крахмала ортофосфорной кислотой, ортофосфатом натрия или калия либо триполифосфатом натрия. Фосфатные группы уменьшают ретроградацию — постепенное затвердевание и потерю воды сваренным крахмалом — и позволяют крахмалу удерживать больше воды.\n\nКак пищевая добавка относится к загустителям, стабилизаторам и эмульгаторам.\n\nВ неизменном виде не всасывается: значительная часть расщепляется кишечными ферментами, остальное сбраживается кишечной микрофлорой."
+    }
+  },
+  {
+    "code": "E1411",
+    "en": {
+      "name": "Distarch glycerol",
+      "text": "Distarch glycerol is a chemically modified starch. It is made by treating starch with a small amount of epichlorohydrin under alkaline conditions, which links neighbouring starch chains through glycerol bridges, roughly one link per 220 glucose units.\n\nLike other modified starches, it was intended for use as a thickener in food."
+    },
+    "ru": {
+      "name": "Дикрахмалглицерин",
+      "text": "Дикрахмалглицерин — химически модифицированный крахмал. Его получают обработкой крахмала небольшим количеством эпихлоргидрина в щелочной среде, в результате чего соседние цепи крахмала сшиваются глицериновыми мостиками — примерно одна связь на 220 остатков глюкозы.\n\nКак и другие модифицированные крахмалы, предназначался для использования в пище в качестве загустителя."
+    }
+  },
+  {
+    "code": "E1412",
+    "en": {
+      "name": "Distarch phosphate",
+      "text": "Distarch phosphate is a modified starch made by treating starch with sodium trimetaphosphate or phosphorus oxychloride. These reagents cross-link the starch chains with phosphate bridges, which changes the texture and flow properties of the thickened food.\n\nAs a food additive it is classed as a thickener, stabiliser and emulsifier.\n\nIt is not absorbed intact: intestinal enzymes break much of it down, and the rest is fermented by gut bacteria."
+    },
+    "ru": {
+      "name": "Дикрахмалфосфат",
+      "text": "Дикрахмалфосфат — модифицированный крахмал, который получают обработкой крахмала триметафосфатом натрия или хлорокисью фосфора. Эти реагенты сшивают цепи крахмала фосфатными мостиками, что изменяет текстуру и текучесть загущённого продукта.\n\nКак пищевая добавка относится к загустителям, стабилизаторам и эмульгаторам.\n\nВ неизменном виде не всасывается: значительная часть расщепляется кишечными ферментами, остальное сбраживается кишечной микрофлорой."
+    }
+  }
+]
