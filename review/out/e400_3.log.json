@@ -1,0 +1,359 @@
+[
+  {
+    "code": "E472c",
+    "verdict": "rewritten",
+    "changes": "Removed EU/UK/US status. Deleted unsourced 'blends well with fats and water' and use list (margarine, bakery, sauces, processed meats). Kept infant formula (JECFA evaluation cited by EFSA); added manufacturing route, CITREM synonym, pharma/cosmetic use and EFSA 2020 conclusion. RU name taken from ru.wikipedia E400-E499 list.",
+    "sources": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7448088/fullTextXML",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E472d",
+    "verdict": "rewritten",
+    "changes": "Removed EU/UK/US status. Deleted unsourced 'rarely used on its own' and 'can improve dough'; replaced with EFSA 2020 finding of no manufacturing method/no manufacturers (Gaupp and Adams 2015 as cited) and ADI basis. RU name from ru.wikipedia list.",
+    "sources": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7448088/fullTextXML",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E472e",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status (the US claim was also wrong: Wikipedia cites 21 CFR 184.1101 GRAS). Deleted unsourced 'increases bread volume'. Corrected reagent to diacetyl tartaric anhydride; added sourced uses (rye/crusty bread, biscuits, coffee whiteners, ice cream, dressings) and EFSA ADI basis. English name lightly tidied from EU name; RU name from ru.wikipedia list.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/DATEM",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7448088/fullTextXML",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E472f",
+    "verdict": "rewritten",
+    "changes": "Removed EU/UK/US status. Deleted unsourced 'used as a dough conditioner'. Added MATEM synonym and EFSA 2020 ADI basis. RU name from ru.wikipedia list.",
+    "sources": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7448088/fullTextXML",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E472g",
+    "verdict": "rewritten",
+    "changes": "Removed EU/UK/US status. Corrected 'reacting monoglycerides with succinic acid' to the CFR definition (succinylation of mono- and diglycerides). Deleted unsourced 'improve bread volume and texture'; kept dough conditioner (CFR) and added shortening emulsifier use and Codex functions. RU name from ru.wikipedia list (was 'Сукцинилированные моноглицериды').",
+    "sources": [
+      "https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=172&section=172.830",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E473",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Kept identity, emulsifier types and fruit coating (Wikipedia); replaced partly unsourced use list (ice cream, drinks, dairy desserts) with uses named in 21 CFR 172.859; added EFSA 2023 group ADI and exposure finding.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sucrose_esters",
+      "https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=172&section=172.859",
+      "https://europepmc.org/article/PMC/PMC10119783",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E474",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Corrected identity wording (sucrose esters plus mono/diglycerides from sucrose + fat); replaced unsourced 'baked goods and confectionery' with uses listed on Wikipedia; added solvent note.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sucroglyceride",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E475",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Deleted unsourced 'versatile' and use list (cakes, margarine, confectionery, ice cream); added uses from 21 CFR 172.854, Codex functions and EFSA 2017 conclusion. RU name from ru.wikipedia list.",
+    "sources": [
+      "https://europepmc.org/article/PMC/PMC7010213",
+      "https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=172&section=172.854",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": "RU name on ru.wikipedia list reads 'полиглицеридов' (likely a slip for 'полиглицерина'); kept as listed."
+  },
+  {
+    "code": "E476",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status (the US claim was also wrong: FDA GRAS per Wikipedia). Added use with lecithin, physical description, salad dressings, EFSA 2017 ADI vs JECFA ADI. Replaced 'low-fat spreads' with 'spreads' (source says spreads). RU name changed to the ru.wikipedia article title.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polyglycerol_polyricinoleate",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E477",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Deleted unsourced 'often used to stabilise aerated foods' and use list (cake mixes, whipped toppings, desserts). Added EFSA 2018 ADI and conclusion. Name lightly tidied to EU name.",
+    "sources": [
+      "https://europepmc.org/article/PMC/PMC7009423",
+      "https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=172&section=172.856",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E478",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Corrected manufacture to the 21 CFR 172.850 description; replaced unsourced 'stabilise foams and emulsions' with sourced functions. RU name from ru.wikipedia list.",
+    "sources": [
+      "https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=172&section=172.850",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E479b",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Corrected manufacture (10% TOSO + 90% E471, deodorised at 130 C, per EFSA). Deleted unsourced 'prevents fat from spattering' and 'frying margarine'; kept fat emulsions for frying. Added EFSA 2018 conclusion. RU name from ru.wikipedia list (typo 'диглицердами' fixed).",
+    "sources": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7009384/fullTextXML",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E480",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Kept identity and medical use; added sourced food functions and examples (Wikipedia, 21 CFR 172.810). Replaced Latin 'docusate sodium' in RU with Russian form.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Docusate",
+      "https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=172&section=172.810",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E481",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Kept identity (refined: partial neutralisation with soda ash/caustic soda). Replaced 'improves softness and volume' with sourced 'strengthens dough and delays staling'; replaced unsourced items in use list (cakes, dried potato products, sauces) with icings, fillings, puddings, creamers. RU name per ru.wikipedia list ('Стеароиллактилат натрия').",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lactylate",
+      "https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=172&section=172.846",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E482",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Refined identity (partial neutralisation with calcium hydroxide); added sourced comparison with SSL; whipping agent uses (egg whites, whipped vegetable-oil topping) and dehydrated potatoes from 21 CFR 172.844; creamers from Wikipedia. Removed unspecific 'bakery products' duplicate.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lactylate",
+      "https://en.wikipedia.org/wiki/Calcium_stearoyl-2-lactylate",
+      "https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=172&section=172.844",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": "No Russian Wikipedia article; ru.wikipedia list gives only the group name 'Лактилаты кальция'. Used 'Стеароиллактилат кальция' by analogy with the list's E481(i) name 'Стеароиллактилат натрия'."
+  },
+  {
+    "code": "E483",
+    "verdict": "rewritten",
+    "changes": "Removed EU/UK/US status; the EU 'approved' claim was wrong (removed from the Union list by Regulation (EU) 2023/2379, applying from 23 April 2024). Corrected identity (tartaric acid esterified with commercial stearyl alcohol, a stearyl/palmityl mixture, mainly diesters). Kept 'little-used' as the sourced EFSA fact (two labelled products since 1996). Replaced 'dough conditioner' with Codex 'flour treatment agent'. Kept sourced EU removal history on purpose.",
+    "sources": [
+      "http://data.europa.eu/eli/reg/2023/2379/oj",
+      "https://europepmc.org/article/PMC/PMC7448025",
+      "https://en.wikipedia.org/wiki/Stearyl_palmityl_tartrate",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E484",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Deleted unsourced 'little-used'. Kept emulsifier/sequestrant functions (JECFA, Codex); added JECFA 1973 ADI.",
+    "sources": [
+      "https://inchem.org/documents/jecfa/jeceval/jec_2198.htm",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E485",
+    "verdict": "rewritten",
+    "changes": "Removed EU/UK/US status. Deleted unsourced 'synthetic' and 'has been used as a dough conditioner' (no source found; 21 CFR 172.826 covers sodium stearyl fumarate, a different substance). Reduced to identity and Codex function.",
+    "sources": [
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": "Almost nothing verifiable beyond the Codex class; no Wikipedia, EFSA or JECFA document found."
+  },
+  {
+    "code": "E486",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Deleted 'synthetic' (unsourced). Kept identity and Codex emulsifier function.",
+    "sources": [
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": "Almost nothing verifiable beyond the Codex class; no Wikipedia, EFSA or JECFA document found."
+  },
+  {
+    "code": "E487",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Kept identity and toothpaste/shampoo use; changed 'has been used' to present uses as emulsifier and whipping aid in egg whites and marshmallows (Wikipedia, citing 21 CFR 172.822).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E488",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Kept identity (refined from 21 CFR 172.834); replaced generic 'help fat and water mix' with sourced uses.",
+    "sources": [
+      "https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=172&section=172.834",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E489",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status (the US uses were converted into plain use statements from 21 CFR 172.816). Deleted unsourced 'little-used'. RU name per ru.wikipedia list.",
+    "sources": [
+      "https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=172&section=172.816",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E490",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. English name changed to the common name 'Propylene glycol' (no EU name for E490). Deleted 'petroleum-derived' and the ethylene glycol comparison (not supported as written). Added EU food number E1520 and EFSA 2018 ADI. RU name from ru.wikipedia article title.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Propylene_glycol",
+      "https://europepmc.org/article/PMC/PMC7009459",
+      "https://ru.wikipedia.org/wiki/1,2-Пропиленгликоль"
+    ],
+    "unresolved": "E490 is not in the Codex INS list (propylene glycol is INS 1520); E490 appears to be an obsolete or non-food designation."
+  },
+  {
+    "code": "E491",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Refined identity (sorbitan esters, stearic/palmitic acids) and function (Wikipedia, 21 CFR 172.842); use list now matches CFR (added icings, coffee whiteners; dry yeast as rehydration aid). Added EFSA 2017 group ADI. RU name per ru.wikipedia list.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sorbitan_monostearate",
+      "https://en.wikipedia.org/wiki/Sorbitan",
+      "https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=172&section=172.842",
+      "https://europepmc.org/article/PMC/PMC7010202",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E492",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Deleted unsourced 'controls crystallisation of fats' and 'chocolate and fat-based products'. Added appearance and functions (Wikipedia) and EFSA 2017 group ADI. RU name per ru.wikipedia list.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sorbitan_tristearate",
+      "https://en.wikipedia.org/wiki/Sorbitan",
+      "https://europepmc.org/article/PMC/PMC7010202",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E493",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Corrected identity (ester mixture with sorbitan and isosorbide, per Wikipedia). Deleted unsourced use list (baked goods, whipped toppings). Added Codex functions and EFSA 2017 group ADI. RU name per ru.wikipedia list.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sorbitan_monolaurate",
+      "https://en.wikipedia.org/wiki/Sorbitan",
+      "https://europepmc.org/article/PMC/PMC7010202",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E494",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Deleted unsourced 'oil-soluble' and use list (desserts, whipped products, vitamin preparations). Added Codex functions and EFSA 2017 group ADI. RU name per ru.wikipedia list.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sorbitan",
+      "https://europepmc.org/article/PMC/PMC7010202",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E495",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Deleted unsourced 'disperse fats'. Added EFSA 2017 group ADI. RU name per ru.wikipedia list.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sorbitan",
+      "https://europepmc.org/article/PMC/PMC7010202",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E496",
+    "verdict": "rewritten",
+    "changes": "Removed EU/UK/US status. Deleted unsourced 'one of the less common sorbitan esters'. Function changed from emulsifier to stabiliser per Codex INS 496.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sorbitan",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf",
+      "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E400_—_E499"
+    ],
+    "unresolved": "Little verifiable information; no Wikipedia, EFSA or JECFA document found for this ester."
+  },
+  {
+    "code": "E497",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Refined structure (triblock: polyoxypropylene core between polyoxyethylene chains). Added food uses from 21 CFR 172.808 (copolymer condensates of ethylene oxide and propylene oxide).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Poloxamer",
+      "https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=172&section=172.808"
+    ],
+    "unresolved": "E497 is not in the Codex INS list or the ru.wikipedia E400-E499 list; RU name kept as a direct rendering of the English name (ru.wikipedia article for poloxamers is 'Полоксамер')."
+  },
+  {
+    "code": "E498",
+    "verdict": "rewritten",
+    "changes": "Removed EU/UK/US status. Deleted 'these are emulsifiers' and 'closely related' (no source for E498 itself); reduced to identity plus the sourced composition of E476. RU name corrected ('поликонденсированных', matching the English).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polyglycerol_polyricinoleate",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf"
+    ],
+    "unresolved": "No source found for E498 at all: not in Codex INS, not on the ru.wikipedia list, no EFSA/JECFA document. A human should consider whether this code belongs in the app."
+  },
+  {
+    "code": "E499",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Replaced vague 'stabiliser or emulsifier-type additive' with stabiliser (Codex, EFSA). Kept cocktail use as a plain use statement; added sources of stigmasterol and EFSA 2012 conclusion.",
+    "sources": [
+      "https://europepmc.org/article/PMC/PMC13151835",
+      "https://en.wikipedia.org/wiki/Stigmasterol",
+      "https://frog-endive-jj82.squarespace.com/s/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  }
+]

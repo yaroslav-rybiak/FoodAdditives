@@ -1,0 +1,354 @@
+[
+  {
+    "code": "E472c",
+    "en": {
+      "name": "Citric acid esters of mono- and diglycerides of fatty acids",
+      "text": "An emulsifier, also known as CITREM. It is made by esterifying glycerol with citric acid and edible fatty acids, or by reacting mono- and diglycerides of edible fatty acids with citric acid.\n\nIt is used in infant formula: JECFA found no toxicological concern for this use at concentrations up to 9 g/L. It is also used as an emulsifier in some pharmaceutical and cosmetic products.\n\nIn its 2020 re-evaluation, EFSA identified no adverse effects relevant for humans and concluded that no numerical acceptable daily intake was needed."
+    },
+    "ru": {
+      "name": "Эфиры глицерина, лимонной и жирных кислот",
+      "text": "Эмульгатор, известный также как CITREM. Его получают этерификацией глицерина лимонной кислотой и пищевыми жирными кислотами или реакцией моно- и диглицеридов пищевых жирных кислот с лимонной кислотой.\n\nПрименяется в детских молочных смесях: JECFA не нашёл токсикологических опасений для такого применения при концентрации до 9 г/л. Используется также как эмульгатор в некоторых лекарственных и косметических средствах.\n\nПри повторной оценке в 2020 году EFSA не выявило значимых для человека неблагоприятных эффектов и пришло к выводу, что числовая допустимая суточная доза не нужна."
+    }
+  },
+  {
+    "code": "E472d",
+    "en": {
+      "name": "Tartaric acid esters of mono- and diglycerides of fatty acids",
+      "text": "An emulsifier made from mono- and diglycerides of fatty acids esterified with tartaric acid, sometimes abbreviated TATEM.\n\nWhen EFSA re-evaluated it in 2020, it found no published manufacturing method, and a technical reference it cited stated that the substance has no manufacturers and no specific applications. EFSA set an acceptable daily intake for it based on its tartaric acid content."
+    },
+    "ru": {
+      "name": "Эфиры моно- и диглицеридов винной и жирных кислот",
+      "text": "Эмульгатор на основе моно- и диглицеридов жирных кислот, этерифицированных винной кислотой; иногда обозначается TATEM.\n\nПри повторной оценке в 2020 году EFSA не нашло опубликованного способа его производства, а процитированный им технический справочник указывает, что производителей этого вещества и специфических областей применения у него нет. EFSA установило для него допустимую суточную дозу исходя из содержания винной кислоты."
+    }
+  },
+  {
+    "code": "E472e",
+    "en": {
+      "name": "Mono- and diacetyl tartaric acid esters of mono- and diglycerides",
+      "text": "An emulsifier commonly called DATEM. It is made by reacting mono- and diglycerides of fatty acids with diacetyl tartaric anhydride, or by esterifying them with tartaric and acetic acids.\n\nIt is used mainly in baking, where it strengthens the gluten network in dough, and is added to crusty breads such as rye. It is also used in biscuits, coffee whiteners, ice cream and salad dressings.\n\nIn its 2020 re-evaluation, EFSA set an acceptable daily intake based on its tartaric acid content."
+    },
+    "ru": {
+      "name": "Эфиры глицерина, диацетилвинной и жирных кислот",
+      "text": "Эмульгатор, обычно обозначаемый DATEM. Его получают реакцией моно- и диглицеридов жирных кислот с ангидридом диацетилвинной кислоты или их этерификацией винной и уксусной кислотами.\n\nПрименяется главным образом в хлебопечении, где укрепляет клейковинный каркас теста; его добавляют в хлеб с хрустящей коркой, например ржаной. Используется также в печенье, сухих сливках для кофе, мороженом и салатных заправках.\n\nПри повторной оценке в 2020 году EFSA установило для него допустимую суточную дозу исходя из содержания винной кислоты."
+    }
+  },
+  {
+    "code": "E472f",
+    "en": {
+      "name": "Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids",
+      "text": "An emulsifier made from mono- and diglycerides of fatty acids esterified with both acetic acid and tartaric acid, sometimes abbreviated MATEM.\n\nEFSA re-evaluated it in 2020 together with the related esters E472a to E472e and set an acceptable daily intake for it based on its tartaric acid content."
+    },
+    "ru": {
+      "name": "Смешанные эфиры глицерина, винной, уксусной и жирных кислот",
+      "text": "Эмульгатор на основе моно- и диглицеридов жирных кислот, этерифицированных одновременно уксусной и винной кислотами; иногда обозначается MATEM.\n\nEFSA повторно оценило его в 2020 году вместе с родственными эфирами E472a–E472e и установило для него допустимую суточную дозу исходя из содержания винной кислоты."
+    }
+  },
+  {
+    "code": "E472g",
+    "en": {
+      "name": "Succinylated monoglycerides",
+      "text": "A mixture of succinic acid esters of mono- and diglycerides, made by succinylating mono- and diglycerides obtained from edible fats and oils, or by esterifying glycerol directly with fatty acids before succinylation.\n\nIt is used as an emulsifier in liquid and plastic shortenings and as a dough conditioner in bread baking. The Codex numbering system also lists it as a stabiliser and sequestrant."
+    },
+    "ru": {
+      "name": "Эфиры моноглицеридов и янтарной кислоты",
+      "text": "Смесь эфиров янтарной кислоты с моно- и диглицеридами. Её получают сукцинилированием моно- и диглицеридов, полученных из пищевых жиров и масел, или прямой этерификацией глицерина жирными кислотами с последующим сукцинилированием.\n\nПрименяется как эмульгатор в жидких и пластичных кулинарных жирах и как улучшитель теста в хлебопечении. В системе нумерации Кодекса она указана также как стабилизатор и комплексообразователь."
+    }
+  },
+  {
+    "code": "E473",
+    "en": {
+      "name": "Sucrose esters of fatty acids",
+      "text": "Sucrose esters of fatty acids are made by esterifying sucrose (sugar) with fatty acids from edible oils or fats. Depending on their composition, they act as oil-in-water or water-in-oil emulsifiers.\n\nThey are used in foods such as baked goods, confectionery, chewing gum, frozen dairy desserts and coffee or tea drinks with milk. They are also applied as a surface coating on fruits such as apples, pears and peaches, where they help preserve the fruit by blocking respiratory gases.\n\nEFSA's group acceptable daily intake is 40 mg/kg body weight; in 2023 EFSA reported that estimated intakes exceeded it for many population groups."
+    },
+    "ru": {
+      "name": "Эфиры сахарозы и жирных кислот",
+      "text": "Эфиры сахарозы и жирных кислот получают этерификацией сахарозы (сахара) жирными кислотами пищевых масел или жиров. В зависимости от состава они действуют как эмульгаторы типа «масло в воде» или «вода в масле».\n\nПрименяются в выпечке, кондитерских изделиях, жевательной резинке, замороженных молочных десертах и кофейных или чайных напитках с молоком. Ими также покрывают поверхность фруктов, например яблок, груш и персиков: покрытие помогает сохранить плоды, препятствуя газообмену при дыхании.\n\nГрупповая допустимая суточная доза EFSA составляет 40 мг/кг массы тела; в 2023 году EFSA сообщило, что расчётное потребление превышает её во многих группах населения."
+    }
+  },
+  {
+    "code": "E474",
+    "en": {
+      "name": "Sucroglycerides",
+      "text": "Sucroglycerides are made by reacting sucrose with an edible oil or fat. The product is a mixture of mono- and diesters of sucrose with fatty acids and mono- and diglycerides. Because the reactants do not mix with water, solvents may be needed in production.\n\nThey act as emulsifiers and may be used in dairy drinks, beverage whiteners, ice cream and other dairy desserts, chewing gum, soups, sauces and processed meat."
+    },
+    "ru": {
+      "name": "Сахароглицериды",
+      "text": "Сахароглицериды получают реакцией сахарозы с пищевым маслом или жиром. Продукт представляет собой смесь моно- и диэфиров сахарозы и жирных кислот с моно- и диглицеридами. Поскольку исходные вещества не смешиваются с водой, при производстве могут требоваться растворители.\n\nДействуют как эмульгаторы и могут применяться в молочных напитках, забеливателях для напитков, мороженом и других молочных десертах, жевательной резинке, супах, соусах и мясных продуктах."
+    }
+  },
+  {
+    "code": "E475",
+    "en": {
+      "name": "Polyglycerol esters of fatty acids",
+      "text": "Polyglycerol esters of fatty acids are made from polyglycerols (short chains of glycerol) and fatty acids from edible oils and fats. They act as emulsifiers and stabilisers.\n\nUses include emulsifying dry whipped-topping bases and preventing clouding in vegetable and salad oils.\n\nIn its 2017 re-evaluation, EFSA noted that they are almost fully broken down into polyglycerols and fatty acids in the gut, found no safety concern at reported uses and saw no need for a numerical acceptable daily intake."
+    },
+    "ru": {
+      "name": "Эфиры полиглицеридов и жирных кислот",
+      "text": "Эфиры полиглицерина и жирных кислот получают из полиглицеринов (коротких цепочек глицерина) и жирных кислот пищевых масел и жиров. Действуют как эмульгаторы и стабилизаторы.\n\nИх применяют, в частности, для эмульгирования сухих основ для взбитых топпингов и для предотвращения помутнения растительных и салатных масел.\n\nПри повторной оценке в 2017 году EFSA отметило, что в кишечнике они почти полностью расщепляются на полиглицерины и жирные кислоты, не нашло опасений при заявленном применении и не сочло нужным устанавливать числовую допустимую суточную дозу."
+    }
+  },
+  {
+    "code": "E476",
+    "en": {
+      "name": "Polyglycerol polyricinoleate",
+      "text": "Polyglycerol polyricinoleate (PGPR) is an emulsifier made from polyglycerol and interesterified ricinoleic acid from castor oil. It is a yellowish, viscous, strongly fat-soluble liquid.\n\nIn chocolate and chocolate coatings it is used at low levels, usually with lecithin, to reduce viscosity so the chocolate flows more easily; this also lets manufacturers use less cocoa butter. It is also used in spreads and salad dressings.\n\nIn 2017 EFSA set an acceptable daily intake of 25 mg/kg body weight, higher than the 7.5 mg/kg set by JECFA, based on a newer chronic toxicity and carcinogenicity study."
+    },
+    "ru": {
+      "name": "Полиглицерил полирицинолеат",
+      "text": "Полиглицерил полирицинолеат (PGPR) — эмульгатор, получаемый из полиглицерина и взаимоэтерифицированной рицинолевой кислоты касторового масла. Это желтоватая вязкая жидкость, хорошо растворимая в жирах.\n\nВ шоколаде и шоколадных глазурях его применяют в малых количествах, обычно вместе с лецитином, чтобы снизить вязкость и улучшить текучесть; это также позволяет расходовать меньше какао-масла. Используется и в спредах и салатных заправках.\n\nВ 2017 году EFSA установило допустимую суточную дозу 25 мг/кг массы тела — выше, чем 7,5 мг/кг, установленные JECFA, — на основании нового исследования хронической токсичности и канцерогенности."
+    }
+  },
+  {
+    "code": "E477",
+    "en": {
+      "name": "Propane-1,2-diol esters of fatty acids",
+      "text": "Propane-1,2-diol esters of fatty acids, also called propylene glycol esters of fatty acids, are mono- and diesters of propylene glycol made with fatty acids from edible fats and oils. They are used as emulsifiers.\n\nIn its 2018 re-evaluation, EFSA confirmed an acceptable daily intake of 25 mg/kg body weight expressed as propane-1,2-diol, which corresponds to 80 mg/kg body weight of the additive, and found no safety concern at reported use levels."
+    },
+    "ru": {
+      "name": "Эфиры пропиленгликоля и жирных кислот",
+      "text": "Эфиры пропан-1,2-диола (пропиленгликоля) и жирных кислот — это моно- и диэфиры пропиленгликоля с жирными кислотами пищевых жиров и масел. Применяются как эмульгаторы.\n\nПри повторной оценке в 2018 году EFSA подтвердило допустимую суточную дозу 25 мг/кг массы тела в пересчёте на пропан-1,2-диол, что соответствует 80 мг/кг массы тела самой добавки, и не нашло опасений при заявленных уровнях применения."
+    }
+  },
+  {
+    "code": "E478",
+    "en": {
+      "name": "Lactylated fatty acid esters of glycerol and propane-1,2-diol",
+      "text": "A mixture of esters made by reacting edible fats or oils with propylene glycol (propane-1,2-diol) and then lactylating the product, that is, combining it with lactic acid.\n\nIt is used as an emulsifier, plasticiser and surface-active agent in food."
+    },
+    "ru": {
+      "name": "Эфиры лактилированных жирных кислот, глицерина и пропиленгликоля",
+      "text": "Смесь эфиров, которую получают реакцией пищевых жиров или масел с пропиленгликолем (пропан-1,2-диолом) с последующим лактилированием продукта, то есть соединением его с молочной кислотой.\n\nПрименяется в пищевых продуктах как эмульгатор, пластификатор и поверхностно-активное вещество."
+    }
+  },
+  {
+    "code": "E479b",
+    "en": {
+      "name": "Thermally oxidised soya bean oil interacted with mono- and diglycerides of fatty acids",
+      "text": "An emulsifier known as TOSOM. It is made from about 10% thermally oxidised soya bean oil and 90% mono- and diglycerides of fatty acids, which are made to interact and then deodorised under vacuum at 130 °C.\n\nIt is used in fat emulsions intended for frying. In 2018 EFSA found the toxicological data insufficient to support the existing acceptable daily intake, but considered the additive of no safety concern given its limited use."
+    },
+    "ru": {
+      "name": "Термически окисленное соевое масло с моно- и диглицеридами жирных кислот",
+      "text": "Эмульгатор, известный как TOSOM. Его получают примерно из 10% термически окисленного соевого масла и 90% моно- и диглицеридов жирных кислот, которые вводят во взаимодействие, а затем дезодорируют под вакуумом при 130 °C.\n\nПрименяется в жировых эмульсиях для жарки. В 2018 году EFSA сочло токсикологические данные недостаточными для подтверждения действующей допустимой суточной дозы, но с учётом ограниченного применения не нашло опасений в отношении этой добавки."
+    }
+  },
+  {
+    "code": "E480",
+    "en": {
+      "name": "Dioctyl sodium sulfosuccinate",
+      "text": "Dioctyl sodium sulfosuccinate (docusate sodium) is a synthetic anionic surfactant. In medicine it is widely used as a stool softener for constipation.\n\nIn food it works as a wetting agent, emulsifier, dispersant and solubiliser, for example in dry beverage mixes and gelatin desserts, and to dissolve flavourings in drinks."
+    },
+    "ru": {
+      "name": "Диоктилсульфосукцинат натрия",
+      "text": "Диоктилсульфосукцинат натрия (докузат натрия) — синтетическое анионное поверхностно-активное вещество. В медицине широко применяется как размягчитель стула при запорах.\n\nВ пищевых продуктах служит смачивающим агентом, эмульгатором, диспергатором и солюбилизатором, например в сухих смесях для напитков и желейных десертах, а также для растворения ароматизаторов в напитках."
+    }
+  },
+  {
+    "code": "E481",
+    "en": {
+      "name": "Sodium stearoyl-2-lactylate",
+      "text": "Sodium stearoyl-2-lactylate (SSL) is made by esterifying stearic acid with lactic acid and partially neutralising the product with sodium carbonate or sodium hydroxide. It is a cream-coloured powder or brittle solid.\n\nIts main use is in yeast-raised baked goods, where it strengthens dough and delays staling by keeping the crumb soft. It is also used as an emulsifier in icings, fillings, puddings and non-dairy coffee creamers, where it helps disperse the fat in a hot drink."
+    },
+    "ru": {
+      "name": "Стеароиллактилат натрия",
+      "text": "Стеароил-2-лактилат натрия (SSL) получают этерификацией стеариновой кислоты молочной кислотой с частичной нейтрализацией продукта карбонатом или гидроксидом натрия. Это порошок или хрупкое твёрдое вещество кремового цвета.\n\nОсновное применение — дрожжевая выпечка, где он укрепляет тесто и замедляет черствение, сохраняя мякиш мягким. Используется также как эмульгатор в глазурях, начинках, пудингах и немолочных сливках для кофе, где помогает распределить жир в горячем напитке."
+    }
+  },
+  {
+    "code": "E482",
+    "en": {
+      "name": "Calcium stearoyl-2-lactylate",
+      "text": "Calcium stearoyl-2-lactylate (CSL) is made by esterifying stearic acid with lactic acid and partially neutralising the product with calcium hydroxide. It is a cream-coloured powder.\n\nIts largest use is in yeast-raised baked goods as a dough strengthener. It softens the crumb less than the sodium salt (E481) but strengthens dough better, so it is preferred in some lean hearth breads. It is also used as a whipping agent in egg whites and whipped vegetable-oil toppings, and in dehydrated potatoes and coffee creamers."
+    },
+    "ru": {
+      "name": "Стеароиллактилат кальция",
+      "text": "Стеароил-2-лактилат кальция (CSL) получают этерификацией стеариновой кислоты молочной кислотой с частичной нейтрализацией продукта гидроксидом кальция. Это порошок кремового цвета.\n\nОсновное применение — дрожжевая выпечка, где он укрепляет тесто. Мякиш он смягчает слабее, чем натриевая соль (E481), зато лучше укрепляет тесто, поэтому его предпочитают для некоторых видов подового хлеба из постного теста. Используется также как взбивающий агент для яичных белков и взбитых топпингов на растительном масле, в сухом картофельном пюре и сливках для кофе."
+    }
+  },
+  {
+    "code": "E483",
+    "en": {
+      "name": "Stearyl tartrate",
+      "text": "Stearyl tartrate is made by esterifying tartaric acid with commercial stearyl alcohol, which is usually a mixture of stearyl and palmityl alcohols. It consists mainly of diesters. It was used as an emulsifier and flour treatment agent.\n\nIn 2020 EFSA could not assess its safety because adequate toxicological data were lacking, and it noted that only two products had been labelled with it since 1996. No business operator offered to supply the missing data, so the EU removed it from its list of food additives with effect from 23 April 2024."
+    },
+    "ru": {
+      "name": "Стеарилтартрат",
+      "text": "Стеарилтартрат получают этерификацией винной кислоты техническим стеариловым спиртом, который обычно представляет собой смесь стеарилового и пальмитилового спиртов. Состоит в основном из диэфиров. Применялся как эмульгатор и средство обработки муки.\n\nВ 2020 году EFSA не смогло оценить его безопасность из-за отсутствия надлежащих токсикологических данных и отметило, что с 1996 года он был указан в составе лишь двух продуктов. Ни один производитель не взялся предоставить недостающие данные, и ЕС исключил его из перечня пищевых добавок с 23 апреля 2024 года."
+    }
+  },
+  {
+    "code": "E484",
+    "en": {
+      "name": "Stearyl citrate",
+      "text": "Stearyl citrate is an ester of citric acid and stearyl alcohol. It works as an emulsifier and as a sequestrant, binding traces of metals.\n\nJECFA last evaluated it in 1973 and set an acceptable daily intake of 0 to 50 mg/kg body weight."
+    },
+    "ru": {
+      "name": "Стеарилцитрат",
+      "text": "Стеарилцитрат — сложный эфир лимонной кислоты и стеарилового спирта. Действует как эмульгатор и как комплексообразователь, связывающий следы металлов.\n\nJECFA в последний раз оценивал его в 1973 году и установил допустимую суточную дозу от 0 до 50 мг/кг массы тела."
+    }
+  },
+  {
+    "code": "E485",
+    "en": {
+      "name": "Sodium stearoyl fumarate",
+      "text": "Sodium stearoyl fumarate is a sodium salt derived from stearic acid and fumaric acid. Its assigned technological function as a food additive is that of an emulsifier, helping fat and water to mix."
+    },
+    "ru": {
+      "name": "Стеароилфумарат натрия",
+      "text": "Стеароилфумарат натрия — натриевая соль, производная стеариновой и фумаровой кислот. Как пищевой добавке ей присвоена технологическая функция эмульгатора, помогающего смешиванию жира и воды."
+    }
+  },
+  {
+    "code": "E486",
+    "en": {
+      "name": "Calcium stearoyl fumarate",
+      "text": "Calcium stearoyl fumarate is a calcium salt derived from stearic acid and fumaric acid, the calcium counterpart of E485. Its assigned technological function as a food additive is that of an emulsifier."
+    },
+    "ru": {
+      "name": "Стеароилфумарат кальция",
+      "text": "Стеароилфумарат кальция — кальциевая соль, производная стеариновой и фумаровой кислот, кальциевый аналог E485. Как пищевой добавке ей присвоена технологическая функция эмульгатора."
+    }
+  },
+  {
+    "code": "E487",
+    "en": {
+      "name": "Sodium lauryl sulfate",
+      "text": "Sodium lauryl sulfate (sodium dodecyl sulfate) is an anionic surfactant, best known as the foaming detergent in toothpastes, shampoos and soaps.\n\nIn food it is used as an emulsifier and whipping aid, for example in egg whites and in making marshmallows."
+    },
+    "ru": {
+      "name": "Лаурилсульфат натрия",
+      "text": "Лаурилсульфат натрия (додецилсульфат натрия) — анионное поверхностно-активное вещество, наиболее известное как пенообразующий моющий компонент зубных паст, шампуней и мыла.\n\nВ пищевых продуктах применяется как эмульгатор и вспомогательное средство для взбивания, например в яичных белках и при производстве маршмеллоу."
+    }
+  },
+  {
+    "code": "E488",
+    "en": {
+      "name": "Ethoxylated mono- and diglycerides",
+      "text": "Ethoxylated mono- and diglycerides, also called polyglycerate 60, are made by reacting mono- and diglycerides, mainly of stearic, palmitic and myristic acids, with ethylene oxide.\n\nThey are used as emulsifiers, for example in cakes and cake mixes, icings, whipped vegetable-oil toppings and frozen desserts, and as a dough conditioner in yeast-raised baked goods."
+    },
+    "ru": {
+      "name": "Этоксилированные моно- и диглицериды",
+      "text": "Этоксилированные моно- и диглицериды, называемые также полиглицерат 60, получают реакцией моно- и диглицеридов, главным образом стеариновой, пальмитиновой и миристиновой кислот, с оксидом этилена.\n\nПрименяются как эмульгаторы, например в кексах и смесях для них, глазурях, взбитых топпингах на растительном масле и замороженных десертах, а также как улучшитель теста в дрожжевой выпечке."
+    }
+  },
+  {
+    "code": "E489",
+    "en": {
+      "name": "Methyl glucoside-coconut oil ester",
+      "text": "An ester of methyl glucoside, a derivative of glucose, with the fatty acids of coconut oil. It is classed as an emulsifier.\n\nIt is used as an aid in the crystallisation of sucrose and dextrose and as a surfactant in molasses."
+    },
+    "ru": {
+      "name": "Эфир кокосового масла и метилгликозида",
+      "text": "Сложный эфир метилглюкозида, производного глюкозы, и жирных кислот кокосового масла. Относится к эмульгаторам.\n\nПрименяется как вспомогательное средство при кристаллизации сахарозы и декстрозы и как поверхностно-активное вещество в патоке."
+    }
+  },
+  {
+    "code": "E490",
+    "en": {
+      "name": "Propylene glycol",
+      "text": "Propylene glycol (propane-1,2-diol) is a viscous, colourless, almost odourless liquid with a faintly sweet taste. It mixes with water and many other solvents. Food-grade propylene glycol is made mainly from propylene oxide.\n\nIn food it is used as a humectant and as a solvent and carrier, including in flavourings, other additives and nutrient preparations. As a food additive in the EU it carries the number E1520.\n\nIn its 2018 re-evaluation, EFSA kept the acceptable daily intake of 25 mg/kg body weight."
+    },
+    "ru": {
+      "name": "1,2-Пропиленгликоль",
+      "text": "Пропиленгликоль (пропан-1,2-диол) — вязкая бесцветная почти без запаха жидкость со слабым сладковатым вкусом. Смешивается с водой и многими другими растворителями. Пищевой пропиленгликоль получают главным образом из пропиленоксида.\n\nВ пищевых продуктах применяется как влагоудерживающий агент, а также как растворитель и носитель, в том числе в ароматизаторах, других добавках и препаратах питательных веществ. Как пищевая добавка в ЕС он имеет номер E1520.\n\nПри повторной оценке в 2018 году EFSA сохранило допустимую суточную дозу 25 мг/кг массы тела."
+    }
+  },
+  {
+    "code": "E491",
+    "en": {
+      "name": "Sorbitan monostearate",
+      "text": "Sorbitan monostearate is made by reacting stearic acid, usually with some palmitic acid, with sorbitol, giving a mixture of esters of sorbitan, a sorbitol derivative. It is a non-ionic surfactant with emulsifying, dispersing and wetting properties.\n\nIt is used as an emulsifier in whipped toppings, cakes and cake mixes, icings and fillings, chocolate and confectionery coatings and coffee whiteners, and as a rehydration aid in active dry yeast.\n\nIn 2017 EFSA set a group acceptable daily intake for sorbitan esters (E491 to E495) of 10 mg/kg body weight, expressed as sorbitan."
+    },
+    "ru": {
+      "name": "Сорбитан моностеарат",
+      "text": "Сорбитан моностеарат получают реакцией стеариновой кислоты, обычно с примесью пальмитиновой, с сорбитом; образуется смесь эфиров сорбитана — производного сорбита. Это неионогенное поверхностно-активное вещество с эмульгирующими, диспергирующими и смачивающими свойствами.\n\nПрименяется как эмульгатор во взбитых топпингах, кексах и смесях для них, глазурях и начинках, шоколаде и кондитерских глазурях, сухих сливках для кофе, а также для лучшей регидратации активных сухих дрожжей.\n\nВ 2017 году EFSA установило групповую допустимую суточную дозу для эфиров сорбитана (E491–E495) 10 мг/кг массы тела в пересчёте на сорбитан."
+    }
+  },
+  {
+    "code": "E492",
+    "en": {
+      "name": "Sorbitan tristearate",
+      "text": "Sorbitan tristearate is an ester of sorbitan, a sorbitol derivative, with stearic acid. It is a waxy, light cream to tan non-ionic surfactant.\n\nIn food it is used as a dispersing agent, emulsifier and stabiliser.\n\nIn 2017 EFSA set a group acceptable daily intake for sorbitan esters (E491 to E495) of 10 mg/kg body weight, expressed as sorbitan."
+    },
+    "ru": {
+      "name": "Сорбитан тристеарат",
+      "text": "Сорбитан тристеарат — эфир сорбитана, производного сорбита, и стеариновой кислоты. Это воскообразное неионогенное поверхностно-активное вещество от светло-кремового до желтовато-коричневого цвета.\n\nВ пищевых продуктах применяется как диспергатор, эмульгатор и стабилизатор.\n\nВ 2017 году EFSA установило групповую допустимую суточную дозу для эфиров сорбитана (E491–E495) 10 мг/кг массы тела в пересчёте на сорбитан."
+    }
+  },
+  {
+    "code": "E493",
+    "en": {
+      "name": "Sorbitan monolaurate",
+      "text": "Sorbitan monolaurate is a mixture of esters of lauric acid with polyols derived from sorbitol, including sorbitan and isosorbide. Like other sorbitan esters it is a non-ionic surfactant, used in food as an emulsifier and stabiliser.\n\nIn 2017 EFSA set a group acceptable daily intake for sorbitan esters (E491 to E495) of 10 mg/kg body weight, expressed as sorbitan."
+    },
+    "ru": {
+      "name": "Сорбитан монолаурат",
+      "text": "Сорбитан монолаурат — смесь эфиров лауриновой кислоты с полиолами, производными сорбита, в том числе сорбитаном и изосорбидом. Как и другие эфиры сорбитана, это неионогенное поверхностно-активное вещество, применяемое в пищевых продуктах как эмульгатор и стабилизатор.\n\nВ 2017 году EFSA установило групповую допустимую суточную дозу для эфиров сорбитана (E491–E495) 10 мг/кг массы тела в пересчёте на сорбитан."
+    }
+  },
+  {
+    "code": "E494",
+    "en": {
+      "name": "Sorbitan monooleate",
+      "text": "Sorbitan monooleate is an ester of sorbitan, a sorbitol derivative, with oleic acid. Like other sorbitan esters it is a non-ionic surfactant, used in food as an emulsifier and stabiliser.\n\nIn 2017 EFSA set a group acceptable daily intake for sorbitan esters (E491 to E495) of 10 mg/kg body weight, expressed as sorbitan."
+    },
+    "ru": {
+      "name": "Сорбитан моноолеат",
+      "text": "Сорбитан моноолеат — эфир сорбитана, производного сорбита, и олеиновой кислоты. Как и другие эфиры сорбитана, это неионогенное поверхностно-активное вещество, применяемое в пищевых продуктах как эмульгатор и стабилизатор.\n\nВ 2017 году EFSA установило групповую допустимую суточную дозу для эфиров сорбитана (E491–E495) 10 мг/кг массы тела в пересчёте на сорбитан."
+    }
+  },
+  {
+    "code": "E495",
+    "en": {
+      "name": "Sorbitan monopalmitate",
+      "text": "Sorbitan monopalmitate is an ester of sorbitan, a sorbitol derivative, with palmitic acid. Like other sorbitan esters it is a non-ionic surfactant, used in food as an emulsifier.\n\nIn 2017 EFSA set a group acceptable daily intake for sorbitan esters (E491 to E495) of 10 mg/kg body weight, expressed as sorbitan."
+    },
+    "ru": {
+      "name": "Сорбитан монопальмитат",
+      "text": "Сорбитан монопальмитат — эфир сорбитана, производного сорбита, и пальмитиновой кислоты. Как и другие эфиры сорбитана, это неионогенное поверхностно-активное вещество, применяемое в пищевых продуктах как эмульгатор.\n\nВ 2017 году EFSA установило групповую допустимую суточную дозу для эфиров сорбитана (E491–E495) 10 мг/кг массы тела в пересчёте на сорбитан."
+    }
+  },
+  {
+    "code": "E496",
+    "en": {
+      "name": "Sorbitan trioleate",
+      "text": "Sorbitan trioleate is an ester of sorbitan, a sorbitol derivative, with oleic acid. Like other sorbitan esters it is a non-ionic surfactant; as a food additive its assigned function is that of a stabiliser."
+    },
+    "ru": {
+      "name": "Сорбитан триолеат",
+      "text": "Сорбитан триолеат — эфир сорбитана, производного сорбита, и олеиновой кислоты. Как и другие эфиры сорбитана, это неионогенное поверхностно-активное вещество; как пищевой добавке ему присвоена функция стабилизатора."
+    }
+  },
+  {
+    "code": "E497",
+    "en": {
+      "name": "Polyoxypropylene-polyoxyethylene polymers",
+      "text": "These are synthetic non-ionic block copolymers, also known as poloxamers: a central chain of polyoxypropylene (polypropylene oxide) flanked by two chains of polyoxyethylene (polyethylene oxide). They act as surfactants.\n\nIn food they have been used as solubilising and stabilising agents in flavour concentrates and as dough conditioners in yeast-raised baked goods."
+    },
+    "ru": {
+      "name": "Полиоксипропилен-полиоксиэтиленовые полимеры",
+      "text": "Это синтетические неионогенные блок-сополимеры, известные также как полоксамеры: центральная цепь полиоксипропилена (полипропиленоксида), к которой с двух сторон присоединены цепи полиоксиэтилена (полиэтиленоксида). Действуют как поверхностно-активные вещества.\n\nВ пищевых продуктах их применяли как солюбилизаторы и стабилизаторы в концентратах ароматизаторов и как улучшители теста в дрожжевой выпечке."
+    }
+  },
+  {
+    "code": "E498",
+    "en": {
+      "name": "Partial polyglycerol esters of polycondensed fatty acids of castor oil",
+      "text": "Partial esters of polyglycerol with polycondensed fatty acids from castor oil. Polyglycerol polyricinoleate (E476), an emulsifier, is also made from polyglycerol and condensed castor oil fatty acids."
+    },
+    "ru": {
+      "name": "Частичные полиглицериновые эфиры поликонденсированных жирных кислот касторового масла",
+      "text": "Частичные эфиры полиглицерина с поликонденсированными жирными кислотами касторового масла. Из полиглицерина и конденсированных жирных кислот касторового масла получают и эмульгатор полиглицерил полирицинолеат (E476)."
+    }
+  },
+  {
+    "code": "E499",
+    "en": {
+      "name": "Stigmasterol-rich plant sterols",
+      "text": "A mixture of plant sterols with a high proportion of stigmasterol, one of the most abundant plant sterols, found in oils such as soybean and rapeseed oil.\n\nIt is used as a stabiliser in ready-to-freeze alcoholic cocktails. In its 2012 assessment of this use, EFSA noted that less than 5% of dietary plant sterols are absorbed from the gut and concluded that the proposed use would not be of safety concern."
+    },
+    "ru": {
+      "name": "Растительные стерины, богатые стигмастерином",
+      "text": "Смесь растительных стеринов с высоким содержанием стигмастерина — одного из самых распространённых растительных стеринов, который содержится, например, в соевом и рапсовом масле.\n\nПрименяется как стабилизатор в предназначенных для замораживания алкогольных коктейлях. Оценивая это применение в 2012 году, EFSA отметило, что в кишечнике всасывается менее 5% поступающих с пищей растительных стеринов, и пришло к выводу, что предлагаемое применение не вызывает опасений."
+    }
+  }
+]
