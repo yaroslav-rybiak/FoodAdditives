@@ -1,0 +1,444 @@
+[
+  {
+    "code": "E929",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Acetone peroxide",
+      "text": "Acetone peroxide is a synthetic organic peroxide made from acetone and hydrogen peroxide. It is a strong oxidizing agent and in pure form is unstable.\n\nIt has been used to bleach and mature flour.\n\nIt is not approved in the EU or the UK. In the US it is approved in flour and bread."
+    },
+    "ru": {
+      "name": "Пероксид ацетона",
+      "text": "Пероксид ацетона — синтетическая органическая перекись, получаемая из ацетона и пероксида водорода. Сильный окислитель, в чистом виде нестабилен.\n\nИспользовался для отбеливания и созревания муки.\n\nВ ЕС и Великобритании не разрешён. В США разрешён в муке и хлебе."
+    }
+  },
+  {
+    "code": "E930",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Calcium peroxide",
+      "text": "Calcium peroxide is an inorganic compound, a white or yellowish powder that releases oxygen. It is made industrially.\n\nIt is listed as a bleach and improving agent, used to strengthen dough and bleach flour in baking.\n\nIt is not approved in the EU or the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Пероксид кальция",
+      "text": "Пероксид кальция — неорганическое соединение, белый или желтоватый порошок, выделяющий кислород. Производится промышленно.\n\nУказан как отбеливатель и улучшитель; в хлебопечении применялся для укрепления теста и отбеливания муки.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E938",
+    "eu_authorised": true,
+    "eu_official_name": "Argon",
+    "en": {
+      "name": "Argon",
+      "text": "Argon is an inert noble gas that makes up about 1% of the atmosphere. It is obtained industrially by distilling liquefied air. It is colourless, odourless and does not react with food.\n\nIt is used as a packaging gas, displacing oxygen in packs and containers to slow spoilage and oxidation, for example in packaged snacks, wine and prepared foods.\n\nIt is approved in the EU and in the UK, and not approved in the US."
+    },
+    "ru": {
+      "name": "Аргон",
+      "text": "Аргон — инертный благородный газ, составляющий около 1% атмосферы. Его получают промышленно перегонкой сжиженного воздуха. Бесцветен, не имеет запаха и не вступает в реакции с пищей.\n\nИспользуется как упаковочный газ: вытесняет кислород из упаковок и ёмкостей, замедляя порчу и окисление, например в упакованных снеках, вине и готовых блюдах.\n\nВ ЕС и Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E939",
+    "eu_authorised": true,
+    "eu_official_name": "Helium",
+    "en": {
+      "name": "Helium",
+      "text": "Helium is a light, inert noble gas. It is extracted from natural gas deposits and is colourless, odourless and non-reactive.\n\nIt is listed as a packaging gas, used to create an inert atmosphere or to detect leaks in packaging.\n\nIt is approved in the EU and in the UK. In the US it is approved as a processing aid."
+    },
+    "ru": {
+      "name": "Гелий",
+      "text": "Гелий — лёгкий инертный благородный газ. Добывается из месторождений природного газа, бесцветен, не имеет запаха и не вступает в реакции.\n\nУказан как упаковочный газ: создаёт инертную среду или применяется для поиска утечек в упаковке.\n\nВ ЕС и Великобритании разрешён. В США разрешён как технологическая добавка."
+    }
+  },
+  {
+    "code": "E940",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Dichlorodifluoromethane",
+      "text": "Dichlorodifluoromethane is a synthetic chlorofluorocarbon (CFC) gas, once widely sold as a refrigerant under the name Freon-12. It was also used as an aerosol propellant.\n\nIt is listed as a packaging gas. CFCs damage the ozone layer, so their use has been phased out.\n\nIt is banned in all countries in compliance with the Montreal Protocol, though it is listed by the FDA as a substance added to food in the US."
+    },
+    "ru": {
+      "name": "Дихлордифторметан",
+      "text": "Дихлордифторметан — синтетический хлорфторуглеродный газ (ХФУ), некогда широко известный как хладагент фреон-12. Использовался также как аэрозольный пропеллент.\n\nУказан как упаковочный газ. ХФУ разрушают озоновый слой, поэтому их применение прекращено.\n\nЗапрещён во всех странах в соответствии с Монреальским протоколом, хотя в США FDA включает его в перечень веществ, добавляемых в пищу."
+    }
+  },
+  {
+    "code": "E941",
+    "eu_authorised": true,
+    "eu_official_name": "Nitrogen",
+    "en": {
+      "name": "Nitrogen",
+      "text": "Nitrogen is a colourless, odourless, inert gas that makes up about 78% of air. It is obtained industrially from liquefied air.\n\nAs a packaging gas it replaces oxygen in packs of crisps, coffee, nuts and wine, slowing oxidation and staling. It is also used as a propellant, for instance in whipped toppings.\n\nIt is approved in the EU, the UK and the US."
+    },
+    "ru": {
+      "name": "Азот",
+      "text": "Азот — бесцветный инертный газ без запаха, составляющий около 78% воздуха. Получают промышленно из сжиженного воздуха.\n\nКак упаковочный газ вытесняет кислород в упаковках чипсов, кофе, орехов и вина, замедляя окисление и черствение. Применяется и как пропеллент, например во взбитых топпингах.\n\nРазрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E942",
+    "eu_authorised": true,
+    "eu_official_name": "Nitrous oxide",
+    "en": {
+      "name": "Nitrous oxide",
+      "text": "Nitrous oxide is a colourless gas with a faintly sweet smell, made industrially. It is also known as laughing gas and used in medicine as an anaesthetic.\n\nIn food it is a propellant, best known for whipped cream dispensers and aerosol cream, because it dissolves in fat and gives a light foam.\n\nIt is approved in the EU and in the UK. In the US it is approved in dairy."
+    },
+    "ru": {
+      "name": "Закись азота",
+      "text": "Закись азота — бесцветный газ со слабым сладковатым запахом, получаемый промышленно. Известна как веселящий газ и применяется в медицине для наркоза.\n\nВ пище служит пропеллентом, особенно в сифонах для взбитых сливок и аэрозольных сливках: растворяется в жире и даёт лёгкую пену.\n\nВ ЕС и Великобритании разрешена. В США разрешена в молочных продуктах."
+    }
+  },
+  {
+    "code": "E943a",
+    "eu_authorised": true,
+    "eu_official_name": "Butane",
+    "en": {
+      "name": "Butane",
+      "text": "Butane is a flammable hydrocarbon gas obtained from natural gas and petroleum refining. It is easily liquefied under pressure.\n\nIt is used as a propellant in aerosol products. In the EU this is for vegetable oil pan sprays.\n\nIt is approved in the EU for vegetable oil pan spray, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Бутан",
+      "text": "Бутан — горючий углеводородный газ, получаемый из природного газа и при переработке нефти. Легко сжижается под давлением.\n\nИспользуется как пропеллент в аэрозольных продуктах. В ЕС — для спреев из растительного масла для смазывания форм.\n\nРазрешён в ЕС для спреев из растительного масла, в Великобритании и в США."
+    }
+  },
+  {
+    "code": "E943b",
+    "eu_authorised": true,
+    "eu_official_name": "Isobutane",
+    "en": {
+      "name": "Isobutane",
+      "text": "Isobutane is a flammable hydrocarbon gas, an isomer of butane, obtained from natural gas and petroleum refining. It is easily liquefied under pressure.\n\nIt works as a propellant in aerosol products, such as cooking sprays.\n\nIt is approved in the EU for vegetable oil pan spray, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Изобутан",
+      "text": "Изобутан — горючий углеводородный газ, изомер бутана, получаемый из природного газа и при переработке нефти. Легко сжижается под давлением.\n\nРаботает как пропеллент в аэрозольных продуктах, например кулинарных спреях.\n\nРазрешён в ЕС для спреев из растительного масла, в Великобритании и в США."
+    }
+  },
+  {
+    "code": "E944",
+    "eu_authorised": true,
+    "eu_official_name": "Propane",
+    "en": {
+      "name": "Propane",
+      "text": "Propane is a flammable hydrocarbon gas obtained from natural gas and petroleum refining, widely known as a fuel. It is easily liquefied under pressure.\n\nIn food it is used as a propellant in aerosol products, for example sprays of oil for greasing baking pans.\n\nIt is approved in the EU for vegetable oil pan spray, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Пропан",
+      "text": "Пропан — горючий углеводородный газ, получаемый из природного газа и при переработке нефти, широко известный как топливо. Легко сжижается под давлением.\n\nВ пищевых продуктах используется как пропеллент в аэрозолях, например в спреях с маслом для смазывания форм для выпечки.\n\nРазрешён в ЕС для спреев из растительного масла, в Великобритании и в США."
+    }
+  },
+  {
+    "code": "E945",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Chloropentafluoroethane",
+      "text": "Chloropentafluoroethane is a synthetic chlorofluorocarbon (CFC) gas, formerly used as a refrigerant and aerosol propellant.\n\nIt is listed as a propellant. CFCs damage the stratospheric ozone layer and have been phased out worldwide.\n\nIt is banned in all countries in compliance with the Montreal Protocol, although the FDA lists it as a substance added to food in the US."
+    },
+    "ru": {
+      "name": "Хлорпентафторэтан",
+      "text": "Хлорпентафторэтан — синтетический хлорфторуглеродный газ (ХФУ), ранее применявшийся как хладагент и аэрозольный пропеллент.\n\nУказан как пропеллент. ХФУ разрушают стратосферный озоновый слой и во всём мире выведены из употребления.\n\nЗапрещён во всех странах в соответствии с Монреальским протоколом, хотя в США FDA включает его в перечень веществ, добавляемых в пищу."
+    }
+  },
+  {
+    "code": "E946",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Octafluorocyclobutane",
+      "text": "Octafluorocyclobutane is a synthetic fully fluorinated gas, used in the past as an aerosol propellant and in industry.\n\nIt is listed as a propellant for foods such as whipped toppings.\n\nIt is banned in all countries in compliance with the Montreal Protocol, though the FDA lists it as a substance added to food in the US."
+    },
+    "ru": {
+      "name": "Октафторциклобутан",
+      "text": "Октафторциклобутан — синтетический полностью фторированный газ, в прошлом применявшийся как аэрозольный пропеллент и в промышленности.\n\nУказан как пропеллент для продуктов вроде взбитых топпингов.\n\nЗапрещён во всех странах в соответствии с Монреальским протоколом, хотя в США FDA включает его в перечень веществ, добавляемых в пищу."
+    }
+  },
+  {
+    "code": "E948",
+    "eu_authorised": true,
+    "eu_official_name": "Oxygen",
+    "en": {
+      "name": "Oxygen",
+      "text": "Oxygen is the colourless, odourless gas that makes up about 21% of air. For industrial use it is obtained from liquefied air.\n\nAs a packaging gas it is used in some modified-atmosphere packs, for example to keep the red colour of fresh meat or to support fresh produce.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Кислород",
+      "text": "Кислород — бесцветный газ без запаха, составляющий около 21% воздуха. Для промышленного применения его получают из сжиженного воздуха.\n\nКак упаковочный газ используется в некоторых упаковках с модифицированной атмосферой, например чтобы сохранить красный цвет свежего мяса или поддержать свежие овощи и фрукты.\n\nРазрешён в ЕС. Сведений о статусе в Великобритании и США нет."
+    }
+  },
+  {
+    "code": "E949",
+    "eu_authorised": true,
+    "eu_official_name": "Hydrogen",
+    "en": {
+      "name": "Hydrogen",
+      "text": "Hydrogen is the lightest gas, colourless and odourless, and flammable. It is produced industrially from natural gas or by splitting water.\n\nIt is listed as a packaging gas. In food technology it is also used in the hydrogenation of oils.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Водород",
+      "text": "Водород — самый лёгкий газ, бесцветный, без запаха, горючий. Производится промышленно из природного газа или разложением воды.\n\nУказан как упаковочный газ. В пищевой технологии применяется также для гидрирования масел.\n\nРазрешён в ЕС. Сведений о статусе в Великобритании и США нет."
+    }
+  },
+  {
+    "code": "E950",
+    "eu_authorised": true,
+    "eu_official_name": "Acesulfame K",
+    "en": {
+      "name": "Acesulfame potassium",
+      "text": "Acesulfame potassium (acesulfame K) is a synthetic, calorie-free sweetener about 200 times sweeter than sugar. It is a white crystalline powder, stable at high temperatures.\n\nIt is used in soft drinks, desserts, chewing gum and tabletop sweeteners, often blended with other sweeteners such as aspartame.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Ацесульфам калия",
+      "text": "Ацесульфам калия (ацесульфам K) — синтетический некалорийный подсластитель, примерно в 200 раз слаще сахара. Белый кристаллический порошок, устойчивый при нагревании.\n\nИспользуется в безалкогольных напитках, десертах, жевательной резинке и настольных подсластителях, часто в смеси с другими подсластителями, например аспартамом.\n\nРазрешён в ЕС. Сведений о статусе в Великобритании и США нет."
+    }
+  },
+  {
+    "code": "E951",
+    "eu_authorised": true,
+    "eu_official_name": "Aspartame",
+    "en": {
+      "name": "Aspartame",
+      "text": "Aspartame is a synthetic, low-calorie sweetener about 200 times sweeter than sugar. It is a compound of two amino acids, aspartic acid and phenylalanine.\n\nIt is used in diet soft drinks, desserts, yoghurts, chewing gum and tabletop sweeteners. It loses sweetness when heated, so it is little used in baking.\n\nProducts containing it must carry a warning that they contain a source of phenylalanine, because it is harmful to people with phenylketonuria. It is approved in the EU. No UK or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Аспартам",
+      "text": "Аспартам — синтетический низкокалорийный подсластитель, примерно в 200 раз слаще сахара. Это соединение двух аминокислот — аспарагиновой кислоты и фенилаланина.\n\nПрименяется в диетических напитках, десертах, йогуртах, жевательной резинке и настольных подсластителях. При нагревании теряет сладость, поэтому в выпечке используется мало.\n\nПродукты с ним должны нести предупреждение об источнике фенилаланина, так как он опасен для людей с фенилкетонурией. Разрешён в ЕС. Сведений о статусе в Великобритании и США нет."
+    }
+  },
+  {
+    "code": "E952",
+    "eu_authorised": true,
+    "eu_official_name": "Cyclamates",
+    "en": {
+      "name": "Cyclamic acid and cyclamates",
+      "text": "Cyclamic acid and its sodium and calcium salts, known as cyclamates, are synthetic sweeteners roughly 30 to 50 times sweeter than sugar. They have no calories.\n\nThey are used in soft drinks, tabletop sweeteners and desserts, and are often blended with saccharin.\n\nThey are approved in the EU. No UK or US approval status is recorded for them."
+    },
+    "ru": {
+      "name": "Цикламовая кислота и цикламаты",
+      "text": "Цикламовая кислота и её натриевая и кальциевая соли (цикламаты) — синтетические подсластители, примерно в 30–50 раз слаще сахара. Калорий не содержат.\n\nИспользуются в безалкогольных напитках, настольных подсластителях и десертах, часто в смеси с сахарином.\n\nРазрешены в ЕС. Сведений о статусе в Великобритании и США нет."
+    }
+  },
+  {
+    "code": "E953",
+    "eu_authorised": true,
+    "eu_official_name": "Isomalt",
+    "en": {
+      "name": "Isomalt",
+      "text": "Isomalt, or isomaltitol, is a sugar alcohol (polyol) made from sucrose through enzymatic conversion and hydrogenation. It is about half as sweet as sugar and provides fewer calories.\n\nIt is used in sugar-free hard candies, chewing gum, chocolate and cough sweets, and does not promote tooth decay.\n\nIt is approved in the EU. In the EU, foods with large amounts of polyols must warn that excessive consumption may have a laxative effect."
+    },
+    "ru": {
+      "name": "Изомальт",
+      "text": "Изомальт (изомальтит) — сахароспирт (полиол), получаемый из сахарозы ферментативным превращением и гидрированием. Он примерно вдвое менее сладок, чем сахар, и менее калориен.\n\nИспользуется в леденцах без сахара, жевательной резинке, шоколаде и леденцах от кашля; не способствует развитию кариеса.\n\nРазрешён в ЕС. В ЕС на продуктах с большим содержанием полиолов должно быть предупреждение, что избыточное потребление может оказывать слабительное действие."
+    }
+  },
+  {
+    "code": "E954",
+    "eu_authorised": true,
+    "eu_official_name": "Saccharins",
+    "en": {
+      "name": "Saccharin",
+      "text": "Saccharin and its sodium, potassium and calcium salts form one of the oldest synthetic sweeteners, about 300 to 500 times sweeter than sugar, with no calories. It can leave a slightly bitter aftertaste.\n\nIt is used in tabletop sweeteners, diet drinks, confectionery and in toothpaste and medicines.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Сахарин",
+      "text": "Сахарин и его натриевая, калиевая и кальциевая соли — один из старейших синтетических подсластителей, в 300–500 раз слаще сахара, без калорий. Может оставлять слегка горький привкус.\n\nИспользуется в настольных подсластителях, диетических напитках, кондитерских изделиях, а также в зубных пастах и лекарствах.\n\nРазрешён в ЕС. Сведений о статусе в Великобритании и США нет."
+    }
+  },
+  {
+    "code": "E955",
+    "eu_authorised": true,
+    "eu_official_name": "Sucralose",
+    "en": {
+      "name": "Sucralose",
+      "text": "Sucralose (trichlorogalactosucrose) is a synthetic sweetener made from sucrose by replacing three hydroxyl groups with chlorine. It is about 600 times sweeter than sugar and provides no usable calories.\n\nIt is stable when heated, so it is used in drinks, baked goods, desserts and tabletop sweeteners.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Сукралоза",
+      "text": "Сукралоза (трихлоргалактосахароза) — синтетический подсластитель, получаемый из сахарозы заменой трёх гидроксильных групп на хлор. Примерно в 600 раз слаще сахара, практически не усваивается как источник калорий.\n\nУстойчива при нагревании, поэтому применяется в напитках, выпечке, десертах и настольных подсластителях.\n\nРазрешена в ЕС. Сведений о статусе в Великобритании и США нет."
+    }
+  },
+  {
+    "code": "E956",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Alitame",
+      "text": "Alitame is a synthetic high-intensity sweetener built from the amino acids aspartic acid and alanine. It is far sweeter than sugar, reportedly by roughly 2,000 times.\n\nIt is listed as a sweetener and has seen limited use in food production, mainly in some countries outside Europe.\n\nNo EU, UK or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Алитам",
+      "text": "Алитам — синтетический высокоинтенсивный подсластитель, построенный из аминокислот аспарагиновой кислоты и аланина. Он намного слаще сахара, по имеющимся данным примерно в 2000 раз.\n\nУказан как подсластитель и мало используется в пищевом производстве, главным образом в некоторых странах вне Европы.\n\nСведений о статусе одобрения для него нет."
+    }
+  },
+  {
+    "code": "E957",
+    "eu_authorised": true,
+    "eu_official_name": "Thaumatin",
+    "en": {
+      "name": "Thaumatin",
+      "text": "Thaumatin is a mixture of sweet-tasting proteins extracted from the fruit of the West African katemfe plant (Thaumatococcus daniellii). It is several thousand times sweeter than sugar, with a slow onset and lingering sweetness.\n\nIt is used as a sweetener and flavour enhancer in chewing gum, desserts, drinks and in animal feed.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Тауматин",
+      "text": "Тауматин — смесь сладких белков, извлекаемых из плодов западноафриканского растения катемфе (Thaumatococcus daniellii). Он слаще сахара в несколько тысяч раз; сладость появляется медленно и долго держится.\n\nИспользуется как подсластитель и усилитель вкуса в жевательной резинке, десертах, напитках и в кормах для животных.\n\nРазрешён в ЕС. Сведений о статусе в Великобритании и США нет."
+    }
+  },
+  {
+    "code": "E958",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Glycyrrhizin",
+      "text": "Glycyrrhizin is the sweet-tasting compound extracted from the root of liquorice (Glycyrrhiza glabra). It is about 30 to 50 times sweeter than sugar and has a lingering liquorice flavour.\n\nIt is used as a sweetener and flavour enhancer in confectionery, particularly liquorice sweets, and in drinks and tobacco products.\n\nNo EU, UK or US approval status is recorded for it. Eating large amounts of liquorice is known to raise blood pressure in some people."
+    },
+    "ru": {
+      "name": "Глицирризин",
+      "text": "Глицирризин — сладкое вещество, извлекаемое из корня солодки (Glycyrrhiza glabra). Он в 30–50 раз слаще сахара и оставляет долгий лакричный привкус.\n\nПрименяется как подсластитель и усилитель вкуса в кондитерских изделиях, особенно лакричных конфетах, а также в напитках и табачных изделиях.\n\nСведений о статусе одобрения для него нет. Известно, что большое количество лакрицы у некоторых людей повышает артериальное давление."
+    }
+  },
+  {
+    "code": "E959",
+    "eu_authorised": true,
+    "eu_official_name": "Neohesperidine DC",
+    "en": {
+      "name": "Neohesperidine dihydrochalcone",
+      "text": "Neohesperidine dihydrochalcone (neohesperidine DC) is a semi-synthetic sweetener made from a flavonoid found in bitter oranges. It is roughly 1,000 times sweeter than sugar, with a slow onset and a lingering, cooling aftertaste.\n\nIt is used as a sweetener and flavour enhancer, masking bitterness in drinks, chewing gum, dairy products and pharmaceuticals.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Неогесперидин дигидрохалкон",
+      "text": "Неогесперидин дигидрохалкон — полусинтетический подсластитель, получаемый из флавоноида горького апельсина. Он примерно в 1000 раз слаще сахара, сладость нарастает медленно, послевкусие долгое, с охлаждающим оттенком.\n\nИспользуется как подсластитель и усилитель вкуса, маскирует горечь в напитках, жевательной резинке, молочных продуктах и лекарствах.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E960",
+    "eu_authorised": true,
+    "eu_official_name": "Steviol glycosides",
+    "en": {
+      "name": "Steviol glycosides",
+      "text": "Steviol glycosides are sweet compounds, such as stevioside and rebaudioside A, extracted from the leaves of the stevia plant (Stevia rebaudiana), native to South America. They are about 200 to 300 times sweeter than sugar and have no calories.\n\nThey are used in soft drinks, dairy products, desserts and tabletop sweeteners. Some people notice a slightly bitter or liquorice-like aftertaste.\n\nThey are approved in the EU. No UK or US approval status is recorded for them."
+    },
+    "ru": {
+      "name": "Стевиол гликозиды",
+      "text": "Стевиол гликозиды — сладкие вещества, такие как стевиозид и ребаудиозид A, извлекаемые из листьев растения стевия (Stevia rebaudiana), родом из Южной Америки. Они в 200–300 раз слаще сахара и не содержат калорий.\n\nПрименяются в безалкогольных напитках, молочных продуктах, десертах и настольных подсластителях. Некоторые отмечают слегка горький или лакричный привкус.\n\nРазрешены в ЕС. Сведений о статусе в Великобритании и США нет."
+    }
+  },
+  {
+    "code": "E961",
+    "eu_authorised": true,
+    "eu_official_name": "Neotame",
+    "en": {
+      "name": "Neotame",
+      "text": "Neotame is a synthetic, low-calorie sweetener chemically related to aspartame. It is much sweeter than sugar, roughly 7,000 to 13,000 times, so only tiny amounts are needed.\n\nIt is used as a sweetener in drinks, desserts, chewing gum and baked goods.\n\nIt is recorded as approved in 2010, but the country or region is not specified."
+    },
+    "ru": {
+      "name": "Неотам",
+      "text": "Неотам — синтетический низкокалорийный подсластитель, химически родственный аспартаму. Он намного слаще сахара, примерно в 7000–13000 раз, поэтому нужны ничтожные количества.\n\nИспользуется как подсластитель в напитках, десертах, жевательной резинке и выпечке.\n\nИзвестно лишь, что он был одобрен в 2010 году, но страна или регион не уточняются."
+    }
+  },
+  {
+    "code": "E962",
+    "eu_authorised": true,
+    "eu_official_name": "Salt of aspartame-acesulfame",
+    "en": {
+      "name": "Aspartame-acesulfame salt",
+      "text": "Aspartame-acesulfame salt is a synthetic sweetener formed by combining aspartame and acesulfame in a single salt. It is a white crystalline substance, sweeter than sugar and low in calories.\n\nIt is classed as a stabiliser, but it is used as a sweetener in drinks, chewing gum and confectionery. Like aspartame, it is a source of phenylalanine and is a concern for people with phenylketonuria.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Соль аспартам-ацесульфама",
+      "text": "Соль аспартам-ацесульфама — синтетический подсластитель, в котором аспартам и ацесульфам объединены в одну соль. Это белое кристаллическое вещество, слаще сахара и малокалорийное.\n\nОтносится к стабилизаторам, но используется как подсластитель в напитках, жевательной резинке и кондитерских изделиях. Как и аспартам, является источником фенилаланина и опасна для людей с фенилкетонурией.\n\nРазрешена в ЕС."
+    }
+  },
+  {
+    "code": "E964",
+    "eu_authorised": true,
+    "eu_official_name": "Polyglycitol syrup",
+    "en": {
+      "name": "Polyglycitol syrup",
+      "text": "Polyglycitol syrup is a mixture of polyols and sugar-alcohol polymers, made by hydrogenating starch hydrolysates, usually from corn or wheat starch. It is a thick, clear, sweet syrup, less sweet than sugar.\n\nIt is used as a sweetener and bulking agent in sugar-free confectionery and chewing gum.\n\nIt is approved in the EU. In the EU, foods rich in polyols must warn that excessive consumption may have a laxative effect."
+    },
+    "ru": {
+      "name": "Полиглицитольный сироп",
+      "text": "Полиглицитольный сироп — смесь полиолов и полимеров сахароспиртов, получаемая гидрированием гидролизатов крахмала, обычно кукурузного или пшеничного. Густой прозрачный сладкий сироп, менее сладкий, чем сахар.\n\nИспользуется как подсластитель и наполнитель в кондитерских изделиях без сахара и жевательной резинке.\n\nРазрешён в ЕС. В ЕС на продуктах с высоким содержанием полиолов должно быть предупреждение, что избыточное потребление может оказывать слабительное действие."
+    }
+  },
+  {
+    "code": "E965",
+    "eu_authorised": true,
+    "eu_official_name": "Maltitols",
+    "en": {
+      "name": "Maltitol",
+      "text": "Maltitol is a sugar alcohol (polyol) made by hydrogenating maltose from starch. It is about 75 to 90 percent as sweet as sugar and has fewer calories. It is sold as crystals or as maltitol syrup.\n\nIt is used as a sweetener, humectant and stabiliser in sugar-free chocolate, chewing gum, baked goods and ice cream.\n\nIt is approved in the EU. In the EU, excessive consumption may have a laxative effect, and labels must say so."
+    },
+    "ru": {
+      "name": "Мальтит",
+      "text": "Мальтит — сахароспирт (полиол), получаемый гидрированием мальтозы из крахмала. Он составляет примерно 75–90% сладости сахара и менее калориен. Выпускается в виде кристаллов или мальтитного сиропа.\n\nИспользуется как подсластитель, влагоудерживающий агент и стабилизатор в шоколаде без сахара, жевательной резинке, выпечке и мороженом.\n\nРазрешён в ЕС. В ЕС избыточное потребление может оказывать слабительное действие, о чём должно быть указано на этикетке."
+    }
+  },
+  {
+    "code": "E966",
+    "eu_authorised": true,
+    "eu_official_name": "Lactitol",
+    "en": {
+      "name": "Lactitol",
+      "text": "Lactitol is a sugar alcohol (polyol) made by hydrogenating lactose, the sugar of milk. It is about 30 to 40 percent as sweet as sugar and provides fewer calories.\n\nIt is used as a sweetener and bulking agent in sugar-free sweets, chocolate, baked goods and ice cream. It is also used in medicine as a laxative.\n\nIt is approved in the EU. In the EU, foods with large amounts of polyols must warn of a possible laxative effect."
+    },
+    "ru": {
+      "name": "Лактит",
+      "text": "Лактит — сахароспирт (полиол), получаемый гидрированием лактозы, молочного сахара. Составляет около 30–40% сладости сахара и менее калориен.\n\nПрименяется как подсластитель и наполнитель в сладостях без сахара, шоколаде, выпечке и мороженом. В медицине используется как слабительное.\n\nРазрешён в ЕС. В ЕС продукты с большим количеством полиолов должны предупреждать о возможном слабительном действии."
+    }
+  },
+  {
+    "code": "E967",
+    "eu_authorised": true,
+    "eu_official_name": "Xylitol",
+    "en": {
+      "name": "Xylitol",
+      "text": "Xylitol is a sugar alcohol (polyol) found in small amounts in fruit and vegetables and produced industrially from xylose, often from birch wood or corncobs. It is about as sweet as sugar with roughly 40 percent fewer calories.\n\nIt is used in sugar-free chewing gum, sweets and toothpaste, and is known not to promote tooth decay.\n\nIt is approved in the EU. In the EU, excessive consumption may have a laxative effect, and labels must say so. Xylitol is highly toxic to dogs."
+    },
+    "ru": {
+      "name": "Ксилит",
+      "text": "Ксилит — сахароспирт (полиол), в небольших количествах содержащийся во фруктах и овощах; промышленно его получают из ксилозы, часто из берёзовой древесины или кукурузных кочерыжек. По сладости близок к сахару, калорийность примерно на 40% ниже.\n\nИспользуется в жевательной резинке и сладостях без сахара, а также в зубных пастах; не способствует развитию кариеса.\n\nРазрешён в ЕС. В ЕС избыточное потребление может оказывать слабительное действие, о чём должно быть указано на этикетке. Ксилит очень токсичен для собак."
+    }
+  },
+  {
+    "code": "E968",
+    "eu_authorised": true,
+    "eu_official_name": "Erythritol",
+    "en": {
+      "name": "Erythritol",
+      "text": "Erythritol is a sugar alcohol (polyol) found naturally in small amounts in some fruit and fermented foods. It is produced industrially by fermenting glucose. It is about 60 to 70 percent as sweet as sugar and has almost no calories.\n\nIt is used as a sweetener and bulking agent in sugar-free drinks, confectionery, chocolate and tabletop sweeteners, and has a mild cooling effect.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Эритрит",
+      "text": "Эритрит — сахароспирт (полиол), в небольших количествах встречающийся в некоторых фруктах и ферментированных продуктах. Промышленно его получают ферментацией глюкозы. Он составляет примерно 60–70% сладости сахара и почти не содержит калорий.\n\nИспользуется как подсластитель и наполнитель в напитках, кондитерских изделиях, шоколаде и настольных подсластителях без сахара, даёт лёгкий охлаждающий эффект.\n\nРазрешён в ЕС. Сведений о статусе в Великобритании и США нет."
+    }
+  },
+  {
+    "code": "E969",
+    "eu_authorised": true,
+    "eu_official_name": "Advantame",
+    "en": {
+      "name": "Advantame",
+      "text": "Advantame is a synthetic high-intensity sweetener chemically related to aspartame and neotame. It is extremely sweet, roughly 20,000 times sweeter than sugar, so only minute amounts are used.\n\nIt is used as a sweetener and flavour enhancer in drinks, desserts, chewing gum and confectionery.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Адвантам",
+      "text": "Адвантам — синтетический высокоинтенсивный подсластитель, химически родственный аспартаму и неотаму. Он чрезвычайно сладок, примерно в 20000 раз слаще сахара, поэтому используются ничтожные количества.\n\nПрименяется как подсластитель и усилитель вкуса в напитках, десертах, жевательной резинке и кондитерских изделиях.\n\nРазрешён в ЕС. Сведений о статусе в Великобритании и США нет."
+    }
+  },
+  {
+    "code": "E999",
+    "eu_authorised": true,
+    "eu_official_name": "Quillaia extract",
+    "en": {
+      "name": "Quillaia extract",
+      "text": "Quillaia extract is a natural extract from the bark of the soapbark tree (Quillaja saponaria), which grows in Chile and other parts of South America. It is rich in saponins, which act like soap.\n\nIt works as a foaming agent and emulsifier, giving a stable foam in soft drinks such as root beer and ginger beer, and is also used in some cosmetics.\n\nIt is approved in the EU. No UK or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Экстракт квиллайи",
+      "text": "Экстракт квиллайи — природный экстракт коры мыльного дерева (Quillaja saponaria), растущего в Чили и других частях Южной Америки. Богат сапонинами, которые действуют подобно мылу.\n\nРаботает как пенообразователь и эмульгатор, придаёт устойчивую пену напиткам вроде рутбира и имбирного пива; используется и в косметике.\n\nРазрешён в ЕС. Сведений о статусе в Великобритании и США нет."
+    }
+  }
+]

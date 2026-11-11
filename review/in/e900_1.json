@@ -1,0 +1,444 @@
+[
+  {
+    "code": "E900",
+    "eu_authorised": true,
+    "eu_official_name": "Dimethyl polysiloxane",
+    "en": {
+      "name": "Dimethylpolysiloxane",
+      "text": "Dimethylpolysiloxane is a synthetic silicone polymer, a clear, odourless, oily liquid made from silicon, oxygen and methyl groups. It is not found in nature.\n\nIn food it works as an anti-foaming agent and anti-caking agent. It stops foam forming during cooking and processing, for example in frying oils, jams, soft drinks and fruit juices.\n\nIt is approved in the EU for certain foods and approved in the UK. In the US it is approved for food packaging."
+    },
+    "ru": {
+      "name": "Полидиметилсилоксан",
+      "text": "Полидиметилсилоксан — синтетический кремнийорганический полимер: прозрачная маслянистая жидкость без запаха. В природе он не встречается.\n\nВ пищевых продуктах работает как пеногаситель и антислёживающий агент. Не даёт образовываться пене при варке и переработке, например в фритюрных маслах, джемах, напитках и соках.\n\nВ ЕС разрешён для некоторых продуктов, в Великобритании разрешён. В США разрешён для упаковки пищевых продуктов."
+    }
+  },
+  {
+    "code": "E901",
+    "eu_authorised": true,
+    "eu_official_name": "Beeswax, white and yellow",
+    "en": {
+      "name": "Beeswax",
+      "text": "Beeswax is a natural wax secreted by honeybees to build honeycomb. It is collected during honey processing and comes as white or yellow wax, depending on whether it has been bleached.\n\nIn food it is used as a glazing agent, giving a protective shiny coating to confectionery, fruit and some tablets, and it is also used to coat cheese rinds.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US. It is not suitable for strict vegans because it is an animal product."
+    },
+    "ru": {
+      "name": "Пчелиный воск",
+      "text": "Пчелиный воск — природный воск, который вырабатывают медоносные пчёлы для постройки сот. Его получают при переработке мёда; он бывает белым (отбелённым) или жёлтым.\n\nВ пище используется как глазирователь: даёт защитное блестящее покрытие кондитерским изделиям, фруктам и некоторым таблеткам, им также покрывают корку сыра.\n\nРазрешён в ЕС для некоторых продуктов, в Великобритании и в США. Поскольку это продукт животного происхождения, он не подходит строгим веганам."
+    }
+  },
+  {
+    "code": "E902",
+    "eu_authorised": true,
+    "eu_official_name": "Candelilla wax",
+    "en": {
+      "name": "Candelilla wax",
+      "text": "Candelilla wax is a natural plant wax obtained from the leaves of the candelilla shrub, which grows in northern Mexico and the south-western United States.\n\nIt serves as a glazing agent, giving a hard, glossy finish. It is used in chewing gum bases, hard candies and as a coating on some confectionery.\n\nIt is approved in the EU for certain foods and approved in the UK. In the US it is approved for chewing gum and hard candy."
+    },
+    "ru": {
+      "name": "Канделильский воск",
+      "text": "Канделильский воск — природный растительный воск, получаемый из листьев кустарника канделилья, который растёт на севере Мексики и юго-западе США.\n\nИспользуется как глазирователь, придающий твёрдый глянцевый блеск. Встречается в жевательной резинке, леденцах и покрытиях для некоторых кондитерских изделий.\n\nВ ЕС разрешён для некоторых продуктов, в Великобритании разрешён. В США разрешён для жевательной резинки и леденцов."
+    }
+  },
+  {
+    "code": "E903",
+    "eu_authorised": true,
+    "eu_official_name": "Carnauba wax",
+    "en": {
+      "name": "Carnauba wax",
+      "text": "Carnauba wax is a hard natural wax collected from the leaves of the carnauba palm, which grows in north-eastern Brazil. It is known for its high melting point and strong shine.\n\nAs a glazing agent it is used to polish confectionery such as dragees and chocolate-coated sweets, to coat fresh fruit and in chewing gum.\n\nIt is approved in the EU for certain foods and approved in the UK. In the US it is approved for certain foods."
+    },
+    "ru": {
+      "name": "Карнаубский воск",
+      "text": "Карнаубский воск — твёрдый природный воск, который собирают с листьев карнаубской пальмы, растущей на северо-востоке Бразилии. Отличается высокой температурой плавления и сильным блеском.\n\nКак глазирователь применяется для полировки драже и конфет в глазури, для покрытия свежих фруктов и в жевательной резинке.\n\nРазрешён в ЕС для некоторых продуктов и в Великобритании. В США разрешён для некоторых продуктов."
+    }
+  },
+  {
+    "code": "E904",
+    "eu_authorised": true,
+    "eu_official_name": "Shellac",
+    "en": {
+      "name": "Shellac",
+      "text": "Shellac is a natural resin secreted by the lac insect, which lives on trees in India and Thailand. The resin is scraped off, purified and sometimes bleached, and is sold as flakes.\n\nIn food it is used as a glazing agent to give a glossy, protective coating to confectionery, tablets, food supplements and the skin of some fruit such as apples and citrus.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US. As an insect product it is not vegan."
+    },
+    "ru": {
+      "name": "Шеллак",
+      "text": "Шеллак — природная смола, которую выделяет лаковый червец, обитающий на деревьях в Индии и Таиланде. Смолу соскабливают, очищают, иногда отбеливают и продают в виде хлопьев.\n\nВ пищевой промышленности служит глазирователем: даёт блестящее защитное покрытие кондитерским изделиям, таблеткам, добавкам и кожуре некоторых фруктов, например яблок и цитрусовых.\n\nРазрешён в ЕС для некоторых продуктов, в Великобритании и в США. Это продукт насекомых, поэтому он не является веганским."
+    }
+  },
+  {
+    "code": "E905",
+    "eu_authorised": true,
+    "eu_official_name": "Microcrystalline wax",
+    "en": {
+      "name": "Microcrystalline wax",
+      "text": "Microcrystalline wax is a refined wax made from petroleum. It consists of a mixture of saturated hydrocarbons and is more flexible and finer-grained than ordinary paraffin wax.\n\nIn practice such waxes are used as coatings and surface treatments, for example on cheese rinds and some fruit, and in chewing gum bases.\n\nIt is approved in the EU for certain foods and approved in the UK. It is not approved in the US under this listing."
+    },
+    "ru": {
+      "name": "Микрокристаллический воск",
+      "text": "Микрокристаллический воск — очищенный воск, получаемый из нефти. Это смесь насыщенных углеводородов, более гибкая и мелкозернистая, чем обычный парафин.\n\nНа практике такие воски применяют как покрытия, например для корки сыра и некоторых фруктов, а также в основе для жевательной резинки.\n\nРазрешён в ЕС для некоторых продуктов и в Великобритании. В США под этим номером не разрешён."
+    }
+  },
+  {
+    "code": "E905a",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "High viscosity mineral oils",
+      "text": "Mineral oils are highly refined mixtures of liquid hydrocarbons derived from petroleum. High viscosity grades are thick, colourless, tasteless and odourless.\n\nThey are used as anti-foaming agents and as release or coating agents, for example in confectionery and on dried fruit.\n\nThey are approved in the EU for certain foods, not approved in the UK, and approved in the US. Only highly purified food-grade oils are suitable for food use."
+    },
+    "ru": {
+      "name": "Минеральные масла высокой вязкости",
+      "text": "Минеральные масла — глубоко очищенные смеси жидких углеводородов, получаемые из нефти. Высоковязкие сорта густые, бесцветные, без вкуса и запаха.\n\nИспользуются как пеногасители, а также как антиадгезивы и покрытия, например в кондитерских изделиях и для сухофруктов.\n\nВ ЕС разрешены для некоторых продуктов, в Великобритании не разрешены, в США разрешены. В пищу годятся только тщательно очищенные масла пищевого качества."
+    }
+  },
+  {
+    "code": "E905b",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Petrolatum",
+      "text": "Petrolatum, better known as petroleum jelly or Vaseline, is a semi-solid mixture of hydrocarbons obtained by refining petroleum. It is odourless and water-repellent.\n\nIt is used in small amounts as a release or protective coating agent, for example in baking and confectionery.\n\nIt is not approved in the EU or the UK. In the US it is approved for certain foods."
+    },
+    "ru": {
+      "name": "Петролатум",
+      "text": "Петролатум, более известный как вазелин, — полутвёрдая смесь углеводородов, получаемая при переработке нефти. Не имеет запаха и отталкивает воду.\n\nВ небольших количествах его используют как антиадгезивное или защитное покрытие, например в выпечке и кондитерском производстве.\n\nВ ЕС и Великобритании не разрешён. В США разрешён для некоторых продуктов."
+    }
+  },
+  {
+    "code": "E905c",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Petroleum wax",
+      "text": "Petroleum wax is a group of waxes obtained by refining crude oil. It covers microcrystalline wax and paraffin wax, which are mixtures of saturated hydrocarbons and are solid at room temperature.\n\nThey are used as glazing agents, for example as coatings for cheese, fruit and confectionery, and in chewing gum bases.\n\nThey are not approved in the EU or the UK. In the US, petroleum and paraffin waxes are approved for certain foods."
+    },
+    "ru": {
+      "name": "Нефтяной воск",
+      "text": "Нефтяной воск — группа восков, получаемых при переработке сырой нефти. К ним относятся микрокристаллический воск и парафин: смеси насыщенных углеводородов, твёрдые при комнатной температуре.\n\nИспользуются как глазирователи, например для покрытия сыра, фруктов и кондитерских изделий, а также в основе жевательной резинки.\n\nВ ЕС и Великобритании не разрешены. В США нефтяной воск и парафин разрешены для некоторых продуктов."
+    }
+  },
+  {
+    "code": "E906",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Gum benzoic",
+      "text": "Gum benzoic, or benzoin resin, is an aromatic resin obtained from the bark of Styrax trees growing in South-East Asia. It has a sweet, vanilla-like scent and is also used in perfumery and incense.\n\nIt is classed as a flavour enhancer, though it has seen little use in modern food production.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Бензойная смола",
+      "text": "Бензойная смола (росный ладан) — ароматическая смола, получаемая из коры деревьев рода Styrax в Юго-Восточной Азии. Имеет сладкий, похожий на ваниль аромат; применяется также в парфюмерии и благовониях.\n\nОтносится к усилителям вкуса, но в современном пищевом производстве почти не используется.\n\nВ ЕС, Великобритании и США не разрешена."
+    }
+  },
+  {
+    "code": "E907",
+    "eu_authorised": true,
+    "eu_official_name": "Hydrogenated poly-1-decene",
+    "en": {
+      "name": "Hydrogenated poly-1-decene",
+      "text": "Hydrogenated poly-1-decene is a synthetic, wax-like hydrocarbon polymer made from the petrochemical 1-decene. It is chemically stable and almost insoluble in water.\n\nIt is used as a glazing agent, forming a thin protective shine on products such as confectionery and chewing gum.\n\nIt is approved in the EU for certain foods and approved in the UK. It is not approved in the US."
+    },
+    "ru": {
+      "name": "Гидрированный поли-1-децен",
+      "text": "Гидрированный поли-1-децен — синтетический восковидный полимер углеводородов, получаемый из нефтехимического сырья 1-децена. Химически стабилен и практически не растворяется в воде.\n\nИспользуется как глазирователь: образует тонкий защитный блеск на кондитерских изделиях и жевательной резинке.\n\nВ ЕС разрешён для некоторых продуктов, в Великобритании разрешён. В США не разрешён."
+    }
+  },
+  {
+    "code": "E908",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Rice bran wax",
+      "text": "Rice bran wax is a natural vegetable wax extracted from the oil of rice bran, the outer layer of rice grains, which is a by-product of rice milling.\n\nIt is used as a glazing agent to give a shiny coating to confectionery, chewing gum and fresh fruit and vegetables, and helps retain moisture.\n\nIt is not approved in the EU or the UK. In the US it is approved for chewing gum, candy and fresh fruit and vegetables."
+    },
+    "ru": {
+      "name": "Рисовый воск",
+      "text": "Рисовый воск — природный растительный воск, извлекаемый из масла рисовых отрубей, внешнего слоя зерна, которое остаётся при шлифовке риса.\n\nПрименяется как глазирователь: даёт блестящее покрытие кондитерским изделиям, жевательной резинке, свежим фруктам и овощам и помогает сохранять влагу.\n\nВ ЕС и Великобритании не разрешён. В США разрешён для жевательной резинки, конфет и свежих фруктов и овощей."
+    }
+  },
+  {
+    "code": "E909",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Spermaceti wax",
+      "text": "Spermaceti is a waxy substance obtained from the head cavity of the sperm whale. It was used historically in candles, cosmetics and ointments.\n\nIt is listed as a glazing agent, but because of whale conservation and the availability of other waxes it is not used in modern food production.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Спермацетовый воск",
+      "text": "Спермацет — воскообразное вещество из головной полости кашалота. Раньше его использовали для свечей, косметики и мазей.\n\nЗначится как глазирователь, но из-за охраны китов и наличия других восков в современном пищевом производстве не применяется.\n\nВ ЕС, Великобритании и США не разрешён."
+    }
+  },
+  {
+    "code": "E910",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Wax esters",
+      "text": "Wax esters are esters of long-chain fatty acids with long-chain alcohols. They occur naturally in many plant and animal waxes and can also be produced synthetically.\n\nThey are classed as glazing agents, meaning coatings that give a shiny, protective surface.\n\nThey are not approved in the EU, the UK or the US. Little further information is available for this additive."
+    },
+    "ru": {
+      "name": "Восковые эфиры",
+      "text": "Восковые эфиры — сложные эфиры длинноцепочечных жирных кислот и длинноцепочечных спиртов. Они содержатся во многих растительных и животных восках и могут быть получены синтетически.\n\nОтносятся к глазирователям, то есть покрытия, придающие блестящую защитную поверхность.\n\nВ ЕС, Великобритании и США не разрешены. Более подробных сведений об этой добавке мало."
+    }
+  },
+  {
+    "code": "E911",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Methyl esters of fatty acids",
+      "text": "Methyl esters of fatty acids are compounds made by reacting fatty acids from vegetable or animal fats with methanol. They are oily liquids.\n\nThey are listed as glazing agents. In the US they are permitted in the processing of raisins, where they help the fruit dry and keep a glossy surface.\n\nThey are not approved in the EU or the UK, and are approved in the US for raisin making."
+    },
+    "ru": {
+      "name": "Метиловые эфиры жирных кислот",
+      "text": "Метиловые эфиры жирных кислот получают реакцией жирных кислот растительных или животных жиров с метанолом. Это маслянистые жидкости.\n\nУказаны как глазирователи. В США их разрешено применять при обработке изюма: они помогают сушке и сохраняют блестящую поверхность ягод.\n\nВ ЕС и Великобритании не разрешены, в США разрешены для производства изюма."
+    }
+  },
+  {
+    "code": "E912",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Montanic acid esters",
+      "text": "Montanic acid esters are derived from montan wax, a hard fossil wax extracted from certain types of lignite (brown coal). The wax is refined and esterified to give a stable product.\n\nThey are used as glazing agents, mainly as a protective coating for the peel of citrus fruit.\n\nThey are approved in the EU, not approved in the UK, and approved in the US as a coating for citrus fruit."
+    },
+    "ru": {
+      "name": "Эфиры монтановых кислот",
+      "text": "Эфиры монтановых кислот получают из монтанового воска — твёрдого ископаемого воска, добываемого из некоторых видов бурого угля. Воск очищают и этерифицируют, получая стабильный продукт.\n\nИспользуются как глазирователи, главным образом как защитное покрытие кожуры цитрусовых.\n\nВ ЕС разрешены, в Великобритании не разрешены, в США разрешены как покрытие для цитрусовых."
+    }
+  },
+  {
+    "code": "E913",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Lanolin",
+      "text": "Lanolin, or wool grease, is a waxy substance secreted by sheep and recovered during the washing of raw wool. After purification it is a yellowish, sticky wax widely used in cosmetics and skin creams.\n\nIt is listed as a glazing agent and has little use in modern foods.\n\nIt is not approved in the EU or the UK, and in the US it is approved for food packaging only."
+    },
+    "ru": {
+      "name": "Ланолин",
+      "text": "Ланолин, или шерстяной воск, — воскообразное вещество, которое выделяют овцы; его получают при мойке сырой шерсти. После очистки это желтоватый липкий воск, широко применяемый в косметике и кремах.\n\nУказан как глазирователь, в современных пищевых продуктах почти не используется.\n\nВ ЕС и Великобритании не разрешён, в США разрешён только для упаковки пищевых продуктов."
+    }
+  },
+  {
+    "code": "E914",
+    "eu_authorised": true,
+    "eu_official_name": "Oxidised polyethylene wax",
+    "en": {
+      "name": "Oxidized polyethylene wax",
+      "text": "Oxidized polyethylene wax is a synthetic wax made by partially oxidizing polyethylene, the common plastic. It is a hard, water-resistant solid.\n\nIt is used as a glazing agent, mainly as a protective, shiny coating on the peel of certain fruit such as citrus fruit.\n\nIt is approved in the EU as a coating for certain fruits only, approved in the UK, and approved in the US as a coating for certain fruit."
+    },
+    "ru": {
+      "name": "Окисленный полиэтиленовый воск",
+      "text": "Окисленный полиэтиленовый воск — синтетический воск, получаемый частичным окислением полиэтилена. Это твёрдое водостойкое вещество.\n\nИспользуется как глазирователь, главным образом как защитное блестящее покрытие кожуры некоторых фруктов, например цитрусовых.\n\nВ ЕС разрешён только как покрытие для некоторых фруктов, в Великобритании разрешён, в США разрешён как покрытие для некоторых фруктов."
+    }
+  },
+  {
+    "code": "E915",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Esters of colophony",
+      "text": "Colophony, also called rosin, is a resin obtained from pine trees. Esters of colophony are made by reacting it with alcohols such as glycerol, which makes a harder and more stable resin.\n\nThey are listed as glazing agents and are used, among other things, in chewing gum bases.\n\nThey are not approved in the EU or the UK. In the US, colophony is approved for food packaging only."
+    },
+    "ru": {
+      "name": "Эфиры канифоли",
+      "text": "Канифоль — смола, получаемая из сосен. Эфиры канифоли образуют, обрабатывая её спиртами, например глицерином; получается более твёрдая и стабильная смола.\n\nУказаны как глазирователи; их используют, в частности, в основе жевательной резинки.\n\nВ ЕС и Великобритании не разрешены. В США канифоль разрешена только для упаковки пищевых продуктов."
+    }
+  },
+  {
+    "code": "E916",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Calcium iodate",
+      "text": "Calcium iodate is an inorganic salt of iodic acid, a white powder that contains iodine and acts as an oxidizing agent.\n\nIodates have been used as flour improvers that strengthen dough, and as a source of iodine.\n\nIt is not approved in the EU or the UK. In the US it is approved for use in bread."
+    },
+    "ru": {
+      "name": "Йодат кальция",
+      "text": "Йодат кальция — неорганическая соль йодноватой кислоты, белый порошок, содержащий йод и действующий как окислитель.\n\nЙодаты применяли как улучшители муки, укрепляющие тесто, и как источник йода.\n\nВ ЕС и Великобритании не разрешён. В США разрешён для хлеба."
+    }
+  },
+  {
+    "code": "E917",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Potassium iodate",
+      "text": "Potassium iodate is an inorganic salt containing iodine, a white crystalline powder and a strong oxidizing agent. It is made industrially.\n\nIt has been used as a flour treatment agent in baking and as a source of iodine for iodized salt in some countries.\n\nIt is not approved in the EU or the UK, and is approved in the US for bread."
+    },
+    "ru": {
+      "name": "Йодат калия",
+      "text": "Йодат калия — неорганическая соль, содержащая йод: белый кристаллический порошок и сильный окислитель. Производится промышленно.\n\nИспользовался как улучшитель муки в хлебопечении и в ряде стран как источник йода для йодированной соли.\n\nВ ЕС и Великобритании не разрешён, в США разрешён для хлеба."
+    }
+  },
+  {
+    "code": "E918",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Nitrogen oxides",
+      "text": "Nitrogen oxides are gaseous compounds of nitrogen and oxygen produced industrially. Some of them are toxic, irritating gases, so the term covers substances needing careful handling.\n\nA typical use is as a propellant.\n\nIt is not approved in the EU or the UK. In the US it is approved as a propellant."
+    },
+    "ru": {
+      "name": "Оксиды азота",
+      "text": "Оксиды азота — газообразные соединения азота и кислорода, получаемые промышленно. Некоторые из них — ядовитые раздражающие газы, поэтому обращаться с ними нужно осторожно.\n\nТипичное применение — пропеллент.\n\nВ ЕС и Великобритании не разрешены. В США разрешены как пропеллент."
+    }
+  },
+  {
+    "code": "E919",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Nitrosyl chloride",
+      "text": "Nitrosyl chloride is a toxic, reactive yellow gas made industrially from nitrogen oxides and chlorine. It is a strong oxidizing and bleaching agent.\n\nIt has been described as a flour treatment agent, but it is not used in modern food production.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Нитрозилхлорид",
+      "text": "Нитрозилхлорид — ядовитый реакционноспособный жёлтый газ, получаемый промышленно из оксидов азота и хлора. Сильный окислитель и отбеливатель.\n\nОписан как средство обработки муки, но в современном пищевом производстве не применяется.\n\nВ ЕС, Великобритании и США не разрешён."
+    }
+  },
+  {
+    "code": "E920",
+    "eu_authorised": true,
+    "eu_official_name": "L-cysteine",
+    "en": {
+      "name": "L-cysteine",
+      "text": "L-cysteine is a sulfur-containing amino acid found in proteins. For food use it is obtained by fermentation or by hydrolysis of keratin-rich material such as feathers or hair.\n\nIt works as a dough improver, making dough softer and easier to handle in bread, biscuits and flour products.\n\nIt is approved in the EU for biscuits and flour, approved in the UK, and approved in the US for dough and baked goods."
+    },
+    "ru": {
+      "name": "L-цистеин",
+      "text": "L-цистеин — серосодержащая аминокислота, входящая в состав белков. Для пищевых целей его получают ферментацией или гидролизом богатого кератином сырья, например перьев или волос.\n\nДействует как улучшитель теста: делает тесто мягче и удобнее в работе при производстве хлеба, печенья и мучных изделий.\n\nВ ЕС разрешён для печенья и муки, в Великобритании разрешён, в США разрешён для теста и выпечки."
+    }
+  },
+  {
+    "code": "E921",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "L-cystine",
+      "text": "L-cystine is an amino acid formed from two cysteine molecules joined by a sulfur bridge. It occurs naturally in proteins such as hair and wool, and is a white crystalline powder.\n\nIt is listed as an improving agent for flour, but is mainly known as a nutrient supplement.\n\nIt is not approved in the EU or the UK. In the US it is approved as a nutrient."
+    },
+    "ru": {
+      "name": "L-цистин",
+      "text": "L-цистин — аминокислота, образованная двумя молекулами цистеина, соединёнными серным мостиком. Встречается в белках, например в волосах и шерсти; белый кристаллический порошок.\n\nУказан как улучшитель муки, но больше известен как пищевая добавка-нутриент.\n\nВ ЕС и Великобритании не разрешён. В США разрешён как питательное вещество."
+    }
+  },
+  {
+    "code": "E922",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Potassium persulfate",
+      "text": "Potassium persulfate is an inorganic salt, a white crystalline powder and a strong oxidizing agent made industrially.\n\nIt is listed as a flour improving agent. It is also used as a bleaching and polymerisation agent in industry.\n\nIt is not approved in the EU or the UK. In the US it is approved as a coating on citrus fruit and for food packaging only."
+    },
+    "ru": {
+      "name": "Персульфат калия",
+      "text": "Персульфат калия — неорганическая соль, белый кристаллический порошок и сильный окислитель, получаемый промышленно.\n\nУказан как улучшитель муки. В промышленности его также используют как отбеливатель и инициатор полимеризации.\n\nВ ЕС и Великобритании не разрешён. В США разрешён только как покрытие для цитрусовых и для упаковки пищевых продуктов."
+    }
+  },
+  {
+    "code": "E923",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ammonium persulfate",
+      "text": "Ammonium persulfate is an inorganic salt, a white crystalline powder that is a strong oxidizing agent. It is produced industrially.\n\nIt is listed as a flour improving agent that strengthens dough. It is also used in industry for bleaching and etching.\n\nIt is not approved in the EU or the UK, and is approved in the US."
+    },
+    "ru": {
+      "name": "Персульфат аммония",
+      "text": "Персульфат аммония — неорганическая соль, белый кристаллический порошок, сильный окислитель. Производится промышленно.\n\nУказан как улучшитель муки, укрепляющий тесто. В промышленности применяется также для отбеливания и травления.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E924",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Potassium bromate",
+      "text": "Potassium bromate is an inorganic salt, a white crystalline powder and a strong oxidizing agent. It was widely used as a flour improver to strengthen dough and increase loaf volume.\n\nIt is listed as an improving agent. It has been restricted because it is considered a potential carcinogen.\n\nIt is not approved in the EU and UK for this reason. In the US it is approved for the malting of barley."
+    },
+    "ru": {
+      "name": "Бромат калия",
+      "text": "Бромат калия — неорганическая соль, белый кристаллический порошок и сильный окислитель. Широко использовался как улучшитель муки, укрепляющий тесто и увеличивающий объём хлеба.\n\nУказан как улучшитель. Его применение ограничено, поскольку он считается потенциальным канцерогеном.\n\nПо этой причине в ЕС и Великобритании не разрешён. В США разрешён для солодирования ячменя."
+    }
+  },
+  {
+    "code": "E924b",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Calcium bromate",
+      "text": "Calcium bromate is an inorganic salt of bromic acid and a strong oxidizing agent. It is made industrially and is related to potassium bromate.\n\nIt is listed as an improving agent, used historically to strengthen flour and dough in baking.\n\nIt is not approved in the EU or the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Бромат кальция",
+      "text": "Бромат кальция — неорганическая соль бромноватой кислоты и сильный окислитель. Производится промышленно, родственен бромату калия.\n\nУказан как улучшитель; исторически применялся для укрепления муки и теста в хлебопечении.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E925",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Chlorine",
+      "text": "Chlorine is a greenish-yellow toxic gas that occurs naturally only in compounds. It is produced industrially, mostly from salt.\n\nIt is listed as a preservative, bleach and improving agent. It has been used to bleach and treat flour and, more widely, to disinfect water.\n\nIt is not approved in the EU or the UK, and is approved in the US."
+    },
+    "ru": {
+      "name": "Хлор",
+      "text": "Хлор — ядовитый жёлто-зелёный газ, в природе встречающийся только в соединениях. Производится промышленно, в основном из поваренной соли.\n\nУказан как консервант, отбеливатель и улучшитель. Применялся для отбеливания и обработки муки, а шире — для обеззараживания воды.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E926",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Chlorine dioxide",
+      "text": "Chlorine dioxide is a yellow-green gas with a strong oxidizing action, made industrially. It is used as a bleach and disinfectant, notably for treating drinking water.\n\nIn food it is listed as a bleach, used for flour treatment.\n\nIt is approved in the EU and not approved in the UK. In the US it is approved for treating water."
+    },
+    "ru": {
+      "name": "Диоксид хлора",
+      "text": "Диоксид хлора — жёлто-зелёный газ с сильным окислительным действием, получаемый промышленно. Применяется как отбеливатель и дезинфицирующее средство, в частности для обработки питьевой воды.\n\nВ пищевых продуктах указан как отбеливатель, использовался при обработке муки.\n\nВ ЕС разрешён, в Великобритании не разрешён. В США разрешён для обработки воды."
+    }
+  },
+  {
+    "code": "E927a",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Azodicarbonamide",
+      "text": "Azodicarbonamide is a synthetic yellow-orange powder. It is used as a flour improver that bleaches the flour and strengthens dough, and also as a foaming agent in plastics.\n\nIt is listed as an improving agent for bread and flour.\n\nIt has been identified as a Substance of Very High Concern in the EU and is not approved in the UK. In the US it is approved for flour and bread."
+    },
+    "ru": {
+      "name": "Азодикарбонамид",
+      "text": "Азодикарбонамид — синтетический жёлто-оранжевый порошок. Используется как улучшитель муки, который отбеливает муку и укрепляет тесто, а также как вспениватель при производстве пластмасс.\n\nУказан как улучшитель для хлеба и муки.\n\nВ ЕС он признан особо опасным веществом (Substance of Very High Concern), в Великобритании не разрешён. В США разрешён для муки и хлеба."
+    }
+  },
+  {
+    "code": "E927b",
+    "eu_authorised": true,
+    "eu_official_name": "Carbamide",
+    "en": {
+      "name": "Carbamide",
+      "text": "Carbamide, better known as urea, is a simple nitrogen compound that is produced by the body and excreted in urine. The industrial product is made synthetically.\n\nIt is listed as an improving agent. It is used in chewing gum and in some yeast-based products as a nitrogen source.\n\nIt is approved in the EU for chewing gum and not approved in the UK. In the US it is approved for baked goods, alcohol and gelatin products."
+    },
+    "ru": {
+      "name": "Карбамид (мочевина)",
+      "text": "Карбамид, или мочевина, — простое азотсодержащее соединение, вырабатываемое организмом и выводимое с мочой. Промышленный продукт получают синтетически.\n\nУказан как улучшитель. Используется в жевательной резинке и в некоторых продуктах на дрожжах как источник азота.\n\nВ ЕС разрешён для жевательной резинки, в Великобритании не разрешён. В США разрешён для выпечки, алкоголя и желатиновых продуктов."
+    }
+  },
+  {
+    "code": "E928",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Benzoyl peroxide",
+      "text": "Benzoyl peroxide is a synthetic organic peroxide, a white powder with a bleaching and oxidizing action. It is also well known as an acne treatment.\n\nIn food it is listed as a bleach, used to whiten flour and some whey and cheese products.\n\nIt is not approved in the EU or the UK. In the US it is approved for certain foods."
+    },
+    "ru": {
+      "name": "Пероксид бензоила",
+      "text": "Пероксид бензоила — синтетическая органическая перекись, белый порошок с отбеливающим и окислительным действием. Хорошо известен также как средство от акне.\n\nВ пищевых продуктах указан как отбеливатель; применялся для отбеливания муки, а также сыворотки и некоторых сыров.\n\nВ ЕС и Великобритании не разрешён. В США разрешён для некоторых продуктов."
+    }
+  }
+]

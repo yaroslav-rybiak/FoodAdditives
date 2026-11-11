@@ -54,6 +54,9 @@ public class DetailActivity extends BaseActivity {
         setTitle(additive.code);
         TextView nameView = findViewById(R.id.name);
         nameView.setText(additive.name);
+        TextView statusView = findViewById(R.id.status);
+        statusView.setText(additive.euAuthorised
+                ? R.string.eu_authorised : R.string.eu_not_authorised);
         TextView textView = findViewById(R.id.text);
         textView.setText(additive.text);
     }
@@ -62,6 +65,7 @@ public class DetailActivity extends BaseActivity {
         setUpScreen(R.layout.activity_detail, true);
         setTitle(R.string.about_label);
         findViewById(R.id.name).setVisibility(View.GONE);
+        findViewById(R.id.status).setVisibility(View.GONE);
         TextView textView = findViewById(R.id.text);
         textView.setText(HtmlCompat.fromHtml(
                 getString(R.string.about_text), HtmlCompat.FROM_HTML_MODE_LEGACY));

@@ -1,0 +1,323 @@
+[
+  {
+    "code": "E1000",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Cholic acid",
+      "text": "Cholic acid is a bile acid found in the bile of mammals. It can be isolated from animal bile or prepared from it chemically.\n\nIn food it has been listed as an emulsifier, helping fats and water mix. It is rarely used in modern foods and is not a common ingredient.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Холевая кислота",
+      "text": "Холевая кислота — одна из жёлчных кислот, содержится в жёлчи млекопитающих. Её выделяют из животной жёлчи или получают из неё химическим путём.\n\nВ пищевой промышленности значится как эмульгатор, помогающий смешивать жиры и воду. В современных продуктах применяется редко.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1001",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Choline salts",
+      "text": "Choline salts are compounds of choline, an essential nutrient that occurs naturally in egg yolk, liver and many other foods. The salts used as additives are usually produced industrially.\n\nThey are listed as emulsifiers, which help keep fat and water mixed in a product.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Соли холина",
+      "text": "Соли холина — соединения холина, незаменимого питательного вещества, которое естественно содержится в яичном желтке, печени и многих других продуктах. Как добавки используются обычно вещества промышленного производства.\n\nОни относятся к эмульгаторам, то есть помогают удерживать жир и воду в однородной смеси.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1100",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Amylase",
+      "text": "Amylases are enzymes that break down starch into smaller sugars. They are produced by microorganisms such as fungi and bacteria, and also occur in malt, saliva and the pancreas.\n\nIn food they are used as stabilisers and flavour enhancers, mainly in baking, where they improve dough and bread texture, and in brewing and syrup production.\n\nNo EU or US approval status is recorded for it. Enzyme dust may trigger allergic reactions in bakery workers."
+    },
+    "ru": {
+      "name": "Амилаза",
+      "text": "Амилазы — ферменты, расщепляющие крахмал до более простых сахаров. Их получают с помощью микроорганизмов (грибов, бактерий), а также они содержатся в солоде, слюне и поджелудочной железе.\n\nВ пищевой промышленности применяются как стабилизаторы и усилители вкуса, в основном в хлебопечении, где улучшают тесто и текстуру хлеба, а также при пивоварении и производстве сиропов.\n\nСведений о разрешении этой добавки в ЕС и США нет. Ферментная пыль может вызывать аллергические реакции у работников пекарен."
+    }
+  },
+  {
+    "code": "E1101",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Proteases",
+      "text": "Proteases are enzymes that break down proteins. The group includes protease itself, papain (from papaya), bromelain (from pineapple) and ficin (from figs). Some are also produced by microorganisms.\n\nIn food they are used as stabilisers and flavour enhancers, for example to soften meat, improve dough, clarify beer and speed cheese ripening.\n\nNo EU or US approval status is recorded for it. Inhaled enzyme dust can cause allergic reactions in workers."
+    },
+    "ru": {
+      "name": "Протеазы",
+      "text": "Протеазы — ферменты, расщепляющие белки. В группу входят сама протеаза, папаин (из папайи), бромелаин (из ананаса) и фицин (из инжира). Часть протеаз получают с помощью микроорганизмов.\n\nИспользуются как стабилизаторы и усилители вкуса: размягчают мясо, улучшают тесто, осветляют пиво, ускоряют созревание сыра.\n\nСведений о разрешении этой добавки в ЕС и США нет. Вдыхание ферментной пыли может вызывать аллергические реакции у работников производства."
+    }
+  },
+  {
+    "code": "E1102",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Glucose oxidase",
+      "text": "Glucose oxidase is an enzyme that converts glucose into gluconic acid while consuming oxygen. For commercial use it is produced by fermentation with fungi such as Aspergillus niger.\n\nIn food it works as an antioxidant by removing oxygen, and it is used to protect products such as egg products, beverages and mayonnaise from oxidative spoilage. It also helps strengthen dough in baking.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Глюкозооксидаза",
+      "text": "Глюкозооксидаза — фермент, который превращает глюкозу в глюконовую кислоту, поглощая кислород. В промышленности его получают ферментацией с помощью грибов, например Aspergillus niger.\n\nВ пище действует как антиокислитель, связывая кислород. Применяется для защиты от окислительной порчи яичных продуктов, напитков, майонеза, а также укрепляет тесто в хлебопечении.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1103",
+    "eu_authorised": true,
+    "eu_official_name": "Invertase",
+    "en": {
+      "name": "Invertase",
+      "text": "Invertase is an enzyme that splits sucrose into glucose and fructose, producing invert sugar. It is obtained mainly from yeast.\n\nIn food it is used as a stabiliser, notably in confectionery to keep fillings soft and liquid, for example in chocolate-covered cherry-type centres and fondants.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Инвертаза",
+      "text": "Инвертаза — фермент, расщепляющий сахарозу на глюкозу и фруктозу, то есть образующий инвертный сахар. Её получают главным образом из дрожжей.\n\nВ пище применяется как стабилизатор, прежде всего в кондитерских изделиях, чтобы начинки и помадки оставались мягкими и жидкими.\n\nРазрешена в ЕС."
+    }
+  },
+  {
+    "code": "E1104",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Lipases",
+      "text": "Lipases are enzymes that break down fats into fatty acids and glycerol. They are obtained from animal tissues or produced by microorganisms.\n\nIn food they are used in cheese making to develop flavour, and in baking and dairy processing.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Липазы",
+      "text": "Липазы — ферменты, расщепляющие жиры на жирные кислоты и глицерин. Их получают из тканей животных или с помощью микроорганизмов.\n\nВ пищевой промышленности используются при производстве сыра для формирования вкуса, а также в хлебопечении и переработке молока.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1105",
+    "eu_authorised": true,
+    "eu_official_name": "Lysozyme",
+    "en": {
+      "name": "Lysozyme",
+      "text": "Lysozyme is an enzyme that breaks down the cell walls of certain bacteria. It occurs naturally in egg white, tears and milk, and is commonly extracted from hen egg white.\n\nIn food it serves as a preservative, for example to prevent unwanted bacterial growth in some cheeses and in wine.\n\nNo EU or US approval status is recorded for it. Because it is derived from egg, it can cause reactions in people with egg allergy."
+    },
+    "ru": {
+      "name": "Лизоцим",
+      "text": "Лизоцим — фермент, разрушающий клеточные стенки некоторых бактерий. Он естественно содержится в яичном белке, слезах и молоке; для промышленности его обычно выделяют из яичного белка кур.\n\nВ пище используется как консервант, например для предотвращения нежелательного роста бактерий в некоторых сырах и в вине.\n\nСведений о разрешении этой добавки в ЕС и США нет. Поскольку лизоцим получают из яиц, он может вызывать реакции у людей с аллергией на яйца."
+    }
+  },
+  {
+    "code": "E1200",
+    "eu_authorised": true,
+    "eu_official_name": "Polydextrose",
+    "en": {
+      "name": "Polydextrose",
+      "text": "Polydextrose is a synthetic polymer of glucose, made by heating glucose with sorbitol and a food-grade acid. It is a low-calorie bulking ingredient that behaves like soluble fibre.\n\nIt is used as a stabiliser, thickener, humectant and carrier, and replaces sugar or fat in baked goods, sweets, desserts and drinks.\n\nIt is approved in the EU. Large amounts may have a laxative effect."
+    },
+    "ru": {
+      "name": "Полидекстроза",
+      "text": "Полидекстроза — синтетический полимер глюкозы, который получают нагреванием глюкозы с сорбитом и пищевой кислотой. Это низкокалорийный наполнитель, по свойствам близкий к растворимым пищевым волокнам.\n\nИспользуется как стабилизатор, загуститель, влагоудерживающий агент и носитель; заменяет сахар или жир в выпечке, сладостях, десертах и напитках.\n\nРазрешена в ЕС. В больших количествах может оказывать слабительное действие."
+    }
+  },
+  {
+    "code": "E1201",
+    "eu_authorised": true,
+    "eu_official_name": "Polyvinylpyrrolidone",
+    "en": {
+      "name": "Polyvinylpyrrolidone",
+      "text": "Polyvinylpyrrolidone, also called povidone or PVP, is a synthetic water-soluble polymer. It is not found in nature.\n\nIn food it is used as a stabiliser and binder, mainly in tablets and food supplements, and as a coating and clarifying aid.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Поливинилпирролидон",
+      "text": "Поливинилпирролидон, или повидон (ПВП), — синтетический водорастворимый полимер. В природе не встречается.\n\nВ пище используется как стабилизатор и связующее вещество, главным образом в таблетках и пищевых добавках, а также как покрытие и вспомогательное средство для осветления.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1202",
+    "eu_authorised": true,
+    "eu_official_name": "Polyvinylpolypyrrolidone",
+    "en": {
+      "name": "Polyvinylpolypyrrolidone",
+      "text": "Polyvinylpolypyrrolidone, or PVPP, is a synthetic cross-linked polymer that does not dissolve in water. It is not found in nature.\n\nIt is used as a stabiliser and processing aid, especially to remove polyphenols from beer and wine and so prevent haze. It is filtered out and largely does not remain in the finished drink.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Поливинилполипирролидон",
+      "text": "Поливинилполипирролидон (ПВПП) — синтетический сшитый полимер, не растворяющийся в воде. В природе не встречается.\n\nИспользуется как стабилизатор и технологическая добавка, прежде всего для удаления полифенолов из пива и вина, чтобы предотвратить помутнение. Затем его отфильтровывают, и в готовом напитке он практически не остаётся.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1203",
+    "eu_authorised": true,
+    "eu_official_name": "Polyvinyl alcohol (PVA)",
+    "en": {
+      "name": "Polyvinyl alcohol",
+      "text": "Polyvinyl alcohol is a synthetic water-soluble polymer produced from polyvinyl acetate. It is not found in nature.\n\nIn food and supplements it is used mainly as a film-forming coating, for example on tablets and capsules.\n\nIt is noted as approved in 2010, but the region is not stated, so its EU and US status is unclear."
+    },
+    "ru": {
+      "name": "Поливиниловый спирт",
+      "text": "Поливиниловый спирт — синтетический водорастворимый полимер, получаемый из поливинилацетата. В природе не встречается.\n\nВ пищевых продуктах и добавках применяется главным образом как плёнкообразующее покрытие, например для таблеток и капсул.\n\nОтмечено, что добавка одобрена в 2010 году, но регион не указан, поэтому её статус в ЕС и США неясен."
+    }
+  },
+  {
+    "code": "E1204",
+    "eu_authorised": true,
+    "eu_official_name": "Pullulan",
+    "en": {
+      "name": "Pullulan",
+      "text": "Pullulan is a natural polysaccharide made of glucose units, produced by fermentation of starch with the fungus Aureobasidium pullulans.\n\nIt forms clear, edible films that are tasteless and resist oxygen, so it is used for coating and glazing, breath-freshening strips and capsules. It also acts as a thickener and binder.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Пуллулан",
+      "text": "Пуллулан — природный полисахарид из остатков глюкозы, получаемый ферментацией крахмала с помощью гриба Aureobasidium pullulans.\n\nОбразует прозрачные съедобные плёнки без вкуса, хорошо защищающие от кислорода, поэтому используется для покрытий и глазировки, освежающих пластинок и капсул. Также служит загустителем и связующим.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1205",
+    "eu_authorised": true,
+    "eu_official_name": "Basic methacrylate copolymer",
+    "en": null,
+    "ru": null
+  },
+  {
+    "code": "E1206",
+    "eu_authorised": true,
+    "eu_official_name": "Neutral methacrylate copolymer",
+    "en": null,
+    "ru": null
+  },
+  {
+    "code": "E1207",
+    "eu_authorised": true,
+    "eu_official_name": "Anionic methacrylate copolymer",
+    "en": null,
+    "ru": null
+  },
+  {
+    "code": "E1208",
+    "eu_authorised": true,
+    "eu_official_name": "Polyvinylpyrrolidone-vinyl acetate copolymer",
+    "en": null,
+    "ru": null
+  },
+  {
+    "code": "E1209",
+    "eu_authorised": true,
+    "eu_official_name": "Polyvinyl alcohol-polyethylene glycol- graft -co-polymer",
+    "en": null,
+    "ru": null
+  },
+  {
+    "code": "E1400",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Dextrin",
+      "text": "Dextrins are carbohydrates made by heating dry starch, sometimes with a little acid. The result, white or yellow dextrin, dissolves more easily than starch. Starch comes from maize, potato, wheat or tapioca.\n\nThey are used as thickening agents and stabilisers, as binders and as coatings in confectionery, snacks and coatings.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Декстрины",
+      "text": "Декстрины — углеводы, получаемые нагреванием сухого крахмала, иногда с небольшим количеством кислоты. Образуются белые или жёлтые декстрины, которые растворяются легче крахмала. Сам крахмал получают из кукурузы, картофеля, пшеницы или тапиоки.\n\nИспользуются как загустители и стабилизаторы, связующие и покрытия в кондитерских изделиях и снеках.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1401",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Acid-treated starch",
+      "text": "Acid-treated starch is a modified starch made by treating native starch (from maize, potato, wheat or tapioca) with a small amount of acid at a temperature below the point where it gelatinises. This gives a thinner paste when cooked.\n\nIt is used as a thickening agent and stabiliser, for instance in confectionery such as gum sweets.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Кислотно-модифицированный крахмал",
+      "text": "Кислотно-модифицированный крахмал получают обработкой нативного крахмала (кукурузного, картофельного, пшеничного или тапиокового) небольшим количеством кислоты при температуре ниже точки клейстеризации. После варки такой крахмал даёт более жидкий клейстер.\n\nИспользуется как загуститель и стабилизатор, например в кондитерских изделиях типа жевательного мармелада.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1402",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Alkaline modified starch",
+      "text": "Alkaline modified starch is made by treating native starch with a dilute alkali such as sodium hydroxide. The starch source is typically maize, potato, wheat or tapioca.\n\nThe treatment lowers the viscosity of the cooked starch. It is used as a thickening agent and stabiliser in foods such as confectionery and desserts.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Щёлочно-модифицированный крахмал",
+      "text": "Щёлочно-модифицированный крахмал получают обработкой нативного крахмала разбавленной щёлочью, например гидроксидом натрия. Исходным сырьём обычно служат кукуруза, картофель, пшеница или тапиока.\n\nОбработка снижает вязкость сваренного крахмала. Применяется как загуститель и стабилизатор в кондитерских изделиях и десертах.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1403",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Bleached starch",
+      "text": "Bleached starch is native starch lightened by treatment with a bleaching agent, for example hydrogen peroxide or a small amount of peracetic acid. Its properties are otherwise close to those of ordinary starch.\n\nIt is used as a thickening agent and stabiliser where a whiter appearance is wanted.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Отбелённый крахмал",
+      "text": "Отбелённый крахмал — нативный крахмал, осветлённый отбеливающим агентом, например перекисью водорода или небольшим количеством надуксусной кислоты. По остальным свойствам он близок к обычному крахмалу.\n\nИспользуется как загуститель и стабилизатор там, где нужен более белый цвет.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1404",
+    "eu_authorised": true,
+    "eu_official_name": "Oxidised starch",
+    "en": {
+      "name": "Oxidized starch",
+      "text": "Oxidized starch is native starch treated with an oxidising agent, usually sodium hypochlorite. This gives a starch that forms a clearer, more stable paste with good adhesion.\n\nIt is used as a thickening agent and emulsifier, for example in batters, coatings, dressings and confectionery.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Окисленный крахмал",
+      "text": "Окисленный крахмал — нативный крахмал, обработанный окислителем, обычно гипохлоритом натрия. Он образует более прозрачный и стабильный клейстер с хорошей адгезией.\n\nИспользуется как загуститель и эмульгатор, например в кляре, панировке, соусах и кондитерских изделиях.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1405",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Enzyme-treated starch",
+      "text": "Enzyme-treated starch is starch partly broken down by food-grade enzymes such as amylase. The result is a product like a dextrin that dissolves more readily and forms thinner solutions.\n\nIt is used as a thickener or bulking ingredient.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Крахмал, обработанный ферментами",
+      "text": "Это крахмал, частично расщеплённый пищевыми ферментами, например амилазой. Получается продукт, похожий на декстрин: он лучше растворяется и образует менее вязкие растворы.\n\nПрименяется как загуститель или наполнитель.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1410",
+    "eu_authorised": true,
+    "eu_official_name": "Monostarch phosphate",
+    "en": {
+      "name": "Monostarch phosphate",
+      "text": "Monostarch phosphate is a chemically modified starch in which starch is esterified with phosphate, for example with orthophosphoric acid or sodium tripolyphosphate. The starch comes from maize, potato or similar crops.\n\nIt is used as a thickening agent and stabiliser, particularly in frozen foods, sauces and desserts, because it holds up well to freezing and thawing.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Моно-крахмалфосфат",
+      "text": "Моно-крахмалфосфат — химически модифицированный крахмал, этерифицированный фосфатом, например ортофосфорной кислотой или триполифосфатом натрия. Крахмал берут из кукурузы, картофеля и подобных культур.\n\nИспользуется как загуститель и стабилизатор, особенно в замороженных продуктах, соусах и десертах, поскольку хорошо переносит заморозку и размораживание.\n\nРазрешён в ЕС."
+    }
+  },
+  {
+    "code": "E1411",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Distarch glycerol",
+      "text": "Distarch glycerol is a modified starch in which starch chains are cross-linked with glycerol. The starch typically comes from maize, potato or other crops.\n\nIt is used as a thickening agent and emulsifier in foods, and the cross-linking improves stability during cooking.\n\nNo EU or US approval status is recorded for it."
+    },
+    "ru": {
+      "name": "Дикрахмалглицерин",
+      "text": "Дикрахмалглицерин — модифицированный крахмал, цепи которого сшиты глицерином. Исходный крахмал обычно кукурузный, картофельный или из других культур.\n\nПрименяется как загуститель и эмульгатор; сшивка повышает устойчивость крахмала при варке.\n\nСведений о разрешении этой добавки в ЕС и США нет."
+    }
+  },
+  {
+    "code": "E1412",
+    "eu_authorised": true,
+    "eu_official_name": "Distarch phosphate",
+    "en": {
+      "name": "Distarch phosphate",
+      "text": "Distarch phosphate is a modified starch in which starch chains are cross-linked with phosphate, using sodium trimetaphosphate or phosphorus oxychloride. The starch comes from maize, potato, tapioca or similar sources.\n\nThe cross-linking makes the starch resistant to heat, acid and stirring. It is used as a thickening agent and stabiliser in sauces, soups, desserts and baby foods.\n\nIt is approved in the EU."
+    },
+    "ru": {
+      "name": "Дикрахмалфосфат",
+      "text": "Дикрахмалфосфат — модифицированный крахмал, цепи которого сшиты фосфатом с помощью триметафосфата натрия или хлорокиси фосфора. Крахмал берут из кукурузы, картофеля, тапиоки и подобных источников.\n\nСшивка делает крахмал устойчивым к нагреванию, кислотам и перемешиванию. Используется как загуститель и стабилизатор в соусах, супах, десертах и детском питании.\n\nРазрешён в ЕС."
+    }
+  }
+]

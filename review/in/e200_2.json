@@ -1,0 +1,392 @@
+[
+  {
+    "code": "E236",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Formic acid",
+      "text": "Formic acid is the simplest carboxylic acid. It occurs naturally in ant venom and nettles, but the industrial product is made synthetically. It has antimicrobial properties.\n\nIt is also used in silage preservation and leather processing, and has had only limited use in foods.\n\nRegulatory status: not approved in the EU and UK. It is approved in the US."
+    },
+    "ru": {
+      "name": "Муравьиная кислота",
+      "text": "Муравьиная кислота — простейшая карбоновая кислота. Встречается в природе в яде муравьёв и в крапиве, но промышленный продукт получают синтетически. Обладает антимикробным действием.\n\nТакже используется для консервирования силоса и обработки кожи, а в пищевых продуктах применялась ограниченно.\n\nПравовой статус: в ЕС и Великобритании не разрешена. В США разрешена."
+    }
+  },
+  {
+    "code": "E237",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Sodium formate",
+      "text": "Sodium formate is the sodium salt of formic acid, made synthetically. It has antimicrobial properties and is used in various industrial processes.\n\nIt is an obscure food additive with very limited documented use in food itself.\n\nRegulatory status: not approved in the EU and UK. In the US it is approved in food packaging as a processing aid."
+    },
+    "ru": {
+      "name": "Формиат натрия",
+      "text": "Формиат натрия — натриевая соль муравьиной кислоты, получаемая синтетически. Обладает антимикробным действием и применяется в различных промышленных процессах.\n\nЭто малоизвестная пищевая добавка, сведений о её применении непосредственно в продуктах немного.\n\nПравовой статус: в ЕС и Великобритании не разрешён. В США разрешён в упаковке пищевых продуктов как технологическое вспомогательное средство."
+    }
+  },
+  {
+    "code": "E238",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Calcium formate",
+      "text": "Calcium formate is the calcium salt of formic acid, made synthetically. It has mild antimicrobial properties and is mostly used outside of food, for example in construction materials and animal feed.\n\nIt has very limited relevance as a food additive.\n\nRegulatory status: not approved in the EU, UK or US."
+    },
+    "ru": {
+      "name": "Формиат кальция",
+      "text": "Формиат кальция — кальциевая соль муравьиной кислоты, получаемая синтетически. Обладает слабым антимикробным действием и в основном применяется вне пищевой отрасли, например в строительных материалах и кормах для животных.\n\nКак пищевая добавка почти не используется.\n\nПравовой статус: не разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E239",
+    "eu_authorised": true,
+    "eu_official_name": "Hexamethylene tetramine",
+    "en": {
+      "name": "Hexamine",
+      "text": "Hexamine, or hexamethylenetetramine, is a synthetic compound made from formaldehyde and ammonia. In acidic conditions it slowly releases formaldehyde, which gives it the preservative effect.\n\nIt is permitted only for Provolone cheese in the EU, where it prevents swelling caused by bacteria.\n\nRegulatory status: approved in the EU only in Provolone cheese and approved in the UK. It is not approved in the US."
+    },
+    "ru": {
+      "name": "Гексаметилентетрамин",
+      "text": "Гексаметилентетрамин (гексамин, уротропин) — синтетическое соединение из формальдегида и аммиака. В кислой среде он медленно выделяет формальдегид, чем и объясняется консервирующее действие.\n\nВ ЕС разрешён только для сыра проволоне, где предотвращает вспучивание, вызываемое бактериями.\n\nПравовой статус: в ЕС разрешён только в сыре проволоне, в Великобритании разрешён. В США не разрешён."
+    }
+  },
+  {
+    "code": "E240",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Formaldehyde",
+      "text": "Formaldehyde is a simple, reactive gas made industrially. It is a powerful disinfectant and preservative but is toxic, and it is classified as a human carcinogen when inhaled.\n\nIt is not used directly as a food preservative today.\n\nRegulatory status: not approved in the EU and UK. In the US it is approved in food packaging and food contact products as a fumigant."
+    },
+    "ru": {
+      "name": "Формальдегид",
+      "text": "Формальдегид — простой реакционноспособный газ, получаемый промышленно. Это сильный дезинфицирующий агент и консервант, но он токсичен и при вдыхании признан канцерогеном для человека.\n\nСегодня как пищевой консервант напрямую не применяется.\n\nПравовой статус: в ЕС и Великобритании не разрешён. В США разрешён в упаковке и материалах, контактирующих с пищей, как фумигант."
+    }
+  },
+  {
+    "code": "E242",
+    "eu_authorised": true,
+    "eu_official_name": "Dimethyl dicarbonate",
+    "en": {
+      "name": "Dimethyl dicarbonate",
+      "text": "Dimethyl dicarbonate (DMDC) is a synthetic preservative that kills yeasts and some bacteria in drinks. It breaks down within hours into carbon dioxide and a small amount of methanol, so little remains in the finished product.\n\nIt is used in wine, cold-filled soft drinks and flavoured drinks.\n\nRegulatory status: approved in the EU in some alcoholic beverages and flavoured drinks and approved in the UK. In the US it is approved in certain beverages as an antimicrobial agent."
+    },
+    "ru": {
+      "name": "Диметилдикарбонат",
+      "text": "Диметилдикарбонат (ДМДК) — синтетический консервант, уничтожающий дрожжи и некоторые бактерии в напитках. В течение нескольких часов он распадается на диоксид углерода и небольшое количество метанола, поэтому в готовом продукте остаётся мало.\n\nПрименяется в вине, безалкогольных напитках холодного розлива и ароматизированных напитках.\n\nПравовой статус: в ЕС разрешён в некоторых алкогольных и ароматизированных напитках, в Великобритании разрешён. В США разрешён в некоторых напитках как антимикробное средство."
+    }
+  },
+  {
+    "code": "E243",
+    "eu_authorised": true,
+    "eu_official_name": "Ethyl lauroyl arginate",
+    "en": {
+      "name": "Ethyl lauroyl arginate",
+      "text": "Ethyl lauroyl arginate (LAE) is a synthetic surfactant made from lauric acid, the amino acid arginine and ethanol. It disrupts bacterial cell membranes and breaks down in the body into natural components.\n\nIn the EU it is used in certain heat-treated meat products such as sausages.\n\nRegulatory status: approved in the EU in certain heat-treated meat products and approved in the UK. It is not approved in the US."
+    },
+    "ru": {
+      "name": "Этиллауроиларгинат",
+      "text": "Этиллауроиларгинат (ЛАЭ) — синтетическое поверхностно-активное вещество, получаемое из лауриновой кислоты, аминокислоты аргинина и этанола. Он нарушает клеточные мембраны бактерий, а в организме распадается на природные компоненты.\n\nВ ЕС используется в некоторых термически обработанных мясных продуктах, например сосисках.\n\nПравовой статус: в ЕС разрешён в некоторых термически обработанных мясных продуктах, в Великобритании разрешён. В США не разрешён."
+    }
+  },
+  {
+    "code": "E246",
+    "eu_authorised": true,
+    "eu_official_name": null,
+    "en": {
+      "name": "Glycolipids",
+      "text": "Glycolipids are a class of compounds consisting of a sugar attached to a fatty part. They are listed under E246 as a preservative, but the exact substance is not specified.\n\nUse is restricted to some alcoholic beverages and flavoured drinks in the EU.\n\nRegulatory status: approved in the EU in some alcoholic beverages and flavoured drinks, not approved in the UK, and approved in the US in certain beverages as an antimicrobial agent."
+    },
+    "ru": {
+      "name": "Гликолипиды",
+      "text": "Гликолипиды — класс соединений, в которых сахар связан с жирной частью молекулы. Под кодом E246 они значатся как консервант, но точное вещество не уточняется.\n\nВ ЕС применение ограничено некоторыми алкогольными и ароматизированными напитками.\n\nПравовой статус: в ЕС разрешены в некоторых алкогольных и ароматизированных напитках, в Великобритании не разрешены, в США разрешены в некоторых напитках как антимикробное средство."
+    }
+  },
+  {
+    "code": "E249",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium nitrite",
+    "en": {
+      "name": "Potassium nitrite",
+      "text": "Potassium nitrite is a synthetic salt used in curing meat. It prevents growth of dangerous bacteria such as Clostridium botulinum and gives cured meat its pink colour and typical flavour.\n\nIt is used in ham, bacon and sausages.\n\nRegulatory status: approved in the EU in certain meat products, approved in the UK, and approved in the US in certain meat products. Nitrites can form nitrosamines, some of which are carcinogenic. In 2023 a French court upheld the right of the Yuka app to describe E249 to E252 as a cancer risk."
+    },
+    "ru": {
+      "name": "Нитрит калия",
+      "text": "Нитрит калия — синтетическая соль, используемая при посоле мяса. Она препятствует росту опасных бактерий, например Clostridium botulinum, и придаёт копчёностям розовый цвет и характерный вкус.\n\nПрименяется в ветчине, беконе и колбасах.\n\nПравовой статус: в ЕС разрешён в некоторых мясных продуктах, в Великобритании разрешён, в США разрешён в некоторых мясных продуктах. Нитриты могут образовывать нитрозамины, часть которых канцерогенна. В 2023 году французский суд признал за приложением Yuka право называть E249–E252 «риском рака»."
+    }
+  },
+  {
+    "code": "E250",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium nitrite",
+    "en": {
+      "name": "Sodium nitrite",
+      "text": "Sodium nitrite is a synthetic salt and the most common curing agent for meat. It prevents growth of dangerous bacteria such as Clostridium botulinum and gives cured meat its pink colour and flavour.\n\nIt is used in ham, bacon, salami and sausages.\n\nRegulatory status: approved in the EU in certain meat products, approved in the UK, and approved in the US in certain meat products. Nitrites can form nitrosamines, some of which are carcinogenic, so permitted amounts are limited."
+    },
+    "ru": {
+      "name": "Нитрит натрия",
+      "text": "Нитрит натрия — синтетическая соль и самый распространённый посолочный агент для мяса. Он препятствует росту опасных бактерий, например Clostridium botulinum, и придаёт колбасам и ветчине розовый цвет и вкус.\n\nПрименяется в ветчине, беконе, салями и колбасах.\n\nПравовой статус: в ЕС разрешён в некоторых мясных продуктах, в Великобритании разрешён, в США разрешён в некоторых мясных продуктах. Нитриты могут образовывать нитрозамины, часть которых канцерогенна, поэтому допустимые количества ограничены."
+    }
+  },
+  {
+    "code": "E251",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium nitrate",
+    "en": {
+      "name": "Sodium nitrate",
+      "text": "Sodium nitrate, also known as Chile saltpetre, occurs as a natural mineral but the additive is typically produced industrially. In cured meat, bacteria gradually convert it to nitrite, which acts as the active preservative.\n\nIt is used in some long-cured meats and certain cheeses.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US in certain meat products. Nitrates and nitrites can form nitrosamines, so permitted levels are limited."
+    },
+    "ru": {
+      "name": "Нитрат натрия",
+      "text": "Нитрат натрия, или чилийская селитра, встречается в природе как минерал, но добавку обычно получают промышленно. В посоленном мясе бактерии постепенно превращают его в нитрит, который и является активным консервантом.\n\nПрименяется в некоторых долго созревающих мясных изделиях и отдельных сырах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён, в США разрешён в некоторых мясных продуктах. Нитраты и нитриты могут образовывать нитрозамины, поэтому допустимые уровни ограничены."
+    }
+  },
+  {
+    "code": "E252",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium nitrate",
+    "en": {
+      "name": "Potassium nitrate",
+      "text": "Potassium nitrate, known as saltpetre, occurs naturally as a mineral and is also made industrially. In cured meat it is converted by bacteria to nitrite, which is the active preservative.\n\nIt has traditionally been used in long-cured meats and some cheeses.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US in certain meat products. Nitrates and nitrites can form nitrosamines, so permitted levels are limited."
+    },
+    "ru": {
+      "name": "Нитрат калия",
+      "text": "Нитрат калия, или калийная селитра, встречается в природе как минерал и также производится промышленно. В посоленном мясе бактерии превращают его в нитрит, который является активным консервантом.\n\nТрадиционно используется в долго созревающих мясных изделиях и некоторых сырах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён, в США разрешён в некоторых мясных продуктах. Нитраты и нитриты могут образовывать нитрозамины, поэтому допустимые уровни ограничены."
+    }
+  },
+  {
+    "code": "E260",
+    "eu_authorised": true,
+    "eu_official_name": "Acetic acid",
+    "en": {
+      "name": "Acetic acid",
+      "text": "Acetic acid is the main acid in vinegar and is produced by fermentation or synthetically. It lowers the pH of food, which slows microbial growth and adds a sour taste.\n\nIt is used in pickles, sauces, dressings, mayonnaise, ketchup and bread.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US. It is a common household ingredient and is considered safe at the levels used in food."
+    },
+    "ru": {
+      "name": "Уксусная кислота",
+      "text": "Уксусная кислота — основная кислота уксуса, получаемая брожением или синтетически. Она снижает pH продукта, замедляя рост микроорганизмов, и придаёт кислый вкус.\n\nПрименяется в маринадах, соусах, заправках, майонезе, кетчупе и хлебе.\n\nПравовой статус: в ЕС разрешена с ограничениями, в Великобритании и США разрешена. Это обычный бытовой ингредиент, в используемых количествах считается безопасным."
+    }
+  },
+  {
+    "code": "E261",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium acetates d",
+    "en": {
+      "name": "Potassium acetates",
+      "text": "Potassium acetate is the potassium salt of acetic acid, made by neutralising the acid. It regulates acidity and has a mild preservative effect, with a slightly salty taste.\n\nIt is used in meat products, baked goods and sauces, and can serve as a partial sodium substitute in some recipes.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Ацетаты калия",
+      "text": "Ацетат калия — калиевая соль уксусной кислоты, получаемая нейтрализацией кислоты. Регулирует кислотность и слабо консервирует, с лёгким солоноватым привкусом.\n\nИспользуется в мясных изделиях, выпечке и соусах и в некоторых рецептурах может частично заменять натрий.\n\nПравовой статус: в ЕС разрешены с ограничениями, в Великобритании и США разрешены."
+    }
+  },
+  {
+    "code": "E262",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium acetates",
+    "en": {
+      "name": "Sodium acetates",
+      "text": "Sodium acetates include sodium acetate and sodium diacetate, which are salts of acetic acid made synthetically. They regulate acidity and help prevent mould and bacteria, and they give a vinegar-like flavour.\n\nThey are used in crisps, savoury snacks, baked goods, sauces and meat products.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+    },
+    "ru": {
+      "name": "Ацетаты натрия",
+      "text": "К ацетатам натрия относятся ацетат натрия и диацетат натрия — синтетические соли уксусной кислоты. Они регулируют кислотность, помогают предотвращать развитие плесени и бактерий и дают уксусный привкус.\n\nПрименяются в чипсах, снеках, выпечке, соусах и мясных изделиях.\n\nПравовой статус: в ЕС разрешены с ограничениями, в Великобритании разрешены, в США разрешены с ограничениями."
+    }
+  },
+  {
+    "code": "E263",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium acetate",
+    "en": {
+      "name": "Calcium acetate",
+      "text": "Calcium acetate is the calcium salt of acetic acid, produced synthetically. It acts as an acidity regulator and mild preservative and can also act as a firming agent in some foods.\n\nIt is used in baked goods, fillings and some other processed foods.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+    },
+    "ru": {
+      "name": "Ацетат кальция",
+      "text": "Ацетат кальция — кальциевая соль уксусной кислоты, получаемая синтетически. Служит регулятором кислотности и слабым консервантом, а в некоторых продуктах может выполнять роль уплотнителя.\n\nИспользуется в выпечке, начинках и некоторых других переработанных продуктах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён, в США разрешён с ограничениями."
+    }
+  },
+  {
+    "code": "E264",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ammonium acetate",
+      "text": "Ammonium acetate is a synthetic salt formed from acetic acid and ammonia. It acts as a preservative and acidity regulator.\n\nIt is a minor additive with little documented food use, and few further details are widely known.\n\nRegulatory status: not approved in the EU and UK. In the US it is listed as a food additive but not approved. It is approved in Australia and New Zealand."
+    },
+    "ru": {
+      "name": "Ацетат аммония",
+      "text": "Ацетат аммония — синтетическая соль уксусной кислоты и аммиака. Выступает консервантом и регулятором кислотности.\n\nЭто малоупотребительная добавка; сведений о её применении в пище немного, и подробности широко не известны.\n\nПравовой статус: в ЕС и Великобритании не разрешён. В США значится в перечне пищевых добавок, но не разрешён. В Австралии и Новой Зеландии разрешён."
+    }
+  },
+  {
+    "code": "E265",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Dehydroacetic acid",
+      "text": "Dehydroacetic acid is a synthetic organic acid with antifungal and antibacterial activity. It has also been used in cosmetics.\n\nIn food its use is very limited. In the US it is permitted only on cut or peeled squash, where it helps prevent spoilage.\n\nRegulatory status: not approved in the EU and UK. It is approved in the US for cut or peeled squash only."
+    },
+    "ru": {
+      "name": "Дегидроуксусная кислота",
+      "text": "Дегидроуксусная кислота — синтетическая органическая кислота с противогрибковым и антибактериальным действием. Также применялась в косметике.\n\nВ пище её использование очень ограничено: в США допускается только для нарезанных или очищенных кабачков, где она помогает предотвратить порчу.\n\nПравовой статус: в ЕС и Великобритании не разрешена. В США разрешена только для нарезанных или очищенных кабачков."
+    }
+  },
+  {
+    "code": "E266",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Sodium dehydroacetate",
+      "text": "Sodium dehydroacetate is the sodium salt of dehydroacetic acid, made synthetically. It is more soluble in water than the acid and is used as an antifungal and antibacterial preservative.\n\nIn food its use is very limited, and it is better known from cosmetics.\n\nRegulatory status: not approved in the EU and UK. It is approved in the US for cut or peeled squash only."
+    },
+    "ru": {
+      "name": "Дегидроацетат натрия",
+      "text": "Дегидроацетат натрия — натриевая соль дегидроуксусной кислоты, получаемая синтетически. Он лучше растворяется в воде, чем кислота, и применяется как противогрибковый и антибактериальный консервант.\n\nВ пище его использование очень ограничено; он лучше известен по косметике.\n\nПравовой статус: в ЕС и Великобритании не разрешён. В США разрешён только для нарезанных или очищенных кабачков."
+    }
+  },
+  {
+    "code": "E267",
+    "eu_authorised": true,
+    "eu_official_name": null,
+    "en": {
+      "name": "Buffered vinegar",
+      "text": "Buffered vinegar is vinegar that has been partly neutralised, typically with sodium hydroxide, to produce a mix of acetic acid and acetates. It limits bacterial growth with less sourness than plain vinegar.\n\nIt is used mainly in meat products as a preservative, and in some packaged foods.\n\nRegulatory status: approved in the EU with conditions, not approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Буферный уксус",
+      "text": "Буферный уксус — частично нейтрализованный уксус, обычно гидроксидом натрия, содержащий смесь уксусной кислоты и ацетатов. Он сдерживает рост бактерий, но менее кислый, чем обычный уксус.\n\nПрименяется главным образом в мясных изделиях и некоторых упакованных продуктах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E270",
+    "eu_authorised": true,
+    "eu_official_name": "Lactic acid",
+    "en": {
+      "name": "Lactic acid",
+      "text": "Lactic acid forms naturally during the fermentation of milk, vegetables and sourdough. The additive is typically made by bacterial fermentation of sugars. It lowers the pH and gives a tangy taste, which helps to limit spoilage.\n\nIt is used in dairy products, pickles, sauces, drinks, confectionery and baked goods.\n\nIt is mainly an acidity regulator and preservative.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Молочная кислота",
+      "text": "Молочная кислота образуется естественно при брожении молока, овощей и закваски. Добавку обычно получают бактериальным брожением сахаров. Она снижает pH и придаёт кисловатый вкус, помогая сдерживать порчу.\n\nПрименяется в молочных продуктах, маринадах, соусах, напитках, кондитерских изделиях и выпечке.\n\nВ основном это регулятор кислотности и консервант.\n\nПравовой статус: в ЕС разрешена с ограничениями, в Великобритании и США разрешена."
+    }
+  },
+  {
+    "code": "E280",
+    "eu_authorised": true,
+    "eu_official_name": "Propionic acid",
+    "en": {
+      "name": "Propionic acid",
+      "text": "Propionic acid is a short-chain fatty acid that is formed naturally in some fermented foods such as Swiss cheese. The additive is produced industrially. It inhibits moulds and some bacteria.\n\nIt is used mainly in bread and other baked goods, as well as in cheese products.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Пропионовая кислота",
+      "text": "Пропионовая кислота — короткоцепочечная жирная кислота, которая естественно образуется в некоторых ферментированных продуктах, например швейцарском сыре. Добавку получают промышленно. Подавляет плесень и некоторые бактерии.\n\nПрименяется главным образом в хлебе и другой выпечке, а также в сырных продуктах.\n\nПравовой статус: в ЕС разрешена с ограничениями, в Великобритании и США разрешена."
+    }
+  },
+  {
+    "code": "E281",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium propionate",
+    "en": {
+      "name": "Sodium propionate",
+      "text": "Sodium propionate is the sodium salt of propionic acid, made synthetically. It inhibits moulds and some bacteria and is easier to handle than the acid itself.\n\nIt is used in bread, baked goods and processed cheese.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Пропионат натрия",
+      "text": "Пропионат натрия — натриевая соль пропионовой кислоты, получаемая синтетически. Подавляет плесень и некоторые бактерии и удобнее в обращении, чем сама кислота.\n\nИспользуется в хлебе, выпечке и плавленом сыре.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E282",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium propionate",
+    "en": {
+      "name": "Calcium propionate",
+      "text": "Calcium propionate is the calcium salt of propionic acid, produced synthetically. It inhibits moulds and the bacteria that make bread ropy, and it is one of the most common preservatives in bread.\n\nIt is used in bread, baked goods, processed cheese and some dairy products.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Пропионат кальция",
+      "text": "Пропионат кальция — кальциевая соль пропионовой кислоты, получаемая синтетически. Подавляет плесень и бактерии, вызывающие тягучесть хлеба, и является одним из самых распространённых консервантов в хлебопечении.\n\nИспользуется в хлебе, выпечке, плавленом сыре и некоторых молочных продуктах.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E283",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium propionate",
+    "en": {
+      "name": "Potassium propionate",
+      "text": "Potassium propionate is the potassium salt of propionic acid, made synthetically. It inhibits moulds and some bacteria and is used as an alternative to calcium propionate where less calcium is wanted.\n\nIt is used in bread and other baked goods.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. It is not approved in the US."
+    },
+    "ru": {
+      "name": "Пропионат калия",
+      "text": "Пропионат калия — калиевая соль пропионовой кислоты, получаемая синтетически. Подавляет плесень и некоторые бактерии и применяется как альтернатива пропионату кальция, когда нужно меньше кальция.\n\nИспользуется в хлебе и другой выпечке.\n\nПравовой статус: в ЕС разрешён с ограничениями, в Великобритании разрешён. В США не разрешён."
+    }
+  },
+  {
+    "code": "E284",
+    "eu_authorised": true,
+    "eu_official_name": "Boric acid",
+    "en": {
+      "name": "Boric acid",
+      "text": "Boric acid is a weak inorganic acid derived from the element boron, found in nature and also produced industrially. It has antiseptic properties.\n\nIn the EU it is permitted only in sturgeon eggs (caviar). Boron compounds are toxic in larger amounts, which is why use is restricted.\n\nRegulatory status: approved in the EU only in sturgeons' eggs, approved in the UK, and approved in the US for food packaging."
+    },
+    "ru": {
+      "name": "Борная кислота",
+      "text": "Борная кислота — слабая неорганическая кислота, содержащая бор; встречается в природе и производится промышленно. Обладает антисептическими свойствами.\n\nВ ЕС допускается только в икре осетровых рыб. В больших количествах соединения бора токсичны, поэтому применение ограничено.\n\nПравовой статус: в ЕС разрешена только в икре осетровых, в Великобритании разрешена, в США разрешена для упаковки пищевых продуктов."
+    }
+  },
+  {
+    "code": "E285",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium tetraborate (borax)",
+    "en": {
+      "name": "Sodium tetraborate",
+      "text": "Sodium tetraborate, known as borax, is a salt of boric acid that occurs as a mineral and is also made industrially. It has antiseptic properties.\n\nIn the EU it is permitted only in sturgeon eggs (caviar). Boron compounds are toxic in larger amounts, which is why use is restricted.\n\nRegulatory status: approved in the EU only in sturgeons' eggs and approved in the UK. It is not approved in the US."
+    },
+    "ru": {
+      "name": "Тетраборат натрия",
+      "text": "Тетраборат натрия, или бура, — соль борной кислоты, встречающаяся как минерал и производимая промышленно. Обладает антисептическими свойствами.\n\nВ ЕС допускается только в икре осетровых рыб. В больших количествах соединения бора токсичны, поэтому применение ограничено.\n\nПравовой статус: в ЕС разрешён только в икре осетровых, в Великобритании разрешён. В США не разрешён."
+    }
+  },
+  {
+    "code": "E290",
+    "eu_authorised": true,
+    "eu_official_name": "Carbon dioxide",
+    "en": {
+      "name": "Carbon dioxide",
+      "text": "Carbon dioxide is a colourless gas that is present in the atmosphere and produced during fermentation. The food-grade gas is typically recovered from industrial processes or fermentation.\n\nIt gives fizz to carbonated drinks, lowers acidity slightly, and is used in packaging atmospheres to extend shelf life. Dry ice is its solid form.\n\nRegulatory status: approved in the EU and UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Диоксид углерода",
+      "text": "Диоксид углерода (углекислый газ) — бесцветный газ, содержащийся в атмосфере и образующийся при брожении. Пищевой газ обычно извлекают из промышленных процессов или брожения.\n\nОн придаёт газировку напиткам, слегка повышает кислотность и используется в защитной атмосфере упаковки для продления срока хранения. Твёрдая форма — сухой лёд.\n\nПравовой статус: разрешён в ЕС и Великобритании, а также в США."
+    }
+  },
+  {
+    "code": "E296",
+    "eu_authorised": true,
+    "eu_official_name": "Malic acid",
+    "en": {
+      "name": "Malic acid",
+      "text": "Malic acid occurs naturally in many fruits, especially apples, and gives them a sharp, sour taste. The additive is usually made synthetically.\n\nIt is used as an acidity regulator and flavour enhancer in soft drinks, sweets, jams, wine and fruit-flavoured products.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+    },
+    "ru": {
+      "name": "Яблочная кислота",
+      "text": "Яблочная кислота естественно содержится во многих фруктах, особенно в яблоках, и придаёт им резкий кислый вкус. Добавку обычно получают синтетически.\n\nИспользуется как регулятор кислотности и усилитель вкуса в напитках, сладостях, джемах, вине и фруктовых продуктах.\n\nПравовой статус: в ЕС разрешена с ограничениями, в Великобритании разрешена, в США разрешена с ограничениями."
+    }
+  },
+  {
+    "code": "E297",
+    "eu_authorised": true,
+    "eu_official_name": "Fumaric acid",
+    "en": {
+      "name": "Fumaric acid",
+      "text": "Fumaric acid occurs naturally in plants such as fumitory and mushrooms, and is also produced by the human body. The additive is made industrially, usually synthetically.\n\nIt is used as an acidity regulator that gives a sour taste in drinks, baked goods, desserts and powdered mixes, and it dissolves slowly.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Фумаровая кислота",
+      "text": "Фумаровая кислота естественно содержится в растениях, например в дымянке, и грибах, а также образуется в организме человека. Добавку получают промышленно, обычно синтетически.\n\nИспользуется как регулятор кислотности, дающий кислый вкус, в напитках, выпечке, десертах и сухих смесях; растворяется медленно.\n\nПравовой статус: в ЕС разрешена с ограничениями, в Великобритании и США разрешена."
+    }
+  }
+]

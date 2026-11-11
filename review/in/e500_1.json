@@ -1,0 +1,470 @@
+[
+  {
+    "code": "E500",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium carbonates",
+    "en": {
+      "name": "Sodium carbonates",
+      "text": "This group covers sodium carbonate (soda ash), sodium bicarbonate (baking soda) and sodium sesquicarbonate. They are mineral salts, produced industrially or mined from natural deposits such as trona.\n\nIn food they regulate acidity and act as raising agents: baking soda releases carbon dioxide when heated or mixed with an acid, so it is used in cakes, biscuits, soda bread and baking powders. They are also used in some cocoa and confectionery products.\n\nThey are approved in the EU for certain foods, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Карбонаты натрия",
+      "text": "Группа включает карбонат натрия (кальцинированную соду), гидрокарбонат натрия (пищевую соду) и сесквикарбонат натрия. Это минеральные соли: их получают промышленным путём или добывают из природных залежей, например трона.\n\nВ пище они регулируют кислотность и служат разрыхлителями: пищевая сода выделяет углекислый газ при нагревании или реакции с кислотой, поэтому её добавляют в кексы, печенье, содовый хлеб и разрыхлители теста. Применяются также в какао и кондитерских изделиях.\n\nВ ЕС разрешены для определённых продуктов, в Великобритании и США разрешены."
+    }
+  },
+  {
+    "code": "E501",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium carbonates",
+    "en": {
+      "name": "Potassium carbonates",
+      "text": "This group includes potassium carbonate and potassium bicarbonate (potassium hydrogen carbonate). They are mineral salts made industrially; potassium carbonate was historically obtained from wood ash.\n\nIn food they work as acidity regulators and buffers. They are used in cocoa processing, some baked goods, drinks and wine, and potassium bicarbonate can serve as a sodium-free source of carbon dioxide for leavening.\n\nThey are approved in the EU for certain foods, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Карбонаты калия",
+      "text": "В группу входят карбонат калия и гидрокарбонат калия. Это минеральные соли, получаемые промышленным способом; карбонат калия раньше добывали из древесной золы (поташ).\n\nВ пище они служат регуляторами кислотности и буферными веществами. Их используют при обработке какао, в некоторых хлебобулочных изделиях, напитках и вине, а гидрокарбонат калия может быть источником углекислого газа для разрыхления теста без добавления натрия.\n\nВ ЕС разрешены для определённых продуктов, в Великобритании и США разрешены."
+    }
+  },
+  {
+    "code": "E503",
+    "eu_authorised": true,
+    "eu_official_name": "Ammonium carbonates",
+    "en": {
+      "name": "Ammonium carbonates",
+      "text": "This group includes ammonium carbonate and ammonium bicarbonate (ammonium hydrogen carbonate), synthetic salts that break down into ammonia, carbon dioxide and water when heated.\n\nIn food they act as acidity regulators and raising agents. They are traditionally used in flat, dry baked goods such as crackers, biscuits and some gingerbread, where the ammonia gas escapes completely during baking. They are also used in cocoa processing.\n\nThey are approved in the EU for certain foods, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Карбонаты аммония",
+      "text": "В группу входят карбонат аммония и гидрокарбонат аммония, синтетические соли, которые при нагревании распадаются на аммиак, углекислый газ и воду.\n\nВ пище они служат регуляторами кислотности и разрыхлителями. Традиционно их добавляют в плоскую сухую выпечку: крекеры, печенье, некоторые пряники, так как аммиак при выпечке полностью улетучивается. Используются и при обработке какао.\n\nВ ЕС разрешены для определённых продуктов, в Великобритании и США разрешены."
+    }
+  },
+  {
+    "code": "E504",
+    "eu_authorised": true,
+    "eu_official_name": "Magnesium carbonates",
+    "en": {
+      "name": "Magnesium carbonates",
+      "text": "This group includes magnesium carbonate and magnesium bicarbonate (magnesium hydrogen carbonate). Magnesium carbonate occurs naturally as the mineral magnesite and can also be made industrially from magnesium salts.\n\nIn food it works as an acidity regulator and anti-caking agent, keeping powders such as table salt and spices free-flowing. It is also used to retain the colour of some products and as a carrier in dry mixes.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Карбонаты магния",
+      "text": "В группу входят карбонат магния и гидрокарбонат магния. Карбонат магния встречается в природе в виде минерала магнезита, а также его получают промышленным путём из солей магния.\n\nВ пище он служит регулятором кислотности и антислёживающим агентом: не даёт комковаться поваренной соли и специям. Также его используют для сохранения цвета некоторых продуктов и как носитель в сухих смесях.\n\nВ ЕС разрешён для определённых продуктов, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E505",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ferrous carbonate",
+      "text": "Ferrous carbonate is an iron(II) salt that occurs in nature as the mineral siderite and can also be produced synthetically. It is listed as an acidity regulator.\n\nIt is also known as a source of iron in supplements, but as a food additive it is not in use in the EU, the UK or the US.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Карбонат железа",
+      "text": "Карбонат железа(II) встречается в природе в виде минерала сидерита, а также может быть получен синтетически. Он указан как регулятор кислотности.\n\nЭто соединение известно как источник железа в добавках, однако в качестве пищевой добавки в ЕС, Великобритании и США оно не применяется.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E507",
+    "eu_authorised": true,
+    "eu_official_name": "Hydrochloric acid",
+    "en": {
+      "name": "Hydrochloric acid",
+      "text": "Hydrochloric acid is a strong mineral acid, a solution of hydrogen chloride in water, made industrially. The same acid is a natural component of human stomach juice.\n\nIn food processing it is used in very small amounts to adjust pH and to help in the processing of other ingredients, for example in the production of modified starches, gelatine and some sugar products. It is neutralised or removed during manufacture.\n\nIt is approved in the EU as a raising agent and pH adjuster for certain foods, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Соляная кислота",
+      "text": "Соляная кислота — сильная минеральная кислота, раствор хлороводорода в воде, получаемая промышленным способом. Эта же кислота является естественной составляющей желудочного сока человека.\n\nВ пищевой промышленности её используют в очень малых количествах для регулирования pH и при переработке других ингредиентов, например при производстве модифицированных крахмалов, желатина и некоторых сахаристых продуктов. В ходе производства её нейтрализуют или удаляют.\n\nВ ЕС разрешена как разрыхлитель и корректор pH для определённых продуктов, в Великобритании и США разрешена."
+    }
+  },
+  {
+    "code": "E508",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium chloride",
+    "en": {
+      "name": "Potassium chloride",
+      "text": "Potassium chloride is a mineral salt that is mined from ancient salt deposits or recovered from brines. It tastes similar to table salt, with a slightly bitter note.\n\nIn food it is used as a seasoning and as a partial substitute for sodium chloride in reduced-sodium products, and it also serves as a gelling aid in some jellies and desserts. It is a common ingredient of salt substitutes.\n\nIt is approved in the EU, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Хлорид калия",
+      "text": "Хлорид калия — минеральная соль, которую добывают из древних соляных залежей или извлекают из рассолов. По вкусу он похож на поваренную соль, но с лёгкой горчинкой.\n\nВ пище его применяют как приправу и как частичную замену хлорида натрия в продуктах со сниженным содержанием натрия; он также служит гелеобразователем в некоторых желе и десертах. Это обычный компонент заменителей соли.\n\nРазрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E509",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium chloride",
+    "en": {
+      "name": "Calcium chloride",
+      "text": "Calcium chloride is a mineral salt obtained from brines and limestone processing or made as a by-product of industrial chemistry.\n\nIn food it is used mainly as a firming agent, because calcium ions strengthen the structure of plant tissue. It is added to canned tomatoes and vegetables, pickles and fruit products, and it helps cheese milk to set. It also serves as a sequestrant and in brewing water treatment.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US for certain foods."
+    },
+    "ru": {
+      "name": "Хлорид кальция",
+      "text": "Хлорид кальция — минеральная соль, получаемая из рассолов и при переработке известняка либо как побочный продукт химических производств.\n\nВ пище его используют главным образом как уплотнитель: ионы кальция укрепляют структуру растительных тканей. Его добавляют в консервированные помидоры и овощи, маринады и плодовые продукты, он помогает сворачиванию молока при производстве сыра. Также применяется как связывающий металлы агент и при подготовке воды для пивоварения.\n\nВ ЕС разрешён для определённых продуктов, в Великобритании разрешён, в США разрешён для определённых продуктов."
+    }
+  },
+  {
+    "code": "E510",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ammonium chloride",
+      "text": "Ammonium chloride is a salt of ammonia and hydrochloric acid, made synthetically. It is also known as sal ammoniac and has a salty, sharp taste.\n\nIn food it has been used as a yeast nutrient and dough improver in bread making. In some countries it is also known as the flavouring in salted liquorice sweets.\n\nIt is not approved in the EU and the UK, and that it is approved in the US."
+    },
+    "ru": {
+      "name": "Хлорид аммония",
+      "text": "Хлорид аммония — соль аммиака и соляной кислоты, получаемая синтетически. Известна также как нашатырь, имеет солёный резкий вкус.\n\nВ пищевой промышленности его применяли как питательное вещество для дрожжей и улучшитель теста в хлебопечении. В некоторых странах он известен как вкусовая добавка в солёной лакрице.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E511",
+    "eu_authorised": true,
+    "eu_official_name": "Magnesium chloride",
+    "en": {
+      "name": "Magnesium chloride",
+      "text": "Magnesium chloride is a mineral salt obtained from sea water, brines and salt lakes. It is a main source of the bitter taste in sea salt.\n\nIn food it is used as a firming agent, for example in canned vegetables, and as the coagulant that sets tofu (known as nigari). It is also a source of magnesium in some mineral waters and supplements.\n\nIt is approved in the EU for sea salt only, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Хлорид магния",
+      "text": "Хлорид магния — минеральная соль, которую получают из морской воды, рассолов и солёных озёр. Он даёт основную долю горьковатого привкуса морской соли.\n\nВ пище его используют как уплотнитель, например в консервированных овощах, и как коагулянт для свёртывания тофу (нигари). Также он служит источником магния в некоторых минеральных водах и добавках.\n\nВ ЕС разрешён только для морской соли, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E512",
+    "eu_authorised": true,
+    "eu_official_name": "Stannous chloride",
+    "en": {
+      "name": "Stannous chloride",
+      "text": "Stannous chloride is the chloride salt of tin in its divalent form, produced synthetically from tin metal and hydrochloric acid. Its function is that of an antioxidant and colour-retention agent.\n\nIn food it helps to keep canned white asparagus from darkening and fading, and it is used in a few other canned products. Its use is very limited because of the tin content.\n\nIt is approved in the EU for canned white asparagus only, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Хлорид олова",
+      "text": "Хлорид олова(II) — соль двухвалентного олова, получаемая синтетически из металлического олова и соляной кислоты. Выполняет функции антиоксиданта и средства сохранения цвета.\n\nВ пище он помогает консервированной белой спарже не темнеть и не выцветать, а также применяется в отдельных других консервах. Применение сильно ограничено из-за содержания олова.\n\nВ ЕС разрешён только для консервированной белой спаржи, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E513",
+    "eu_authorised": true,
+    "eu_official_name": "Sulphuric acid",
+    "en": {
+      "name": "Sulfuric acid",
+      "text": "Sulfuric acid is a strong mineral acid produced industrially on a very large scale. It is not a natural food component.\n\nIn food it is used in tiny amounts as an acidity regulator and processing aid, for example in adjusting the pH of brewing water or in the production of some starches and sugar products. It is neutralised during processing and does not remain in the finished food in its free form.\n\nIt is approved in the EU, approved in the UK and approved in the US for alcoholic beverages and cheese."
+    },
+    "ru": {
+      "name": "Серная кислота",
+      "text": "Серная кислота — сильная минеральная кислота, которую производят промышленным способом в очень больших объёмах. В пище она естественным образом не содержится.\n\nВ продуктах её используют в ничтожных количествах как регулятор кислотности и технологическую добавку, например для корректировки pH воды при пивоварении или при производстве некоторых крахмалов и сахаристых продуктов. В ходе переработки её нейтрализуют, и в готовом продукте в свободном виде она не остаётся.\n\nРазрешена в ЕС и Великобритании, в США разрешена для алкогольных напитков и сыра."
+    }
+  },
+  {
+    "code": "E514",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium sulphates",
+    "en": {
+      "name": "Sodium sulfates",
+      "text": "This group includes sodium sulfate and sodium bisulfate (sodium hydrogen sulfate). Sodium sulfate occurs naturally as the mineral mirabilite and is also a by-product of chemical industries.\n\nIn food, sodium sulfate is used as a diluent and carrier for colourings, while sodium bisulfate acts as an acid and acidity regulator in dry preparations. Use levels are small.\n\nThey are approved in the EU, approved in the UK and approved in the US for food packaging."
+    },
+    "ru": {
+      "name": "Сульфаты натрия",
+      "text": "В группу входят сульфат натрия и гидросульфат натрия. Сульфат натрия встречается в природе в виде минерала мирабилита, а также является побочным продуктом химических производств.\n\nВ пище сульфат натрия используют как разбавитель и носитель для красителей, а гидросульфат натрия служит кислотой и регулятором кислотности в сухих смесях. Дозировки невелики.\n\nРазрешены в ЕС и Великобритании, в США разрешены для упаковки пищевых продуктов."
+    }
+  },
+  {
+    "code": "E515",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium sulphates",
+    "en": {
+      "name": "Potassium sulfates",
+      "text": "This group includes potassium sulfate and potassium bisulfate (potassium hydrogen sulfate). They are mineral salts, mined or produced chemically, and potassium sulfate is also widely used as a fertiliser.\n\nIn food they serve as salt substitutes, acidity regulators and carriers.\n\nThey are approved in the EU, approved in the UK and approved in the US for nonalcoholic beverages."
+    },
+    "ru": {
+      "name": "Сульфаты калия",
+      "text": "В группу входят сульфат калия и гидросульфат калия. Это минеральные соли, их добывают или получают химическим путём; сульфат калия также широко применяется как удобрение.\n\nВ пище они используются как заменители соли, регуляторы кислотности и носители.\n\nРазрешены в ЕС и Великобритании, в США разрешены для безалкогольных напитков."
+    }
+  },
+  {
+    "code": "E516",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium sulphate",
+    "en": {
+      "name": "Calcium sulfate",
+      "text": "Calcium sulfate is a mineral that occurs naturally as gypsum and anhydrite. It can also be produced synthetically.\n\nIn food it is commonly used as a firming agent, as a calcium source in bread dough and brewing, and as a coagulant in making tofu. It is also used as a carrier and in canned vegetables.\n\nIt is approved in the EU, approved in the UK and approved in the US for certain foods."
+    },
+    "ru": {
+      "name": "Сульфат кальция",
+      "text": "Сульфат кальция — минерал, который встречается в природе как гипс и ангидрит; его также получают синтетически.\n\nВ пище его обычно используют как уплотнитель, как источник кальция в хлебном тесте и пивоварении, а также как коагулянт при изготовлении тофу. Он применяется и как носитель, и в консервированных овощах.\n\nРазрешён в ЕС и Великобритании, в США разрешён для определённых продуктов."
+    }
+  },
+  {
+    "code": "E517",
+    "eu_authorised": true,
+    "eu_official_name": "Ammonium sulphate",
+    "en": {
+      "name": "Ammonium sulfate",
+      "text": "Ammonium sulfate is an inorganic salt produced synthetically from ammonia and sulfuric acid. It is also well known as a fertiliser.\n\nIn food it acts as an acidity regulator and as a yeast nutrient and dough conditioner in bread making. It is used in small amounts in baked goods and some puddings and gelatine desserts.\n\nIt is approved in the EU, approved in the UK and approved in the US for baked goods, gelatins and puddings."
+    },
+    "ru": {
+      "name": "Сульфат аммония",
+      "text": "Сульфат аммония — неорганическая соль, получаемая синтетически из аммиака и серной кислоты. Широко известна также как удобрение.\n\nВ пище он служит регулятором кислотности, а в хлебопечении — питательным веществом для дрожжей и улучшителем теста. В небольших количествах применяется в выпечке, некоторых пудингах и желатиновых десертах.\n\nРазрешён в ЕС и Великобритании, в США разрешён для выпечки, желатиновых десертов и пудингов."
+    }
+  },
+  {
+    "code": "E518",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Magnesium sulfate",
+      "text": "Magnesium sulfate, known as Epsom salt, occurs in nature as the mineral epsomite and in mineral springs. It is also produced industrially.\n\nIn food it is used as a firming agent and as a source of magnesium, for instance in brewing water and as a nutrient in some products. It has a bitter taste, and in larger doses it acts as a laxative, which is why its use as an additive is limited.\n\nIt is not approved in the EU and the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Сульфат магния",
+      "text": "Сульфат магния, известный как английская соль, встречается в природе в виде минерала эпсомита и в минеральных источниках. Его также получают промышленным путём.\n\nВ пище он используется как уплотнитель и источник магния, например при подготовке воды для пивоварения и как питательная добавка в некоторых продуктах. Вкус у него горький, а в больших дозах он действует как слабительное, поэтому его применение как добавки ограничено.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E519",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Copper(II) sulfate",
+      "text": "Copper(II) sulfate is a blue crystalline copper salt made from copper metal or copper compounds. It is also used in agriculture as a fungicide.\n\nIn food it is listed as a preservative, and it is also used in small amounts as a source of the nutrient copper. Large amounts of copper salts are toxic, so uses are tightly limited.\n\nIt is not approved in the EU and the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Сульфат меди",
+      "text": "Сульфат меди(II) — синее кристаллическое соединение меди, получаемое из металлической меди или её соединений. Применяется также в сельском хозяйстве как фунгицид.\n\nВ пище он указан как консервант, а в небольших количествах используется и как источник питательного вещества меди. Большие количества солей меди токсичны, поэтому использование строго ограничено.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E520",
+    "eu_authorised": true,
+    "eu_official_name": "Aluminium sulphate",
+    "en": {
+      "name": "Aluminium sulfate",
+      "text": "Aluminium sulfate is an aluminium salt produced industrially from bauxite or clay and sulfuric acid. It is widely used in water purification.\n\nIn food it works as a firming agent, helping to keep texture in certain products such as candied fruit and egg whites. Aluminium additives are subject to limits in the EU because of total aluminium intake from the diet.\n\nIt is approved in the EU for confectionery and egg whites, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Сульфат алюминия",
+      "text": "Сульфат алюминия — соль алюминия, получаемая промышленным способом из боксита или глины и серной кислоты. Широко применяется для очистки воды.\n\nВ пище он служит уплотнителем и помогает сохранять текстуру некоторых продуктов, например цукатов и яичных белков. В ЕС добавки с алюминием ограничивают из-за общего поступления алюминия с пищей.\n\nВ ЕС разрешён для кондитерских изделий и яичных белков, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E521",
+    "eu_authorised": true,
+    "eu_official_name": "Aluminium sodium sulphate",
+    "en": {
+      "name": "Aluminium sodium sulfate",
+      "text": "Aluminium sodium sulfate, also called soda alum, is a double salt of aluminium and sodium sulfates, made synthetically.\n\nIn food it is used as a firming agent, and in the US it has also been used as an acidic component of some baking powders. Because of overall aluminium intake concerns, its use is restricted in the EU.\n\nIt is approved in the EU for confectionery, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Сульфат алюминия-натрия",
+      "text": "Сульфат алюминия-натрия, или натриевые квасцы, — двойная соль сульфатов алюминия и натрия, получаемая синтетически.\n\nВ пище его используют как уплотнитель, а в США он применялся и как кислотный компонент некоторых разрыхлителей теста. Из-за общих опасений по поводу поступления алюминия его использование в ЕС ограничено.\n\nВ ЕС разрешён для кондитерских изделий, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E522",
+    "eu_authorised": true,
+    "eu_official_name": "Aluminium potassium sulphate",
+    "en": {
+      "name": "Aluminium potassium sulfate",
+      "text": "Aluminium potassium sulfate, known as potash alum, is a double sulfate salt that occurs in nature as a mineral and is also produced industrially. It has been used since antiquity in pickling and dyeing.\n\nIn food it acts as an acidity regulator and firming agent, for example in candied fruit and egg whites. Its use is restricted to limit total aluminium intake.\n\nIt is approved in the EU for confectionery and egg whites, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Сульфат алюминия-калия",
+      "text": "Сульфат алюминия-калия, или алюмокалиевые квасцы, — двойная сульфатная соль, которая встречается в природе в виде минерала и производится промышленным путём. С древности её используют при квашении и крашении.\n\nВ пище она служит регулятором кислотности и уплотнителем, например в цукатах и яичных белках. Применение ограничено, чтобы снизить общее поступление алюминия.\n\nВ ЕС разрешён для кондитерских изделий и яичных белков, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E523",
+    "eu_authorised": true,
+    "eu_official_name": "Aluminium ammonium sulphate",
+    "en": {
+      "name": "Aluminium ammonium sulfate",
+      "text": "Aluminium ammonium sulfate, or ammonium alum, is a double sulfate salt of aluminium and ammonium produced synthetically.\n\nIn food it is used as an acidity regulator and firming agent, in small amounts. Use of aluminium-containing additives is limited because of the aim to keep dietary aluminium intake low.\n\nIt is approved in the EU for confectionery and egg whites, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Сульфат алюминия-аммония",
+      "text": "Сульфат алюминия-аммония, или аммонийные квасцы, — двойная сульфатная соль алюминия и аммония, получаемая синтетически.\n\nВ пище её применяют в небольших количествах как регулятор кислотности и уплотнитель. Использование добавок с алюминием ограничивают, чтобы удерживать поступление алюминия с пищей на низком уровне.\n\nВ ЕС разрешён для кондитерских изделий и яичных белков, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E524",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium hydroxide",
+    "en": {
+      "name": "Sodium hydroxide",
+      "text": "Sodium hydroxide, also called caustic soda or lye, is a strong alkali made industrially by the electrolysis of salt solution. In concentrated form it is corrosive.\n\nIn food it is used as an acidity regulator and processing aid. Typical uses are lye treatment of pretzels and olives, peeling of fruit and vegetables, and cocoa processing. It is neutralised or rinsed away, leaving only traces in the finished food.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Гидроксид натрия",
+      "text": "Гидроксид натрия, или каустическая сода, — сильная щёлочь, получаемая промышленно электролизом раствора соли. В концентрированном виде вызывает ожоги.\n\nВ пище он служит регулятором кислотности и технологической добавкой. Типичные применения: обработка щёлоком претцелей и оливок, очистка фруктов и овощей от кожуры, переработка какао. Его нейтрализуют или смывают, и в готовом продукте остаются лишь следы.\n\nВ ЕС разрешён для определённых продуктов, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E525",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium hydroxide",
+    "en": {
+      "name": "Potassium hydroxide",
+      "text": "Potassium hydroxide, known as caustic potash, is a strong alkali produced industrially by electrolysis of potassium chloride solution. In concentrated form it is corrosive.\n\nIn food it is used as an acidity regulator and processing aid, for example in cocoa processing, fruit and vegetable peeling and in the production of some starches. It is neutralised during processing.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Гидроксид калия",
+      "text": "Гидроксид калия, или едкое кали, — сильная щёлочь, получаемая промышленно электролизом раствора хлорида калия. В концентрированном виде вызывает ожоги.\n\nВ пище его применяют как регулятор кислотности и технологическую добавку, например при переработке какао, очистке фруктов и овощей от кожуры и производстве некоторых крахмалов. В ходе переработки его нейтрализуют.\n\nВ ЕС разрешён для определённых продуктов, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E526",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium hydroxide",
+    "en": {
+      "name": "Calcium hydroxide",
+      "text": "Calcium hydroxide, or slaked lime, is made by adding water to quicklime (calcium oxide), which is obtained from limestone.\n\nIn food it works as an acidity regulator and firming agent. It is traditionally used in the nixtamalisation of maize for tortillas, in sugar refining, in firming pickles and in clarifying juices. It also supplies calcium.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Гидроксид кальция",
+      "text": "Гидроксид кальция, или гашёная известь, получают добавлением воды к негашёной извести (оксиду кальция), которую делают из известняка.\n\nВ пище он служит регулятором кислотности и уплотнителем. Традиционно его используют при щелочной обработке кукурузы для тортилий, при очистке сахара, для упрочнения солений и осветления соков. Он также является источником кальция.\n\nВ ЕС разрешён для определённых продуктов, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E527",
+    "eu_authorised": true,
+    "eu_official_name": "Ammonium hydroxide",
+    "en": {
+      "name": "Ammonium hydroxide",
+      "text": "Ammonium hydroxide is a solution of ammonia gas in water, made synthetically. It has a sharp, characteristic smell.\n\nIn food it is used as an acidity regulator and processing aid, for instance in cocoa processing and in the production of some caramel colours. Ammonia evaporates or is neutralised during processing.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Гидроксид аммония",
+      "text": "Гидроксид аммония — раствор газа аммиака в воде, получаемый синтетически. Имеет резкий характерный запах.\n\nВ пище его используют как регулятор кислотности и технологическую добавку, например при переработке какао и производстве некоторых карамельных красителей. В ходе обработки аммиак испаряется или нейтрализуется.\n\nВ ЕС разрешён для определённых продуктов, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E528",
+    "eu_authorised": true,
+    "eu_official_name": "Magnesium hydroxide",
+    "en": {
+      "name": "Magnesium hydroxide",
+      "text": "Magnesium hydroxide is a white mineral compound found in nature as brucite and also produced from sea water or magnesium salts. It is the active ingredient of milk of magnesia.\n\nIn food it is used as an acidity regulator, for example in cocoa products and in some confectionery, and also to neutralise acids during processing.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Гидроксид магния",
+      "text": "Гидроксид магния — белое минеральное соединение, встречающееся в природе как брусит; его также получают из морской воды или солей магния. Это действующее вещество «магнезиального молока».\n\nВ пище его применяют как регулятор кислотности, например в какао-продуктах и некоторых кондитерских изделиях, а также для нейтрализации кислот при переработке.\n\nВ ЕС разрешён для определённых продуктов, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E529",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium oxide",
+    "en": {
+      "name": "Calcium oxide",
+      "text": "Calcium oxide, or quicklime, is made by heating limestone. It reacts vigorously with water to form calcium hydroxide.\n\nIn food it is used as an acidity regulator, a source of calcium and a dough improver, and in processing steps such as sugar refining and the treatment of maize. It is handled as a processing material, and is converted into harmless calcium compounds in the finished product.\n\nIt is approved in the EU, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Оксид кальция",
+      "text": "Оксид кальция, или негашёная известь, получают обжигом известняка. Он бурно реагирует с водой, образуя гидроксид кальция.\n\nВ пище его используют как регулятор кислотности, источник кальция и улучшитель теста, а также в таких процессах, как очистка сахара и обработка кукурузы. Это технологический материал, который в готовом продукте превращается в безвредные соединения кальция.\n\nРазрешён в ЕС, Великобритании и США."
+    }
+  },
+  {
+    "code": "E530",
+    "eu_authorised": true,
+    "eu_official_name": "Magnesium oxide",
+    "en": {
+      "name": "Magnesium oxide",
+      "text": "Magnesium oxide is a white mineral powder obtained by heating magnesium carbonate or from sea water magnesium. It is also used as a magnesium supplement and antacid.\n\nIn food it works as an anti-caking agent and acidity regulator, keeping powders such as salt free-flowing and adjusting acidity in cocoa products.\n\nIt is approved in the EU for cocoa products and salt, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Оксид магния",
+      "text": "Оксид магния — белый минеральный порошок, получаемый обжигом карбоната магния или из магния морской воды. Его также используют как магниевую добавку и антацид.\n\nВ пище он служит антислёживающим агентом и регулятором кислотности: не даёт комковаться порошкам, например соли, и корректирует кислотность в какао-продуктах.\n\nВ ЕС разрешён для какао-продуктов и соли, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E534",
+    "eu_authorised": true,
+    "eu_official_name": "Iron tartrate",
+    "en": {
+      "name": "Iron(III) meso-tartrate",
+      "text": "Iron(III) meso-tartrate is an iron salt of tartaric acid. It is a very rarely used additive, and little general information is available about it.\n\nIt is intended to act as an anti-caking agent in table salt, preventing the crystals from sticking together. It is related to the ferrocyanide anti-caking agents of this range.\n\nIt is approved in the EU for salt, not approved in the UK and not approved in the US."
+    },
+    "ru": {
+      "name": "Мезотартрат железа(III)",
+      "text": "Мезотартрат железа(III) — железная соль винной кислоты. Это очень редко применяемая добавка, общих сведений о ней мало.\n\nПредназначен для использования как антислёживающий агент в поваренной соли, чтобы кристаллы не слипались. Родственен ферроцианидным антислёживающим агентам этой группы.\n\nВ ЕС разрешён для соли, в Великобритании и США не разрешён."
+    }
+  },
+  {
+    "code": "E535",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium ferrocyanide",
+    "en": {
+      "name": "Sodium ferrocyanide",
+      "text": "Sodium ferrocyanide is a yellow crystalline salt made synthetically. Despite its name, the cyanide in it is tightly bound to iron and the compound has low toxicity at the doses used.\n\nIt is used in very small amounts as an anti-caking agent, mainly in table salt and also in salt for cheese brine, and sometimes in wine making to remove metal traces.\n\nIt is approved in the EU for salt, approved in the UK and approved in the US for salt."
+    },
+    "ru": {
+      "name": "Ферроцианид натрия",
+      "text": "Ферроцианид натрия — жёлтая кристаллическая соль, получаемая синтетически. Несмотря на название, цианид в ней прочно связан с железом, и в применяемых дозах соединение малотоксично.\n\nЕго используют в очень малых количествах как антислёживающий агент, главным образом в поваренной соли, в том числе для сырных рассолов, а иногда в виноделии для удаления следов металлов.\n\nВ ЕС разрешён для соли, в Великобритании разрешён, в США разрешён для соли."
+    }
+  },
+  {
+    "code": "E536",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium ferrocyanide",
+    "en": {
+      "name": "Potassium ferrocyanide",
+      "text": "Potassium ferrocyanide, known as yellow prussiate of potash, is a yellow crystalline salt produced synthetically. The cyanide groups are tightly bound to iron, and the compound has low toxicity at the doses used.\n\nIt is used in tiny amounts as an anti-caking agent for table salt, and in wine making to remove excess iron and copper.\n\nIt is approved in the EU for salt, approved in the UK and not approved in the US."
+    },
+    "ru": {
+      "name": "Ферроцианид калия",
+      "text": "Ферроцианид калия, или жёлтая кровяная соль, — жёлтая кристаллическая соль, получаемая синтетически. Цианидные группы в ней прочно связаны с железом, и в применяемых дозах соединение малотоксично.\n\nЕго используют в ничтожных количествах как антислёживающий агент для поваренной соли, а в виноделии — для удаления избытка железа и меди.\n\nВ ЕС разрешён для соли, в Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E537",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ferrous hexacyanomanganate",
+      "text": "Ferrous hexacyanomanganate is a complex salt of iron and manganese with cyanide groups. It is a rarely encountered compound and little general information is available about it.\n\nIt is listed as an anti-caking agent, a role also played by related ferrocyanide salts in this range.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Гексацианоманганат железа",
+      "text": "Гексацианоманганат железа(II) — комплексная соль железа и марганца с цианидными группами. Это редко встречающееся соединение, общих сведений о нём мало.\n\nОн указан как антислёживающий агент — такую же роль играют родственные ферроцианиды этой группы.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E538",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium ferrocyanide",
+    "en": {
+      "name": "Calcium ferrocyanide",
+      "text": "Calcium ferrocyanide is a synthetic calcium salt of the ferrocyanide complex. The cyanide groups are tightly bound to iron, and ferrocyanides have low toxicity at the doses used.\n\nIt works as an anti-caking agent in very small amounts, mainly in table salt.\n\nIt is approved in the EU for salt, approved in the UK and not approved in the US."
+    },
+    "ru": {
+      "name": "Ферроцианид кальция",
+      "text": "Ферроцианид кальция — синтетическая кальциевая соль ферроцианидного комплекса. Цианидные группы в ней прочно связаны с железом, и ферроцианиды в применяемых дозах малотоксичны.\n\nОн служит антислёживающим агентом в очень малых количествах, главным образом в поваренной соли.\n\nВ ЕС разрешён для соли, в Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E539",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Sodium thiosulfate",
+      "text": "Sodium thiosulfate is an inorganic salt made synthetically from sulfur compounds. Outside food it is used in photography, water treatment and as a medical antidote.\n\nIn food it is listed as an antioxidant and is used in small amounts, for example to bind trace metals or to remove excess chlorine or iodine.\n\nIt is not approved in the EU and the UK, and approved in the US for alcoholic beverages and salt."
+    },
+    "ru": {
+      "name": "Тиосульфат натрия",
+      "text": "Тиосульфат натрия — неорганическая соль, получаемая синтетически из соединений серы. Вне пищевой промышленности его применяют в фотографии, при очистке воды и в медицине как противоядие.\n\nВ пище он указан как антиоксидант и используется в малых количествах, например для связывания следов металлов или удаления избытка хлора и йода.\n\nВ ЕС и Великобритании не разрешён, в США разрешён для алкогольных напитков и соли."
+    }
+  },
+  {
+    "code": "E540",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Dicalcium ferrocyanide",
+      "text": "Dicalcium ferrocyanide is a calcium salt of the ferrocyanide complex, a synthetic inorganic compound. It is very rarely encountered, and little general information about its use in food is available.\n\nIts listed functions are acidity regulator and emulsifier. Related ferrocyanide salts in this range are used as anti-caking agents in salt.\n\nIt is not approved in the EU, the UK or the US. The E540 number is attributed to different substances in different listings."
+    },
+    "ru": {
+      "name": "Ферроцианид дикальция",
+      "text": "Ферроцианид дикальция — кальциевая соль ферроцианидного комплекса, синтетическое неорганическое соединение. Он встречается очень редко, и общих сведений о его применении в пище мало.\n\nЕго функции указаны как регулятор кислотности и эмульгатор. Родственные ферроцианиды этой группы используются как антислёживающие агенты в соли.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США. Номер E540 в разных перечнях относят к разным веществам."
+    }
+  }
+]

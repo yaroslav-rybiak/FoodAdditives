@@ -1,0 +1,457 @@
+[
+  {
+    "code": "E541",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium aluminium phosphate acidic",
+    "en": {
+      "name": "Sodium aluminium phosphate",
+      "text": "Sodium aluminium phosphate is a synthetic salt of sodium, aluminium and phosphoric acid, available in an acidic and a basic form.\n\nIn food it is used as an emulsifier and, in its acidic form, as a leavening acid in baking powders and in some self-raising flours and cakes. Because it contains aluminium, its use is limited in the EU to specific baked goods.\n\nIt is approved in the EU for certain baked goods, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Фосфат алюминия-натрия",
+      "text": "Фосфат алюминия-натрия — синтетическая соль натрия, алюминия и фосфорной кислоты, существует в кислой и основной формах.\n\nВ пище его используют как эмульгатор, а в кислой форме — как кислотный компонент разрыхлителей теста, в том числе в некоторых мучных смесях с разрыхлителем и в кексах. Поскольку он содержит алюминий, в ЕС его применение ограничено определёнными изделиями из теста.\n\nВ ЕС разрешён для определённой выпечки, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E542",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Bone phosphate",
+      "text": "Bone phosphate is a form of calcium phosphate (tribasic) prepared from animal bones, so it is of animal origin. This matters to vegetarians and to people who avoid certain animal products for religious reasons.\n\nIn food it is used as an anti-caking agent in powders and as a source of calcium and phosphorus.\n\nIt is not approved in the EU and the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Костный фосфат",
+      "text": "Костный фосфат — форма фосфата кальция (трёхосновного), получаемая из животных костей, то есть имеющая животное происхождение. Это важно для вегетарианцев и людей, по религиозным причинам избегающих некоторых продуктов животного происхождения.\n\nВ пище его используют как антислёживающий агент в порошках и как источник кальция и фосфора.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E543",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Calcium sodium polyphosphate",
+      "text": "Calcium sodium polyphosphate is a synthetic polyphosphate salt, made by heating calcium and sodium phosphates. It is rarely encountered and little general information is available about its use.\n\nIt is an emulsifier. Polyphosphates in general are used to bind water and metal ions in processed foods.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Полифосфат кальция-натрия",
+      "text": "Полифосфат кальция-натрия — синтетическая полифосфатная соль, получаемая нагреванием фосфатов кальция и натрия. Встречается редко, общих сведений о её применении мало.\n\nОн указан как эмульгатор. Полифосфаты в целом используют в переработанных продуктах для связывания воды и ионов металлов.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E544",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Calcium polyphosphate",
+      "text": "Calcium polyphosphate is a synthetic polymeric phosphate salt of calcium. It is rarely encountered, and little general information is available about its use in food.\n\nIt is an emulsifier. Other polyphosphates are used in processed foods to bind water and metal ions.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Полифосфат кальция",
+      "text": "Полифосфат кальция — синтетическая полимерная фосфатная соль кальция. Встречается редко, общих сведений о его применении в пище мало.\n\nОн указан как эмульгатор. Другие полифосфаты используют в переработанных продуктах для связывания воды и ионов металлов.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E545",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Ammonium polyphosphate",
+      "text": "Ammonium polyphosphate is a synthetic polymeric salt of ammonia and phosphoric acid. Outside food it is better known as a fertiliser and a flame retardant.\n\nIt is an emulsifier. It is very rarely used as a food additive, and little general information on food uses is available.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Полифосфат аммония",
+      "text": "Полифосфат аммония — синтетическая полимерная соль аммиака и фосфорной кислоты. Вне пищевой промышленности он больше известен как удобрение и антипирен.\n\nОн указан как эмульгатор. В качестве пищевой добавки используется очень редко, общих сведений о пищевом применении мало.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E550",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Sodium silicates",
+      "text": "This group includes sodium silicate (water glass) and sodium metasilicate, synthetic salts made by melting sand with soda ash. Their solutions are strongly alkaline.\n\nThey are listed as anti-caking agents. They are mostly used outside food, for example in detergents and adhesives, and food contact uses such as packaging are more common than direct additions.\n\nThey are not approved in the EU and the UK, and approved in the US for food packaging."
+    },
+    "ru": {
+      "name": "Силикаты натрия",
+      "text": "В группу входят силикат натрия (жидкое стекло) и метасиликат натрия — синтетические соли, получаемые сплавлением песка с содой. Их растворы сильно щелочные.\n\nУказаны как антислёживающие агенты. Они применяются в основном вне пищевой отрасли, например в моющих средствах и клеях, а использование в контакте с пищей, например в упаковке, встречается чаще, чем прямое добавление в продукты.\n\nВ ЕС и Великобритании не разрешены, в США разрешены для упаковки пищевых продуктов."
+    }
+  },
+  {
+    "code": "E551",
+    "eu_authorised": true,
+    "eu_official_name": "Silicon dioxide",
+    "en": {
+      "name": "Silicon dioxide",
+      "text": "Silicon dioxide, or silica, is a compound of silicon and oxygen. It occurs naturally as quartz and sand, and the form used in food is made synthetically as a fine amorphous powder.\n\nIn food it is a widely used anti-caking agent that absorbs moisture. It keeps powdered foods such as salt, spices, coffee creamers, soup mixes and supplement tablets flowing freely.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US with conditions."
+    },
+    "ru": {
+      "name": "Диоксид кремния",
+      "text": "Диоксид кремния, или кремнезём, — соединение кремния с кислородом. В природе он встречается как кварц и песок, а используемая в пище форма производится синтетически в виде тонкого аморфного порошка.\n\nВ пище это широко применяемый антислёживающий агент, поглощающий влагу. Он сохраняет сыпучесть порошкообразных продуктов: соли, специй, сухих сливок, сухих смесей для супов и таблеток добавок.\n\nВ ЕС разрешён для определённых продуктов, в Великобритании разрешён, в США разрешён при соблюдении условий."
+    }
+  },
+  {
+    "code": "E552",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium silicate",
+    "en": {
+      "name": "Calcium silicate",
+      "text": "Calcium silicate is a compound of calcium oxide and silica. It occurs in nature in several minerals and is also produced synthetically.\n\nIn food it is used as an anti-caking agent in powders. It absorbs moisture and keeps products such as table salt, baking powder and powdered mixes free-flowing.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US for salt and baking powder."
+    },
+    "ru": {
+      "name": "Силикат кальция",
+      "text": "Силикат кальция — соединение оксида кальция и кремнезёма. В природе он входит в состав нескольких минералов, а также производится синтетически.\n\nВ пище его используют как антислёживающий агент в порошках. Он поглощает влагу и сохраняет сыпучесть таких продуктов, как поваренная соль, разрыхлитель теста и сухие смеси.\n\nВ ЕС разрешён для определённых продуктов, в Великобритании разрешён, в США разрешён для соли и разрыхлителя теста."
+    }
+  },
+  {
+    "code": "E553a",
+    "eu_authorised": true,
+    "eu_official_name": "Magnesium silicate",
+    "en": {
+      "name": "Magnesium silicates",
+      "text": "This group includes magnesium silicate and magnesium trisilicate. They are compounds of magnesium and silica, found in nature as minerals or made synthetically. Magnesium trisilicate is also used in antacid medicines.\n\nIn food they serve as anti-caking agents, keeping powders such as salt and spices from clumping.\n\nThey are approved in the EU for certain foods, approved in the UK and approved in the US for salt."
+    },
+    "ru": {
+      "name": "Силикаты магния",
+      "text": "В группу входят силикат магния и трисиликат магния. Это соединения магния и кремнезёма, которые встречаются в природе в виде минералов или производятся синтетически. Трисиликат магния применяется также в антацидных лекарствах.\n\nВ пище они служат антислёживающими агентами и не дают комковаться порошкам, например соли и специям.\n\nВ ЕС разрешены для определённых продуктов, в Великобритании разрешены, в США разрешены для соли."
+    }
+  },
+  {
+    "code": "E553b",
+    "eu_authorised": true,
+    "eu_official_name": "Talc",
+    "en": {
+      "name": "Talc",
+      "text": "Talc is a natural mineral, a hydrated magnesium silicate, mined and ground into a fine powder. It is best known from cosmetics and industry.\n\nIn food it is used as an anti-caking and coating agent, for example on the surface of some confectionery and in powders. Food-grade talc must meet purity requirements, in particular regarding asbestos contamination.\n\nIt is approved in the EU for certain foods, approved in the UK and approved in the US for food packaging and drugs."
+    },
+    "ru": {
+      "name": "Тальк",
+      "text": "Тальк — природный минерал, гидратированный силикат магния, который добывают и измельчают в тонкий порошок. Он больше всего известен по косметике и промышленности.\n\nВ пище его применяют как антислёживающий и покрывающий агент, например для обработки поверхности некоторых кондитерских изделий и в порошках. Пищевой тальк должен отвечать требованиям чистоты, в частности по отсутствию примесей асбеста.\n\nВ ЕС разрешён для определённых продуктов, в Великобритании разрешён, в США разрешён для упаковки пищевых продуктов и лекарств."
+    }
+  },
+  {
+    "code": "E554",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium aluminium silicate",
+    "en": {
+      "name": "Sodium aluminosilicate",
+      "text": "Sodium aluminosilicate, or sodium aluminium silicate, is a synthetic compound of sodium, aluminium and silica, related to natural zeolite minerals.\n\nIn food it is used as an anti-caking agent in powders, especially table salt and dry mixes. Because it contains aluminium, its use is limited in the EU.\n\nIt is approved in the EU for salt, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Алюмосиликат натрия",
+      "text": "Алюмосиликат натрия — синтетическое соединение натрия, алюминия и кремнезёма, родственное природным цеолитам.\n\nВ пище его используют как антислёживающий агент в порошках, прежде всего в поваренной соли и сухих смесях. Поскольку он содержит алюминий, в ЕС его применение ограничено.\n\nВ ЕС разрешён для соли, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E555",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium aluminium silicate",
+    "en": {
+      "name": "Potassium aluminium silicate",
+      "text": "Potassium aluminium silicate is a compound of potassium, aluminium and silica, related to mica and feldspar minerals. It is also used as a carrier for pearlescent pigments.\n\nIn food it is used as an anti-caking agent and as the base for pearlescent colours in some coatings.\n\nIt is approved in the EU, approved in the UK and not approved in the US."
+    },
+    "ru": {
+      "name": "Алюмосиликат калия",
+      "text": "Алюмосиликат калия — соединение калия, алюминия и кремнезёма, родственное минералам слюды и полевого шпата. Его также используют как основу для перламутровых пигментов.\n\nВ пище его применяют как антислёживающий агент и как основу перламутровых красителей в некоторых покрытиях.\n\nРазрешён в ЕС и Великобритании, в США не разрешён."
+    }
+  },
+  {
+    "code": "E556",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium aluminium silicate b",
+    "en": {
+      "name": "Calcium aluminosilicate",
+      "text": "Calcium aluminosilicate, or calcium aluminium silicate, is a compound of calcium, aluminium and silica, found in nature in some minerals and also produced synthetically.\n\nIn food it is used as an anti-caking agent, mainly in salt and powdered mixes.\n\nIt is approved in the EU, not approved in the UK and approved in the US in salt."
+    },
+    "ru": {
+      "name": "Алюмосиликат кальция",
+      "text": "Алюмосиликат кальция — соединение кальция, алюминия и кремнезёма, встречающееся в природе в некоторых минералах и получаемое также синтетически.\n\nВ пище его используют как антислёживающий агент, главным образом в соли и порошкообразных смесях.\n\nВ ЕС разрешён, в Великобритании не разрешён, в США разрешён в соли."
+    }
+  },
+  {
+    "code": "E557",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Zinc silicate",
+      "text": "Zinc silicate is a compound of zinc oxide and silica, found in nature as the mineral willemite and also produced synthetically. It is rarely encountered as a food additive.\n\nIt is listed as an anti-caking agent, a role also played by other silicates in this range.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Силикат цинка",
+      "text": "Силикат цинка — соединение оксида цинка и кремнезёма, которое встречается в природе как минерал виллемит, а также производится синтетически. Как пищевая добавка встречается редко.\n\nУказан как антислёживающий агент — такую же роль играют и другие силикаты этой группы.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E558",
+    "eu_authorised": true,
+    "eu_official_name": "Bentonite c",
+    "en": {
+      "name": "Bentonite",
+      "text": "Bentonite is a natural clay consisting mostly of montmorillonite, formed from weathered volcanic ash and mined in several countries. It swells and adsorbs substances in water.\n\nIn food it is listed as an anti-caking agent, and bentonite is widely used as a fining agent to clarify wine, juices and oils.\n\nIt is approved in the EU, not approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Бентонит",
+      "text": "Бентонит — природная глина, состоящая в основном из монтмориллонита; образуется из выветренного вулканического пепла и добывается во многих странах. Он набухает и адсорбирует вещества из воды.\n\nУказан как антислёживающий агент, а в виноделии бентонит широко используют как осветлитель для вина, соков и масел.\n\nВ ЕС разрешён, в Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E559",
+    "eu_authorised": true,
+    "eu_official_name": "Aluminium silicate (Kaolin) b",
+    "en": {
+      "name": "Aluminium silicate",
+      "text": "Aluminium silicate, commonly known as kaolin or china clay, is a natural clay mineral mined and purified for use in ceramics, paper and medicine.\n\nIn food it is listed as an anti-caking agent and carrier, and kaolin is used in some processing steps as a filtering and clarifying aid.\n\nIt is approved in the EU, not approved in the UK and not approved in the US."
+    },
+    "ru": {
+      "name": "Силикат алюминия",
+      "text": "Силикат алюминия, широко известный как каолин или белая глина, — природный глинистый минерал, который добывают и очищают для керамики, бумаги и медицины.\n\nВ пище он указан как антислёживающий агент и носитель, а каолин используют на некоторых этапах переработки как фильтрующее и осветляющее средство.\n\nВ ЕС разрешён, в Великобритании и США не разрешён."
+    }
+  },
+  {
+    "code": "E560",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Potassium silicate",
+      "text": "Potassium silicate is a compound of potassium oxide and silica, made synthetically by fusing sand with potash. Its solutions are strongly alkaline, and it is used mainly in industry.\n\nIt is listed as an anti-caking agent but is rarely encountered as a food additive.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Силикат калия",
+      "text": "Силикат калия — соединение оксида калия и кремнезёма, получаемое синтетически сплавлением песка с поташом. Его растворы сильно щелочные, а применяется он главным образом в промышленности.\n\nУказан как антислёживающий агент, но как пищевая добавка встречается редко.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E561",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Vermiculite",
+      "text": "Vermiculite is a natural mineral, a hydrated magnesium aluminium silicate that expands strongly when heated. It is used mainly in insulation, horticulture and packaging.\n\nNo specific food function is recorded for it.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Вермикулит",
+      "text": "Вермикулит — природный минерал, гидратированный алюмосиликат магния, который сильно вспучивается при нагревании. Применяется главным образом в теплоизоляции, садоводстве и упаковке.\n\nКонкретная пищевая функция не определена.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E562",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Sepiolite",
+      "text": "Sepiolite is a natural clay mineral, a hydrated magnesium silicate with a fibrous structure and high absorbency. It is used industrially as an absorbent and carrier.\n\nNo specific food function is recorded for it.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Сепиолит",
+      "text": "Сепиолит — природный глинистый минерал, гидратированный силикат магния с волокнистой структурой и высокой впитывающей способностью. В промышленности его применяют как абсорбент и носитель.\n\nКонкретная пищевая функция не определена.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E563",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Sepiolitic clay",
+      "text": "Sepiolitic clay is a natural clay rich in the mineral sepiolite, a fibrous magnesium silicate with high absorbency. It is used industrially as an absorbent and carrier.\n\nNo specific food function is recorded for it.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Сепиолитовая глина",
+      "text": "Сепиолитовая глина — природная глина с высоким содержанием минерала сепиолита, волокнистого силиката магния с высокой впитывающей способностью. В промышленности её применяют как абсорбент и носитель.\n\nКонкретная пищевая функция не определена.\n\nНе разрешена ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E565",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Lignosulfonates",
+      "text": "Lignosulfonates are by-products of wood pulping with sulfite. They are water-soluble polymers derived from lignin, a natural component of wood, and are used as binders and dispersants in industry and agriculture.\n\nNo specific food function is recorded for them.\n\nThey are not approved in the EU and the UK, and approved in the US as a pesticide for bananas."
+    },
+    "ru": {
+      "name": "Лигносульфонаты",
+      "text": "Лигносульфонаты — побочные продукты сульфитной варки древесной массы. Это водорастворимые полимеры, получаемые из лигнина, природного компонента древесины; их используют как связующие и диспергаторы в промышленности и сельском хозяйстве.\n\nКонкретная пищевая функция не определена.\n\nВ ЕС и Великобритании не разрешены, в США разрешены как пестицид для бананов."
+    }
+  },
+  {
+    "code": "E566",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Natrolite-phonolite",
+      "text": "Natrolite-phonolite is a natural volcanic rock containing zeolite minerals such as natrolite, which is a hydrated sodium aluminium silicate. It is a rare entry in the E-number system.\n\nNo specific food function is recorded for it.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Натролит-фонолит",
+      "text": "Натролит-фонолит — природная вулканическая порода, содержащая цеолитовые минералы, такие как натролит, гидратированный алюмосиликат натрия. Это редкая позиция в системе E-номеров.\n\nКонкретная пищевая функция не определена.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E570",
+    "eu_authorised": true,
+    "eu_official_name": "Fatty acids",
+    "en": {
+      "name": "Fatty acids",
+      "text": "Fatty acids are the building blocks of fats and oils. Those used as additives, such as stearic, palmitic and oleic acid, are obtained from edible vegetable or animal fats.\n\nIn food they are used as anti-caking agents and as carriers, glazing agents and antifoaming agents, for example in coatings on fruit and confectionery and in powders.\n\nThey are approved in the EU, approved in the UK and approved in the US. The source may be animal or vegetable."
+    },
+    "ru": {
+      "name": "Жирные кислоты",
+      "text": "Жирные кислоты — составные части жиров и масел. Те, что применяют как добавки, например стеариновую, пальмитиновую и олеиновую, получают из пищевых растительных или животных жиров.\n\nВ пище их используют как антислёживающие агенты, а также как носители, глазирователи и пеногасители, например в покрытиях фруктов и кондитерских изделий и в порошках.\n\nРазрешены в ЕС, Великобритании и США. Источник может быть животным или растительным."
+    }
+  },
+  {
+    "code": "E572",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Magnesium stearate",
+      "text": "Magnesium stearate and calcium stearate are salts of stearic acid, a fatty acid from vegetable or animal fats, with magnesium or calcium.\n\nThey are used as anti-caking agents and emulsifiers, as well as lubricants in the production of tablets and sweets. They are also very common in dietary supplements.\n\nThey are not approved in the EU and the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Стеарат магния",
+      "text": "Стеарат магния и стеарат кальция — соли стеариновой кислоты, жирной кислоты из растительных или животных жиров, с магнием или кальцием.\n\nИх используют как антислёживающие агенты и эмульгаторы, а также как смазывающие добавки при производстве таблеток и конфет. Они очень распространены и в биологически активных добавках.\n\nВ ЕС и Великобритании не разрешены, в США разрешены."
+    }
+  },
+  {
+    "code": "E574",
+    "eu_authorised": true,
+    "eu_official_name": "Gluconic acid",
+    "en": {
+      "name": "Gluconic acid",
+      "text": "Gluconic acid is an organic acid produced by fermenting glucose with certain moulds or bacteria. It occurs naturally in fruit, honey and wine.\n\nIn food it works as an acidity regulator and sequestrant, and it is used in small amounts in dairy products, drinks and baked goods. It has a mild, slightly sour taste.\n\nIt is approved in the EU, approved in the UK and approved in the US as a nutrient supplement."
+    },
+    "ru": {
+      "name": "Глюконовая кислота",
+      "text": "Глюконовая кислота — органическая кислота, получаемая ферментацией глюкозы некоторыми плесневыми грибами или бактериями. В природе встречается во фруктах, мёде и вине.\n\nВ пище она служит регулятором кислотности и связывающим металлы агентом, в малых количествах её используют в молочных продуктах, напитках и выпечке. Вкус у неё мягкий, слегка кисловатый.\n\nРазрешена в ЕС и Великобритании, в США разрешена как питательная добавка."
+    }
+  },
+  {
+    "code": "E575",
+    "eu_authorised": true,
+    "eu_official_name": "Glucono-delta-lactone",
+    "en": {
+      "name": "Glucono delta-lactone",
+      "text": "Glucono delta-lactone is a cyclic ester of gluconic acid, made by fermenting glucose. It occurs naturally in honey and fruit juices.\n\nIn water it slowly converts to gluconic acid, which lowers pH gradually. This makes it useful as a mild acidifier and curing aid in cured sausages, fresh cheese and bakery products, and as the coagulant in silken tofu.\n\nIt is approved in the EU in certain foods, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Глюконо-дельта-лактон",
+      "text": "Глюконо-дельта-лактон — циклический сложный эфир глюконовой кислоты, получаемый ферментацией глюкозы. В природе встречается в мёде и фруктовых соках.\n\nВ воде он медленно превращается в глюконовую кислоту, постепенно снижая pH. Поэтому его применяют как мягкий подкислитель и вспомогательное средство при посоле в варёных колбасах, свежем сыре и выпечке, а также как коагулянт для шелковистого тофу.\n\nВ ЕС разрешён в определённых продуктах, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E576",
+    "eu_authorised": true,
+    "eu_official_name": "Sodium gluconate",
+    "en": {
+      "name": "Sodium gluconate",
+      "text": "Sodium gluconate is the sodium salt of gluconic acid, which is obtained by fermenting glucose. It is a water-soluble white powder with low toxicity.\n\nIn food it is used as a sequestrant, binding metal ions that could spoil colour and flavour.\n\nIt is approved in the EU in sweeteners, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Глюконат натрия",
+      "text": "Глюконат натрия — натриевая соль глюконовой кислоты, которую получают ферментацией глюкозы. Это белый, хорошо растворимый в воде порошок с низкой токсичностью.\n\nВ пище его используют как связывающий металлы агент, не дающий ионам металлов портить цвет и вкус.\n\nВ ЕС разрешён в подсластителях, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E577",
+    "eu_authorised": true,
+    "eu_official_name": "Potassium gluconate",
+    "en": {
+      "name": "Potassium gluconate",
+      "text": "Potassium gluconate is the potassium salt of gluconic acid, which is produced by fermenting glucose. It is also used in supplements as a source of potassium.\n\nIn food it works as a sequestrant, binding metal ions that could affect colour and flavour.\n\nIt is approved in the EU in sweeteners, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Глюконат калия",
+      "text": "Глюконат калия — калиевая соль глюконовой кислоты, получаемая ферментацией глюкозы. Его используют также в добавках как источник калия.\n\nВ пище он служит связывающим металлы агентом, не дающим ионам металлов влиять на цвет и вкус.\n\nВ ЕС разрешён в подсластителях, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E578",
+    "eu_authorised": true,
+    "eu_official_name": "Calcium gluconate",
+    "en": {
+      "name": "Calcium gluconate",
+      "text": "Calcium gluconate is the calcium salt of gluconic acid, which is produced by fermenting glucose. It is also used in supplements and in medicine as a source of calcium.\n\nIn food it works as a firming agent and calcium source, for example in fortified drinks and some processed fruit products.\n\nIt is approved in the EU in sweeteners, approved in the UK and approved in the US for certain foods."
+    },
+    "ru": {
+      "name": "Глюконат кальция",
+      "text": "Глюконат кальция — кальциевая соль глюконовой кислоты, получаемая ферментацией глюкозы. Его используют также в добавках и в медицине как источник кальция.\n\nВ пище он служит уплотнителем и источником кальция, например в обогащённых напитках и некоторых продуктах из переработанных фруктов.\n\nВ ЕС разрешён в подсластителях, в Великобритании разрешён, в США разрешён для определённых продуктов."
+    }
+  },
+  {
+    "code": "E579",
+    "eu_authorised": true,
+    "eu_official_name": "Ferrous gluconate",
+    "en": {
+      "name": "Ferrous gluconate",
+      "text": "Ferrous gluconate is the iron(II) salt of gluconic acid. It is produced synthetically and is also used in iron supplements.\n\nIn food it is used as a colour stabiliser, notably to turn black olives an even dark colour, and as a source of iron.\n\nIt is approved in the EU for fruits and vegetables in canned or pickled form, approved in the UK and approved in the US."
+    },
+    "ru": {
+      "name": "Глюконат железа",
+      "text": "Глюконат железа(II) — соль железа и глюконовой кислоты. Получается синтетически, применяется и в добавках с железом.\n\nВ пище его используют как стабилизатор цвета, в частности чтобы чёрные оливки приобрели ровный тёмный цвет, и как источник железа.\n\nВ ЕС разрешён для фруктов и овощей в консервированном или маринованном виде, в Великобритании и США разрешён."
+    }
+  },
+  {
+    "code": "E580",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Magnesium gluconate",
+      "text": "Magnesium gluconate is the magnesium salt of gluconic acid, which is produced by fermenting glucose. It is mainly used in dietary supplements as a source of magnesium.\n\nNo specific food function is recorded for it.\n\nIt is not approved in the EU and the UK, and approved in the US."
+    },
+    "ru": {
+      "name": "Глюконат магния",
+      "text": "Глюконат магния — магниевая соль глюконовой кислоты, получаемой ферментацией глюкозы. В основном используется в биологически активных добавках как источник магния.\n\nКонкретная пищевая функция не определена.\n\nВ ЕС и Великобритании не разрешён, в США разрешён."
+    }
+  },
+  {
+    "code": "E585",
+    "eu_authorised": true,
+    "eu_official_name": "Ferrous lactate",
+    "en": {
+      "name": "Ferrous lactate",
+      "text": "Ferrous lactate is the iron(II) salt of lactic acid, produced by reacting lactic acid with iron. It is also used in iron supplements and fortified foods.\n\nIn food it is used as a colour stabiliser, particularly for ripe olives, and as a source of iron.\n\nIt is approved in the EU in certain Swedish foods, approved in the UK and approved in the US for olives."
+    },
+    "ru": {
+      "name": "Лактат железа",
+      "text": "Лактат железа(II) — соль железа и молочной кислоты, получаемая реакцией молочной кислоты с железом. Применяется также в добавках с железом и обогащённых продуктах.\n\nВ пище его используют как стабилизатор цвета, в частности для спелых оливок, и как источник железа.\n\nВ ЕС разрешён в отдельных шведских продуктах, в Великобритании разрешён, в США разрешён для оливок."
+    }
+  },
+  {
+    "code": "E586",
+    "eu_authorised": true,
+    "eu_official_name": "4-Hexylresorcinol",
+    "en": {
+      "name": "4-Hexylresorcinol",
+      "text": "4-Hexylresorcinol is a synthetic organic compound, a phenol derivative. It also has medical uses, for example in throat lozenges as an antiseptic.\n\nIn food it works as an antioxidant that prevents browning, a problem called melanosis in crustaceans such as shrimp and prawns.\n\nIt is approved in the EU for crustaceans, approved in the UK and not approved in the US."
+    },
+    "ru": {
+      "name": "4-Гексилрезорцин",
+      "text": "4-Гексилрезорцин — синтетическое органическое соединение, производное фенола. Применяется и в медицине, например в пастилках для горла как антисептик.\n\nВ пище он служит антиоксидантом, который предотвращает потемнение (меланоз) ракообразных, таких как креветки.\n\nВ ЕС разрешён для ракообразных, в Великобритании разрешён, в США не разрешён."
+    }
+  },
+  {
+    "code": "E598",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Synthetic calcium aluminates",
+      "text": "Synthetic calcium aluminates are compounds of calcium oxide and aluminium oxide, made by heating lime and alumina together. They are used mainly in cement.\n\nLittle general information on food use is available.\n\nThey are not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Синтетические алюминаты кальция",
+      "text": "Синтетические алюминаты кальция — соединения оксида кальция и оксида алюминия, получаемые совместным обжигом извести и глинозёма. Применяются главным образом в цементе.\n\nОбщих сведений об их применении в пище мало.\n\nНе разрешены ни в ЕС, ни в Великобритании, ни в США."
+    }
+  },
+  {
+    "code": "E599",
+    "eu_authorised": false,
+    "eu_official_name": null,
+    "en": {
+      "name": "Perlite",
+      "text": "Perlite is a natural volcanic glass that expands when heated into a light, porous material. It is mainly used in construction and horticulture and as a filtration aid.\n\nNo specific food function is recorded for it.\n\nIt is not approved in the EU, the UK or the US."
+    },
+    "ru": {
+      "name": "Перлит",
+      "text": "Перлит — природное вулканическое стекло, которое при нагревании вспучивается в лёгкий пористый материал. Применяется в основном в строительстве, садоводстве и как фильтрующий материал.\n\nКонкретная пищевая функция не определена.\n\nНе разрешён ни в ЕС, ни в Великобритании, ни в США."
+    }
+  }
+]
