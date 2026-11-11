@@ -1,0 +1,318 @@
+[
+  {
+    "code": "E1413",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Identity reworded to the EU specification definition (combined monostarch phosphate + distarch phosphate treatments). Starch sources corrected to those in the source (wheat, potato, tapioca; maize not cited). Uses limited to sourced ones (soups, sauces, frozen gravies, pie fillings; freeze-thaw stability); 'desserts' and 'smooth texture' deleted. Added emulsifier (Codex class) and EFSA 2017 safety conclusion. Russian name per TR TS 029/2012.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Phosphated_distarch_phosphate",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "https://doi.org/10.2903/j.efsa.2017.4911",
+      "CXG 36-1989 (cached)",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1414",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Identity set to EU specification (cross-linked with sodium trimetaphosphate or POCl3, esterified with acetic anhydride or vinyl acetate). Deleted unsourced starch sources and product list/heat-acid-freeze claim. Added digestion note (Wikipedia) and EFSA 2017 safety conclusion. Russian name per TR TS 029/2012 (Дикрахмалфосфат ацетилированный).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Acetylated_distarch_phosphate",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "https://doi.org/10.2903/j.efsa.2017.4911",
+      "CXG 36-1989 (cached)",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1420",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Identity corrected: EU specification allows acetic anhydride or vinyl acetate (draft said acetic anhydride only). Deleted unsourced claim that acetyl groups prevent paste thickening/clouding on cooling, starch source list and product list. Added Codex emulsifier class, digestion note (Wikipedia) and EFSA 2017 safety conclusion. Russian name per TR TS 029/2012 (Крахмал ацетилированный).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Acetylated_starch",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "https://doi.org/10.2903/j.efsa.2017.4911",
+      "CXG 36-1989 (cached)",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1421",
+    "verdict": "rewritten",
+    "changes": "Removed 'no EU or US status recorded'. Identity and functions taken from a Codex GSFA draft (INS 1421 'Starch acetate esterified with vinyl acetate': bulking agent, emulsifier, stabilizer, thickener). Deleted unsourced starch-source and use claims. Added that the E1420 specification now allows vinyl acetate (Reg. (EU) 231/2012). Russian name changed to a literal of the Codex name.",
+    "sources": [
+      "https://www.fao.org/4/y0474s/y0474s0u.htm",
+      "https://www.fao.org/4/y0474s/y0474s6f.htm",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231"
+    ],
+    "unresolved": "INS 1421 is absent from the current CXG 36; the code appears only in older Codex documents."
+  },
+  {
+    "code": "E1422",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Kept EU-specification identity (adipic anhydride cross-link, acetic anhydride esterification; draft said 'adipic acid'). Deleted unsourced starch sources, product list (sauces, soups, dressings, fillings, baby foods) and acid/freeze resistance; kept heat resistance (Wikipedia). Added emulsifier (Codex) and EFSA 2017 conclusion. Russian name per TR TS 029/2012.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Acetylated_distarch_adipate",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "https://doi.org/10.2903/j.efsa.2017.4911",
+      "CXG 36-1989 (cached)",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1423",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence. INS 1423 identity confirmed in JECFA database (emulsifier, thickener; 1982 no ADI allocated, specification withdrawn), added as history. Cross-link chemistry (epichlorohydrin-formed glycerol bridges) from JECFA monographs on distarch glycerol. Deleted unsourced starch sources.",
+    "sources": [
+      "https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/79",
+      "https://inchem.org/documents/jecfa/jecmono/v05je67.htm"
+    ],
+    "unresolved": "Russian name not found in Russian regulations; kept draft's form."
+  },
+  {
+    "code": "E1430",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence. Identity/chemistry corrected from JECFA monograph (cross-linking by epichlorohydrin, giving glycerol diether links; draft said 'cross-linked with glycerol'). Deleted unsourced starch-source claim and 'stable paste' use; function stated generically from the modified starch article.",
+    "sources": [
+      "https://inchem.org/documents/jecfa/jecmono/v05je67.htm",
+      "https://en.wikipedia.org/wiki/Modified_starch"
+    ],
+    "unresolved": "Code-to-substance mapping (E1430 = distarch glycerol) only from the Wikipedia E-number table; not in current or the older Codex lists checked."
+  },
+  {
+    "code": "E1440",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Identity per EU specification. Deleted unsourced claims (clear pastes, freeze-thaw resistance, product list, starch sources); kept viscosity stability (Wikipedia). Functions per Codex (emulsifier, stabilizer, thickener). Added EFSA 2017 conclusion. Russian name per TR TS 029/2012 (Крахмал оксипропилированный), common synonym kept.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Modified_starch",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "https://doi.org/10.2903/j.efsa.2017.4911",
+      "CXG 36-1989 (cached)",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1441",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence. Chemistry corrected from JECFA monograph: cross-linking is by epichlorohydrin (giving glycerol links), plus propylene oxide (draft: 'cross-linked with glycerol'). Functions (emulsifier, thickener) and 1982 JECFA history (no ADI allocated, specification withdrawn) from JECFA database. Deleted unsourced starch-source and use claims.",
+    "sources": [
+      "https://inchem.org/documents/jecfa/jecmono/v17je17.htm",
+      "https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/2342"
+    ],
+    "unresolved": "E1441 and E1443 appear to be two old numbers for the same substance (glycerine/glycerol spellings); mapping only from the Wikipedia E-number table, not in current Codex and JECFA gives no INS. Consider merging or dropping one."
+  },
+  {
+    "code": "E1442",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Identity per EU specification (cross-linked with sodium trimetaphosphate or POCl3, etherified with propylene oxide). Deleted unsourced product list, heat/acid/freeze claim and starch sources. Functions per Codex, including anti-caking agent. Added EFSA 2017 conclusion. Russian name per TR TS 029/2012.",
+    "sources": [
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "https://doi.org/10.2903/j.efsa.2017.4911",
+      "CXG 36-1989 (cached)",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1443",
+    "verdict": "rewritten",
+    "changes": "Same corrections as E1441 (epichlorohydrin cross-linking plus propylene oxide; JECFA functions and 1982 history). Added note that the substance also appears as E1441.",
+    "sources": [
+      "https://inchem.org/documents/jecfa/jecmono/v17je17.htm",
+      "https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/2342"
+    ],
+    "unresolved": "See E1441: duplicate number for the same substance; mapping only from the Wikipedia E-number table."
+  },
+  {
+    "code": "E1450",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Identity per EU spec. Deleted unsourced uses (beverage emulsions, flavour encapsulation, dressings) and starch sources; replaced with uses in Reg. 1333/2008 Annexes II/III (infant/follow-on formulae, baby foods, carrier in nutrients). Added digestion note (Wikipedia) and EFSA 2017 conclusion. Russian name per TR TS 029/2012.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Starch_sodium_octenyl_succinate",
+      "https://en.wikipedia.org/wiki/Modified_starch",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "/tmp/fa-eu/r1333_2025.txt",
+      "https://doi.org/10.2903/j.efsa.2017.4911",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1451",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Identity per EU spec (sodium hypochlorite then acetic anhydride). Deleted unsourced product list (sauces, batters, fillings) and starch sources. Functions per Codex. Added EFSA 2017 conclusion. Russian name per TR TS 029/2012.",
+    "sources": [
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "https://doi.org/10.2903/j.efsa.2017.4911",
+      "CXG 36-1989 (cached)",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1452",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Identity per EU spec (octenylsuccinic anhydride + aluminium sulphate). Function checked: Codex lists anticaking agent, carrier, stabilizer (draft's 'anti-caking' was partly right); use corrected from 'powdered foods and supplements' to encapsulation of vitamin preparations in food supplements (Reg. 1333/2008 Annex III Part 5). Deleted unsourced starch sources and 'free-flowing powders'. Added EFSA 2017 conclusion (covers E1452). Russian name per TR TS 029/2012, reordered.",
+    "sources": [
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "/tmp/fa-eu/r1333_2025.txt",
+      "https://doi.org/10.2903/j.efsa.2017.4911",
+      "CXG 36-1989 (cached)",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": "TR TS 029/2012 gives the functions as stabiliser and glazing agent, differing from Codex; Codex used."
+  },
+  {
+    "code": "E1501",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence and 'little reliable information' meta-remark. Reduced to identity implied by the name, plus Codex framing of 15xx numbers as carriers/solvents. No source found for any food use.",
+    "sources": [
+      "CXG 36-1989 (cached)",
+      "https://en.wikipedia.org/w/index.php?title=E_number&action=raw"
+    ],
+    "unresolved": "Not in current Codex, EU or EAEU lists; identity of E1501 known only from the Wikipedia E-number table. No authoritative description found. Consider dropping the entry."
+  },
+  {
+    "code": "E1502",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Kept identity and solvent-for-flavourings use (Wikipedia). 'Syrupy' replaced by sourced 'bittersweet'; 'synthetic' replaced by sourced manufacture from acetaldehyde plus natural occurrence in bell peppers. Deleted unsourced humectant claim; added flavouring-ingredient use. Russian name per Russian Wikipedia (Бутандиол-1,3).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/1,3-Butanediol",
+      "https://www.inchem.org/documents/jecfa/jecmono/v14je03.htm"
+    ],
+    "unresolved": "INS/E 1502 is absent from current Codex; mapping from the Wikipedia article/E-number table only."
+  },
+  {
+    "code": "E1503",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Functions replaced with Codex classes (glazing agent, anticaking agent, carrier solvent, emulsifier); deleted unsourced 'release agent' and meaningless 'resolving agent' (from Wikipedia E-number table). Composition made specific (about 90% ricinoleic acid). Laxative statement kept and tied to ricinoleic acid per source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Castor_oil",
+      "CXG 36-1989 (cached)",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1504",
+    "verdict": "rewritten",
+    "changes": "Identity corrected: Codex CXG 36 assigns INS 1504(i) to cyclotetraglucose and 1504(ii) to cyclotetraglucose syrup (carrier); the draft described ethyl acetate, which follows the Wikipedia E-number table. Text rewritten from the JECFA database (2009 evaluation, carrier/stabilizer, ADI not specified) and JECFA specification (enzymatic production from starch hydrolysate, syrup composition). Russian name translated (no Russian regulatory name found).",
+    "sources": [
+      "CXG 36-1989 (cached)",
+      "https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/5636",
+      "https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/5637",
+      "https://fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph7/additive-501-m7.pdf",
+      "https://www.fao.org/fileadmin/user_upload/jecfa_additives/docs/monograph7/additive-501-m7.pdf"
+    ],
+    "unresolved": "Identity change from ethyl acetate to cyclotetraglucose: owner should confirm the app wants the current Codex identity."
+  },
+  {
+    "code": "E1505",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Deleted unsourced 'produced by synthesis'; 'nearly odourless' corrected to odourless (Wikipedia). Functions aligned with Codex (foam stabilizer, emulsifier, carrier solvent, plasticizer); egg-white whipping aid and plasticiser use in tablet coatings/plastics per Wikipedia; flavouring carrier per Reg. 1333/2008 Annex III.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Triethyl_citrate",
+      "CXG 36-1989 (cached)",
+      "/tmp/fa-eu/r1333_2025.txt",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1510",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Identity and production per Wikipedia (fermentation or ethylene hydration). Deleted unsourced claims about use as carrier for flavourings/colours/additives and residual amounts in finished food; kept general solvent use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ethanol"
+    ],
+    "unresolved": "E1510 is absent from current Codex and EU lists; food-additive role of ethanol under this number could not be sourced, so the entry is minimal."
+  },
+  {
+    "code": "E1516",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence. Deleted unsourced claims (synthetic manufacture, colourless viscous liquid, flavour-solvent use). Kept identity as one of the glycerine acetates (Wikipedia). Russian name changed to Моноацетин with synonyms.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Glycerine_acetate"
+    ],
+    "unresolved": "E1516 is absent from current Codex, EU and EAEU lists; code mapping from the Wikipedia E-number table only; no source for any food use."
+  },
+  {
+    "code": "E1517",
+    "verdict": "edited",
+    "changes": "Removed status sentence ('no EU or US status recorded', which was also wrong: E1517 is in the EU list). Identity and description per EU specification (mixture of 1,2- and 1,3-diacetates; clear, colourless, hygroscopic, somewhat oily). Deleted unsourced 'made synthetically'. Function per Codex (carrier); flavouring use per Reg. 1333/2008 Annex III Part 4. Names per EU list and TR TS 029/2012 (Диацетин).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Glyceryl_diacetate",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "/tmp/fa-eu/r1333_2025.txt",
+      "CXG 36-1989 (cached)",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1518",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. Deleted unsourced 'made synthetically' and 'baked goods'; kept chewing gum (Reg. 1333/2008 category 05.3 and TR TS). Added sourced taste and lipase breakdown. Description per EU spec. Russian name per TR TS 029/2012 (Триацетин).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Triacetin",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "/tmp/fa-eu/r1333_2025.txt",
+      "CXG 36-1989 (cached)",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1519",
+    "verdict": "edited",
+    "changes": "Removed status sentence ('no EU or US status recorded', also wrong: E1519 is in the EU list under Annex III). Function checked: Codex lists carrier only; draft's 'solvent and carrier for flavourings' narrowed to carrier in flavourings, with the flavouring uses from Reg. 1333/2008 Annex III Part 4 and Wikipedia. Natural occurrence and odour made specific (Wikipedia, EU spec). Added EFSA 2019 re-evaluation (ADI 4 mg/kg bw, no safety concern).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Benzyl_alcohol",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "/tmp/fa-eu/r1333_2025.txt",
+      "https://doi.org/10.2903/j.efsa.2019.5876",
+      "CXG 36-1989 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1520",
+    "verdict": "edited",
+    "changes": "Removed EU status sentence. 'Produced from petrochemical raw materials' made specific (mainly from propylene oxide). Deleted unsourced comparison with ethylene glycol and the product list (baked goods, sauces, drinks). Carrier uses per Reg. 1333/2008 Annex III (flavourings; colours, emulsifiers, antioxidants); extra Codex classes (emulsifier, glazing agent). Added EFSA ADI 25 mg/kg bw.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Propylene_glycol",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "/tmp/fa-eu/r1333_2025.txt",
+      "CXG 36-1989 (cached)",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1521",
+    "verdict": "edited",
+    "changes": "Removed the 'approved in 2010, region not stated' sentence as instructed. Corrected identity from 'Polyethylene glycol 8000' to the family of PEG grades (EU spec covers PEG 400 to PEG 8000; liquid vs waxy solid). Functions per Codex (antifoaming agent, carrier, glazing agent, plasticizer); 'binder' deleted (unsourced). Tablet/capsule film-coating use per EFSA 2018 and Reg. 1333/2008. Added sourced laxative use of PEG (macrogol).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polyethylene_glycol",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0231",
+      "https://doi.org/10.2903/j.efsa.2018.5293",
+      "/tmp/fa-eu/r1333_2025.txt",
+      "CXG 36-1989 (cached)",
+      "TR TS 029/2012 (cached)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E1525",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence. Deleted unsourced claims (made with ethylene oxide, clear solution, use in foods and supplements, binder, film former). Reduced to identity and documented non-food uses from Wikipedia.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hydroxyethyl_cellulose"
+    ],
+    "unresolved": "E1525 is absent from current Codex, EU and EAEU lists; code mapping from the Wikipedia E-number table only; no source found for any food use."
+  }
+]
