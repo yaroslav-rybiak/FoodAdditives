@@ -6,9 +6,10 @@ below are the working notes from the review and are kept for the record; where t
 "not done" or "queued", that is now out of date. Per-entry changes and sources are in
 `review/out/*.log.json` and `review/out/second_look_*.jsonl`.
 
-Open decisions for the owner: keep or drop entries whose code has no official meaning
-(E1430, E1441, E1501, E1525, and E543, E924b, E1502, E1510, E1516); whether E106 and E305
-should stay as separate entries; the title of E164; the spelling of E902 in Russian.
+Owner's decisions (2026-11-11): merged to master with this folder kept as the record of
+sources. Entries whose code has no official meaning stay (E1430, E1441, E1501, E1525, E543,
+E924b, E1502, E1510, E1516). E106 and E305 stay as separate entries. E164 keeps its title.
+E902 is spelled "Канделильский воск" in Russian (one л), not the regulation's double л.
 Not checked: EU amendments between April 2025 and November 2026 other than E424.
 
 Paused on 2026-11-11. This branch (`content-review`) holds the half-finished content review.
