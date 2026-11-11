@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warm cream behind the chocolate cupcake on the launcher icon. -->
+    <color name="ic_launcher_background">#F7E9D7</color>
+</resources>
