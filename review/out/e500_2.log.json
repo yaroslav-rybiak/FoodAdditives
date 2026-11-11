@@ -1,0 +1,381 @@
+[
+  {
+    "code": "E541",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentences. Replaced 'synthetic salt of sodium, aluminium and phosphoric acid' with the preparation route from the source. Removed unsupported 'self-raising flours and cakes'; added leavening mechanism, neutral flavour, basic form in cheese making, Codex functions. Replaced vague 'limited in the EU to specific baked goods' with the sourced 2012 restriction (Reg. 380/2012, from 1 Feb 2014 only multi-coloured sponge cakes) as history. Names aligned to EU official name and ru Wikipedia list name.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sodium_aluminium_phosphate&action=raw",
+      "https://www.legislation.gov.uk/eur/2012/380",
+      "https://doi.org/10.2903/j.efsa.2018.5372",
+      "Codex CXG 36-1989 (cached PDF)",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E500_—_E599&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E542",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed unsourced remarks about vegetarians/religious avoidance and 'source of calcium and phosphorus'. Functions replaced with Codex functional classes.",
+    "sources": [
+      "Codex CXG 36-1989 (cached PDF)",
+      "https://en.wikipedia.org/w/index.php?title=Bone_ash&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E500_—_E599&action=raw"
+    ],
+    "unresolved": "No source opened describing current food uses or production of bone phosphate beyond its identity; entry kept minimal."
+  },
+  {
+    "code": "E543",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence, unsourced production method ('made by heating calcium and sodium phosphates'), 'rarely encountered' and the generic polyphosphate claim. Functions taken from Codex entry for sodium calcium polyphosphate (INS 452(iii); INS 543 no longer in Codex). Russian name per ru Wikipedia list.",
+    "sources": [
+      "Codex CXG 36-1989 (cached PDF)",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E500_—_E599&action=raw"
+    ],
+    "unresolved": "No dedicated encyclopedic source found; E543 is obsolete and the substance now appears in Codex as INS 452(iii)."
+  },
+  {
+    "code": "E544",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence, 'synthetic', 'rarely encountered' and the generic polyphosphate claim. Functions taken from Codex entry for calcium polyphosphate (INS 452(iv); INS 544 no longer in Codex).",
+    "sources": [
+      "Codex CXG 36-1989 (cached PDF)",
+      "https://en.wikipedia.org/w/index.php?title=Calcium_polyphosphate&action=raw (404, no article)",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E500_—_E599&action=raw"
+    ],
+    "unresolved": "No dedicated encyclopedic source; E544 is obsolete and the substance now appears in Codex as INS 452(iv)."
+  },
+  {
+    "code": "E545",
+    "verdict": "edited",
+    "changes": "Removed status sentence and unsourced 'very rarely used, little information'. Corrected 'synthetic polymeric salt of ammonia and phosphoric acid' to polyphosphoric acid per source; added Codex functions (INS 452(v)).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Ammonium_polyphosphate&action=raw",
+      "Codex CXG 36-1989 (cached PDF)",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E500_—_E599&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E550",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed unsupported claim that food-contact/packaging uses are more common than direct addition. 'Strongly alkaline' softened to 'alkaline' as in source. Added sourced main non-food uses and historical egg preservation.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sodium_silicate&action=raw",
+      "Codex CXG 36-1989 (cached PDF)",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E500_—_E599&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E551",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed unsupported examples (salt, soup mixes). Clarified the food forms (synthetic amorphous silica). Added fining of wine/beer/juice and the 2024 EFSA safety conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Silicon_dioxide&action=raw",
+      "https://doi.org/10.2903/j.efsa.2018.5088",
+      "https://doi.org/10.2903/j.efsa.2024.8880",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E552",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed unsupported examples (baking powder, powdered mixes) and the moisture-absorption claim. Added larnite, insulation use and the 2018 EFSA conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Calcium_silicate&action=raw",
+      "https://doi.org/10.2903/j.efsa.2018.5375",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E553a",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed 'found in nature as minerals' (food form is synthetic per Codex) and unsupported examples (salt, spices). Added dusting agent, frying-oil treatment and the 2018 EFSA conclusion; antacid use kept (EFSA).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Magnesium_trisilicate&action=raw",
+      "https://doi.org/10.2903/j.efsa.2018.5375",
+      "Codex CXG 36-1989 (cached PDF)",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E500_—_E599&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E553b",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed unverified food-grade asbestos purity statement and 'mined and ground'. Replaced vague confectionery coating with Codex functions (anti-caking, dusting, glazing) and rice polishing; added glidant use and the 2018 EFSA conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Talc&action=raw",
+      "https://doi.org/10.2903/j.efsa.2018.5375",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": "Food-grade talc asbestos purity requirement (in original text) not checked against the EU specification (Reg. 231/2012); deleted rather than verified."
+  },
+  {
+    "code": "E554",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status and 'use is limited in the EU'. Removed unsupported examples (table salt, dry mixes). Clarified composition/synthetic amorphous form; added 2020 EFSA conclusion. English name aligned to EU official name.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sodium_aluminosilicate&action=raw",
+      "https://doi.org/10.2903/j.efsa.2020.6152",
+      "Codex CXG 36-1989 (cached PDF)",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E500_—_E599&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E555",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed unsupported 'related to mica and feldspar' and duplicated pigment sentence; replaced with EFSA description of use in pearlescent pigments as carrier for E171/E172, Codex functions and the 2020 EFSA conclusion.",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2020.6152",
+      "https://en.wikipedia.org/w/index.php?title=Potassium_aluminium_silicate&action=raw",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": "English Wikipedia redirects Potassium aluminium silicate to Microcline (a feldspar), which may not match the food additive; mineral identity therefore left out."
+  },
+  {
+    "code": "E556",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed unsupported 'mainly in salt and powdered mixes' and 'produced synthetically'; added formula and anorthite. English name aligned to EU official name.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Calcium_aluminosilicate&action=raw",
+      "Codex CXG 36-1989 (cached PDF)",
+      "https://www.legislation.gov.uk/eur/2012/380"
+    ],
+    "unresolved": "Regulation (EU) 380/2012 marked E556 in Annex II Part B as 'authorised until 31 January 2014' (deleted as replaceable aluminium-containing additive); input has eu_authorised=true. A human should confirm against the current consolidated EU list."
+  },
+  {
+    "code": "E557",
+    "verdict": "edited",
+    "changes": "Removed status sentence, unsupported 'zinc oxide and silica ... produced synthetically', 'rarely encountered' and the remark about other silicates. Added hemimorphite.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Zinc_silicate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Willemite&action=raw",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E558",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed 'mined in several countries' and unsupported juice clarification; added sourced fining uses (wine protein removal, cider, beer, mead, vinegar, oil decolourising) and main non-food uses.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Bentonite&action=raw",
+      "Codex CXG 36-1989 (cached PDF)",
+      "https://www.legislation.gov.uk/eur/2012/380"
+    ],
+    "unresolved": "Regulation (EU) 380/2012 states bentonite E558 was no longer used as a carrier, deleted it from Annex II Part B and marked it 'authorised until 31 May 2013'; input has eu_authorised=true. A human should confirm."
+  },
+  {
+    "code": "E559",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed unsupported 'carrier' function and 'filtering and clarifying aid' use, and 'mined and purified'. Added kaolinite identity and sourced non-food uses. Names aligned to EU official name and ru Wikipedia list.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Kaolinite&action=raw",
+      "Codex CXG 36-1989 (cached PDF)",
+      "https://www.legislation.gov.uk/eur/2012/380",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E500_—_E599&action=raw"
+    ],
+    "unresolved": "Regulation (EU) 380/2012 marked E559 in Annex II Part B as 'authorised until 31 January 2014' (deleted as replaceable aluminium-containing additive); input has eu_authorised=true. A human should confirm against the current consolidated EU list."
+  },
+  {
+    "code": "E560",
+    "verdict": "edited",
+    "changes": "Removed status sentence and 'rarely encountered'. Corrected unsupported preparation ('fusing sand with potash') to the sourced route (silica + potassium hydroxide); replaced 'used mainly in industry' with specific sourced uses.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Potassium_silicate&action=raw",
+      "Codex CXG 36-1989 (cached PDF)",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E500_—_E599&action=raw"
+    ],
+    "unresolved": "In old EU/UK feed legislation (NI SR 1992/270) the code E560 denoted natural mixtures of steatite and chlorite, not potassium silicate; the app follows the Codex food meaning."
+  },
+  {
+    "code": "E561",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence and 'No specific food function is recorded'. Corrected composition (magnesium aluminium iron silicate). Replaced unsupported 'packaging' use with sourced uses; added its actual role as feed binder/anti-caking agent and the 2020 EFSA feed conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Vermiculite&action=raw",
+      "https://doi.org/10.2903/j.efsa.2020.6160",
+      "https://www.legislation.gov.uk/nisr/1992/270/schedule/4/part/IV/made"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E562",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence and 'No specific food function is recorded'. Added meerschaum/pipes, its role as feed binder/anti-caking/thickener and the 2022 EFSA feed conclusion. 'Carrier' replaced by sourced functions.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sepiolite&action=raw",
+      "https://doi.org/10.2903/j.efsa.2022.7250"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E563",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence, 'No specific food function is recorded', and unsupported 'high absorbency' / 'absorbent and carrier' uses. Added its feed role and the 2022 EFSA conclusion.",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2022.7344",
+      "https://en.wikipedia.org/w/index.php?title=Sepiolite&action=raw"
+    ],
+    "unresolved": "Russian name 'Сепиолитовая глина' is a direct translation; no Russian regulatory or Wikipedia source found for it."
+  },
+  {
+    "code": "E565",
+    "verdict": "rewritten",
+    "changes": "Removed EU/UK/US status (incl. unsourced US banana pesticide claim) and 'No specific food function is recorded'. Kept sourced identity and uses; added vanillin production, feed pellet-binder role and the 2015 EFSA feed conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Lignosulfonates&action=raw",
+      "https://doi.org/10.2903/j.efsa.2015.4160",
+      "https://www.legislation.gov.uk/nisr/1992/270/schedule/4/part/IV/made"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E566",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence, 'rare entry in the E-number system' and 'No specific food function is recorded'. Added its actual use as feed anti-caking agent and the 2023 EFSA conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Natrolite&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Phonolite&action=raw",
+      "https://doi.org/10.2903/j.efsa.2023.8457",
+      "https://www.ecolex.org/details/legislation/commission-regulation-ec-no-12451999-concerning-the-authorization-of-new-additives-in-feedingstuffs-lex-faoc019416/ (search summary only)"
+    ],
+    "unresolved": "Russian name is a direct translation; no Russian regulatory source found."
+  },
+  {
+    "code": "E570",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Corrected functions: removed unsupported anti-caking agent and carrier roles and fruit/confectionery coating examples; used Codex functions. Replaced unsourced 'edible vegetable or animal fats' with industrial hydrolysis of fats; listed the acids covered and added the 2017 EFSA conclusion.",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2017.4785",
+      "https://en.wikipedia.org/w/index.php?title=Fatty_acid&action=raw",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E572",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Dropped calcium stearate and the unsupported claims (emulsifier, sweets, 'very common in dietary supplements', 'vegetable or animal fats'). Added preparation, tablet-lubricant role, food anti-adherent use and its EU number E470b.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Magnesium_stearate&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E500_—_E599&action=raw"
+    ],
+    "unresolved": "E572 is not in the current Codex list; ru Wikipedia lists E572 as magnesium stearate (and calcium stearate)."
+  },
+  {
+    "code": "E574",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed unsupported sequestrant function, product examples (dairy, drinks, baked goods) and taste claim. Production described per source; added raising agent (Codex).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Gluconic_acid&action=raw",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E575",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed unsupported claims: natural occurrence in honey and fruit juices, use as coagulant in silken tofu, specific use in cured sausages and bakery products. Production corrected to enzymatic oxidation of glucose. Added sourced sourness comparison, functions, feta use and metabolism. English name aligned to EU official name.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Glucono-delta-lactone&action=raw",
+      "Codex CXG 36-1989 (cached PDF)",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E500_—_E599&action=raw"
+    ],
+    "unresolved": "Tofu coagulant use is well known but was not found in the sources opened, so it was deleted; a human may want to restore it with a source. ru Wikipedia list uses the spelling 'Глюконо-d-лактон'; kept 'Глюконо-дельта-лактон'."
+  },
+  {
+    "code": "E576",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status and the 'low toxicity' remark. Clarified production; added Codex stabiliser/thickener functions and sourced non-food uses.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sodium_gluconate&action=raw",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E577",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed unsourced fermentation statement and 'that could affect colour and flavour'. Added acidity regulator and yeast food functions.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Potassium_gluconate&action=raw",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E578",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Removed unsupported product examples (fortified drinks, processed fruit) and 'calcium source' function; production corrected to sourced methods; functions per Codex; added sourced medical uses.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Calcium_gluconate&action=raw",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E579",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status, unsupported 'produced synthetically' and 'source of iron' as a food function. Kept olive use; added sourced overdose toxicity note.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Iron(II)_gluconate&action=raw",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E580",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Corrected 'No specific food function is recorded' with Codex functions (acidity regulator, firming agent, flavour enhancer). Removed unsourced fermentation statement and 'mainly'.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Magnesium_gluconate&action=raw",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E585",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status. Corrected production ('reacting lactic acid with iron' replaced by sourced route) and removed unsupported 'fortified foods' and 'source of iron' as a food function. Added acidity regulator.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Iron(II)_lactate&action=raw",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E586",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status and unsourced 'synthetic' / 'phenol derivative' wording. Added skin-care use and colour retention function; melanosis described per source.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=4-Hexylresorcinol&action=raw",
+      "Codex CXG 36-1989 (cached PDF)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E598",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence and 'Little general information on food use'. Added refractories and the sourced feed use (UK NI feed regulations 1992).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Calcium_aluminate&action=raw",
+      "https://www.legislation.gov.uk/nisr/1992/270/schedule/4/part/IV/made"
+    ],
+    "unresolved": "The 1992 feed list gives the substance without the E598 number; the link between the code and this feed additive was not confirmed in a source opened. Russian name is a direct translation."
+  },
+  {
+    "code": "E599",
+    "verdict": "rewritten",
+    "changes": "Removed status sentence and 'No specific food function is recorded'; removed unverified construction use. Added expansion ratio, beer filtration, cosmetics, feed anti-caking use and the 2025 EFSA feed conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Perlite&action=raw",
+      "https://doi.org/10.2903/j.efsa.2025.9781",
+      "https://www.legislation.gov.uk/nisr/1992/270/schedule/4/part/IV/made"
+    ],
+    "unresolved": ""
+  }
+]

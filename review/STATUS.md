@@ -36,6 +36,18 @@ Give the items the reviewers marked unresolved to one Fable agent, after all chu
   E434, E472b, E328.
 - E123, E127, E443: US history kept in the text; confirm that fits the policy.
 
+## Status corrections found during the review
+
+My first parse of the EU list missed its footnotes. Corrected in `eu_authorised.json`
+(now 328 codes), but `review/in/*.json` still carries the old values for these four:
+
+- E556 and E559: "authorised until 31 January 2014"; E558: "authorised until 31 May 2013"
+  (aluminium-containing additives, Regulation (EU) No 380/2012). Not authorised now.
+- E161g canthaxanthin: on the list but "not authorised in the food categories listed in
+  Part D and E". Treated as not authorised as a food additive.
+
+The texts of these four must be checked against the corrected status in the final second look.
+
 ## Decisions already made
 
 - Show EU status only (no UK/US), as data, not in the article text.

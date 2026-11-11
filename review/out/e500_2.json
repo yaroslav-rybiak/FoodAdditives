@@ -1,0 +1,387 @@
+[
+  {
+    "code": "E541",
+    "en": {
+      "name": "Sodium aluminium phosphate, acidic",
+      "text": "Sodium aluminium phosphates are inorganic salts made by combining alumina, phosphoric acid and sodium hydroxide. They exist in acidic and basic forms.\n\nThe acidic form is used as the acid component of baking powders for leavening baked goods. It reacts with baking soda to release carbon dioxide, mostly at baking temperatures rather than during mixing, and has a neutral flavour. Its other functions include acidity regulator, emulsifier and stabiliser. Basic forms are used in cheese making.\n\nBecause of concern about aluminium intake, in 2012 the EU restricted its use, from 2014, to sponge cakes made of contrasting coloured segments, such as Battenberg cake."
+    },
+    "ru": {
+      "name": "Алюмофосфат натрия кислый",
+      "text": "Алюмофосфаты натрия — неорганические соли, получаемые из оксида алюминия, фосфорной кислоты и гидроксида натрия. Существуют кислая и основная формы.\n\nКислую форму используют как кислотный компонент разрыхлителей теста. Она реагирует с пищевой содой с выделением углекислого газа, в основном при выпечке, а не при замесе, и не придаёт привкуса. Её другие функции — регулятор кислотности, эмульгатор и стабилизатор. Основные формы применяют в сыроделии.\n\nИз-за опасений по поводу поступления алюминия ЕС в 2012 году ограничил её применение: с 2014 года — только бисквитами из разноцветных сегментов, такими как торт «Баттенберг»."
+    }
+  },
+  {
+    "code": "E542",
+    "en": {
+      "name": "Bone phosphate",
+      "text": "Bone phosphate is a calcium phosphate made from animal bones, so it is of animal origin.\n\nIts technological functions in food include anti-caking agent, emulsifier, humectant, stabiliser and thickener."
+    },
+    "ru": {
+      "name": "Костный фосфат",
+      "text": "Костный фосфат — фосфат кальция, получаемый из костей животных, то есть вещество животного происхождения.\n\nВ пищевых продуктах он может выполнять функции антислёживающего агента, эмульгатора, влагоудерживающего агента, стабилизатора и загустителя."
+    }
+  },
+  {
+    "code": "E543",
+    "en": {
+      "name": "Calcium sodium polyphosphate",
+      "text": "Calcium sodium polyphosphate is a polyphosphate salt containing calcium and sodium.\n\nIn food, polyphosphates of this kind can act as acidity regulators, emulsifiers, humectants, raising agents, sequestrants and stabilisers."
+    },
+    "ru": {
+      "name": "Полифосфат натрия-кальция",
+      "text": "Полифосфат натрия-кальция — полифосфатная соль, содержащая кальций и натрий.\n\nВ пищевых продуктах такие полифосфаты могут служить регуляторами кислотности, эмульгаторами, влагоудерживающими агентами, разрыхлителями, комплексообразователями и стабилизаторами."
+    }
+  },
+  {
+    "code": "E544",
+    "en": {
+      "name": "Calcium polyphosphate",
+      "text": "Calcium polyphosphate is a polyphosphate salt of calcium.\n\nIn food it can act as an acidity regulator, emulsifier, emulsifying salt, humectant, raising agent, sequestrant, stabiliser and thickener."
+    },
+    "ru": {
+      "name": "Полифосфат кальция",
+      "text": "Полифосфат кальция — полифосфатная соль кальция.\n\nВ пищевых продуктах он может служить регулятором кислотности, эмульгатором, эмульгирующей солью, влагоудерживающим агентом, разрыхлителем, комплексообразователем, стабилизатором и загустителем."
+    }
+  },
+  {
+    "code": "E545",
+    "en": {
+      "name": "Ammonium polyphosphate",
+      "text": "Ammonium polyphosphate is an inorganic salt of polyphosphoric acid and ammonia, with chain-like and sometimes branched molecules. Outside food it is used as a fertiliser and as a flame retardant in paints, coatings and plastics.\n\nIn food it acts as an emulsifier; its other technological functions include acidity regulator, humectant, sequestrant, stabiliser and thickener."
+    },
+    "ru": {
+      "name": "Полифосфат аммония",
+      "text": "Полифосфат аммония — неорганическая соль полифосфорной кислоты и аммиака с цепочечными, иногда разветвлёнными молекулами. Вне пищевой отрасли его используют как удобрение и как антипирен в красках, покрытиях и пластмассах.\n\nВ пищевых продуктах он служит эмульгатором; другие его технологические функции — регулятор кислотности, влагоудерживающий агент, комплексообразователь, стабилизатор и загуститель."
+    }
+  },
+  {
+    "code": "E550",
+    "en": {
+      "name": "Sodium silicates",
+      "text": "This group covers sodium silicate (water glass) and sodium metasilicate. Sodium silicates can be made by dissolving silica in molten sodium carbonate, and most of them dissolve in water to give alkaline solutions.\n\nIn food they are classed as anti-caking agents. Their main uses are outside food: detergents, paper making, water treatment, construction materials and adhesives. Historically, water glass solution was used to preserve fresh eggs by sealing the shell."
+    },
+    "ru": {
+      "name": "Силикаты натрия",
+      "text": "В группу входят силикат натрия (жидкое стекло) и метасиликат натрия. Силикаты натрия можно получить растворением кремнезёма в расплавленном карбонате натрия; большинство из них растворяется в воде, образуя щелочные растворы.\n\nВ пищевых продуктах они относятся к антислёживающим агентам. Основное их применение — вне пищевой отрасли: моющие средства, производство бумаги, водоподготовка, строительные материалы и клеи. Раньше раствором жидкого стекла консервировали свежие яйца, запечатывая скорлупу."
+    }
+  },
+  {
+    "code": "E551",
+    "en": {
+      "name": "Silicon dioxide",
+      "text": "Silicon dioxide, or silica, is a compound of silicon and oxygen found in nature as quartz and as the main constituent of sand. The forms used as a food additive are synthetic amorphous silicas, such as fumed and precipitated silica.\n\nIt is used mainly as a flow or anti-caking agent in powdered foods such as spices and non-dairy coffee creamer, and in powders pressed into tablets. It can absorb water. Colloidal silica is also used to clarify wine, beer and juice.\n\nIn 2024 EFSA concluded that it does not raise a safety concern at the reported uses and use levels, including in food for infants under 16 weeks."
+    },
+    "ru": {
+      "name": "Диоксид кремния",
+      "text": "Диоксид кремния, или кремнезём, — соединение кремния с кислородом. В природе он встречается в виде кварца и составляет основную часть песка. В качестве пищевой добавки используют синтетический аморфный кремнезём, например пирогенный и осаждённый.\n\nЕго применяют прежде всего как агент, обеспечивающий сыпучесть и препятствующий слёживанию порошкообразных продуктов, например специй и сухих немолочных сливок, а также порошков для таблетирования. Он может поглощать воду. Коллоидный кремнезём используют также для осветления вина, пива и соков.\n\nВ 2024 году EFSA пришло к выводу, что при заявленных применениях и уровнях использования он не вызывает опасений, в том числе в питании младенцев до 16 недель."
+    }
+  },
+  {
+    "code": "E552",
+    "en": {
+      "name": "Calcium silicate",
+      "text": "Calcium silicate is a compound of calcium oxide and silica; it occurs naturally as the mineral larnite. It is a white, free-flowing powder, and is also widely used in high-temperature insulation materials.\n\nIn food it is used as an anti-caking agent, for example in table salt.\n\nIn 2018 EFSA found its absorption to be very low but concluded that its safety as a food additive could not be assessed, because reliable long-term toxicity data were lacking."
+    },
+    "ru": {
+      "name": "Силикат кальция",
+      "text": "Силикат кальция — соединение оксида кальция и кремнезёма; в природе встречается в виде минерала ларнита. Это белый сыпучий порошок, который широко используют также в высокотемпературных теплоизоляционных материалах.\n\nВ пищевых продуктах его применяют как антислёживающий агент, например в поваренной соли.\n\nВ 2018 году EFSA отметило, что он очень слабо всасывается, но пришло к выводу, что его безопасность как пищевой добавки нельзя оценить из-за отсутствия надёжных данных о долгосрочной токсичности."
+    }
+  },
+  {
+    "code": "E553a",
+    "en": {
+      "name": "Magnesium silicates",
+      "text": "This group covers synthetic magnesium silicate and magnesium trisilicate, compounds of magnesium and silica.\n\nIn food they serve as anti-caking and dusting agents. Magnesium trisilicate is also used to treat frying oil, where it absorbs fatty acids and other impurities, and is used in medicine as an antacid.\n\nIn 2018 EFSA found their absorption to be very low but concluded that their safety as food additives could not be assessed, because reliable long-term toxicity data were lacking."
+    },
+    "ru": {
+      "name": "Силикаты магния",
+      "text": "В группу входят синтетический силикат магния и трисиликат магния — соединения магния и кремнезёма.\n\nВ пищевых продуктах они служат антислёживающими агентами и средствами для опудривания. Трисиликат магния применяют также для обработки фритюрного масла, где он поглощает жирные кислоты и другие примеси, а в медицине — как антацидное средство.\n\nВ 2018 году EFSA отметило, что они очень слабо всасываются, но пришло к выводу, что их безопасность как пищевых добавок нельзя оценить из-за отсутствия надёжных данных о долгосрочной токсичности."
+    }
+  },
+  {
+    "code": "E553b",
+    "en": {
+      "name": "Talc",
+      "text": "Talc is a natural clay mineral composed of hydrated magnesium silicate. It is widely used in plastics, paper, paints, ceramics and cosmetics.\n\nIn food it acts as an anti-caking and dusting agent and as a glazing agent, and it may be used to polish white rice. It is also used in tablets to help powders flow.\n\nIn 2018 EFSA found its absorption to be very low but concluded that its safety as a food additive could not be assessed, because reliable long-term toxicity data were lacking."
+    },
+    "ru": {
+      "name": "Тальк",
+      "text": "Тальк — природный глинистый минерал, гидратированный силикат магния. Его широко используют в производстве пластмасс, бумаги, красок, керамики и косметики.\n\nВ пищевых продуктах он служит антислёживающим агентом, средством для опудривания и глазирователем; его могут применять при полировке белого риса. В таблетках он улучшает сыпучесть порошков.\n\nВ 2018 году EFSA отметило, что он очень слабо всасывается, но пришло к выводу, что его безопасность как пищевой добавки нельзя оценить из-за отсутствия надёжных данных о долгосрочной токсичности."
+    }
+  },
+  {
+    "code": "E554",
+    "en": {
+      "name": "Sodium aluminium silicate",
+      "text": "Sodium aluminium silicate, or sodium aluminosilicate, is a compound of sodium, aluminium, silicon and oxygen, which may also contain water. The food additive is a synthetic amorphous form produced with a range of compositions; related compounds include natural minerals and synthetic zeolites.\n\nIn food it acts as an anti-caking (free-flow) agent.\n\nIn 2020 EFSA concluded that its safety could not be assessed because of very limited data, and calculated that aluminium intake from its reported use in food supplements would exceed the tolerable weekly intake for aluminium."
+    },
+    "ru": {
+      "name": "Алюмосиликат натрия",
+      "text": "Алюмосиликат натрия — соединение натрия, алюминия, кремния и кислорода, которое может содержать также воду. В качестве пищевой добавки используют синтетическую аморфную форму переменного состава; к родственным соединениям относятся природные минералы и синтетические цеолиты.\n\nВ пищевых продуктах он служит антислёживающим агентом, обеспечивающим сыпучесть.\n\nВ 2020 году EFSA пришло к выводу, что его безопасность нельзя оценить из-за очень ограниченных данных, и рассчитало, что поступление алюминия при заявленном применении в биологически активных добавках превысило бы допустимое недельное поступление алюминия."
+    }
+  },
+  {
+    "code": "E555",
+    "en": {
+      "name": "Potassium aluminium silicate",
+      "text": "Potassium aluminium silicate is a compound of potassium, aluminium and silica.\n\nIn food it is classed as an anti-caking agent and a carrier. In practice it is used as an inseparable component of pearlescent pigments, as a carrier for the colours titanium dioxide (E171) and iron oxides (E172).\n\nIn 2020 EFSA concluded that its safety could not be assessed because toxicological data and characterisation were insufficient, and noted that aluminium intake from its use as a colour carrier at the maximum level could theoretically far exceed the tolerable weekly intake."
+    },
+    "ru": {
+      "name": "Алюмосиликат калия",
+      "text": "Алюмосиликат калия — соединение калия, алюминия и кремнезёма.\n\nВ пищевых продуктах он относится к антислёживающим агентам и носителям. На практике его используют как неотделимый компонент перламутровых пигментов — носитель красителей диоксида титана (E171) и оксидов железа (E172).\n\nВ 2020 году EFSA пришло к выводу, что его безопасность нельзя оценить из-за недостатка токсикологических данных и сведений о свойствах, и отметило, что поступление алюминия при его применении как носителя красителей в максимальном количестве теоретически могло бы намного превысить допустимое недельное поступление."
+    }
+  },
+  {
+    "code": "E556",
+    "en": {
+      "name": "Calcium aluminium silicate",
+      "text": "Calcium aluminium silicate, or calcium aluminosilicate, is a compound containing calcium, aluminium and silica, most commonly CaAl2Si2O8. In nature it occurs as the feldspar mineral anorthite.\n\nIn food it is used as an anti-caking agent."
+    },
+    "ru": {
+      "name": "Алюмосиликат кальция",
+      "text": "Алюмосиликат кальция — соединение кальция, алюминия и кремнезёма, чаще всего состава CaAl2Si2O8. В природе встречается в виде полевого шпата анортита.\n\nВ пищевых продуктах его используют как антислёживающий агент."
+    }
+  },
+  {
+    "code": "E557",
+    "en": {
+      "name": "Zinc silicate",
+      "text": "Zinc silicate is a compound of zinc and silica; naturally occurring zinc silicates include the minerals willemite and hemimorphite.\n\nAs a food additive it is classed as an anti-caking agent."
+    },
+    "ru": {
+      "name": "Силикат цинка",
+      "text": "Силикат цинка — соединение цинка и кремнезёма; к природным силикатам цинка относятся минералы виллемит и гемиморфит.\n\nКак пищевая добавка он относится к антислёживающим агентам."
+    }
+  },
+  {
+    "code": "E558",
+    "en": {
+      "name": "Bentonite",
+      "text": "Bentonite is an absorbent swelling clay made up mostly of montmorillonite. It usually forms from the weathering of volcanic ash and can absorb large amounts of water.\n\nAs a food additive it is classed as an anti-caking agent. Bentonite is also used to decolourise oils and to clarify wine, cider, beer, mead and vinegar; in winemaking it removes excess protein from white wines. Outside food its main uses are in drilling mud, pet litter and as a binder and absorbent."
+    },
+    "ru": {
+      "name": "Бентонит",
+      "text": "Бентонит — поглощающая, набухающая глина, состоящая в основном из монтмориллонита. Обычно он образуется при выветривании вулканического пепла и способен поглощать большое количество воды.\n\nКак пищевая добавка он относится к антислёживающим агентам. Бентонит применяют также для обесцвечивания масел и осветления вина, сидра, пива, медовухи и уксуса; в виноделии он удаляет избыток белка из белых вин. Вне пищевой отрасли его используют главным образом в буровых растворах, наполнителях для кошачьих туалетов, а также как связующее и сорбент."
+    }
+  },
+  {
+    "code": "E559",
+    "en": {
+      "name": "Aluminium silicate (kaolin)",
+      "text": "Aluminium silicate in this sense is kaolin, or china clay: a soft, usually white clay rich in the mineral kaolinite, a layered aluminium silicate. Kaolin is used mainly in paper and ceramics, and also in paints, toothpaste and medicines for diarrhoea.\n\nAs a food additive it is classed as an anti-caking agent."
+    },
+    "ru": {
+      "name": "Алюмосиликат (каолин)",
+      "text": "Силикат алюминия в данном случае — это каолин, или фарфоровая глина: мягкая, обычно белая глина, богатая минералом каолинитом — слоистым силикатом алюминия. Каолин используют прежде всего в производстве бумаги и керамики, а также в красках, зубных пастах и лекарствах от диареи.\n\nКак пищевая добавка он относится к антислёживающим агентам."
+    }
+  },
+  {
+    "code": "E560",
+    "en": {
+      "name": "Potassium silicate",
+      "text": "Potassium silicate is the name for a family of inorganic compounds, most commonly K2SiO3; it can be made by treating silica with potassium hydroxide. Its solutions are strongly alkaline.\n\nAs a food additive it is classed as an anti-caking agent. Its other uses include fire-proofing wood, horticulture as a source of potassium and silica, metal cleaners and welding rods."
+    },
+    "ru": {
+      "name": "Силикат калия",
+      "text": "Силикат калия — название группы неорганических соединений, чаще всего состава K2SiO3; его можно получить обработкой кремнезёма гидроксидом калия. Его растворы сильно щелочные.\n\nКак пищевая добавка он относится к антислёживающим агентам. Его также применяют для огнезащитной пропитки древесины, в растениеводстве как источник калия и кремния, в средствах для очистки металлов и в сварочных электродах."
+    }
+  },
+  {
+    "code": "E561",
+    "en": {
+      "name": "Vermiculite",
+      "text": "Vermiculite is a natural hydrous silicate mineral of magnesium, aluminium and iron that expands strongly when heated. Expanded vermiculite is used in insulation, lightweight concrete and fireproof wallboard, and in growing media for plants.\n\nIts E number belongs to animal feed rather than food: it is used as a binder and anti-caking agent in feed. In 2020 EFSA considered it safe for consumers and the environment under the proposed conditions of use in feed."
+    },
+    "ru": {
+      "name": "Вермикулит",
+      "text": "Вермикулит — природный водосодержащий силикатный минерал магния, алюминия и железа, который при нагревании сильно расширяется. Вспученный вермикулит используют для теплоизоляции, в лёгких бетонах и огнестойких стеновых плитах, а также в субстратах для растений.\n\nЕго E-номер относится к кормам для животных, а не к пищевым продуктам: вермикулит применяют как связующее и антислёживающий агент в кормах. В 2020 году EFSA сочло его безопасным для потребителей и окружающей среды при предложенных условиях применения в кормах."
+    }
+  },
+  {
+    "code": "E562",
+    "en": {
+      "name": "Sepiolite",
+      "text": "Sepiolite, also called meerschaum, is a soft white clay mineral, a complex hydrated magnesium silicate that is sometimes fibrous. It is used as an absorbent and to make tobacco pipes.\n\nIt is used in animal feed as a binder, anti-caking agent and thickener. In 2022 EFSA concluded that its use in feed is safe for consumers, but that the dusty additive is a respiratory irritant for people handling it."
+    },
+    "ru": {
+      "name": "Сепиолит",
+      "text": "Сепиолит, или морская пенка, — мягкий белый глинистый минерал, сложный водный силикат магния, иногда волокнистый. Его используют как сорбент и для изготовления курительных трубок.\n\nСепиолит применяют в кормах для животных как связующее, антислёживающий агент и загуститель. В 2022 году EFSA пришло к выводу, что его применение в кормах безопасно для потребителей, но пылящая добавка раздражает дыхательные пути работающих с ней людей."
+    }
+  },
+  {
+    "code": "E563",
+    "en": {
+      "name": "Sepiolitic clay",
+      "text": "Sepiolitic clay is a natural clay containing the mineral sepiolite, a hydrated magnesium silicate.\n\nIt is used in animal feed as a binder and anti-caking agent. In 2022 EFSA concluded that it is unlikely to be absorbed and that its use in feed is safe for consumers."
+    },
+    "ru": {
+      "name": "Сепиолитовая глина",
+      "text": "Сепиолитовая глина — природная глина, содержащая минерал сепиолит, водный силикат магния.\n\nЕё применяют в кормах для животных как связующее и антислёживающий агент. В 2022 году EFSA пришло к выводу, что она вряд ли всасывается и её применение в кормах безопасно для потребителей."
+    }
+  },
+  {
+    "code": "E565",
+    "en": {
+      "name": "Lignosulfonates",
+      "text": "Lignosulfonates are water-soluble polymers derived from lignin, the natural binding material of wood. They are by-products of making wood pulp by the sulfite process, and are used as dispersants and binders, for example in particle board, road dust control and water treatment. Oxidising softwood lignosulfonates was a route to vanillin, the artificial vanilla flavour.\n\nIn animal feed they are used as pellet binders. In 2015 EFSA found no concern for consumer safety from their use in animal nutrition."
+    },
+    "ru": {
+      "name": "Лигносульфонаты",
+      "text": "Лигносульфонаты — водорастворимые полимеры, производные лигнина, природного связующего вещества древесины. Они являются побочными продуктами сульфитного способа производства целлюлозы и применяются как диспергаторы и связующие, например в древесно-стружечных плитах, для обеспыливания дорог и в водоподготовке. Окислением лигносульфонатов из хвойной древесины получали ванилин — искусственный ароматизатор ванили.\n\nВ кормах для животных их используют как связующее при гранулировании. В 2015 году EFSA не выявило опасений для безопасности потребителей при их применении в кормлении животных."
+    }
+  },
+  {
+    "code": "E566",
+    "en": {
+      "name": "Natrolite-phonolite",
+      "text": "Natrolite-phonolite is a ground volcanic rock: phonolite, an uncommon igneous rock, here containing natrolite, a zeolite mineral made of hydrated sodium aluminium silicate.\n\nIt is used as an anti-caking agent in animal feed. In 2023 EFSA found no indication of substantial absorption and therefore no concern for consumers, but could not conclude on its safety for the animals or on its efficacy because of insufficient data."
+    },
+    "ru": {
+      "name": "Натролит-фонолит",
+      "text": "Натролит-фонолит — измельчённая вулканическая порода: фонолит, редкая магматическая порода, в данном случае содержащая натролит — цеолитовый минерал, водный алюмосиликат натрия.\n\nЕго используют как антислёживающий агент в кормах для животных. В 2023 году EFSA не нашло признаков существенного всасывания и, следовательно, опасений для потребителей, но из-за недостатка данных не смогло сделать вывод о его безопасности для животных и об эффективности."
+    }
+  },
+  {
+    "code": "E570",
+    "en": {
+      "name": "Fatty acids",
+      "text": "Fatty acids are the carboxylic acids that make up fats and oils; industrially they are usually produced by splitting (hydrolysing) fats and oils. The food additive covers caprylic, capric, lauric, myristic, palmitic, stearic and oleic acid, alone or in combination.\n\nIn food they act as antifoaming agents, glazing agents and foam stabilisers.\n\nIn 2017 EFSA noted that they are absorbed in the same way as fatty acids from the normal diet and concluded that they are of no safety concern at the reported uses and use levels."
+    },
+    "ru": {
+      "name": "Жирные кислоты",
+      "text": "Жирные кислоты — карбоновые кислоты, входящие в состав жиров и масел; в промышленности их обычно получают расщеплением (гидролизом) жиров и масел. Пищевая добавка включает каприловую, каприновую, лауриновую, миристиновую, пальмитиновую, стеариновую и олеиновую кислоты по отдельности или в смеси.\n\nВ пищевых продуктах они служат пеногасителями, глазирователями и стабилизаторами пены.\n\nВ 2017 году EFSA отметило, что они усваиваются так же, как жирные кислоты обычного рациона, и пришло к выводу, что при заявленных применениях и уровнях использования они не вызывают опасений."
+    }
+  },
+  {
+    "code": "E572",
+    "en": {
+      "name": "Magnesium stearate",
+      "text": "Magnesium stearate is the magnesium salt of stearic acid, a white, water-insoluble powder. It is made by reacting sodium stearate with magnesium salts or by treating magnesium oxide with stearic acid.\n\nIt is the most widely used lubricant in making tablets and capsules, where it stops powders sticking to equipment. In food it is used as an anti-adherent and anti-caking agent. In the EU numbering it falls under E470b."
+    },
+    "ru": {
+      "name": "Стеарат магния",
+      "text": "Стеарат магния — магниевая соль стеариновой кислоты, белый нерастворимый в воде порошок. Его получают взаимодействием стеарата натрия с солями магния или обработкой оксида магния стеариновой кислотой.\n\nЭто самая распространённая смазка при производстве таблеток и капсул: она не даёт порошкам прилипать к оборудованию. В пищевых продуктах его применяют как антиадгезив и антислёживающий агент. В европейской нумерации он относится к E470b."
+    }
+  },
+  {
+    "code": "E574",
+    "en": {
+      "name": "Gluconic acid",
+      "text": "Gluconic acid is an organic acid formed by oxidation of glucose, typically with the enzyme glucose oxidase or by fermentation, for example with the mould Aspergillus niger. It occurs naturally in fruit, honey and wine.\n\nIn food it is used as an acidity regulator and raising agent."
+    },
+    "ru": {
+      "name": "Глюконовая кислота",
+      "text": "Глюконовая кислота — органическая кислота, образующаяся при окислении глюкозы, обычно с помощью фермента глюкозооксидазы или путём ферментации, например плесневым грибом Aspergillus niger. В природе она встречается во фруктах, мёде и вине.\n\nВ пищевых продуктах её используют как регулятор кислотности и разрыхлитель."
+    }
+  },
+  {
+    "code": "E575",
+    "en": {
+      "name": "Glucono-delta-lactone",
+      "text": "Glucono-delta-lactone (GDL), also called gluconolactone, is a lactone of gluconic acid. It is typically made by oxidising glucose with the enzyme glucose oxidase and is a white, odourless crystalline powder.\n\nGDL itself is pH-neutral, but in water it slowly turns into gluconic acid, which adds a tangy taste with about a third of the sourness of citric acid. It is used as an acidifier, sequestrant, raising agent and curing or pickling agent, and has been marketed for use in feta cheese. The body metabolises it, yielding about as much energy per gram as sugar."
+    },
+    "ru": {
+      "name": "Глюконо-дельта-лактон",
+      "text": "Глюконо-дельта-лактон (ГДЛ), или глюконолактон, — лактон глюконовой кислоты. Обычно его получают окислением глюкозы с помощью фермента глюкозооксидазы; это белый кристаллический порошок без запаха.\n\nСам ГДЛ имеет нейтральный pH, но в воде постепенно превращается в глюконовую кислоту, которая придаёт продуктам кисловатый вкус — примерно втрое менее кислый, чем у лимонной кислоты. Его применяют как подкислитель, комплексообразователь, разрыхлитель и вещество для посола и маринования; его предлагали для производства феты. В организме он усваивается и даёт примерно столько же энергии на грамм, сколько сахар."
+    }
+  },
+  {
+    "code": "E576",
+    "en": {
+      "name": "Sodium gluconate",
+      "text": "Sodium gluconate is the sodium salt of gluconic acid, a white, water-soluble powder. Commercially, glucose is fermented by microorganisms such as Aspergillus niger to gluconic acid, which is then neutralised with sodium hydroxide.\n\nIn food it is used mainly as a sequestrant, binding metal ions that could affect colour, flavour or stability; it can also act as a stabiliser and thickener. Outside food it is used as a chelating agent in cleaning products, textile dyeing and metal surface treatment."
+    },
+    "ru": {
+      "name": "Глюконат натрия",
+      "text": "Глюконат натрия — натриевая соль глюконовой кислоты, белый водорастворимый порошок. В промышленности глюкозу сбраживают микроорганизмами, например Aspergillus niger, до глюконовой кислоты, которую затем нейтрализуют гидроксидом натрия.\n\nВ пищевых продуктах его используют прежде всего как комплексообразователь, связывающий ионы металлов, которые могут влиять на цвет, вкус или стабильность; он может также служить стабилизатором и загустителем. Вне пищевой отрасли его применяют как хелатирующий агент в чистящих средствах, при крашении тканей и обработке поверхности металлов."
+    }
+  },
+  {
+    "code": "E577",
+    "en": {
+      "name": "Potassium gluconate",
+      "text": "Potassium gluconate is the potassium salt of gluconic acid. It is also sold as a mineral supplement providing potassium.\n\nIn food it is used as an acidity regulator and sequestrant, binding metal ions, and as a yeast food."
+    },
+    "ru": {
+      "name": "Глюконат калия",
+      "text": "Глюконат калия — калиевая соль глюконовой кислоты. Его также продают как минеральную добавку, служащую источником калия.\n\nВ пищевых продуктах его используют как регулятор кислотности и комплексообразователь, связывающий ионы металлов, а также как подкормку для дрожжей."
+    }
+  },
+  {
+    "code": "E578",
+    "en": {
+      "name": "Calcium gluconate",
+      "text": "Calcium gluconate is the calcium salt of gluconic acid. It is produced commercially by oxidising glucose chemically or electrolytically, or by fermentation. It is used as a calcium supplement and as a medicine, for example given into a vein to treat low blood calcium, and as a gel for hydrofluoric acid burns.\n\nIn food it acts as an acidity regulator, firming agent and sequestrant."
+    },
+    "ru": {
+      "name": "Глюконат кальция",
+      "text": "Глюконат кальция — кальциевая соль глюконовой кислоты. В промышленности его получают химическим или электролитическим окислением глюкозы либо ферментацией. Его применяют как добавку кальция и как лекарство, например внутривенно при низком уровне кальция в крови, а также в виде геля при ожогах плавиковой кислотой.\n\nВ пищевых продуктах он служит регулятором кислотности, уплотнителем и комплексообразователем."
+    }
+  },
+  {
+    "code": "E579",
+    "en": {
+      "name": "Ferrous gluconate",
+      "text": "Ferrous gluconate, or iron(II) gluconate, is the iron(II) salt of gluconic acid, a black compound often used as an iron supplement.\n\nIn food it is a colour retention agent, used mainly in processing black olives, to which it gives a uniform jet-black colour.\n\nIn overdose it can be toxic, particularly to children."
+    },
+    "ru": {
+      "name": "Глюконат железа",
+      "text": "Глюконат железа, или глюконат железа(II), — соль двухвалентного железа и глюконовой кислоты, чёрное вещество, которое часто используют в препаратах железа.\n\nВ пищевых продуктах он служит стабилизатором цвета и применяется в основном при обработке чёрных маслин, придавая им равномерный насыщенно-чёрный цвет.\n\nПри передозировке он может быть токсичен, особенно для детей."
+    }
+  },
+  {
+    "code": "E580",
+    "en": {
+      "name": "Magnesium gluconate",
+      "text": "Magnesium gluconate is the magnesium salt of gluconic acid. It has been studied as a source of magnesium in supplements.\n\nIn food it can act as an acidity regulator, firming agent and flavour enhancer."
+    },
+    "ru": {
+      "name": "Глюконат магния",
+      "text": "Глюконат магния — магниевая соль глюконовой кислоты. Его изучали как источник магния в пищевых добавках.\n\nВ пищевых продуктах он может служить регулятором кислотности, уплотнителем и усилителем вкуса."
+    }
+  },
+  {
+    "code": "E585",
+    "en": {
+      "name": "Ferrous lactate",
+      "text": "Ferrous lactate, or iron(II) lactate, is a compound of iron(II) with lactic acid. It can be made, for example, from calcium lactate and iron(II) sulfate. It is also used as a remedy for iron deficiency.\n\nIn food it is a colour retention agent, used for example for olives, and it can also act as an acidity regulator."
+    },
+    "ru": {
+      "name": "Лактат железа",
+      "text": "Лактат железа, или лактат железа(II), — соединение двухвалентного железа с молочной кислотой. Его можно получить, например, из лактата кальция и сульфата железа(II). Его применяют также при железодефицитных состояниях.\n\nВ пищевых продуктах он служит стабилизатором цвета, например для маслин, а также может выполнять функцию регулятора кислотности."
+    }
+  },
+  {
+    "code": "E586",
+    "en": {
+      "name": "4-Hexylresorcinol",
+      "text": "4-Hexylresorcinol is an organic compound with antiseptic and local anaesthetic properties. It is used in throat lozenges and topical antiseptics, and in skin-care products.\n\nIn food it acts as an antioxidant and colour retention agent. It is used on shrimp and other crustaceans to reduce melanosis, the formation of black spots, which extends shelf life."
+    },
+    "ru": {
+      "name": "4-Гексилрезорцин",
+      "text": "4-Гексилрезорцин — органическое соединение с антисептическими и местноанестезирующими свойствами. Его используют в таблетках для рассасывания при боли в горле, в местных антисептиках и в средствах ухода за кожей.\n\nВ пищевых продуктах он служит антиоксидантом и стабилизатором цвета. Его применяют для креветок и других ракообразных, чтобы уменьшить меланоз — образование чёрных пятен, что продлевает срок хранения."
+    }
+  },
+  {
+    "code": "E598",
+    "en": {
+      "name": "Synthetic calcium aluminates",
+      "text": "Calcium aluminates are materials obtained by heating calcium oxide and aluminium oxide together at high temperatures. They are used mainly in refractories and cements.\n\nA synthetic mixture of calcium aluminates containing 35 to 51% aluminium oxide has been used as a binder and anti-caking agent in feed for poultry, rabbits and pigs."
+    },
+    "ru": {
+      "name": "Синтетические алюминаты кальция",
+      "text": "Алюминаты кальция — материалы, получаемые совместным нагреванием оксида кальция и оксида алюминия при высоких температурах. Их применяют главным образом в огнеупорах и цементах.\n\nСинтетическую смесь алюминатов кальция с содержанием оксида алюминия от 35 до 51% использовали как связующее и антислёживающий агент в кормах для птицы, кроликов и свиней."
+    }
+  },
+  {
+    "code": "E599",
+    "en": {
+      "name": "Perlite",
+      "text": "Perlite is a natural volcanic glass with a relatively high water content. When heated it expands to 7 to 16 times its volume, forming a light, white, porous material. It is used as a filter aid, for example for beer, in horticulture, and in cosmetics as an absorbent and exfoliant.\n\nIn animal feed it is used as an anti-caking agent. In 2025 EFSA concluded that this use is safe for consumers and the environment."
+    },
+    "ru": {
+      "name": "Перлит",
+      "text": "Перлит — природное вулканическое стекло со сравнительно высоким содержанием воды. При нагревании он увеличивается в объёме в 7–16 раз, образуя лёгкий белый пористый материал. Его используют как фильтрующий материал, например для пива, в растениеводстве, а также в косметике как сорбент и отшелушивающее средство.\n\nВ кормах для животных его применяют как антислёживающий агент. В 2025 году EFSA пришло к выводу, что такое применение безопасно для потребителей и окружающей среды."
+    }
+  }
+]
