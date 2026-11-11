@@ -1,0 +1,332 @@
+[
+  {
+    "code": "E200",
+    "en": {
+      "name": "Sorbic acid",
+      "text": "Sorbic acid is an organic acid first isolated from the berries of the rowan tree (Sorbus aucuparia), hence its name. Virtually all sorbic acid used today is made synthetically. It prevents the growth of moulds and yeasts and works best below about pH 6.5.\n\nIt is found in foods such as cheese, bread and other baked goods, fruit juices, dried meats, smoked fish, margarine and sauces.\n\nSorbic acid and its salts have very low toxicity in mammals."
+    },
+    "ru": {
+      "name": "Сорбиновая кислота",
+      "text": "Сорбиновая кислота — органическая кислота, впервые выделенная из ягод рябины (Sorbus aucuparia), откуда и её название. Практически вся сорбиновая кислота, применяемая сегодня, производится синтетически. Она подавляет рост плесени и дрожжей и лучше всего действует при pH ниже примерно 6,5.\n\nВстречается в сырах, хлебе и другой выпечке, фруктовых соках, вяленом мясе, копчёной рыбе, маргарине и соусах.\n\nСорбиновая кислота и её соли обладают очень низкой токсичностью для млекопитающих."
+    }
+  },
+  {
+    "code": "E201",
+    "en": {
+      "name": "Sodium sorbate",
+      "text": "Sodium sorbate is the sodium salt of sorbic acid, an unstable white solid. Like other sorbates, it acts against moulds and yeasts; sorbate salts are generally preferred to the acid itself because they dissolve better in water."
+    },
+    "ru": {
+      "name": "Сорбат натрия",
+      "text": "Сорбат натрия — натриевая соль сорбиновой кислоты, нестойкое белое твёрдое вещество. Как и другие сорбаты, подавляет плесень и дрожжи; соли сорбиновой кислоты обычно предпочитают самой кислоте, потому что они лучше растворяются в воде."
+    }
+  },
+  {
+    "code": "E202",
+    "en": {
+      "name": "Potassium sorbate",
+      "text": "Potassium sorbate is the potassium salt of sorbic acid, made by neutralising sorbic acid with potassium hydroxide. It is a white salt that is very soluble in water and is used to stop moulds and yeasts from growing.\n\nTypical uses include cheese, wine, yogurt, dried meats, cider, dried fruit, soft drinks and baked goods. In sweetened wines it is added before bottling to prevent renewed fermentation.\n\nSorbic acid and its salts have very low toxicity in mammals."
+    },
+    "ru": {
+      "name": "Сорбат калия",
+      "text": "Сорбат калия — калиевая соль сорбиновой кислоты, получаемая нейтрализацией сорбиновой кислоты гидроксидом калия. Это белая соль, хорошо растворимая в воде; её используют, чтобы не давать расти плесени и дрожжам.\n\nПрименяется в сырах, вине, йогурте, вяленом мясе, сидре, сухофруктах, безалкогольных напитках и выпечке. В подслащённые вина его добавляют перед розливом, чтобы не допустить повторного брожения.\n\nСорбиновая кислота и её соли обладают очень низкой токсичностью для млекопитающих."
+    }
+  },
+  {
+    "code": "E203",
+    "en": {
+      "name": "Calcium sorbate",
+      "text": "Calcium sorbate is the calcium salt of sorbic acid. Like other sorbates, it was used as a preservative against moulds and yeasts.\n\nIn 2018 the EU removed it from its list of food additives, with effect from August that year. In 2015 the European Food Safety Authority had found that genotoxicity data on calcium sorbate were lacking and could not confirm its safety, and no business operator offered to provide the missing studies."
+    },
+    "ru": {
+      "name": "Сорбат кальция",
+      "text": "Сорбат кальция — кальциевая соль сорбиновой кислоты. Как и другие сорбаты, применялся как консервант против плесени и дрожжей.\n\nВ 2018 году ЕС исключил его из перечня пищевых добавок, с августа того же года. В 2015 году Европейское агентство по безопасности пищевых продуктов (EFSA) установило, что данных о генотоксичности сорбата кальция недостаточно, и не смогло подтвердить его безопасность, а ни один производитель не взялся предоставить недостающие исследования."
+    }
+  },
+  {
+    "code": "E209",
+    "en": {
+      "name": "Heptylparaben",
+      "text": "Heptylparaben (heptyl p-hydroxybenzoate) is the heptyl ester of p-hydroxybenzoic acid. It belongs to the parabens, a family of preservatives active against a broad range of microorganisms, and is used as a food preservative.\n\nIt is also produced naturally by some microorganisms, including bacteria of the genus Microbulbifer."
+    },
+    "ru": {
+      "name": "Гептилпарабен",
+      "text": "Гептилпарабен (гептиловый эфир п-гидроксибензойной кислоты) относится к парабенам — семейству консервантов, активных против широкого круга микроорганизмов, и используется как пищевой консервант.\n\nЕго также вырабатывают в природе некоторые микроорганизмы, в том числе бактерии рода Microbulbifer."
+    }
+  },
+  {
+    "code": "E210",
+    "en": {
+      "name": "Benzoic acid",
+      "text": "Benzoic acid is the simplest aromatic carboxylic acid. It occurs naturally in many plants; most berries contain appreciable amounts, and cranberries and bilberries are especially rich in it. Food-grade benzoic acid is made synthetically.\n\nIt inhibits moulds, yeasts and some bacteria, and its effect depends on acidity, so it is used in acidic foods and drinks such as fruit juices, soft drinks and pickles.\n\nConcern has been raised that benzoic acid and its salts can react with vitamin C in some soft drinks to form small amounts of benzene, a carcinogen."
+    },
+    "ru": {
+      "name": "Бензойная кислота",
+      "text": "Бензойная кислота — простейшая ароматическая карбоновая кислота. В природе она встречается во многих растениях; большинство ягод содержат её в заметных количествах, особенно богаты ею клюква и черника. Пищевую бензойную кислоту получают синтетически.\n\nОна подавляет плесень, дрожжи и некоторые бактерии, а её действие зависит от кислотности, поэтому её применяют в кислых продуктах и напитках — фруктовых соках, безалкогольных напитках и маринадах.\n\nВысказывались опасения, что бензойная кислота и её соли могут реагировать с витамином C в некоторых напитках с образованием небольших количеств бензола — канцерогена."
+    }
+  },
+  {
+    "code": "E211",
+    "en": {
+      "name": "Sodium benzoate",
+      "text": "Sodium benzoate is the sodium salt of benzoic acid, made by neutralising benzoic acid with sodium hydroxide. In acidic foods it turns into benzoic acid, which inhibits moulds, yeasts and some bacteria; the salt is used because the acid itself dissolves poorly in water.\n\nIt is common in carbonated drinks, fruit juices, jams, pickles, salad dressings and condiments.\n\nTogether with vitamin C, benzoates can form benzene in drinks, and heat, light and long storage increase this. In 2006 US tests, a few drinks exceeded the drinking-water limit for benzene; most were later reformulated."
+    },
+    "ru": {
+      "name": "Бензоат натрия",
+      "text": "Бензоат натрия — натриевая соль бензойной кислоты, получаемая нейтрализацией бензойной кислоты гидроксидом натрия. В кислых продуктах он превращается в бензойную кислоту, которая подавляет плесень, дрожжи и некоторые бактерии; соль используют потому, что сама кислота плохо растворяется в воде.\n\nЧасто встречается в газированных напитках, фруктовых соках, джемах, маринадах, салатных заправках и приправах.\n\nВместе с витамином C бензоаты могут образовывать в напитках бензол, а нагрев, свет и долгое хранение усиливают этот процесс. В ходе проверок в США в 2006 году несколько напитков превысили норму содержания бензола для питьевой воды; большинство из них затем изменили рецептуру."
+    }
+  },
+  {
+    "code": "E212",
+    "en": {
+      "name": "Potassium benzoate",
+      "text": "Potassium benzoate is the potassium salt of benzoic acid, made by neutralising benzoic acid with potassium hydroxide. It inhibits moulds, yeasts and some bacteria and works best in acidic products below about pH 4.5, where it is present as benzoic acid.\n\nIt is used in fruit juices, carbonated and other soft drinks, and pickles. Like sodium benzoate, it can form benzene in drinks that also contain vitamin C.\n\nIt has low acute toxicity when swallowed."
+    },
+    "ru": {
+      "name": "Бензоат калия",
+      "text": "Бензоат калия — калиевая соль бензойной кислоты, получаемая нейтрализацией бензойной кислоты гидроксидом калия. Подавляет плесень, дрожжи и некоторые бактерии и лучше всего действует в кислых продуктах с pH ниже примерно 4,5, где находится в форме бензойной кислоты.\n\nПрименяется во фруктовых соках, газированных и других безалкогольных напитках и маринадах. Как и бензоат натрия, в напитках с витамином C может образовывать бензол.\n\nПри проглатывании обладает низкой острой токсичностью."
+    }
+  },
+  {
+    "code": "E213",
+    "en": {
+      "name": "Calcium benzoate",
+      "text": "Calcium benzoate is the calcium salt of benzoic acid. Like the other benzoates, it is used as a preservative against moulds, yeasts and some bacteria in acidic foods and drinks, where it acts in the form of benzoic acid."
+    },
+    "ru": {
+      "name": "Бензоат кальция",
+      "text": "Бензоат кальция — кальциевая соль бензойной кислоты. Как и другие бензоаты, используется как консервант против плесени, дрожжей и некоторых бактерий в кислых продуктах и напитках, где действует в форме бензойной кислоты."
+    }
+  },
+  {
+    "code": "E214",
+    "en": {
+      "name": "Ethyl p-hydroxybenzoate",
+      "text": "Ethyl p-hydroxybenzoate, better known as ethylparaben, is the ethyl ester of p-hydroxybenzoic acid and a member of the parabens. It is used as an antifungal preservative in food; parabens in general are also widely used in cosmetics and medicines.\n\nIn 2004 the European Food Safety Authority set a group acceptable daily intake of 0 to 10 mg per kg of body weight for methyl and ethyl parabens and their sodium salts."
+    },
+    "ru": {
+      "name": "Этилпарабен",
+      "text": "Этилпарабен (этиловый эфир п-гидроксибензойной кислоты) относится к парабенам. Используется как противогрибковый консервант в пищевых продуктах; парабены в целом также широко применяются в косметике и лекарствах.\n\nВ 2004 году Европейское агентство по безопасности пищевых продуктов (EFSA) установило групповую допустимую суточную дозу 0–10 мг на кг массы тела для метил- и этилпарабенов и их натриевых солей."
+    }
+  },
+  {
+    "code": "E215",
+    "en": {
+      "name": "Sodium ethyl p-hydroxybenzoate",
+      "text": "Sodium ethyl p-hydroxybenzoate is the sodium salt of ethylparaben and has the same uses: it serves as an antifungal food preservative.\n\nIn 2004 the European Food Safety Authority set a group acceptable daily intake of 0 to 10 mg per kg of body weight for methyl and ethyl parabens and their sodium salts."
+    },
+    "ru": {
+      "name": "Натриевая соль этилового эфира п-гидроксибензойной кислоты",
+      "text": "Натриевая соль этилового эфира п-гидроксибензойной кислоты — натриевая соль этилпарабена; применяется так же, как он, в качестве противогрибкового пищевого консерванта.\n\nВ 2004 году Европейское агентство по безопасности пищевых продуктов (EFSA) установило групповую допустимую суточную дозу 0–10 мг на кг массы тела для метил- и этилпарабенов и их натриевых солей."
+    }
+  },
+  {
+    "code": "E216",
+    "en": {
+      "name": "Propylparaben",
+      "text": "Propylparaben is the propyl ester of p-hydroxybenzoic acid, a paraben that occurs naturally in some plants and insects and is also made synthetically. It is a common preservative in cosmetics and medicines, and in food it has been used, for example, in packaged pastries and tortillas.\n\nThe EU withdrew propylparaben and its sodium salt (E217) as food additives in 2006. In 2004 the European Food Safety Authority had found that, unlike methyl and ethyl parabens, it affected sex hormones and male reproductive organs in juvenile rats, and it could not set an acceptable daily intake."
+    },
+    "ru": {
+      "name": "Пропилпарабен",
+      "text": "Пропилпарабен — пропиловый эфир п-гидроксибензойной кислоты, парабен, который в природе встречается в некоторых растениях и насекомых, а также производится синтетически. Это распространённый консервант в косметике и лекарствах; в пищевых продуктах его применяли, например, в упакованной выпечке и тортильях.\n\nВ 2006 году ЕС исключил пропилпарабен и его натриевую соль (E217) из перечня пищевых добавок. В 2004 году Европейское агентство по безопасности пищевых продуктов (EFSA) установило, что в отличие от метил- и этилпарабена он влиял на половые гормоны и мужские репродуктивные органы у молодых крыс, и не смогло определить допустимую суточную дозу."
+    }
+  },
+  {
+    "code": "E217",
+    "en": {
+      "name": "Sodium propyl p-hydroxybenzoate",
+      "text": "Sodium propyl p-hydroxybenzoate is the sodium salt of propylparaben and was used in the same way, as an antifungal food preservative.\n\nThe EU withdrew it together with propylparaben (E216) as food additives in 2006, after the European Food Safety Authority found in 2004 that propylparaben affected sex hormones and male reproductive organs in juvenile rats and could not set an acceptable daily intake."
+    },
+    "ru": {
+      "name": "Натриевая соль пропилового эфира п-оксибензойной кислоты",
+      "text": "Натриевая соль пропилового эфира п-оксибензойной кислоты — натриевая соль пропилпарабена; применялась так же, как он, в качестве противогрибкового пищевого консерванта.\n\nВ 2006 году ЕС исключил её вместе с пропилпарабеном (E216) из перечня пищевых добавок после того, как Европейское агентство по безопасности пищевых продуктов (EFSA) в 2004 году установило, что пропилпарабен влиял на половые гормоны и мужские репродуктивные органы у молодых крыс, и не смогло определить допустимую суточную дозу."
+    }
+  },
+  {
+    "code": "E218",
+    "en": {
+      "name": "Methyl p-hydroxybenzoate",
+      "text": "Methyl p-hydroxybenzoate, better known as methylparaben, is the methyl ester of p-hydroxybenzoic acid. Parabens are inexpensive, colourless, odourless and stable, and are among the most common preservatives in cosmetics and foods; methylparaben acts mainly against fungi.\n\nIn animal studies it is practically non-toxic when swallowed; the body converts it to p-hydroxybenzoic acid and excretes it in urine without accumulation. In 2004 the European Food Safety Authority set a group acceptable daily intake of 0 to 10 mg per kg of body weight for methyl and ethyl parabens and their sodium salts."
+    },
+    "ru": {
+      "name": "Метилпарабен",
+      "text": "Метилпарабен (метиловый эфир п-гидроксибензойной кислоты) относится к парабенам. Парабены недороги, бесцветны, не имеют запаха и стабильны и входят в число самых распространённых консервантов в косметике и пищевых продуктах; метилпарабен действует главным образом против грибков.\n\nВ исследованиях на животных при проглатывании он практически нетоксичен; в организме он превращается в п-гидроксибензойную кислоту и выводится с мочой, не накапливаясь. В 2004 году Европейское агентство по безопасности пищевых продуктов (EFSA) установило групповую допустимую суточную дозу 0–10 мг на кг массы тела для метил- и этилпарабенов и их натриевых солей."
+    }
+  },
+  {
+    "code": "E219",
+    "en": {
+      "name": "Sodium methyl p-hydroxybenzoate",
+      "text": "Sodium methyl p-hydroxybenzoate is the sodium salt of methylparaben. It is used as a preservative in food, medicines and cosmetics, where it helps extend shelf life by acting against microorganisms.\n\nIn 2004 the European Food Safety Authority set a group acceptable daily intake of 0 to 10 mg per kg of body weight for methyl and ethyl parabens and their sodium salts."
+    },
+    "ru": {
+      "name": "Натриевая соль метилового эфира п-гидроксибензойной кислоты",
+      "text": "Натриевая соль метилового эфира п-гидроксибензойной кислоты — натриевая соль метилпарабена. Применяется как консервант в пищевых продуктах, лекарствах и косметике, где помогает продлить срок хранения, подавляя микроорганизмы.\n\nВ 2004 году Европейское агентство по безопасности пищевых продуктов (EFSA) установило групповую допустимую суточную дозу 0–10 мг на кг массы тела для метил- и этилпарабенов и их натриевых солей."
+    }
+  },
+  {
+    "code": "E220",
+    "en": {
+      "name": "Sulphur dioxide",
+      "text": "Sulphur dioxide is a colourless gas with a pungent smell, the smell of burnt matches. Most of it is made by burning sulphur.\n\nIn food it is used for its antimicrobial and antioxidant effects, for example in dried apricots, figs and other dried fruit, where it also keeps the colour. It has been used in winemaking since Roman times and protects wine from bacterial spoilage and from oxidation and browning.\n\nSome people with asthma are sensitive to sulphites, and reactions can be serious. In the EU, sulphur dioxide and sulphites above 10 mg per kg or per litre must be declared on the label."
+    },
+    "ru": {
+      "name": "Диоксид серы",
+      "text": "Диоксид серы — бесцветный газ с резким запахом, запахом горелых спичек. Большую его часть получают сжиганием серы.\n\nВ пищевых продуктах его используют как противомикробное средство и антиокислитель, например в кураге, сушёном инжире и других сухофруктах, где он также сохраняет цвет. В виноделии его применяют со времён Древнего Рима: он защищает вино от порчи бактериями, окисления и потемнения.\n\nНекоторые люди с астмой чувствительны к сульфитам, и реакции могут быть серьёзными. В ЕС диоксид серы и сульфиты в количестве более 10 мг на кг или на литр обязательно указываются на этикетке."
+    }
+  },
+  {
+    "code": "E221",
+    "en": {
+      "name": "Sodium sulphite",
+      "text": "Sodium sulphite is a white, water-soluble salt made industrially by treating sulphur dioxide with a solution of sodium carbonate. It is used as an antioxidant and preservative: as a reducing agent it keeps dried fruit from discolouring, and it is also used in preserving meat.\n\nSulphites can cause breathing difficulties within minutes in sensitive people, especially some with asthma, though severe reactions are rare. In the EU, sulphur dioxide and sulphites above 10 mg per kg or per litre must be declared on the label."
+    },
+    "ru": {
+      "name": "Сульфит натрия",
+      "text": "Сульфит натрия — белая водорастворимая соль, которую в промышленности получают обработкой раствора карбоната натрия диоксидом серы. Используется как антиокислитель и консервант: как восстановитель он не даёт сухофруктам темнеть, а также применяется для консервирования мяса.\n\nУ чувствительных людей, особенно у некоторых больных астмой, сульфиты могут в течение нескольких минут вызывать затруднение дыхания, хотя тяжёлые реакции редки. В ЕС диоксид серы и сульфиты в количестве более 10 мг на кг или на литр обязательно указываются на этикетке."
+    }
+  },
+  {
+    "code": "E222",
+    "en": {
+      "name": "Sodium hydrogen sulphite",
+      "text": "Sodium hydrogen sulphite, also called sodium bisulphite, is not a single compound but a mixture of salts that dissolve in water to give sodium and bisulphite ions. It forms white or yellowish-white crystals that smell of sulphur dioxide.\n\nIn food it prevents discolouration, bleaches food starches and delays spoilage.\n\nJECFA has set an acceptable daily intake for sulphites of 0 to 0.7 mg of sulphur dioxide equivalent per kg of body weight. Some sensitive people, notably some with asthma, react to sulphites. In the EU, sulphur dioxide and sulphites above 10 mg per kg or per litre must be declared on the label."
+    },
+    "ru": {
+      "name": "Гидросульфит натрия",
+      "text": "Гидросульфит натрия, или бисульфит натрия, — не индивидуальное соединение, а смесь солей, которая при растворении в воде даёт ионы натрия и гидросульфит-ионы. Образует белые или желтовато-белые кристаллы с запахом диоксида серы.\n\nВ пищевых продуктах предотвращает потемнение, отбеливает пищевые крахмалы и замедляет порчу.\n\nJECFA установил допустимую суточную дозу сульфитов 0–0,7 мг в пересчёте на диоксид серы на кг массы тела. Некоторые чувствительные люди, в частности некоторые больные астмой, реагируют на сульфиты. В ЕС диоксид серы и сульфиты в количестве более 10 мг на кг или на литр обязательно указываются на этикетке."
+    }
+  },
+  {
+    "code": "E223",
+    "en": {
+      "name": "Sodium metabisulphite",
+      "text": "Sodium metabisulphite, also called sodium pyrosulphite, is an inorganic salt that forms sodium bisulphite when dissolved in water. It is used as a preservative, antioxidant and disinfectant.\n\nIn winemaking it acts as an antimicrobial and antioxidant. It is also used to keep chipped potatoes from discolouring in storage and to preserve fruit during shipping.\n\nSome sulphite-sensitive people can have allergic reactions to it, sometimes severe. In the EU, sulphur dioxide and sulphites above 10 mg per kg or per litre must be declared on the label."
+    },
+    "ru": {
+      "name": "Пиросульфит натрия",
+      "text": "Пиросульфит натрия, или метабисульфит натрия, — неорганическая соль, которая при растворении в воде образует гидросульфит натрия. Используется как консервант, антиокислитель и дезинфицирующее средство.\n\nВ виноделии служит противомикробным средством и антиокислителем. Его также применяют, чтобы нарезанный картофель не темнел при хранении, и для сохранения фруктов при перевозке.\n\nУ некоторых людей с чувствительностью к сульфитам он может вызывать аллергические реакции, иногда тяжёлые. В ЕС диоксид серы и сульфиты в количестве более 10 мг на кг или на литр обязательно указываются на этикетке."
+    }
+  },
+  {
+    "code": "E224",
+    "en": {
+      "name": "Potassium metabisulphite",
+      "text": "Potassium metabisulphite, also called potassium pyrosulphite, is a white crystalline powder with a pungent smell. In wine or grape must it forms sulphur dioxide, which acts as a disinfectant and a strong antioxidant, protecting the colour and flavour of the wine. Its solutions are also used to sanitise winemaking equipment.\n\nIt is also used in brewing and as a preservative in lemon juice and some pickles.\n\nIt may cause allergic reactions in some sensitive people. In the EU, sulphur dioxide and sulphites above 10 mg per kg or per litre must be declared on the label."
+    },
+    "ru": {
+      "name": "Пиросульфит калия",
+      "text": "Пиросульфит калия, или метабисульфит калия, — белый кристаллический порошок с резким запахом. В вине или виноградном сусле он образует диоксид серы, который действует как дезинфицирующее средство и сильный антиокислитель, сохраняя цвет и вкус вина. Его растворами также обрабатывают оборудование в виноделии.\n\nКроме того, его применяют в пивоварении и как консервант в лимонном соке и некоторых маринадах.\n\nУ некоторых чувствительных людей может вызывать аллергические реакции. В ЕС диоксид серы и сульфиты в количестве более 10 мг на кг или на литр обязательно указываются на этикетке."
+    }
+  },
+  {
+    "code": "E225",
+    "en": {
+      "name": "Potassium sulphite",
+      "text": "Potassium sulphite is a salt of potassium and sulphite, a white solid that is highly soluble in water. It is used for preserving food and beverages.\n\nLike other sulphites, it can cause reactions in sensitive people, particularly some with asthma."
+    },
+    "ru": {
+      "name": "Сульфит калия",
+      "text": "Сульфит калия — соль калия и сернистой кислоты, белое твёрдое вещество, хорошо растворимое в воде. Используется для консервирования пищевых продуктов и напитков.\n\nКак и другие сульфиты, может вызывать реакции у чувствительных людей, в частности у некоторых больных астмой."
+    }
+  },
+  {
+    "code": "E226",
+    "en": {
+      "name": "Calcium sulphite",
+      "text": "Calcium sulphite is the calcium salt of sulphite and forms white solids. As a food additive it is a preservative; like other sulphites, it acts as an antioxidant by scavenging oxygen.\n\nSulphites are commonly used in preserving wine, cider, fruit juice and canned fruit and vegetables.\n\nSome people are hypersensitive to sulphites. In the EU, sulphur dioxide and sulphites above 10 mg per kg or per litre must be declared on the label."
+    },
+    "ru": {
+      "name": "Сульфит кальция",
+      "text": "Сульфит кальция — кальциевая соль сернистой кислоты, белое твёрдое вещество. Как пищевая добавка служит консервантом; как и другие сульфиты, действует как антиокислитель, связывая кислород.\n\nСульфиты широко применяются для консервирования вина, сидра, фруктовых соков, консервированных фруктов и овощей.\n\nУ некоторых людей наблюдается повышенная чувствительность к сульфитам. В ЕС диоксид серы и сульфиты в количестве более 10 мг на кг или на литр обязательно указываются на этикетке."
+    }
+  },
+  {
+    "code": "E227",
+    "en": {
+      "name": "Calcium hydrogen sulphite",
+      "text": "Calcium hydrogen sulphite, or calcium bisulphite, is an acid salt made by treating lime with an excess of sulphur dioxide and water. It is used as a food preservative, for example for brining cherries, and in the sulphite process for making paper from wood.\n\nSulphites can trigger asthma attacks in susceptible people and can cause hives and swelling in otherwise healthy individuals. In the EU, sulphur dioxide and sulphites above 10 mg per kg or per litre must be declared on the label."
+    },
+    "ru": {
+      "name": "Гидросульфит кальция",
+      "text": "Гидросульфит кальция, или бисульфит кальция, — кислая соль, которую получают обработкой извести избытком диоксида серы и воды. Используется как пищевой консервант, например при засолке вишни в рассоле, а также в сульфитном способе получения бумаги из древесины.\n\nСульфиты могут провоцировать приступы астмы у предрасположенных людей и вызывать крапивницу и отёки у здоровых людей. В ЕС диоксид серы и сульфиты в количестве более 10 мг на кг или на литр обязательно указываются на этикетке."
+    }
+  },
+  {
+    "code": "E228",
+    "en": {
+      "name": "Potassium hydrogen sulphite",
+      "text": "Potassium hydrogen sulphite, or potassium bisulphite, is not a single compound but a mixture of salts that gives potassium and bisulphite ions in water. It is a white solid that smells of sulphur dioxide and is made by passing sulphur dioxide through a potassium carbonate solution.\n\nIt is used as a sterilising agent in the production of alcoholic beverages.\n\nSulphites can cause reactions in sensitive people, particularly some with asthma. In the EU, sulphur dioxide and sulphites above 10 mg per kg or per litre must be declared on the label."
+    },
+    "ru": {
+      "name": "Гидросульфит калия",
+      "text": "Гидросульфит калия, или бисульфит калия, — не индивидуальное соединение, а смесь солей, которая в воде даёт ионы калия и гидросульфит-ионы. Это белое твёрдое вещество с запахом диоксида серы; его получают, пропуская диоксид серы через раствор карбоната калия.\n\nИспользуется как стерилизующее средство в производстве алкогольных напитков.\n\nСульфиты могут вызывать реакции у чувствительных людей, в частности у некоторых больных астмой. В ЕС диоксид серы и сульфиты в количестве более 10 мг на кг или на литр обязательно указываются на этикетке."
+    }
+  },
+  {
+    "code": "E230",
+    "en": {
+      "name": "Biphenyl",
+      "text": "Biphenyl, also called diphenyl, is an aromatic hydrocarbon that forms colourless crystals. It prevents the growth of moulds and other fungi and was used as a preservative, particularly to protect citrus fruit during transport.\n\nIts main industrial use is as a heat-transfer fluid, mixed with diphenyl ether."
+    },
+    "ru": {
+      "name": "Дифенил",
+      "text": "Дифенил, или бифенил, — ароматический углеводород, образующий бесцветные кристаллы. Он подавляет рост плесени и других грибков и применялся как консервант, прежде всего для защиты цитрусовых при перевозке.\n\nОсновное промышленное применение — теплоноситель в смеси с дифениловым эфиром."
+    }
+  },
+  {
+    "code": "E231",
+    "en": {
+      "name": "Orthophenyl phenol",
+      "text": "Orthophenyl phenol, or 2-phenylphenol, is a white solid used mainly as an agricultural fungicide. It is applied to citrus fruit after harvest, as part of the wax coating.\n\nIt is also a general surface disinfectant used in households, hospitals, farms and food processing plants. When used as a fungicide in food packaging, it may migrate into the food."
+    },
+    "ru": {
+      "name": "Ортофенилфенол",
+      "text": "Ортофенилфенол, или 2-фенилфенол, — белое твёрдое вещество, применяемое главным образом как сельскохозяйственный фунгицид. Им обрабатывают цитрусовые после сбора урожая в составе воскового покрытия.\n\nТакже используется как дезинфицирующее средство для поверхностей в быту, больницах, на фермах и пищевых предприятиях. При использовании в качестве фунгицида в упаковке может переходить в продукт."
+    }
+  },
+  {
+    "code": "E232",
+    "en": {
+      "name": "Sodium orthophenyl phenol",
+      "text": "Sodium orthophenyl phenol is the sodium salt of 2-phenylphenol. It is used as a disinfectant and as a preservative for treating the surface of citrus fruit."
+    },
+    "ru": {
+      "name": "Натриевая соль ортофенилфенола",
+      "text": "Натриевая соль ортофенилфенола — натриевая соль 2-фенилфенола. Применяется как дезинфицирующее средство и как консервант для обработки поверхности цитрусовых."
+    }
+  },
+  {
+    "code": "E233",
+    "en": {
+      "name": "Thiabendazole",
+      "text": "Thiabendazole is a fungicide and antiparasitic agent. It is used mainly against mould, blight and other fungal diseases of fruit and vegetables; for example, it is applied to bananas and added to the waxes that coat citrus peel.\n\nAs a medicine for people and animals, it treats roundworm, hookworm and other worm infections."
+    },
+    "ru": {
+      "name": "Тиабендазол",
+      "text": "Тиабендазол — фунгицид и противопаразитарное средство. Применяется главным образом против плесени, гнили и других грибковых болезней фруктов и овощей; например, им обрабатывают бананы и добавляют его в воски, которыми покрывают кожуру цитрусовых.\n\nКак лекарство для людей и животных применяется против аскарид, анкилостом и других глистов."
+    }
+  },
+  {
+    "code": "E234",
+    "en": {
+      "name": "Nisin",
+      "text": "Nisin is an antibacterial peptide produced by the bacterium Lactococcus lactis. For food use it is obtained by culturing the bacterium, not by chemical synthesis. It acts against many Gram-positive bacteria, including Listeria and Clostridium botulinum, and is particularly effective against spores.\n\nIt is used in processed cheese, meats and beverages to extend shelf life, typically at about 1 to 25 parts per million."
+    },
+    "ru": {
+      "name": "Низин",
+      "text": "Низин — антибактериальный пептид, который вырабатывает бактерия Lactococcus lactis. Для пищевой промышленности его получают выращиванием этой бактерии, а не химическим синтезом. Действует против многих грамположительных бактерий, в том числе листерий и Clostridium botulinum, и особенно эффективен против спор.\n\nПрименяется в плавленых сырах, мясных продуктах и напитках для продления срока хранения, обычно в количестве около 1–25 частей на миллион."
+    }
+  },
+  {
+    "code": "E235",
+    "en": {
+      "name": "Natamycin",
+      "text": "Natamycin, also called pimaricin, is an antifungal substance produced by fermentation of Streptomyces bacteria; it was first isolated in 1955 from Streptomyces natalensis. It acts against moulds and yeasts by binding to ergosterol in their cell membranes.\n\nIn food it is used on the surface of certain cheeses and dry sausages to prevent mould. It is also a medicine for fungal eye infections.\n\nIn 2009 EFSA judged the proposed use levels for surface treatment of these cheeses and sausages to be safe."
+    },
+    "ru": {
+      "name": "Натамицин",
+      "text": "Натамицин, или пимарицин, — противогрибковое вещество, которое получают ферментацией бактерий Streptomyces; впервые его выделили в 1955 году из культуры Streptomyces natalensis. Он действует против плесени и дрожжей, связываясь с эргостеролом в их клеточных мембранах.\n\nВ пищевых продуктах его наносят на поверхность некоторых сыров и сыровяленых колбас, чтобы не росла плесень. Это также лекарство от грибковых инфекций глаз.\n\nВ 2009 году EFSA признало безопасными предложенные уровни его применения для обработки поверхности этих сыров и колбас."
+    }
+  }
+]

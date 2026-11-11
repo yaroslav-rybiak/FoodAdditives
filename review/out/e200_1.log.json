@@ -1,0 +1,369 @@
+[
+  {
+    "code": "E200",
+    "verdict": "edited",
+    "changes": "Removed status paragraph and unsourced 'one of the better-tolerated preservatives' (replaced by sourced 'very low mammalian toxicity'). 'Mildly acidic' made precise (optimal below pH 6.5). Product list aligned to source: removed wine, dried fruit, soft drinks (not listed for sorbic acid itself); added fruit juices, dried meats, smoked fish.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sorbic_acid&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Potassium_sorbate&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E201",
+    "verdict": "edited",
+    "changes": "Removed status paragraph (incl. unverified US packaging claim). Deleted unsourced claims that it is 'synthetic' and that potassium sorbate largely took its place. Added 'unstable white solid' from source.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sodium_sorbate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Sorbic_acid&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": "English Wikipedia states the EU prohibits sodium sorbate 'due to potentially genotoxic effects'; not confirmed from an EU/EFSA source, so not used."
+  },
+  {
+    "code": "E202",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Deleted unsourced 'most widely used form of sorbate' and jams/sauces/processed meats (source lists dried meats, yogurt, cider). Replaced 'low toxicity at permitted levels' with sourced statement on sorbates' very low mammalian toxicity. Added production route and wine use from source.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Potassium_sorbate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Sorbic_acid&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E203",
+    "verdict": "rewritten",
+    "changes": "Removed status paragraph (incl. unverified US claim). Deleted unsourced claims: 'synthetic', rarely used because potassium sorbate dissolves better, use in cheeses and baked goods, 'obscure'. Added sourced regulatory history: removal by Commission Regulation (EU) 2018/98 (applies from 12 August 2018) because of missing genotoxicity data; consistent with eu_authorised=false.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Calcium_sorbate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Sorbic_acid&action=raw",
+      "https://www.legislation.gov.uk/eur/2018/98/introduction",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E209",
+    "verdict": "edited",
+    "changes": "Removed status paragraph (incl. unverified US beverage claim). Deleted unsourced: 'synthetic', specific activity against moulds/yeasts/bacteria (replaced with sourced broad-spectrum paraben activity), association with beer. Added natural occurrence in Microbulbifer.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Heptylparaben&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Paraben&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Парабены&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": "Russian name kept as 'Гептилпарабен' (used in ru Wikipedia 'Парабены'); the ru list of E-numbers uses the longer form 'Пара-гидроксибензойной кислоты гептиловый эфир'."
+  },
+  {
+    "code": "E210",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Corrected natural sources (plums and spices not supported; berries, cranberry, bilberry are). Deleted unsourced claim that people with asthma or sensitive skin may react to benzoates. Product list trimmed to sourced items (removed sauces, jams, margarine). Added sourced benzene concern.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Benzoic_acid&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E211",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Made benzene statement specific and sourced (2006 FDA tests, reformulation; heat/light/storage) instead of vague 'manufacturers take care'. Product list aligned with source (added jams, carbonated drinks, condiments). Clarified why the salt is used.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sodium_benzoate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Benzoic_acid&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E212",
+    "verdict": "edited",
+    "changes": "Removed status paragraph (incl. unverified US packaging-only claim). Deleted unsourced claim that it is chosen to reduce sodium; removed sauces. Added sourced pH range, benzene note and low acute oral toxicity.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Potassium_benzoate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Sodium_benzoate&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E213",
+    "verdict": "edited",
+    "changes": "Removed status paragraph (incl. unverified US packaging-only claim). Deleted unsourced claim that it is less soluble and used less often, and the vague 'may appear in some drinks and sauces'.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Calcium_benzoate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Benzoic_acid&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": "English Wikipedia 'Calcium benzoate' claims it is preferred over other benzoates for better solubility and is 'the most widely used preservative' in bread; unreferenced-looking and contradicts the original draft, so neither version was used."
+  },
+  {
+    "code": "E214",
+    "verdict": "edited",
+    "changes": "Name changed to EU official name (tidied). Removed status paragraph. Deleted unsourced product list (sauces, confectionery, baked goods, dried meats, drinks) and the unsupported 'wide range of acidity' claim. Added sourced EFSA 2004 group ADI.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Ethylparaben&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Paraben&action=raw",
+      "https://www.legislation.gov.uk/eudr/2006/52/introduction",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E215",
+    "verdict": "edited",
+    "changes": "Name changed to EU official name. Removed status paragraph (incl. unverified US claim). Deleted unsourced 'made synthetically', water-solubility advantage and 'minor additive'. Added sourced EFSA 2004 group ADI. Russian name changed to the form in the ru Wikipedia E-number list.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Ethylparaben&action=raw",
+      "https://www.legislation.gov.uk/eudr/2006/52/introduction",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E216",
+    "verdict": "rewritten",
+    "changes": "Removed status paragraph. Food uses corrected to sourced examples (packaged pastries, tortillas). Added natural occurrence and sourced EU history: withdrawal of E216/E217 by Directive 2006/52/EC after EFSA 2004 opinion; consistent with eu_authorised=false.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Propylparaben&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Paraben&action=raw",
+      "https://www.legislation.gov.uk/eudr/2006/52/introduction",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E217",
+    "verdict": "rewritten",
+    "changes": "Name tidied. Removed status paragraph (incl. unverified US claim). Deleted unsourced 'made synthetically', 'obscure' and 'little documented'. Added sourced EU history (Directive 2006/52/EC, EFSA 2004). Russian name taken from ru Wikipedia article title, reordered into natural word order.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Propylparaben&action=raw",
+      "https://www.legislation.gov.uk/eudr/2006/52/introduction",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E218",
+    "verdict": "edited",
+    "changes": "Name changed to EU official name. Removed status paragraph. Deleted unsourced claims: occurrence in blueberries, 'made synthetically', and the food product list. Added sourced metabolism/toxicity note and EFSA 2004 group ADI.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Methylparaben&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Paraben&action=raw",
+      "https://www.legislation.gov.uk/eudr/2006/52/introduction",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E219",
+    "verdict": "edited",
+    "changes": "Name changed to EU official name. Removed status paragraph (incl. unverified US claim). Deleted unsourced 'made synthetically', 'dissolves easily' and 'minor additive with limited use' (source calls it widely used). Added EFSA 2004 group ADI. Russian name from ru Wikipedia E-number list, reordered.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sodium_methylparaben&action=raw",
+      "https://www.legislation.gov.uk/eudr/2006/52/introduction",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E220",
+    "verdict": "edited",
+    "changes": "Name set to EU official spelling. Removed status summary (incl. US restrictions). Kept and sourced the EU labelling rule, now with the 10 mg/kg or 10 mg/l threshold (Reg. 1169/2011 Annex II). Product list aligned with source (removed juices, jams, potato products; added specific dried fruits). Added Roman-era wine use.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sulfur_dioxide&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Sulfite&action=raw",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/II/adopted",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E221",
+    "verdict": "edited",
+    "changes": "Name set to EU official spelling. Removed status summary (incl. US restrictions). Corrected 'synthetic salt that releases sulphur dioxide' to sourced description and production. Product list replaced with sourced uses (dried fruit, meat); removed wine/juices. Labelling rule kept with sourced threshold.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sodium_sulfite&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Sulfite&action=raw",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/II/adopted",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E222",
+    "verdict": "edited",
+    "changes": "Name set to EU official name. Removed status summary (incl. US restrictions). Corrected chemistry (a mixture of salts, not a single compound). Uses replaced with sourced ones (anti-discolouration, starch bleaching); removed wine/juices list. Added JECFA ADI. Labelling rule kept with threshold. Russian alias 'кислый сульфит' replaced by 'бисульфит'.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sodium_bisulfite&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Sulfur_dioxide&action=raw",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/II/adopted",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E223",
+    "verdict": "edited",
+    "changes": "Name set to EU official name. Removed status summary (incl. US restrictions). Corrected 'releases sulphur dioxide' to 'forms sodium bisulphite in water'; removed unsourced 'white powder' and equipment-sterilising claim. Product list replaced with sourced uses. Russian name changed to 'Пиросульфит натрия' (ru Wikipedia title and E-number list).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sodium_metabisulfite&action=raw",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/II/adopted",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Пиросульфит_натрия&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E224",
+    "verdict": "edited",
+    "changes": "Name set to EU official name. Removed status summary (incl. US restrictions). Removed unsourced cider, dried fruit and 'some juices'; added sourced uses (equipment sanitising, brewing, lemon juice, pickles). Labelling rule kept with threshold. Russian name changed to 'Пиросульфит калия' (ru E-number list).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Potassium_metabisulfite&action=raw",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/II/adopted",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Дисульфит_калия&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E225",
+    "verdict": "edited",
+    "changes": "Removed status paragraph (incl. unverified US claim). Deleted unsourced 'synthetic', antioxidant claim and 'little used compared with potassium metabisulfite'. Kept sourced sulphite sensitivity note.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Potassium_sulfite&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Sulfite&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E226",
+    "verdict": "edited",
+    "changes": "Name set to EU official spelling. Removed status summary (incl. US claim). Deleted unsourced claim that its calcium keeps fruit pieces firm and 'synthetic'. Added sourced product list. Labelling rule kept with threshold.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Calcium_sulfite&action=raw",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/II/adopted",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E227",
+    "verdict": "edited",
+    "changes": "Name set to EU official name. Removed status summary (incl. US claim). Deleted vague 'generally known as' and 'minor additive'; added sourced production, cherry brining use and health note. Labelling rule kept with threshold.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Calcium_bisulfite&action=raw",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/II/adopted",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E228",
+    "verdict": "edited",
+    "changes": "Name set to EU official name. Removed status summary (incl. US restrictions). Corrected chemistry (mixture of salts); replaced unsourced 'antioxidant ... winemaking and some other foods' with sourced use as a sterilising agent in alcoholic beverage production. Labelling rule kept with threshold.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Potassium_bisulfite&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Sulfite&action=raw",
+      "https://www.legislation.gov.uk/eur/2011/1169/annex/II/adopted",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E230",
+    "verdict": "edited",
+    "changes": "Removed status paragraph (incl. unverified US packaging claim). Deleted unsourced 'synthetic', 'only the peel is concerned' and labelling claim. Added sourced industrial use. Russian name changed to 'Дифенил' (ru Wikipedia title and E-number list).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Biphenyl&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Дифенил&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E231",
+    "verdict": "edited",
+    "changes": "Removed status paragraph (incl. unverified US claim). Deleted 'synthetic'. Added sourced post-harvest wax use, disinfectant settings and migration from packaging.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=2-Phenylphenol&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=2-Фенилфенол&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E232",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Deleted 'synthetic fungicide', 'obscure' and 'little documented'; added sourced disinfectant use. Russian name changed to the form in the ru Wikipedia E-number list ('Ортофенилфенола натриевая соль', reordered).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sodium_orthophenyl_phenol&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=2-Phenylphenol&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E233",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Deleted unsourced claim that the EU regulates it as a pesticide residue rather than an additive, and 'synthetic'. Kept sourced uses (bananas, citrus waxes, anthelmintic).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Tiabendazole&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E234",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Replaced unsourced product list (cheese spreads, desserts, egg products) with sourced one (processed cheese, meats, beverages). Added sourced production method, target organisms and typical use level.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Nisin&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E235",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Deleted unsourced 'but not against bacteria'; added sourced mechanism, discovery year, medical use and EFSA 2009 safety conclusion. Fixed Russian 'сырокопчёных' to 'сыровяленых' to match 'dry sausages'.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Natamycin&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E200_—_E299&action=raw",
+      "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=ru (batch query for all titles in chunk)"
+    ],
+    "unresolved": ""
+  }
+]

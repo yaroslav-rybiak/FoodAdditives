@@ -1,0 +1,365 @@
+[
+ {
+  "code": "E152",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Deleted unsupported claims that it 'was once used as a food colour' and 'is now rarely encountered'. Added sourced uses and the history of E152 as Black 7984 in the EEC (until end of 1976). Russian name changed from translated 'Уголь (углеводородный)' to the Russian Wikipedia name for carbon black.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carbon_black",
+   "https://en.wikipedia.org/wiki/Black_7984",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": "Identity of E152 is ambiguous: English Wikipedia's E-number list gives carbon black (hydrocarbon), while Russian Wikipedia's list gives Black 7984 and says Russian legislation calls E152 'Уголь'. Article kept on carbon black and mentions Black 7984 as history; a human may prefer one identity."
+ },
+ {
+  "code": "E153",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences. Production description corrected/expanded from the EFSA opinion (wood, coconut shells, bamboo, peat; activation, washing, grinding). Replaced unsupported uses (cheese rind, decorative products) with uses named by EFSA (liquorice, other confectionery, flavoured fermented milk products). Russian name changed to the Russian Wikipedia name for E153 ('Древесный уголь').",
+  "sources": [
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC12848909/",
+   "https://en.wikipedia.org/wiki/Carbon_black",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199",
+   "https://ru.wikipedia.org/wiki/Древесный_уголь"
+  ],
+  "unresolved": "Russian name: Russian Wikipedia uses 'Древесный уголь'; 'Растительный уголь' (previous name) may be the label name in Russian regulations but I could not verify it."
+ },
+ {
+  "code": "E154",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences (including 'EU approval withdrawn November 2011'). Corrected 'used only for dyeing kippers': it was used in smoked/cured mackerel and other fish and in some cooked hams and meats. Added composition detail and the 2011 EFSA finding as history.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brown_FK",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E155",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences. Use list aligned with source (replacement for cocoa/caramel; mainly chocolate cakes); removed unsupported 'sauces'. Russian name changed to the Russian Wikipedia name 'Шоколадный коричневый HT'.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brown_HT",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E160a",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences. Production sources corrected to those in the source (synthetic, fungus Blakeslea trispora, alga Dunaliella salina; 'from plants' removed). Food uses corrected to sourced list (juices, cakes, desserts, butter, margarine; removed cheese, drinks, confectionery). Added vitamin A activity of alpha/gamma-carotene.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carotene",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E160b",
+  "verdict": "status-removed",
+  "changes": "Removed EU/UK/US status sentence. All other claims confirmed by source ('cereals' clarified to breakfast cereals).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Annatto",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E160c",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Source: Capsicum annuum or C. frutescens (draft named only C. annuum); added solvent extraction. Uses corrected to sourced list (removed soups and seasoning blends; added margarine, oils, drinks, desserts, poultry feed).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paprika_oleoresin",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E160d",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Deleted unsupported production methods (extraction from tomatoes, fermentation, synthesis) and unsupported food-use list (drinks, sauces, soups, desserts, meat products). Added sourced occurrence and lack of vitamin A activity.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lycopene",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E160e",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Deleted unsupported 'normally made synthetically'. Uses corrected to sourced list (removed cheese, soups, baked goods). Added provitamin A activity. Russian name changed to the Russian Wikipedia list name.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Apocarotenal",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E160f",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Deleted vague unsupported 'little used today and little current information is available'. Added that it occurs in small quantities in plants and is made from apocarotenal, and the sourced 2011 delisting history.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Food_orange_7",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E161a",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Deleted unsupported buttercup example and 'hardly any practical use' (source says it is used as a food colouring).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Flavoxanthin",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E161b",
+  "verdict": "edited",
+  "changes": "Removed status sentences. Deleted unsupported food uses (dairy products, baked goods, drinks); replaced with sourced uses (foods and supplements as colorant; animal feed for egg-yolk colour). Specified Mexican marigold (Tagetes erecta).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lutein",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E161c",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Corrected 'not used as a food colour in practice' (source says it is used to colour food). Removed unsupported red peppers; sources of occurrence aligned with source.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beta-Cryptoxanthin",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E161d",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Deleted unsupported 'some other plants' and 'mainly of scientific interest, not a practical food colour' (source says it is used as a food colouring).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rubixanthin",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E161e",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Deleted unsupported pansy example and 'not used as a practical food colour' (source says it is used as a food colouring). Added formation from zeaxanthin.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Violaxanthin",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199",
+   "https://ru.wikipedia.org/wiki/Виолаксантин"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E161f",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Colour corrected to purple; deleted unsupported 'conifers' and 'no practical use as a food colour' (source says it is used as a food colouring). Added occurrence in bird feathers.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rhodoxanthin",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E161g",
+  "verdict": "edited",
+  "changes": "Removed status sentences. Deleted unsupported 'the additive is made synthetically'. Feed use aligned with source (trout, salmon, poultry feed). Retina claim made precise per source: reversible crystal deposits after very high intakes from tanning pills.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Canthaxanthin",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E161h",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Deleted unsupported egg yolk; occurrence aligned with source (maize, paprika, saffron, goji, leaves of green plants).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zeaxanthin",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E161i",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Deleted unsupported colour range ('deep yellow to orange') and 'little is documented about its use in human food'. Corrected 'synthetic pigment' to 'has natural sources but is generally prepared synthetically'.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Citranaxanthin",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E161j",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences. Production sources made specific (microalga, yeast, bacteria; nearly all aquaculture astaxanthin is synthetic). Added main uses (feed additive, dietary supplement).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Astaxanthin",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E162",
+  "verdict": "edited",
+  "changes": "Removed status sentence. Uses corrected to sourced list (removed yoghurt, desserts, sauces; added powdered soft drinks, frozen/short-shelf-life/dry products, soups, tomato and bacon products). Added pH dependence. Russian name aligned with Russian Wikipedia ('Свекольный красный (бетанин)').",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Betanin",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E163",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences. Corrected pH colours (greenish-yellow, not 'bluish or green', in alkaline conditions). Replaced unsupported specific uses (confectionery, jams, dairy) with sourced 'foods and drinks'; added grape skin and blackcurrant extracts.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anthocyanin",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E164",
+  "verdict": "edited",
+  "changes": "Removed status sentences. Replaced unsupported 'one of the most expensive spices in the world' with the sourced reason for its high price (hand harvesting). Added taste/aroma compounds; colour per source (golden-yellow).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saffron",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": "Russian Wikipedia's list gives E164 as gardenia yellow (gardenia extract, saffron, crocetin, crocin); English list gives saffron. Article kept on saffron."
+ },
+ {
+  "code": "E170",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences. Production of food-grade material made specific. Uses aligned with source (added stabiliser, firming agent, soy/almond drinks, UK bread flour; removed unsupported confectionery and generic 'supplements').",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Calcium_carbonate",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E171",
+  "verdict": "edited",
+  "changes": "Removed UK/US/medicinal-products status sentences. Kept EU withdrawal as history but corrected the reason: EFSA (2021) could not rule out genotoxicity concerns and so could not set a safe daily intake (draft said 'identification of potential carcinogenic effects'). Corrected timing: Regulation (EU) 2022/63 of 14 January 2022 entered into force 7 February 2022 with a transition to 7 August 2022 (draft said 'as of June 2022'; text now just says 2022). Uses aligned with source.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Titanium_dioxide",
+   "https://www.efsa.europa.eu/en/news/titanium-dioxide-e171-no-longer-considered-safe-when-used-food-additive",
+   "https://ec.europa.eu/newsroom/sante/items/732079/en",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": "Could not open the EUR-Lex text of Regulation (EU) 2022/63 (no content returned); dates taken from English Wikipedia and search results; the regulation itself is cited in the E-number list."
+ },
+ {
+  "code": "E172",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences. Deleted unsupported 'produced synthetically' and unsupported product list (confectionery, pet food, sausage casings, supplements, decorations). Added sourced description and non-food uses. Russian name changed to the Russian Wikipedia name 'Оксиды железа'.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iron_oxide",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199",
+   "https://ru.wikipedia.org/wiki/Оксиды_железа"
+  ],
+  "unresolved": "Could not open an FDA/eCFR page to confirm specific food uses (sausage casings, supplements, sweets); these were deleted."
+ },
+ {
+  "code": "E173",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences. Deleted unsupported 'fine powder' and 'cake decorations'. Use limited to external coating of sugar confectionery as given in the EU entry cited by the source.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://en.wikipedia.org/wiki/Aluminium",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": "Only thin sourcing available (E-number list citing the EU food additives database); Wikipedia's Aluminium article does not describe E173."
+ },
+ {
+  "code": "E174",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences. Deleted unsupported 'passes through the body without being used'. Added sourced examples (dragées, vark) and the 2025 EFSA finding that data were insufficient to conclude on safety.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Silver",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E175",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences. Kept and sourced inertness/non-digestion; added high purity, forms, liqueur example and the 2016 EFSA note on nanoparticles.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gold",
+   "https://en.wikipedia.org/wiki/Edible_gold",
+   "https://en.wikipedia.org/wiki/Gold_leaf",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199",
+   "https://ru.wikipedia.org/wiki/Пищевое_золото"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E180",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences. Added sourced non-food uses. English name set to the EU official spelling 'Litholrubine BK'.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lithol_Rubine_BK",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E181",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentences. Deleted unsupported use as a clarifying agent in wine and beer and the 'brown colour' claim; added sourced description of tannic acid and its plant sources.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tannin",
+   "https://en.wikipedia.org/wiki/Tannic_acid",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199",
+   "https://ru.wikipedia.org/wiki/Танины"
+  ],
+  "unresolved": ""
+ },
+ {
+  "code": "E182",
+  "verdict": "edited",
+  "changes": "Removed EU/UK/US status sentence. Corrected colour (orcein is reddish-brown; orchil is purple-blue, not the same dye) and production (orcinol converted by ammonia and air). Added microscopy use and the sourced 1977 history.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Orcein",
+   "https://en.wikipedia.org/wiki/E_number",
+   "https://ru.wikipedia.org/wiki/Список_пищевых_добавок_E100_—_E199"
+  ],
+  "unresolved": ""
+ }
+]

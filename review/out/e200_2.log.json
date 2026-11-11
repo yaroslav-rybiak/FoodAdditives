@@ -1,0 +1,316 @@
+[
+  {
+    "code": "E236",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status paragraph. Deleted unsupported 'has had only limited use in foods'. Replaced 'ant venom' with sourced natural occurrence (ants, nettle hairs, fruits/vegetables); 'made synthetically' made specific (from carbon monoxide). Added sourced uses (livestock feed, silage, tanning, textiles) and low-toxicity/corrosive note.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Formic_acid",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E237",
+    "verdict": "rewritten",
+    "changes": "Removed EU/UK/US status paragraph. Deleted unsupported 'obscure additive with very limited documented use in food'. Rewrote from source: production, occurrence in nettles, bacterial inhibition, non-food uses.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_formate",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E238",
+    "verdict": "rewritten",
+    "changes": "Removed EU/UK/US status paragraph. Deleted unsupported 'mild' antimicrobial and 'very limited relevance as a food additive'. Rewrote from source: production routes, feed-preservative use under E238, tanning/cement/de-icing uses.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_formate",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E239",
+    "verdict": "edited",
+    "changes": "English name changed from 'Hexamine' to EU name 'Hexamethylene tetramine'. Removed status paragraph and 'permitted only' wording. Deleted unsupported claim that it 'prevents swelling caused by bacteria'. Added sourced medical/fuel uses and EFSA 2014 safety conclusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hexamethylenetetramine",
+      "https://doi.org/10.2903/j.efsa.2014.3696 (EFSA abstract read via OpenAlex API)",
+      "https://ru.wikipedia.org/wiki/Уротропин",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E240",
+    "verdict": "rewritten",
+    "changes": "Removed EU/UK/US status paragraph (including 'approved in the US as fumigant' claim). Deleted unsupported 'not used directly as a food preservative today'. Made carcinogen statement specific to IARC classification and sourced cancer sites. Added sourced natural occurrence in food and the Indonesia/Vietnam food-adulteration history.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Formaldehyde",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E242",
+    "verdict": "edited",
+    "changes": "Removed status paragraph. Deleted unsupported 'within hours' and 'cold-filled'. Corrected spectrum (yeasts, bacteria and moulds, not 'yeasts and some bacteria'). Added sourced drink types and sorbate/Brettanomyces note.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dimethyl_dicarbonate",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": "No Russian Wikipedia article; Russian name 'Диметилдикарбонат' is the direct chemical name and was not checked against the Russian/EAEU additive list (TR TS 029/2012 PDF could not be parsed)."
+  },
+  {
+    "code": "E243",
+    "verdict": "edited",
+    "changes": "Removed status paragraph (its claim 'not approved in the US' contradicted the source, which reports FDA GRAS no-objection in 2005; removed as status anyway). Replaced vague 'breaks down into natural components' with sourced metabolic pathway; 'heat-treated meat products such as sausages' narrowed to sourced 'cooked meat products'. Added cosmetics/mouthwash uses.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ethyl_lauroyl_arginate",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": "No Russian Wikipedia article; Russian name 'Этиллауроиларгинат' not verified against Russian/EAEU regulations."
+  },
+  {
+    "code": "E246",
+    "verdict": "rewritten",
+    "changes": "Original was wrong: it said the exact substance is 'not specified' and copied DMDC's uses/status (alcoholic and flavoured drinks, US beverage antimicrobial). Rewritten from EFSA opinions: E246 is long-chain glycolipids from Dacryopinax spathularia; added EFSA 2021 ADI and safety conclusion. Removed status paragraph.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Glycolipid",
+      "https://doi.org/10.2903/j.efsa.2021.6609 (EFSA abstract read via OpenAlex API)",
+      "https://doi.org/10.2903/j.efsa.2026.10367 (EFSA abstract read via OpenAlex API)",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": "Food categories of use not verified (EUR-Lex text of Reg. (EU) 2022/1037 was not retrievable), so none are named. 'Used as a preservative' rests on its place in the E2xx preservative range, not on an opened source."
+  },
+  {
+    "code": "E249",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted unverified claim about a 2023 French court ruling on the Yuka app. Replaced generic nitrosamine sentence with sourced formation routes and IARC classification. Product list (ham, bacon, sausages) dropped: the potassium nitrite source names no products.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_nitrite",
+      "https://en.wikipedia.org/wiki/Sodium_nitrite",
+      "https://doi.org/10.2903/j.efsa.2017.4786 (EFSA abstract read via Semantic Scholar API)",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E250",
+    "verdict": "edited",
+    "changes": "Removed status sentences and 'so permitted amounts are limited'. Deleted unsupported 'most common curing agent' and 'salami'. Added sourced roles (faster curing, antioxidant effect, curing salt) and IARC classification.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_nitrite",
+      "https://doi.org/10.2903/j.efsa.2017.4786 (EFSA abstract read via Semantic Scholar API)",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E251",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted unsupported claims that bacteria convert it to nitrite in cured meat, that the additive is 'typically' industrial, and use in 'certain cheeses'. Added sourced uses, nitrosamine/cancer link and EFSA 2017 exposure estimate.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_nitrate",
+      "https://doi.org/10.2903/j.efsa.2017.4787 (EFSA abstract read via Semantic Scholar API)",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E252",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted unsupported bacterial-conversion claim and 'some cheeses'. Added sourced history, replacement by nitrite, current meat uses and EFSA 2017 exposure estimate.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_nitrate",
+      "https://doi.org/10.2903/j.efsa.2017.4787 (EFSA abstract read via Semantic Scholar API)",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E260",
+    "verdict": "edited",
+    "changes": "Removed status sentences and unsupported 'considered safe at the levels used'. Deleted unsupported mechanism sentence and product list (mayonnaise, ketchup, bread). Added sourced production routes and pickling use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Acetic_acid",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E261",
+    "verdict": "edited",
+    "changes": "Names changed to singular 'Potassium acetate' / 'Ацетат калия' (EU name field 'Potassium acetates d' carries a stray footnote letter; text describes one compound). Removed status sentences. Deleted unsupported salty taste, product list and sodium-substitute claim. Added sourced non-food uses.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_acetate",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E262",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted unsupported product list (snacks, baked goods, sauces, meat products) except sourced salt-and-vinegar crisps; split functions between the two salts per source.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_acetate",
+      "https://en.wikipedia.org/wiki/Sodium_diacetate",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": "Russian plural name 'Ацетаты натрия' follows the EU group name; Russian Wikipedia has only 'Ацетат натрия'."
+  },
+  {
+    "code": "E263",
+    "verdict": "rewritten",
+    "changes": "Corrected functions and products: source gives stabiliser/buffer/sequestrant mainly in sweets (not acidity regulator/preservative/firming agent in baked goods and fillings). Removed status sentences. Added tofu and medical uses.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_acetate",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E264",
+    "verdict": "edited",
+    "changes": "Removed status paragraph (EU/UK/US/Australia). Deleted unsupported 'preservative' function and filler about little being known. Added sourced production and non-food uses.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ammonium_acetate",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E265",
+    "verdict": "rewritten",
+    "changes": "Removed status sentences (including US cut/peeled-squash rule). Deleted unsupported cosmetics claim (only on Russian Wikipedia). Rewrote from source: properties, production, fungicide/bactericide, squash and strawberry use, sodium salt. Russian name changed from 'Дегидроуксусная кислота' to Russian Wikipedia title 'Дегидрацетовая кислота'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dehydroacetic_acid",
+      "https://ru.wikipedia.org/wiki/Дегидрацетовая_кислота",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E266",
+    "verdict": "rewritten",
+    "changes": "Removed status paragraph. Replaced 'antifungal and antibacterial' and 'very limited food use, better known from cosmetics' (unsupported) with sourced antibacterial spectrum, food uses, odour note and cosmetic uses. Russian name aligned with 'Дегидрацетовая кислота'.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_dehydroacetate",
+      "https://en.wikipedia.org/wiki/Dehydroacetic_acid",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": "No Russian Wikipedia article for the salt; 'Дегидрацетат натрия' formed by analogy with the acid's Russian title, not verified in Russian regulations."
+  },
+  {
+    "code": "E267",
+    "verdict": "rewritten",
+    "changes": "Removed status paragraph. Corrected composition per EFSA (sodium/potassium hydroxides and carbonates, not 'typically sodium hydroxide'). Deleted unsupported 'less sourness' and meat/packaged-food uses. Added EFSA 2022 safety conclusion.",
+    "sources": [
+      "https://doi.org/10.2903/j.efsa.2022.7351 (EFSA abstract read via OpenAlex API)"
+    ],
+    "unresolved": "No Wikipedia article and EUR-Lex (Reg. (EU) 2023/2086) not retrievable: food categories not verified, and 'used as a food preservative' rests on its E2xx preservative number. Russian name 'Буферный уксус' not verified in a Russian source."
+  },
+  {
+    "code": "E270",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted unsupported product list (drinks, confectionery, baked goods) and 'mainly an acidity regulator'; replaced with sourced functions (preservative, curing agent, flavouring, meat decontaminant). Added sourced occurrence and production share.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lactic_acid",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E280",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted unsupported product list (bread, cheese products). 'Swiss cheese' made specific (Emmental, odour). Added sourced production route, effective concentration and share used as preservative.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Propionic_acid",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E281",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted unsupported 'easier to handle than the acid' and 'processed cheese'. Added sourced production and rope protection.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sodium_propionate",
+      "https://en.wikipedia.org/wiki/Calcium_propanoate",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E282",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted unsupported 'one of the most common preservatives in bread' and 'processed cheese'; replaced product list with sourced one. Added pH limit, typical dose and agricultural use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calcium_propanoate",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E283",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted unsupported claims (alternative to calcium propionate 'where less calcium is wanted', mould/bacteria spectrum, bread use). Reduced to what the source supports.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potassium_propanoate",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": "Little verifiable information; no Russian Wikipedia article, Russian name is the direct chemical name."
+  },
+  {
+    "code": "E284",
+    "verdict": "edited",
+    "changes": "Removed status paragraph and 'permitted only' wording. Replaced unsourced causal claim 'toxic in larger amounts, which is why use is restricted' with EFSA 2013 findings. Added sourced mineral form and non-food uses.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Boric_acid",
+      "https://doi.org/10.2903/j.efsa.2013.3407 (EFSA abstract read via OpenAlex API)",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E285",
+    "verdict": "edited",
+    "changes": "English name aligned with EU name 'Sodium tetraborate (borax)'. Removed status paragraph and 'permitted only' wording. Deleted unsourced 'antiseptic' and causal restriction claim; added sourced occurrence, texture effect and EFSA 2013 findings.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Borax",
+      "https://doi.org/10.2903/j.efsa.2013.3407 (EFSA abstract read via OpenAlex API)",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E290",
+    "verdict": "edited",
+    "changes": "Corrected English 'lowers acidity slightly' (wrong: dissolved CO2 forms carbonic acid; the Russian said the opposite). Removed status sentence. Deleted unsupported packaging-atmosphere claim. Added sourced functions (propellant, acidity regulator) and sources of the gas.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carbon_dioxide",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E296",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported 'flavour enhancer' role and product list (soft drinks, jams, wine). 'Usually made synthetically' corrected to sourced statement about synthetic L/D mixture. Added sour-sweets use and warning note.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Malic_acid",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E297",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsupported 'dissolves slowly' and products (desserts, powdered mixes). Added sourced occurrence, production, 1946 start of use, tartaric-acid substitute and tortilla use.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fumaric_acid",
+      "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&props=sitelinks (ru title lookup)"
+    ],
+    "unresolved": ""
+  }
+]
