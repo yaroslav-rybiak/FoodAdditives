@@ -1,0 +1,484 @@
+[
+  {
+    "code": "E338",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Replaced the vague 'topic of nutritional discussion' line with JECFA group MTDI for phosphorus (70 mg/kg bw) and the sourced dental-erosion note. Added sourced functions (sequestrant, antioxidant synergist) and jams as an example. RU name changed to 'Ортофосфорная кислота' as on the ru.wikipedia E-list.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Phosphoric_acid&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_1924.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E339",
+    "verdict": "edited",
+    "changes": "Removed status sentence and the unsourced 'made industrially'. Function list and products checked against Wikipedia and JECFA; added sequestrant, processed-cheese mechanism, frozen foods, fish; added JECFA group phosphorus MTDI. RU name changed to 'Ортофосфаты натрия' (ru.wikipedia E-list).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sodium_phosphate&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_2146.htm",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_669.htm",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_2348.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E340",
+    "verdict": "edited",
+    "changes": "Removed status sentence, unsourced 'made industrially' and the unsourced product list (drinks, dairy). 'Emulsifying salts' corrected to emulsion stabiliser (tripotassium salt, per JECFA); added yeast food and JECFA phosphorus MTDI. RU name 'Ортофосфаты калия' (ru.wikipedia E-list).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Potassium_phosphate&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_1974.htm",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_663.htm",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_2343.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E341",
+    "verdict": "edited",
+    "changes": "Removed status sentence, unsourced 'made industrially' and the unsourced product list (powdered products, baking powder, fortified foods). Functions checked against the E-number list and JECFA (added buffer, dough conditioner, yeast food); added JECFA phosphorus MTDI. RU name 'Ортофосфаты кальция' (ru.wikipedia E-list).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Calcium_phosphate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=E_number&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_2306.htm",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_318.htm",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_310.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E342",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. Added the food functions from JECFA (acidity regulator, buffer, raising agent, dough conditioner, yeast food; INS 342i/342ii confirmed) and the winemaking use; added JECFA phosphorus MTDI. RU name 'Ортофосфаты аммония' (ru.wikipedia E-list).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Ammonium_phosphate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Ammonium_dihydrogen_phosphate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Diammonium_phosphate&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_104.htm",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_535.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E343",
+    "verdict": "edited",
+    "changes": "Removed status sentences, including the outdated 'under discussion for a future amendment to the miscellaneous-additives directive' line, and the unsourced 'made industrially'. Added acidity regulator and nutrient functions (JECFA) and the JECFA phosphorus MTDI. RU name 'Ортофосфаты магния' (ru.wikipedia E-list).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Magnesium_phosphate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=E_number&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_1667.htm",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_1301.htm",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_2319.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E344",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced \"lecithin treated with citric acid\" and \"rarely used\". Function corrected from acidity regulator to preservative (Codex INS list and Wikipedia both class INS 344 as a preservative only). Entry reduced to what is verifiable.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Lecithin_citrate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=E_number&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": "No source found that describes the chemical make-up of lecithin citrate."
+  },
+  {
+    "code": "E345",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Kept identity and acidity-regulator function; added sourced medicinal use as a saline laxative.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Magnesium_citrate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=E_number&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_1297.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E349",
+    "verdict": "edited",
+    "changes": "Removed status sentence and unsourced 'rarely used in food'. Added flavouring use (Wikipedia).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Ammonium_malate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Malic_acid&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E350",
+    "verdict": "edited",
+    "changes": "Removed EU/UK/US status sentence. 'Gives apples their tart taste' reworded to the sourced 'contributes to the sour taste of many fruits'. Added buffer, flavouring and humectant functions and example products (Wikipedia E350, JECFA).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=E350_(food_additive)&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Malic_acid&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_2152.htm",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_2157.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E351",
+    "verdict": "edited",
+    "changes": "Removed status sentence and unsourced 'made industrially'. Added sourced buffer, antioxidant and flavouring functions and example products (Wikipedia, JECFA).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Potassium_malate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Malic_acid&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_1980.htm",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_1985.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E352",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Added maple-sap occurrence (Wikipedia) and buffer/seasoning functions (JECFA).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Calcium_malate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Malic_acid&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_324.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E353",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Identity made precise (polymeric lactone of variable composition, Wikipedia). Functions set to the Codex INS list (acidity regulator, emulsifier, stabiliser, thickener); main use in wine against tartrate precipitation (Wikipedia).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Metatartaric_acid&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Tartaric_acid&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": "ru.wikipedia's E-list spells the name 'Мета-винная кислота' (no article); kept the usual spelling 'Метавинная кислота'."
+  },
+  {
+    "code": "E354",
+    "verdict": "edited",
+    "changes": "Removed status sentence and unsourced 'rarely encountered in everyday foods'. Added sourced origin (wine by-product) and functions (acidity regulator, preservative; Wikipedia and JECFA). 'Occurs naturally in grapes' replaced by the sourced statement that tartaric acid is found in grapes.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Calcium_tartrate&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_340.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E355",
+    "verdict": "edited",
+    "changes": "Removed status sentence. 'Found in trace amounts in nature' replaced by sourced 'rare, occurs in beets'. Deleted unsourced product list (powdered drinks, gelatin desserts, jams); replaced with sourced uses (flavouring, gelling aid, baking-powder acidulant). Added JECFA ADI 0-5 mg/kg bw.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Adipic_acid&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_44.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E356",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted 'synthetic' (adipic acid also occurs in beets). Added preparation, buffering function (Wikipedia) and JECFA group ADI.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Sodium_adipate&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_2128.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E357",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Deleted 'synthetic'. Function confirmed by JECFA; added JECFA group ADI.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Potassium_adipate&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_1964.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E359",
+    "verdict": "edited",
+    "changes": "Removed status sentence and unsourced 'rarely used in food'. Added JECFA group ADI.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Ammonium_adipate&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_100.htm",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E363",
+    "verdict": "edited",
+    "changes": "Removed EU/UK status; the US use in condiments, relishes and meat products kept as a sourced, attributed use statement (21 CFR 184.1091). 'Occurs in many plants' replaced by sourced 'occurs as succinate in living organisms'. Fermentation production dropped (Wikipedia calls it only proposed). Taste corrected from 'slightly salty-sour' to 'somewhat sour and astringent'. Unsourced 'dry mixes and seasonings' deleted. Added amber etymology.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Succinic_acid&action=raw",
+      "https://www.ecfr.gov/current/title-21/part-184/section-184.1091",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E365",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Identity confirmed as monosodium fumarate (JECFA INS 365). 'Found in plants' replaced by sourced occurrence; functions corrected to JECFA list (acidulant, buffer, flavour enhancer). RU name set to 'Фумарат натрия' as on the ru.wikipedia E-list.",
+    "sources": [
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_2149.htm",
+      "https://en.wikipedia.org/w/index.php?title=Fumaric_acid&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Sodium_fumarate&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E366",
+    "verdict": "edited",
+    "changes": "Removed status sentence. 'Found in plants' replaced by sourced occurrence of fumaric acid. Function confirmed (Codex INS, JECFA).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Potassium_fumarate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Fumaric_acid&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_1977.htm",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E367",
+    "verdict": "edited",
+    "changes": "Removed status sentence. 'Found in plants' replaced by sourced occurrence of fumaric acid. Added calcium enrichment use (Wikipedia). Function confirmed (Codex INS, JECFA).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Calcium_fumarate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Fumaric_acid&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_314.htm",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E368",
+    "verdict": "edited",
+    "changes": "Removed status sentence and unsourced 'rarely used in food'. Added sourced occurrence of fumaric acid. Function confirmed (Codex INS).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Ammonium_fumarate&action=raw",
+      "https://en.wikipedia.org/w/index.php?title=Fumaric_acid&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E370",
+    "verdict": "edited",
+    "changes": "Removed status sentence and unsourced 'rarely used'. Added sequestrant function from the Codex INS list. Identity kept to what follows from the name.",
+    "sources": [
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://en.wikipedia.org/w/index.php?title=E_number&action=raw",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": "No Wikipedia/PubChem description opened for this substance; entry is minimal."
+  },
+  {
+    "code": "E375",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Function corrected: as INS 375 it is a colour retention agent (Codex), not an acidity regulator. Deleted unsourced natural sources list (meat, fish, grains, nuts) and 'flour and cereals'; replaced with sourced production and fortification/feed use. Added sourced flushing effect of high medicinal doses. EN name changed from 'Niacin' to 'Nicotinic acid' (Codex INS name).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Niacin_(substance)&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E380",
+    "verdict": "edited",
+    "changes": "Removed status sentence (including the EU edible-caseinates restriction and a US 'condiments, relishes and meat products' claim that is not supported: the cited CFR section is for succinic acid). Deleted unsourced 'made industrially'. Added buffering function (JECFA) and the hazard note for the pure chemical (Wikipedia).",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Triammonium_citrate&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_2303.htm",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://www.ecfr.gov/current/title-21/part-184/section-184.1091",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": "RU name: the ru.wikipedia E-list gives only the generic 'Цитраты аммония'; kept 'Цитрат аммония трёхзамещённый', not checked against Russian regulations."
+  },
+  {
+    "code": "E381",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Added anti-caking function (Codex INS, JECFA), Irn-Bru example (Wikipedia), brown/green forms (21 CFR 184.1296) and JECFA iron PMTDI. RU name changed to the ru.wikipedia article title 'Цитрат железа(III)-аммония'.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Ammonium_ferric_citrate&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_856.htm",
+      "https://www.ecfr.gov/current/title-21/part-184/section-184.1296",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E383",
+    "verdict": "edited",
+    "changes": "Removed EU/UK status; US use kept as a sourced, attributed use statement (21 CFR 184.1201). Function corrected from acidity regulator to gelling agent, stabiliser and thickener (Codex INS). Added toothpaste use (Wikipedia) and description (CFR). EN name changed from 'glycerylphosphate' to the Codex name 'Calcium glycerophosphate'.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Calcium_glycerylphosphate&action=raw",
+      "https://www.ecfr.gov/current/title-21/part-184/section-184.1201",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E384",
+    "verdict": "edited",
+    "changes": "Removed EU/UK status; US uses kept as a sourced, attributed use statement (21 CFR 184.1386). Function corrected from acidity regulator to antioxidant, sequestrant and preservative (Codex INS, JECFA, CFR). Identity made precise. Added JECFA ADI 0-14 mg/kg bw. EN name pluralised as in Codex; RU name 'Изопропилцитратная смесь' from the ru.wikipedia E-list.",
+    "sources": [
+      "https://www.ecfr.gov/current/title-21/part-184/section-184.1386",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_1220.htm",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E385",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Mechanism reworded to the sourced 'metal ions catalyse oxidative discolouration'. Functions expanded per Codex INS; product examples tied to US use (21 CFR 172.120; 'canned vegetables' made specific). Added JECFA ADI 0-2.5 mg/kg bw. RU name aligned with the ru.wikipedia E-list form.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Ethylenediaminetetraacetic_acid&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_311.htm",
+      "https://www.ecfr.gov/current/title-21/part-172/section-172.120",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E386",
+    "verdict": "edited",
+    "changes": "Removed status sentences. Functions expanded per Codex INS/JECFA; mechanism sourced to Wikipedia. Added JECFA ADI and its condition.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Ethylenediaminetetraacetic_acid&action=raw",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_667.htm",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E387",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Identity made precise (partially oxidised fatty acids; source oils and process from 21 CFR 172.818). Added sequestrant and defoaming functions and the sourced 2001 JECFA withdrawal of ADI/specifications for lack of commercial use. 'Low temperatures' dropped (not in sources).",
+    "sources": [
+      "https://www.ecfr.gov/current/title-21/part-172/section-172.818",
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_1816.htm",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E388",
+    "verdict": "edited",
+    "changes": "Identity confirmed: INS 388 is 3,3'-thiodipropionic acid (JECFA, Codex). Removed status sentence and unsourced 'synthetic'. Added sourced US fat/oil use with the 0.02% total-antioxidant limit (21 CFR 182.3109) and JECFA ADI 0-3 mg/kg bw.",
+    "sources": [
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_2270.htm",
+      "https://www.inchem.org/documents/jecfa/jecmono/v05je32.htm",
+      "https://www.ecfr.gov/current/title-21/part-182/section-182.3109",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": "ru.wikipedia's E-list names E388 'Тиопропионовая кислота', which is a different compound; kept the chemically correct 'Тиодипропионовая кислота'."
+  },
+  {
+    "code": "E389",
+    "verdict": "edited",
+    "changes": "Removed status sentence and unsourced 'synthetic'. Replaced the vague 'substances of this type are generally used as antioxidants in fats' with the sourced antioxidant function (Codex, JECFA) and US fat/oil use with limit (21 CFR 182.3280). Added JECFA ADI.",
+    "sources": [
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_589.htm",
+      "https://www.inchem.org/documents/jecfa/jecmono/v05je32.htm",
+      "https://www.ecfr.gov/current/title-21/part-182/section-182.3280",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E390",
+    "verdict": "edited",
+    "changes": "Removed status sentence and unsourced 'synthetic' and 'generally used as antioxidants in fats'. Added sourced antioxidant class (Codex, JECFA), US packaging-migration listing (21 CFR 181.24) and the JECFA note that its ADI does not cover this ester. Note: the input's 'not approved in the US' status line was itself questionable given 21 CFR 181.24.",
+    "sources": [
+      "https://www.inchem.org/documents/jecfa/jeceval/jec_675.htm",
+      "https://www.inchem.org/documents/jecfa/jecmono/v05je32.htm",
+      "https://www.ecfr.gov/current/title-21/part-181/section-181.24",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": ""
+  },
+  {
+    "code": "E391",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Kept sourced identity and mineral binding (added calcium, absorption effect, effect of food preparation). Added the food-additive function (preservative, per Codex INS and Wikipedia), antioxidant effect via iron binding and polyphenol-oxidase inhibition.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Phytic_acid&action=raw",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": "Wikipedia's Phytic acid article says it is allowed as a food additive in the EU (and US, Japan, China); this contradicts eu_authorised=false. E391 does not appear in the EU additive list as far as this review could tell, so the input value looks right, but a human may want to confirm."
+  },
+  {
+    "code": "E392",
+    "verdict": "edited",
+    "changes": "Removed status sentence. Deleted unsourced product list (fats, oils, meat products, snacks) and 'natural extract' wording; kept the sourced carnosic acid/carnosol basis and added content in leaves. Added JECFA 2016 temporary ADI (from EFSA 2018 abstract). EN name set to EU official 'Extracts of rosemary'; RU name pluralised to match. RU: carnosic acid rendered as 'карнозоловая кислота' (the usual Russian term) instead of 'карнозиновая'.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Carnosic_acid&action=raw",
+      "https://doi.org/10.2903/j.efsa.2018.5373",
+      "https://doi.org/10.2903/j.efsa.2015.4090",
+      "https://api.openalex.org/works?search=rosemary%20extracts%20food%20additive%20EFSA%20scientific%20opinion",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf"
+    ],
+    "unresolved": "E392 is missing from the ru.wikipedia E-list; RU name 'Экстракты розмарина' and the term 'карнозоловая кислота' not checked against Russian regulations."
+  },
+  {
+    "code": "E399",
+    "verdict": "edited",
+    "changes": "Removed EU/UK status; US dry-pudding-mix use kept as a sourced, attributed use statement (21 CFR 172.720). Added stabiliser function (Codex INS, Wikipedia) and 'sugar acid formed by oxidation of lactose'.",
+    "sources": [
+      "https://en.wikipedia.org/w/index.php?title=Lactobionic_acid&action=raw",
+      "https://www.ecfr.gov/current/title-21/part-172/section-172.720",
+      "https://static1.squarespace.com/static/5e0e1d15dcd662506441ff4b/t/60dbdeae492ca933bf0a976f/1625022143455/CXG_036e.pdf",
+      "https://ru.wikipedia.org/w/index.php?title=Список_пищевых_добавок_E300_—_E399&action=raw"
+    ],
+    "unresolved": ""
+  }
+]
