@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Пищевые добавки</string>
-    <string name="return_label">Вернуться</string>
     <string name="dark_theme_label">Тёмная тема</string>
     <string name="light_theme_label">Светлая тема</string>
     <string name="about_label">О программе</string>
@@ -17,8 +16,6 @@
     <string name="e500_e599_meaning">Регуляторы pH</string>
     <string name="e600_e699_label">E600 - E699 Ароматизаторы</string>
     <string name="e600_e699_meaning">Ароматизаторы</string>
-    <string name="e700_e799_label">E700 - E799 Антибиотики</string>
-    <string name="e700_e799_meaning">Антибиотики</string>
     <string name="e900_e999_label">E900 - E999 Прочие</string>
     <string name="e900_e999_meaning">Прочие</string>
     <string name="e1000_e1999_label">E1000 - E1999 Вещества</string>

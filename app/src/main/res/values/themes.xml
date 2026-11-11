@@ -1,0 +1,5 @@
+<resources>
+
+    <style name="Theme.FoodAdditives" parent="Theme.Material3.DayNight.NoActionBar" />
+
+</resources>

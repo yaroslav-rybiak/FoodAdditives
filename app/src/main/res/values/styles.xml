@@ -1,9 +1,0 @@
-<resources>
-
-    <style name="DarkTheme" parent="android:Theme.Holo">
-    </style>
-
-    <style name="LightTheme" parent="android:Theme.Holo.Light">
-    </style>
-
-</resources>
