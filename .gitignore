@@ -1,2 +1,9 @@
 #idea folder
 .idea/
+
+# Gradle
+.gradle/
+build/
+
+# Local SDK location
+local.properties

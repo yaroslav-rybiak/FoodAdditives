@@ -1,5 +1,6 @@
 package com.yrybyak.foodadditives;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,6 +10,9 @@ import android.view.View;
 
 public class MainActivity extends Activity {
 
+    // Only reached on Android 15 and older. On Android 16+ back gestures skip this callback,
+    // but the system already moves a root launcher task to the background, so the result is the same.
+    @SuppressLint("GestureBackNavigation")
     @Override
     public void onBackPressed() {
         moveTaskToBack(true);
