@@ -1,43 +1,53 @@
 package com.yrybyak.foodadditives;
 
 import android.content.res.Resources;
-import android.content.res.TypedArray;
 
-import androidx.annotation.ArrayRes;
+import androidx.annotation.RawRes;
 import androidx.annotation.StringRes;
 
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 
-/** A range of E numbers (e.g. E100 - E199) and the additives listed in it. */
+/** A range of E numbers (e.g. E100–E199) and the additives listed in it. */
 final class Category {
 
     /** All categories, in the order they are shown on the main screen. */
     static final Category[] ALL = {
-            new Category(R.string.e100_e199_label, R.string.e100_e199_meaning, R.array.additives_e100_e199),
-            new Category(R.string.e200_e299_label, R.string.e200_e299_meaning, R.array.additives_e200_e299),
-            new Category(R.string.e300_e399_label, R.string.e300_e399_meaning, R.array.additives_e300_e399),
-            new Category(R.string.e400_e499_label, R.string.e400_e499_meaning, R.array.additives_e400_e499),
-            new Category(R.string.e500_e599_label, R.string.e500_e599_meaning, R.array.additives_e500_e599),
-            new Category(R.string.e600_e699_label, R.string.e600_e699_meaning, R.array.additives_e600_e699),
-            new Category(R.string.e900_e999_label, R.string.e900_e999_meaning, R.array.additives_e900_e999),
-            new Category(R.string.e1000_e1999_label, R.string.e1000_e1999_meaning, R.array.additives_e1000_e1999),
+            new Category("E100–E199", R.string.category_e100, R.raw.additives_e100),
+            new Category("E200–E299", R.string.category_e200, R.raw.additives_e200),
+            new Category("E300–E399", R.string.category_e300, R.raw.additives_e300),
+            new Category("E400–E499", R.string.category_e400, R.raw.additives_e400),
+            new Category("E500–E599", R.string.category_e500, R.raw.additives_e500),
+            new Category("E600–E699", R.string.category_e600, R.raw.additives_e600),
+            new Category("E700–E799", R.string.category_e700, R.raw.additives_e700),
+            new Category("E900–E999", R.string.category_e900, R.raw.additives_e900),
+            new Category("E1000–E1599", R.string.category_e1000, R.raw.additives_e1000),
     };
 
-    /** Name shown on the main screen, e.g. "E100 - E199 Красители". */
-    @StringRes
-    final int label;
+    /** The range of E numbers, e.g. "E100–E199". */
+    final String range;
 
-    /** Title of the category's own screen, e.g. "Красители". */
+    /** What the additives in the range are for, e.g. "Colours". */
     @StringRes
     final int title;
 
-    /** Array of (label, text) string pairs, see arrays.xml. */
-    @ArrayRes
+    /**
+     * JSON array of {@code {"code", "name", "text"}} objects. The file is translated through
+     * resource qualifiers (res/raw, res/raw-ru), like any other resource.
+     */
+    @RawRes
     private final int additives;
 
-    private Category(@StringRes int label, @StringRes int title, @ArrayRes int additives) {
-        this.label = label;
+    private Category(String range, @StringRes int title, @RawRes int additives) {
+        this.range = range;
         this.title = title;
         this.additives = additives;
     }
@@ -47,31 +57,43 @@ final class Category {
         return index >= 0 && index < ALL.length ? ALL[index] : null;
     }
 
+    /** Reads the category's additives in the current language. */
     List<Additive> loadAdditives(Resources resources) {
-        List<Additive> result = new ArrayList<>();
-        TypedArray pairs = resources.obtainTypedArray(additives);
-        try {
-            for (int i = 0; i + 1 < pairs.length(); i += 2) {
-                result.add(new Additive(pairs.getResourceId(i, 0), pairs.getResourceId(i + 1, 0)));
+        try (InputStream input = resources.openRawResource(additives)) {
+            ByteArrayOutputStream bytes = new ByteArrayOutputStream();
+            byte[] buffer = new byte[8192];
+            int read;
+            while ((read = input.read(buffer)) != -1) {
+                bytes.write(buffer, 0, read);
             }
-        } finally {
-            pairs.recycle();
+            JSONArray array = new JSONArray(new String(bytes.toByteArray(), StandardCharsets.UTF_8));
+            List<Additive> result = new ArrayList<>(array.length());
+            for (int i = 0; i < array.length(); i++) {
+                JSONObject item = array.getJSONObject(i);
+                result.add(new Additive(
+                        item.getString("code"), item.getString("name"), item.getString("text")));
+            }
+            return result;
+        } catch (IOException | JSONException e) {
+            // The files are bundled with the app, so this is a packaging bug, not a runtime state.
+            throw new IllegalStateException("Cannot read additives of " + range, e);
         }
-        return result;
     }
 
     static final class Additive {
 
-        /** Short name, e.g. "E100". */
-        @StringRes
-        final int label;
+        /** E number, e.g. "E100". */
+        final String code;
 
-        /** Full description as HTML. */
-        @StringRes
-        final int text;
+        /** Common name, e.g. "Curcumin". */
+        final String name;
 
-        Additive(@StringRes int label, @StringRes int text) {
-            this.label = label;
+        /** Short description: plain text, paragraphs separated by blank lines. */
+        final String text;
+
+        Additive(String code, String name, String text) {
+            this.code = code;
+            this.name = name;
             this.text = text;
         }
     }

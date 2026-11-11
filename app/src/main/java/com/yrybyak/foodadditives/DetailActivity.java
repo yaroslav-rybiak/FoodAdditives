@@ -4,9 +4,9 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.text.method.LinkMovementMethod;
+import android.view.View;
 import android.widget.TextView;
 
-import androidx.annotation.StringRes;
 import androidx.core.text.HtmlCompat;
 
 import java.util.Collections;
@@ -32,30 +32,40 @@ public class DetailActivity extends BaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        @StringRes int title;
-        @StringRes int text;
-        if (getIntent().hasExtra(EXTRA_CATEGORY)) {
-            Category category = Category.at(getIntent().getIntExtra(EXTRA_CATEGORY, -1));
-            int additiveIndex = getIntent().getIntExtra(EXTRA_ADDITIVE, -1);
-            List<Category.Additive> additives = category == null
-                    ? Collections.emptyList()
-                    : category.loadAdditives(getResources());
-            if (additiveIndex < 0 || additiveIndex >= additives.size()) {
-                finish();
-                return;
-            }
-            title = additives.get(additiveIndex).label;
-            text = additives.get(additiveIndex).text;
-        } else {
-            title = R.string.about_label;
-            text = R.string.about_text;
+        if (!getIntent().hasExtra(EXTRA_CATEGORY)) {
+            showAbout();
+            return;
         }
 
+        Category category = Category.at(getIntent().getIntExtra(EXTRA_CATEGORY, -1));
+        int additiveIndex = getIntent().getIntExtra(EXTRA_ADDITIVE, -1);
+        List<Category.Additive> additives = category == null
+                ? Collections.emptyList()
+                : category.loadAdditives(getResources());
+        if (additiveIndex < 0 || additiveIndex >= additives.size()) {
+            finish();
+            return;
+        }
+        showAdditive(additives.get(additiveIndex));
+    }
+
+    private void showAdditive(Category.Additive additive) {
         setUpScreen(R.layout.activity_detail, true);
-        setTitle(title);
+        setTitle(additive.code);
+        TextView nameView = findViewById(R.id.name);
+        nameView.setText(additive.name);
         TextView textView = findViewById(R.id.text);
-        textView.setText(HtmlCompat.fromHtml(getString(text), HtmlCompat.FROM_HTML_MODE_LEGACY));
-        // Makes links in the text (the e-mail address on the "about" page) clickable.
+        textView.setText(additive.text);
+    }
+
+    private void showAbout() {
+        setUpScreen(R.layout.activity_detail, true);
+        setTitle(R.string.about_label);
+        findViewById(R.id.name).setVisibility(View.GONE);
+        TextView textView = findViewById(R.id.text);
+        textView.setText(HtmlCompat.fromHtml(
+                getString(R.string.about_text), HtmlCompat.FROM_HTML_MODE_LEGACY));
+        // Makes the e-mail link clickable.
         textView.setMovementMethod(LinkMovementMethod.getInstance());
     }
 }

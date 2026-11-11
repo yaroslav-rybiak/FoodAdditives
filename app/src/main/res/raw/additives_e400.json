@@ -1,0 +1,487 @@
+[
+  {
+    "code": "E400",
+    "name": "Alginic acid",
+    "text": "Alginic acid is a polysaccharide extracted from brown seaweed. It swells in water and is used as a thickener, stabiliser and gelling agent, and it can also help keep mixtures from separating.\n\nIt appears in desserts, puddings, jams and jellies, and some soups.\n\nIt is approved in the EU for jams and jellies, desserts and puddings, approved in the UK, and approved in the US in soups and soup mixes."
+  },
+  {
+    "code": "E401",
+    "name": "Sodium alginate",
+    "text": "Sodium alginate is the sodium salt of alginic acid, obtained from brown seaweed. It dissolves in water to form viscous solutions and forms gels in the presence of calcium.\n\nIt is used as a thickener, stabiliser and gelling agent in ice cream, sauces, desserts, restructured foods and fruit preparations, and in molecular gastronomy for forming gel spheres.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E402",
+    "name": "Potassium alginate",
+    "text": "Potassium alginate is the potassium salt of alginic acid, a polysaccharide extracted from brown seaweed. Like the other alginates, it thickens liquids and can form gels when calcium is present.\n\nIt is used as a thickener, stabiliser and gelling agent in desserts, sauces, dairy products and similar foods.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E403",
+    "name": "Ammonium alginate",
+    "text": "Ammonium alginate is the ammonium salt of alginic acid, which is obtained from brown seaweed. It is a water-soluble polysaccharide that increases viscosity.\n\nIt is used as a thickener and stabiliser in foods such as desserts, sauces and dairy-type products, although it is less common than sodium alginate.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E404",
+    "name": "Calcium alginate",
+    "text": "Calcium alginate is the calcium salt of alginic acid from brown seaweed. Unlike the sodium salt it does not dissolve in water, but it forms firm gels and films.\n\nIt is used as a thickener, stabiliser and gelling agent, for example in desserts, restructured meat and fruit products, and in sausage casings.\n\nIt is approved in the EU for jams and jellies, meat preparations, desserts and puddings, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E405",
+    "name": "Propylene glycol alginate",
+    "text": "Propylene glycol alginate (propane-1,2-diol alginate) is a semi-synthetic derivative of alginic acid, made by reacting seaweed alginate with propylene oxide. It is stable in acidic liquids, where plain alginates tend to precipitate.\n\nIt is used as a thickener, stabiliser and emulsifier, notably in salad dressings, sauces, acidic drinks and beer foam stabilisation.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+  },
+  {
+    "code": "E406",
+    "name": "Agar",
+    "text": "Agar is a gelling substance extracted from red seaweeds. It dissolves in hot water and sets into a firm gel on cooling, and it is widely used as a plant-based alternative to gelatin.\n\nIt is used in jellies, desserts, confectionery, dairy products and bakery fillings, and also in microbiology media.\n\nIt is approved in the EU for jams and jellies, tablets and fermented creams, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E407",
+    "name": "Carrageenan",
+    "text": "Carrageenan is a group of polysaccharides extracted from red seaweeds. It thickens and gels liquids and reacts with milk proteins to stabilise them.\n\nIt is used in dairy products, chocolate milk, ice cream, desserts, processed meats and plant-based milks.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US. Some people have raised concerns about degraded carrageenan, but regulators have approved the food-grade form."
+  },
+  {
+    "code": "E407a",
+    "name": "Processed eucheuma seaweed",
+    "text": "Processed eucheuma seaweed is made by washing and treating red seaweed of the Eucheuma family without extracting the carrageenan, so it keeps some of the seaweed's other components. It is a less refined relative of carrageenan.\n\nIt is used as a thickener, stabiliser and gelling agent, mainly in meat products.\n\nIt is approved in the EU for meat preparations only, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E408",
+    "name": "Baker's yeast glycan",
+    "text": "Baker's yeast glycan is a polysaccharide fraction obtained from the cell walls of baker's yeast. It is a rarely used additive with an emulsifying function.\n\nIn the US it may be used in salad dressing, frozen yogurt, sour cream, cheese spread and their analogs.\n\nIt is not approved in the EU or the UK, and it is approved in the US for the products listed above."
+  },
+  {
+    "code": "E409",
+    "name": "Arabinogalactan",
+    "text": "Arabinogalactan is a complex polysaccharide of plant origin, commonly obtained from larch wood. It dissolves easily in water and has low viscosity.\n\nIt is a little-used additive, generally used as a stabiliser or binder, and also appears in some dietary fibre supplements.\n\nIt is not approved in the EU or the UK, and it is approved in the US."
+  },
+  {
+    "code": "E410",
+    "name": "Locust bean gum",
+    "text": "Locust bean gum, also called carob gum, is a polysaccharide extracted from the seeds of the carob tree. It thickens cold and hot liquids and gels in combination with xanthan or carrageenan.\n\nIt is used in ice cream, dairy desserts, cream cheese, sauces and bakery fillings, and as a stabiliser and emulsifier.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E411",
+    "name": "Oat gum",
+    "text": "Oat gum is a soluble fibre extract from oats, composed mainly of beta-glucans. It is a rarely used thickener and stabiliser.\n\nWhere it is allowed, it may be added to foods to increase viscosity and improve texture.\n\nIt is not approved in the EU or the UK, and it is approved in the US."
+  },
+  {
+    "code": "E412",
+    "name": "Guar gum",
+    "text": "Guar gum is a polysaccharide obtained from the seeds of the guar plant, grown mainly in India and Pakistan. It thickens cold liquids very efficiently.\n\nIt is used as a thickener and stabiliser in sauces, dressings, ice cream, bakery products, dairy products and gluten-free baking.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US. Contamination of guar gum with dioxin led to a recall in the EU in 2007."
+  },
+  {
+    "code": "E413",
+    "name": "Tragacanth",
+    "text": "Tragacanth is a natural gum obtained from the dried sap of Astragalus shrubs growing in the Middle East. It is one of the oldest gums used by humans and gives viscous, acid-stable solutions.\n\nIt is used as a thickener, stabiliser and emulsifier in dressings, sauces, confectionery and icings.\n\nIt is approved in the EU in sweeteners and meat preparations, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E414",
+    "name": "Gum arabic",
+    "text": "Gum arabic, also called acacia gum, is the dried sap of Acacia trees, mainly from the Sahel region of Africa. It dissolves easily in water and is a very effective stabiliser.\n\nIt is used in soft drinks and drink emulsions, confectionery such as gum drops and pastilles, and in glazes and flavour encapsulation.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+  },
+  {
+    "code": "E415",
+    "name": "Xanthan gum",
+    "text": "Xanthan gum is a polysaccharide produced by fermenting sugars with the bacterium Xanthomonas campestris. It gives high viscosity at low concentrations and is stable to heat and acid.\n\nIt is used as a thickener and stabiliser in sauces, dressings, gluten-free baked goods, dairy products and drinks.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US. In large amounts it can have a laxative effect."
+  },
+  {
+    "code": "E416",
+    "name": "Karaya gum",
+    "text": "Karaya gum is a natural gum obtained from the sap of the Sterculia urens tree, native to India. It swells strongly in water and forms viscous dispersions.\n\nIt is used as a thickener, stabiliser and emulsifier in small quantities, for example in some desserts and bakery products, and it is also used in denture adhesives.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E417",
+    "name": "Tara gum",
+    "text": "Tara gum is a polysaccharide extracted from the seeds of the tara shrub, grown mainly in Peru. Its thickening power lies between that of guar gum and locust bean gum.\n\nIt is used as a thickener and stabiliser in dairy products, ice cream, sauces and similar foods.\n\nIt is approved in the EU and the UK, and not approved in the US."
+  },
+  {
+    "code": "E418",
+    "name": "Gellan gum",
+    "text": "Gellan gum is a polysaccharide produced by fermentation with the bacterium Sphingomonas elodea. It forms clear, heat-stable gels at very low concentrations.\n\nIt is used as a gelling agent, thickener and stabiliser in jellies, fruit preparations, dairy and plant-based drinks, where it keeps particles suspended.\n\nIt is approved in the EU in jams, jellies and sweeteners, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E419",
+    "name": "Gum ghatti",
+    "text": "Gum ghatti is a natural gum obtained from the sap of the Anogeissus latifolia tree, which grows in India and Sri Lanka. It works as an emulsifier and stabiliser, somewhat like gum arabic.\n\nIt is used in some beverage emulsions and similar products where it is permitted.\n\nIt is not approved in the EU or the UK, and it is approved in the US."
+  },
+  {
+    "code": "E420",
+    "name": "Sorbitol",
+    "text": "Sorbitol is a sugar alcohol (polyol) made industrially by hydrogenating glucose; it also occurs naturally in some fruits. It is about half as sweet as sugar and has fewer calories per gram.\n\nIt is used as a sweetener, humectant (to keep foods moist) and bulking agent in sugar-free sweets, chewing gum, baked goods and diabetic products.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions. In large amounts it can have a laxative effect, and the EU requires a warning on products that could cause this."
+  },
+  {
+    "code": "E421",
+    "name": "Mannitol",
+    "text": "Mannitol is a sugar alcohol found naturally in seaweed, mushrooms and some plants, and also produced industrially by hydrogenating sugars. It is about half as sweet as sugar and does not absorb moisture easily.\n\nIt is used as a sweetener and anti-caking agent, for example as a dusting powder on chewing gum and in sugar-free confectionery.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions. Large amounts can have a laxative effect."
+  },
+  {
+    "code": "E422",
+    "name": "Glycerol",
+    "text": "Glycerol (glycerine) is a clear, sweet-tasting syrupy liquid. It is a by-product of fat and oil processing and can also be made from plant oils or synthetically.\n\nIn food it is used as a humectant, solvent and sweetener, and it keeps products such as cakes, icings, confectionery and soft cookies moist.\n\nIt is approved in the EU in sweeteners and cocoa products, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E423",
+    "name": "Octenyl succinic acid modified gum arabic",
+    "text": "This additive is gum arabic that has been chemically modified with octenyl succinic acid, which makes it a better emulsifier than plain gum arabic, especially for oil-in-water emulsions.\n\nIt is used to stabilise flavour emulsions in drinks, sauces and icings.\n\nIt is approved in the EU in icing, sauces and certain flavoured drinks, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E424",
+    "name": "Curdlan",
+    "text": "Curdlan is a polysaccharide made by fermentation with the bacterium Agrobacterium (Alcaligenes faecalis). On heating in water it forms firm, heat-stable gels.\n\nIt is used as a gelling agent, mainly in noodles, tofu-like products and processed meat and fish products, especially in Asian cuisine.\n\nIt is approved in the EU with conditions, not approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E425",
+    "name": "Konjac",
+    "text": "Konjac is obtained from the tuber of the konjac plant (Amorphophallus konjac) and consists mainly of glucomannan, a soluble dietary fibre. It forms very viscous solutions and elastic gels.\n\nIt is used as a thickener and gelling agent and in Asian noodles and jellies. Konjac jelly sweets in mini-cup form have caused choking deaths, so they are banned in the EU.\n\nIt is approved in the EU with conditions, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E426",
+    "name": "Soybean hemicellulose",
+    "text": "Soybean hemicellulose is a water-soluble polysaccharide extracted from the fibre of soybeans. It works as a stabiliser and emulsifier, particularly in acidic drinks that contain protein.\n\nIt is approved in the EU in jelly, frozen egg products and liquid food supplements, and it is not approved in the UK. In the US, soybean is approved, but hemicellulose has no specific record in the FDA database."
+  },
+  {
+    "code": "E427",
+    "name": "Cassia gum",
+    "text": "Cassia gum is a galactomannan polysaccharide extracted from the seeds of Cassia tora and Cassia obtusifolia. It thickens and stabilises liquids, and it forms gels together with other gums such as xanthan.\n\nIt is used in processed cheese, dairy desserts, ice cream and some pet foods.\n\nIt is approved in the EU with conditions, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E428",
+    "name": "Gelatin",
+    "text": "Gelatin is a protein obtained by partial hydrolysis of collagen from the skin and bones of animals, usually pigs and cattle. It dissolves in hot water and sets into a clear gel when cooled.\n\nIt is used in jellies, gummy sweets, marshmallows, desserts, yogurts and capsules. It is not suitable for vegetarians or for those following halal or kosher rules in some cases.\n\nIt is not listed in the EU and UK as it is not considered an additive, and it is approved in the US."
+  },
+  {
+    "code": "E429",
+    "name": "Peptones",
+    "text": "Peptones are mixtures of short protein fragments produced by breaking down animal or plant proteins with enzymes or acids. Their main use is as nutrient components in culture media.\n\nThey are not approved in the EU or the UK, and they are approved in the US."
+  },
+  {
+    "code": "E430",
+    "name": "Polyoxyethylene (8) stearate",
+    "text": "Polyoxyethylene (8) stearate is a synthetic emulsifier made by combining stearic acid with polyethylene glycol. It was formerly used in bakery products to keep them soft.\n\nIt is not approved in the EU, UK or US, so it is not in current use in those regions."
+  },
+  {
+    "code": "E431",
+    "name": "Polyoxyethylene (40) stearate",
+    "text": "Polyoxyethylene (40) stearate is a synthetic emulsifier made from stearic acid and polyethylene glycol. It has historically been used to improve the texture of bakery goods.\n\nIt is approved in the EU, not approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E432",
+    "name": "Polysorbate 20",
+    "text": "Polysorbate 20 (polyoxyethylene sorbitan monolaurate) is a synthetic emulsifier made from sorbitol, lauric acid and ethylene oxide. It helps oil and water mix and disperses flavours.\n\nIt is used in small amounts in sauces, dressings, desserts, flavour preparations and some drinks.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+  },
+  {
+    "code": "E433",
+    "name": "Polysorbate 80",
+    "text": "Polysorbate 80 (polyoxyethylene sorbitan mono-oleate) is a synthetic emulsifier made from sorbitol, oleic acid and ethylene oxide. It stabilises mixtures of oil and water.\n\nIt is used in ice cream, sauces, dressings, desserts and vitamin and flavour preparations, and also in pharmaceuticals and cosmetics.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+  },
+  {
+    "code": "E434",
+    "name": "Polysorbate 40",
+    "text": "Polysorbate 40 (polyoxyethylene sorbitan monopalmitate) is a synthetic emulsifier made from sorbitol, palmitic acid and ethylene oxide. It is used to mix oil and water and to stabilise foams and emulsions.\n\nIt is used in small amounts in bakery fillings, whipped toppings, desserts and similar products.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+  },
+  {
+    "code": "E435",
+    "name": "Polysorbate 60",
+    "text": "Polysorbate 60 (polyoxyethylene sorbitan monostearate) is a synthetic emulsifier made from sorbitol, stearic acid and ethylene oxide. It helps oil and water stay mixed and improves the texture of fatty foods.\n\nIt is used in whipped toppings, cake mixes, icings, dressings and ice cream.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+  },
+  {
+    "code": "E436",
+    "name": "Polysorbate 65",
+    "text": "Polysorbate 65 (polyoxyethylene sorbitan tristearate) is a synthetic emulsifier made from sorbitol, stearic acid and ethylene oxide. It stabilises emulsions and foams.\n\nIt is used in small amounts in ice cream, desserts and whipped toppings.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E440",
+    "name": "Pectin",
+    "text": "Pectin is a polysaccharide found in the cell walls of fruit and extracted commercially, mostly from citrus peel and apple pomace. Amidated pectin is a modified form with improved gelling in some conditions.\n\nIt is the classic gelling agent for jams and marmalades, and it is also used as a thickener and stabiliser in fruit fillings, confectionery and dairy desserts.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E441",
+    "name": "Gelatine",
+    "text": "Gelatine is a protein obtained by partial hydrolysis of animal collagen, mainly from pig skin, cattle hides and bones. It forms a clear gel when its hot solution is cooled.\n\nIt is used in jellies, gummy sweets, marshmallows, desserts and dairy products. It is of animal origin, so it is unsuitable for vegetarians and vegans.\n\nIt is not listed in the EU and UK as it is not considered an additive, and it is approved in the US."
+  },
+  {
+    "code": "E442",
+    "name": "Ammonium phosphatides",
+    "text": "Ammonium phosphatides are emulsifiers made from glycerol, fatty acids and phosphoric acid, with ammonium salts of phosphated fatty acids; they are produced synthetically from vegetable oils, often rapeseed oil.\n\nThey are used mainly in chocolate and cocoa products, where they reduce viscosity.\n\nThey are approved in the EU in cocoa and chocolate products only, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E443",
+    "name": "Brominated vegetable oil",
+    "text": "Brominated vegetable oil is a vegetable oil chemically modified with bromine. It was used in some citrus-flavoured soft drinks to keep flavour oils evenly dispersed.\n\nBromine can accumulate in the body, and the use of the additive was restricted or withdrawn in several countries.\n\nIt is not approved in the EU, UK or US."
+  },
+  {
+    "code": "E444",
+    "name": "Sucrose acetate isobutyrate",
+    "text": "Sucrose acetate isobutyrate is a synthetic, thick, honey-like substance made from sucrose, acetic acid and isobutyric acid. It is very dense and is used to keep flavour oils from floating in drinks.\n\nIt is used in cloudy beverages.\n\nIt is approved in the EU for certain cloudy beverages, approved in the UK, and approved in the US for non-alcoholic beverages."
+  },
+  {
+    "code": "E445",
+    "name": "Glycerol esters of wood rosins",
+    "text": "Glycerol esters of wood rosins, also called ester gum, are made by reacting glycerol with resin acids from pine wood. They are dense substances that help keep flavour oils evenly distributed in drinks.\n\nThey are used in cloudy drinks and as a coating on citrus fruit.\n\nThey are approved in the EU for certain cloudy beverages and surface treatment of citrus fruit, approved in the UK, and approved in the US for certain beverages."
+  },
+  {
+    "code": "E446",
+    "name": "Succistearin",
+    "text": "Succistearin, also known as stearoyl propylene glycol hydrogen succinate, is a synthetic emulsifier related to fatty acid esters. It is little used.\n\nIt can be added to cakes, pastries, fillings and toppings in the US.\n\nIt is not approved in the EU or the UK, and it is approved in the US for cakes, pastries, filling and toppings."
+  },
+  {
+    "code": "E450",
+    "name": "Diphosphates",
+    "text": "Diphosphates (pyrophosphates) are sodium, potassium, calcium and magnesium salts of diphosphoric acid. They are made industrially from phosphoric acid and the corresponding mineral compounds.\n\nThey are used as emulsifiers, raising agents and stabilisers, for example in baking powder, processed cheese, processed meat, and as a way to prevent discolouration of potatoes.\n\nThey are approved in the EU with conditions and approved in the UK. In the US, approval covers the forms numbered i, iii, iv, v and vi. Because they add phosphorus to the diet, total phosphate intake is regulated."
+  },
+  {
+    "code": "E451",
+    "name": "Triphosphates",
+    "text": "Triphosphates are sodium and potassium salts of triphosphoric acid: sodium triphosphate (pentasodium triphosphate) and pentapotassium triphosphate. They are made industrially from phosphoric acid.\n\nThey hold water in meat and fish, stabilise emulsions and act as sequestrants in processed foods.\n\nThey are approved in the EU in certain fish products, approved in the UK, and approved in the US. Phosphate additives add to total dietary phosphorus intake."
+  },
+  {
+    "code": "E452",
+    "name": "Polyphosphates",
+    "text": "Polyphosphates are salts of long-chain phosphoric acids: sodium, potassium, sodium calcium, calcium and ammonium polyphosphates. They are made industrially from phosphoric acid.\n\nThey bind water and metals, so they are used in processed meat, fish products, processed cheese and some drinks as emulsifiers and stabilisers.\n\nThey are approved in the EU in certain fish products, approved in the UK, and approved in the US for the sodium and potassium forms (i and ii)."
+  },
+  {
+    "code": "E459",
+    "name": "Beta-cyclodextrin",
+    "text": "Beta-cyclodextrin is a ring-shaped oligosaccharide of seven glucose units, made enzymatically from starch. Its ring can enclose small molecules such as flavours and vitamins.\n\nIt is used to bind flavours, to stabilise them in powders, and as a carrier or binder in tablets.\n\nIt is approved in the EU for flavoured powdered instant drinks and foods in tablet form, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E460",
+    "name": "Cellulose",
+    "text": "Cellulose is the main structural component of plant cell walls and is obtained mostly from wood pulp or cotton. Microcrystalline cellulose is a purified, partly broken-down form; powdered cellulose is a finely ground form.\n\nBoth are indigestible fibre and are used as bulking agents, anti-caking agents and texture improvers in grated cheese, low-fat products, baked goods and tablets.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E461",
+    "name": "Methyl cellulose",
+    "text": "Methyl cellulose is made by chemically modifying cellulose with methyl groups. It dissolves in cold water and, unusually, forms a gel when heated.\n\nIt is used as a thickener, emulsifier and binder in vegetarian meat substitutes, batters, sauces and gluten-free baking. It is not digested and acts like dietary fibre.\n\nIt is approved in the EU in sweeteners, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E462",
+    "name": "Ethyl cellulose",
+    "text": "Ethyl cellulose is a cellulose derivative made by treating cellulose with ethyl groups. It is insoluble in water but dissolves in some organic solvents, and it forms films.\n\nIt is used as a binder and filler in tablets and as a coating or encapsulation material.\n\nIt is approved in the EU, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E463",
+    "name": "Hydroxypropyl cellulose",
+    "text": "Hydroxypropyl cellulose is a cellulose derivative made by treating cellulose with propylene oxide. It dissolves in water and many solvents and forms films.\n\nIt is used as an emulsifier, thickener and stabiliser, for example in whipped toppings and in tablets and coatings.\n\nIt is approved in the EU in sweeteners, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E463a",
+    "name": "Low-substituted hydroxypropyl cellulose",
+    "text": "Low-substituted hydroxypropyl cellulose (L-HPC) is a cellulose derivative with a small amount of hydroxypropyl groups. It is insoluble in water but swells strongly, which makes it useful as a tablet disintegrant and binder.\n\nIt is approved in the EU, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E464",
+    "name": "Hypromellose",
+    "text": "Hypromellose (hydroxypropyl methylcellulose) is a cellulose derivative made by treating cellulose with methyl chloride and propylene oxide. It dissolves in water and forms films and gels.\n\nIt is used as a thickener, emulsifier and film former, in vegetarian capsules, coatings, sauces and gluten-free baking.\n\nIt is approved in the EU in sweeteners, citrus fruit, melons and pomegranates, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E465",
+    "name": "Ethyl methyl cellulose",
+    "text": "Ethyl methyl cellulose is a cellulose derivative carrying both ethyl and methyl groups. It is used as a foaming agent, emulsifier and stabiliser, for example in whipped products.\n\nIt is approved in the EU in sweeteners, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E466",
+    "name": "Carboxymethyl cellulose",
+    "text": "Carboxymethyl cellulose (CMC, cellulose gum) is made by treating cellulose with chloroacetic acid. Its sodium salt dissolves in water to form clear, viscous solutions.\n\nIt is used as a thickener and stabiliser in ice cream, sauces, dressings, drinks, low-fat foods and baked goods.\n\nIt is approved in the EU with conditions and approved in the UK. It is not approved in the US."
+  },
+  {
+    "code": "E467",
+    "name": "Ethyl hydroxyethyl cellulose",
+    "text": "Ethyl hydroxyethyl cellulose is a cellulose ether, a chemically modified form of cellulose. It is mainly known for industrial uses such as paints and adhesives.\n\nIt is not approved in the EU, UK or US."
+  },
+  {
+    "code": "E468",
+    "name": "Croscarmellose",
+    "text": "Croscarmellose is cross-linked sodium carboxymethyl cellulose. It does not dissolve in water but swells strongly, which is why it is mainly used as a disintegrant in tablets and food supplements.\n\nIt is approved in the EU for sweeteners and supplements, and the additive is under discussion for a future amendment of the EU directive. It is approved in the UK and not approved in the US."
+  },
+  {
+    "code": "E469",
+    "name": "Enzymically hydrolysed carboxymethylcellulose",
+    "text": "Enzymically hydrolysed carboxymethylcellulose is carboxymethyl cellulose that has been partly broken down by enzymes, giving a lower-viscosity product that works as a source of soluble fibre and stabiliser.\n\nIt is approved in the EU, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E470a",
+    "name": "Salts of fatty acids (sodium, potassium, calcium)",
+    "text": "These are the sodium, potassium and calcium salts of edible fatty acids, which are essentially soaps made from food fats. They are made by treating fats or fatty acids with the corresponding alkali.\n\nThey are used as emulsifiers and anti-caking agents, for example to keep powders free-flowing.\n\nThey are approved in the EU for sweeteners and dried herbs and spices, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E470b",
+    "name": "Magnesium salts of fatty acids",
+    "text": "Magnesium salts of fatty acids, such as magnesium stearate, are made by combining edible fatty acids with magnesium. They are fine powders that repel water.\n\nThey are used as anti-caking agents and emulsifiers, and widely as a lubricant in making tablets.\n\nThey are approved in the EU for sweeteners, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E471",
+    "name": "Mono- and diglycerides of fatty acids",
+    "text": "Mono- and diglycerides of fatty acids are esters of glycerol and fatty acids, made from vegetable oils or animal fats. They are among the most widely used emulsifiers.\n\nThey are used in bread, cakes, margarine, ice cream, sweets, and spreads to improve texture and keep products soft. The source can be plant or animal, which matters to vegetarians.\n\nThey are approved in the EU for certain foods, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E472a",
+    "name": "Acetic acid esters of mono- and diglycerides",
+    "text": "This emulsifier is made by reacting mono- and diglycerides of fatty acids with acetic acid. It helps whip and stabilise fat-containing foods.\n\nIt is used in whipped toppings, baked goods, and coatings for fruit.\n\nIt is approved in the EU for certain foods, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E472b",
+    "name": "Lactic acid esters of mono- and diglycerides",
+    "text": "This emulsifier is made by reacting mono- and diglycerides of fatty acids with lactic acid. It improves aeration and stability.\n\nIt is used in whipped toppings, baked goods and baby food.\n\nIt is approved in the EU for biscuits and rusks, cereal-based foods and baby foods, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E472c",
+    "name": "Citric acid esters of mono- and diglycerides",
+    "text": "This emulsifier is made by reacting mono- and diglycerides of fatty acids with citric acid. It blends well with both fats and water.\n\nIt is used in margarine, bakery products, sauces, infant formula and processed meats.\n\nIt is approved in the EU for certain foods, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E472d",
+    "name": "Tartaric acid esters of mono- and diglycerides",
+    "text": "This emulsifier is made by reacting mono- and diglycerides of fatty acids with tartaric acid. It is rarely used on its own.\n\nIt can improve dough in bread-making.\n\nIt is approved in the EU for bread, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E472e",
+    "name": "Diacetyl tartaric acid esters of mono- and diglycerides",
+    "text": "This emulsifier, often abbreviated DATEM, is made by reacting mono- and diglycerides of fatty acids with diacetyl tartaric acid. It strengthens dough and increases bread volume.\n\nIt is used in bread, rolls and other yeast-raised baked goods.\n\nIt is approved in the EU for bread, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E472f",
+    "name": "Mixed acetic and tartaric acid esters of mono- and diglycerides",
+    "text": "This emulsifier is made by reacting mono- and diglycerides of fatty acids with a mixture of acetic and tartaric acids. It is used as a dough conditioner.\n\nIt is approved in the EU for bread, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E472g",
+    "name": "Succinylated monoglycerides",
+    "text": "Succinylated monoglycerides are made by reacting monoglycerides of fatty acids with succinic acid. They are dough strengtheners that improve bread volume and texture.\n\nThey are not approved in the EU or the UK, and they are approved in the US in bread."
+  },
+  {
+    "code": "E473",
+    "name": "Sucrose esters of fatty acids",
+    "text": "Sucrose esters of fatty acids are made by combining sugar with fatty acids from edible oils. Depending on the composition, they can emulsify oil in water or the reverse.\n\nThey are used in baked goods, confectionery, ice cream, drinks and dairy desserts, and as coatings for fruit.\n\nThey are approved in the EU for certain foods, approved in the UK, and approved in the US for certain foods."
+  },
+  {
+    "code": "E474",
+    "name": "Sucroglycerides",
+    "text": "Sucroglycerides are mixtures of sucrose esters and mono- and diglycerides of fatty acids, made by reacting sugar with fats or oils. They are emulsifiers.\n\nThey are used in a range of foods such as baked goods and confectionery.\n\nThey are approved in the EU for certain foods, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E475",
+    "name": "Polyglycerol esters of fatty acids",
+    "text": "Polyglycerol esters of fatty acids are made by combining polymerised glycerol with fatty acids from edible oils. They are versatile emulsifiers.\n\nThey are used in cakes, whipped toppings, margarine, confectionery and ice cream to stabilise emulsions and foams.\n\nThey are approved in the EU for certain foods, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E476",
+    "name": "Polyglycerol polyricinoleate",
+    "text": "Polyglycerol polyricinoleate (PGPR) is an emulsifier made from polyglycerol and castor oil fatty acids. It strongly reduces the viscosity of molten chocolate.\n\nIt is used in chocolate, chocolate coatings, spreads and low-fat spreads, which lets manufacturers use less cocoa butter.\n\nIt is approved in the EU for certain foods, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E477",
+    "name": "Propylene glycol esters of fatty acids",
+    "text": "Propylene glycol esters of fatty acids (propane-1,2-diol esters) are made by reacting propylene glycol with fatty acids from edible oils. They are emulsifiers, often used to stabilise aerated foods.\n\nThey are used in cake mixes, whipped toppings and dessert products.\n\nThey are approved in the EU for certain foods, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E478",
+    "name": "Lactylated fatty acid esters of glycerol and propane-1,2-diol",
+    "text": "This emulsifier is made by reacting glycerol and propylene glycol (propane-1,2-diol) with fatty acids and lactic acid. It is used to stabilise foams and emulsions.\n\nIt is not approved in the EU or the UK, and it is approved in the US."
+  },
+  {
+    "code": "E479b",
+    "name": "Thermally oxidized soya bean oil with mono- and diglycerides",
+    "text": "This emulsifier is made by heating soya bean oil in air and then reacting it with mono- and diglycerides of fatty acids. It helps prevent fat from spattering when food is fried.\n\nIt is used in fat emulsions such as frying margarine.\n\nIt is approved in the EU for fat emulsions only, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E480",
+    "name": "Dioctyl sodium sulfosuccinate",
+    "text": "Dioctyl sodium sulfosuccinate (docusate sodium) is a synthetic surfactant. It is also well known as a stool-softening laxative in medicine, and it is used as a wetting agent in some foods.\n\nIt is not approved in the EU or the UK, and it is approved in the US."
+  },
+  {
+    "code": "E481",
+    "name": "Sodium stearoyl-2-lactylate",
+    "text": "Sodium stearoyl-2-lactylate is made from stearic acid and lactic acid, neutralised with sodium. It strengthens dough and improves the softness and volume of baked goods.\n\nIt is used in bread, cakes, dried potato products, sauces and creamers.\n\nIt is approved in the EU for certain foods, approved in the UK, and approved in the US for certain foods."
+  },
+  {
+    "code": "E482",
+    "name": "Calcium stearoyl-2-lactylate",
+    "text": "Calcium stearoyl-2-lactylate is made from stearic acid and lactic acid, neutralised with calcium. It works as a dough conditioner and emulsifier, similar to the sodium salt.\n\nIt is used in bread, bakery products, whipped toppings and creamers.\n\nIt is approved in the EU for certain foods, approved in the UK, and approved in the US for certain foods."
+  },
+  {
+    "code": "E483",
+    "name": "Stearyl tartrate",
+    "text": "Stearyl tartrate is an ester of stearyl alcohol and tartaric acid. It is a little-used emulsifier and dough conditioner.\n\nIt is approved in the EU, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E484",
+    "name": "Stearyl citrate",
+    "text": "Stearyl citrate is an ester of stearyl alcohol and citric acid. It is a little-used emulsifier that can also bind traces of metals.\n\nIt is not approved in the EU or the UK, and it is approved in the US for certain foods."
+  },
+  {
+    "code": "E485",
+    "name": "Sodium stearoyl fumarate",
+    "text": "Sodium stearoyl fumarate is a synthetic emulsifier made from stearic acid and fumaric acid. It has been used as a dough conditioner.\n\nIt is not approved in the EU, UK or US."
+  },
+  {
+    "code": "E486",
+    "name": "Calcium stearoyl fumarate",
+    "text": "Calcium stearoyl fumarate is a synthetic emulsifier made from stearic acid and fumaric acid, the calcium counterpart of E485.\n\nIt is not approved in the EU, UK or US."
+  },
+  {
+    "code": "E487",
+    "name": "Sodium laurylsulfate",
+    "text": "Sodium laurylsulfate (sodium lauryl sulfate) is a synthetic surfactant, better known as a detergent in toothpaste and shampoos. In food it has been used as a whipping and foaming agent, for example in egg whites.\n\nIt is not approved in the EU or the UK, and it is approved in the US."
+  },
+  {
+    "code": "E488",
+    "name": "Ethoxylated mono- and diglycerides",
+    "text": "Ethoxylated mono- and diglycerides (polyglycerate 60) are emulsifiers made by reacting mono- and diglycerides of fatty acids with ethylene oxide. They help fat and water mix.\n\nThey are not approved in the EU or the UK, and they are approved in the US for certain foods."
+  },
+  {
+    "code": "E489",
+    "name": "Methyl glucoside-coconut oil ester",
+    "text": "Methyl glucoside-coconut oil ester is an emulsifier made from sugar-derived methyl glucoside and coconut oil fatty acids. It is a little-used additive.\n\nIt is not approved in the EU or the UK, and it is approved in the US for molasses and dextrose or sucrose."
+  },
+  {
+    "code": "E490",
+    "name": "Propane-1,2-diol",
+    "text": "Propane-1,2-diol, better known as propylene glycol, is a clear, colourless, slightly sweet liquid made synthetically from petroleum-derived propylene oxide. It mixes with water and many solvents.\n\nIt is used as a solvent for flavours and colours and as a humectant. It is not the same as the toxic ethylene glycol.\n\nIt is not approved in the EU or the UK, and it is approved in the US for certain foods."
+  },
+  {
+    "code": "E491",
+    "name": "Sorbitan monostearate",
+    "text": "Sorbitan monostearate is an emulsifier made by combining sorbitol with stearic acid. It helps oil and water mix and keeps fats evenly dispersed.\n\nIt is used in cakes, whipped toppings, chocolate, dry yeast and some fat-containing foods.\n\nIt is approved in the EU for certain foods, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E492",
+    "name": "Sorbitan tristearate",
+    "text": "Sorbitan tristearate is an emulsifier made by combining sorbitol with stearic acid. It is used to control crystallisation of fats and to stabilise emulsions.\n\nIt can be found in chocolate and fat-based products.\n\nIt is approved in the EU for certain foods, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E493",
+    "name": "Sorbitan monolaurate",
+    "text": "Sorbitan monolaurate is an emulsifier made by combining sorbitol with lauric acid. It helps oil and water stay mixed.\n\nIt is used in small amounts in baked goods, whipped toppings and similar products.\n\nIt is approved in the EU for certain foods, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E494",
+    "name": "Sorbitan monooleate",
+    "text": "Sorbitan monooleate is an emulsifier made by combining sorbitol with oleic acid. It is oil-soluble and used to stabilise emulsions.\n\nIt is used in small amounts in desserts, whipped products and vitamin preparations.\n\nIt is approved in the EU for certain foods, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E495",
+    "name": "Sorbitan monopalmitate",
+    "text": "Sorbitan monopalmitate is an emulsifier made by combining sorbitol with palmitic acid. It is used to disperse fats and stabilise emulsions.\n\nIt is approved in the EU for certain foods, approved in the UK, and not approved in the US."
+  },
+  {
+    "code": "E496",
+    "name": "Sorbitan trioleate",
+    "text": "Sorbitan trioleate is an emulsifier made by combining sorbitol with oleic acid. It is one of the less common sorbitan esters.\n\nIt is not approved in the EU, UK or US."
+  },
+  {
+    "code": "E497",
+    "name": "Polyoxypropylene-polyoxyethylene polymers",
+    "text": "These are synthetic block polymers of propylene oxide and ethylene oxide, which act as surfactants. They are sometimes called poloxamers.\n\nThey are not approved in the EU or the UK, and they are approved in the US."
+  },
+  {
+    "code": "E498",
+    "name": "Partial polyglycerol esters of polycondensed fatty acids of castor oil",
+    "text": "These are emulsifiers made from polyglycerol and fatty acids from castor oil that have been polymerised. They are closely related to polyglycerol polyricinoleate (E476).\n\nThey are not approved in the EU, UK or US."
+  },
+  {
+    "code": "E499",
+    "name": "Stigmasterol-rich plant sterols",
+    "text": "Stigmasterol-rich plant sterols are mixtures of sterols extracted from plants, containing a high proportion of stigmasterol. They are used in foods as a stabiliser or emulsifier-type additive.\n\nThey are approved in the EU for ready-to-freeze alcoholic cocktails, approved in the UK, and not approved in the US."
+  }
+]

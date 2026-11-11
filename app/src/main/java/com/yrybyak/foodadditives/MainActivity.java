@@ -19,7 +19,7 @@ public class MainActivity extends BaseActivity {
 
         List<String> labels = new ArrayList<>();
         for (Category category : Category.ALL) {
-            labels.add(getString(category.label));
+            labels.add(getString(R.string.category_label, category.range, getString(category.title)));
         }
         RecyclerView list = findViewById(R.id.content);
         list.setAdapter(new RowAdapter(labels, position ->

@@ -1,0 +1,302 @@
+[
+  {
+    "code": "E200",
+    "name": "Sorbic acid",
+    "text": "Sorbic acid is an organic acid first isolated from rowan berries; the form used in food today is made synthetically. It slows the growth of moulds and yeasts and works best in mildly acidic foods.\n\nIt is used in cheese, baked goods, wine, dried fruit, margarine, sauces and soft drinks.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US. It is generally regarded as one of the better-tolerated preservatives."
+  },
+  {
+    "code": "E201",
+    "name": "Sodium sorbate",
+    "text": "Sodium sorbate is the sodium salt of sorbic acid, a synthetic preservative that is more soluble in water than the acid itself. Like other sorbates, it inhibits the growth of moulds and yeasts.\n\nIt has seen little use in food compared with potassium sorbate, which has largely taken its place in most products.\n\nRegulatory status: not approved in the EU and UK. In the US it is approved for food packaging as an antimicrobial agent; no general food use is recorded there."
+  },
+  {
+    "code": "E202",
+    "name": "Potassium sorbate",
+    "text": "Potassium sorbate is the potassium salt of sorbic acid and is made synthetically. It is the most widely used form of sorbate because it dissolves easily in water and stops moulds and yeasts from growing.\n\nTypical uses include cheese, wine, baked goods, dried fruit, jams, sauces, soft drinks and processed meats.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US. At permitted levels it is considered to have low toxicity."
+  },
+  {
+    "code": "E203",
+    "name": "Calcium sorbate",
+    "text": "Calcium sorbate is the calcium salt of sorbic acid, a synthetic preservative that acts against moulds and yeasts. It is rarely used in practice, since potassium sorbate dissolves better and is easier to handle.\n\nIt was used in some cheeses and baked goods, but it is now an obscure additive.\n\nRegulatory status: not approved in the EU and UK from 2018. It is approved in the US."
+  },
+  {
+    "code": "E209",
+    "name": "Heptylparaben",
+    "text": "Heptylparaben is the heptyl ester of p-hydroxybenzoic acid, a synthetic member of the paraben family of preservatives. It acts against moulds, yeasts and some bacteria.\n\nIt is an uncommon additive, associated mainly with certain beverages such as beer, and little else is documented about its food use.\n\nRegulatory status: not approved in the EU and UK. In the US it is approved for certain beverages."
+  },
+  {
+    "code": "E210",
+    "name": "Benzoic acid",
+    "text": "Benzoic acid occurs naturally in cranberries, plums and some spices, but the additive is made synthetically. It prevents the growth of yeasts, moulds and some bacteria, and is effective mainly in acidic foods.\n\nIt is used in soft drinks, fruit juices, pickles, sauces, jams and margarine.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US. Some people with asthma or sensitive skin may react to benzoates."
+  },
+  {
+    "code": "E211",
+    "name": "Sodium benzoate",
+    "text": "Sodium benzoate is the sodium salt of benzoic acid and is produced synthetically. It dissolves well in water and inhibits yeasts, moulds and some bacteria in acidic products.\n\nIt is common in soft drinks, fruit juices, pickles, salad dressings and sauces.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US. In the presence of ascorbic acid, small amounts of benzene can form in some drinks, so manufacturers take care in formulating them."
+  },
+  {
+    "code": "E212",
+    "name": "Potassium benzoate",
+    "text": "Potassium benzoate is the potassium salt of benzoic acid, made synthetically. It works like sodium benzoate against yeasts and moulds in acidic foods and is sometimes chosen when less sodium is wanted.\n\nIt is used in drinks, sauces, pickles and similar products.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved for food packaging as an antimicrobial agent."
+  },
+  {
+    "code": "E213",
+    "name": "Calcium benzoate",
+    "text": "Calcium benzoate is the calcium salt of benzoic acid, a synthetic preservative that acts against yeasts and moulds in acidic foods. It is less soluble than sodium or potassium benzoate and so is used less often.\n\nIt may appear in some drinks and sauces.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved for food packaging as an antimicrobial agent."
+  },
+  {
+    "code": "E214",
+    "name": "Ethylparaben",
+    "text": "Ethylparaben is the ethyl ester of p-hydroxybenzoic acid, a synthetic paraben. Parabens stop the growth of moulds, yeasts and some bacteria across a wide range of acidity.\n\nIt has been used in sauces, confectionery, baked goods, dried meats and some drinks, though it is also common in cosmetics.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E215",
+    "name": "Sodium ethyl para-hydroxybenzoate",
+    "text": "Sodium ethyl para-hydroxybenzoate is the sodium salt of ethylparaben, made synthetically. Being water soluble, it is easier to dissolve in food than the parent ester, and it acts against moulds and yeasts.\n\nIt is a minor additive with limited use.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. It is not approved in the US."
+  },
+  {
+    "code": "E216",
+    "name": "Propylparaben",
+    "text": "Propylparaben is the propyl ester of p-hydroxybenzoic acid, a synthetic paraben that acts against moulds, yeasts and some bacteria. It is also widely used in cosmetics and medicines.\n\nIn food it has been used in baked goods, sauces, confectionery and some drinks.\n\nRegulatory status: not approved in the EU and UK. It is approved in the US."
+  },
+  {
+    "code": "E217",
+    "name": "Sodium propyl para-hydroxybenzoate",
+    "text": "Sodium propyl para-hydroxybenzoate is the water-soluble sodium salt of propylparaben, produced synthetically. It acts as a preservative against moulds and yeasts, in the same way as other parabens.\n\nIt is an obscure additive with little current food use, and little more is documented about it.\n\nRegulatory status: not approved in the EU, UK or US."
+  },
+  {
+    "code": "E218",
+    "name": "Methylparaben",
+    "text": "Methylparaben is the methyl ester of p-hydroxybenzoic acid. It also occurs in small amounts in some plants such as blueberries, but the additive is made synthetically. It inhibits moulds, yeasts and some bacteria.\n\nIt is used in baked goods, sauces, jams, confectionery and some drinks, and is also common in cosmetics.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E219",
+    "name": "Sodium methyl para-hydroxybenzoate",
+    "text": "Sodium methyl para-hydroxybenzoate is the sodium salt of methylparaben, made synthetically. It dissolves easily in water and acts as a preservative against moulds and yeasts.\n\nIt is a minor additive with limited use in food.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. It is not approved in the US."
+  },
+  {
+    "code": "E220",
+    "name": "Sulfur dioxide",
+    "text": "Sulfur dioxide is a pungent gas produced industrially, for example by burning sulfur. It prevents microbial growth and browning, and acts as an antioxidant.\n\nIt is widely used in wine, dried fruit, fruit juices, jams, and some processed potato products.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved except in meats, fresh fruit and vegetables, or food sources of vitamin B1. Sulfites can trigger reactions in some people with asthma, and the EU requires them to be declared on labels above a set level."
+  },
+  {
+    "code": "E221",
+    "name": "Sodium sulfite",
+    "text": "Sodium sulfite is a synthetic salt that releases sulfur dioxide in food. It prevents microbial spoilage and browning and acts as an antioxidant.\n\nIt is used in dried fruit, wine, juices and some processed foods.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved except in meats, fresh fruit and vegetables, or food sources of vitamin B1. Sulfites can cause reactions in sensitive people, notably some with asthma, and must be declared on labels in the EU."
+  },
+  {
+    "code": "E222",
+    "name": "Sodium bisulfite",
+    "text": "Sodium bisulfite, also called sodium hydrogen sulfite, is a synthetic sulfite salt that releases sulfur dioxide in food. It inhibits microbes and browning and acts as an antioxidant.\n\nIt is used in wine, dried fruit, juices and other processed foods.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved except in meats, fresh fruit and vegetables, or food sources of vitamin B1. Sulfites can cause reactions in sensitive people and must be declared on EU labels."
+  },
+  {
+    "code": "E223",
+    "name": "Sodium metabisulfite",
+    "text": "Sodium metabisulfite is a synthetic white powder that releases sulfur dioxide when dissolved. It is used as a preservative, antioxidant and anti-browning agent, and to sterilise winemaking equipment.\n\nTypical products include wine, dried fruit, juices, jams and some potato products.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved except in meats, fresh fruit and vegetables, or food sources of vitamin B1. Sulfites can trigger reactions in some asthmatics and must be declared on EU labels."
+  },
+  {
+    "code": "E224",
+    "name": "Potassium metabisulfite",
+    "text": "Potassium metabisulfite is a synthetic white crystalline salt that releases sulfur dioxide in solution. It acts as a preservative, antioxidant and anti-browning agent.\n\nIt is especially common in winemaking and cider, and is also used in dried fruit and some juices.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved except in meats, fresh fruit and vegetables, or food sources of vitamin B1. Sulfites can cause reactions in sensitive people and must be declared on EU labels."
+  },
+  {
+    "code": "E225",
+    "name": "Potassium sulfite",
+    "text": "Potassium sulfite is a synthetic salt that releases sulfur dioxide, which gives it preservative and antioxidant properties. It is chemically related to the other sulfites, E220 to E228.\n\nIt is little used in practice compared with potassium metabisulfite.\n\nRegulatory status: not approved in the EU and UK. It is approved in the US. As with other sulfites, sensitive people, particularly some with asthma, may react."
+  },
+  {
+    "code": "E226",
+    "name": "Calcium sulfite",
+    "text": "Calcium sulfite is a synthetic salt that releases sulfur dioxide. It acts as a preservative and antioxidant and is related to the other sulfites.\n\nIt has been used in some fruit products, and its calcium content can help keep fruit pieces firm.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US with conditions. Sulfites can cause reactions in sensitive people, notably some with asthma, and must be declared on EU labels."
+  },
+  {
+    "code": "E227",
+    "name": "Calcium bisulfite",
+    "text": "Calcium bisulfite, or calcium hydrogen sulfite, is a synthetic sulfite salt that releases sulfur dioxide. Like other sulfites, it is generally known as a preservative and antioxidant.\n\nIt is a minor additive.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. It is not approved in the US. Sulfites can cause reactions in sensitive people and must be declared on EU labels."
+  },
+  {
+    "code": "E228",
+    "name": "Potassium bisulfite",
+    "text": "Potassium bisulfite, or potassium hydrogen sulfite, is a synthetic salt that releases sulfur dioxide. It acts as a preservative and antioxidant and is used in winemaking and some other foods.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. In the US it is approved except in meats, fresh fruit and vegetables, or food sources of vitamin B1. Sulfites can cause reactions in sensitive people, particularly some with asthma, and must be declared on EU labels."
+  },
+  {
+    "code": "E230",
+    "name": "Biphenyl",
+    "text": "Biphenyl, also called diphenyl, is a synthetic aromatic hydrocarbon. It was used as a fungicide on the surface of citrus fruit during storage and transport.\n\nIt is not meant to be eaten, and only the treated peel is concerned. Citrus fruit treated this way was normally labelled accordingly.\n\nRegulatory status: not approved in the EU and UK. In the US it is approved in food packaging as an antimicrobial agent."
+  },
+  {
+    "code": "E231",
+    "name": "Orthophenyl phenol",
+    "text": "Orthophenyl phenol, or 2-phenylphenol, is a synthetic compound used as a fungicide. In food it was applied to the surface of citrus fruit to prevent mould in storage.\n\nIt is also used as a disinfectant outside of food.\n\nRegulatory status: not approved in the EU and UK. In the US it is approved in food packaging and food contact products as an antimicrobial agent."
+  },
+  {
+    "code": "E232",
+    "name": "Sodium orthophenyl phenol",
+    "text": "Sodium orthophenyl phenol is the sodium salt of 2-phenylphenol, a synthetic fungicide. It was applied to the surface of citrus fruit to prevent mould during storage.\n\nIt is now an obscure additive, and little else is documented about its use in food.\n\nRegulatory status: not approved in the EU, UK or US."
+  },
+  {
+    "code": "E233",
+    "name": "Thiabendazole",
+    "text": "Thiabendazole is a synthetic compound that is used as a fungicide on crops and as an anthelmintic medicine. As a food additive it was applied to the surface of citrus fruit and bananas to prevent mould.\n\nIn the EU it is regulated as a pesticide residue rather than as an additive.\n\nRegulatory status: not approved in the EU, UK or US as a food additive."
+  },
+  {
+    "code": "E234",
+    "name": "Nisin",
+    "text": "Nisin is a natural antimicrobial peptide produced by the bacterium Lactococcus lactis. It is active mainly against Gram-positive bacteria, including spore-formers.\n\nIt is used in processed cheese, cheese spreads, some desserts and egg products, where it prevents spoilage.\n\nRegulatory status: approved in the EU in certain cheese, egg and dessert products and approved in the UK. In the US it is approved in cheese products."
+  },
+  {
+    "code": "E235",
+    "name": "Natamycin",
+    "text": "Natamycin, also called pimaricin, is an antifungal compound produced by the bacterium Streptomyces natalensis. It acts against moulds and yeasts but not against bacteria.\n\nIt is applied to the surface of cheeses and dried cured sausages to prevent mould growth.\n\nRegulatory status: approved in the EU in cheese and dried cured sausages and approved in the UK. In the US it is approved in cheese products."
+  },
+  {
+    "code": "E236",
+    "name": "Formic acid",
+    "text": "Formic acid is the simplest carboxylic acid. It occurs naturally in ant venom and nettles, but the industrial product is made synthetically. It has antimicrobial properties.\n\nIt is also used in silage preservation and leather processing, and has had only limited use in foods.\n\nRegulatory status: not approved in the EU and UK. It is approved in the US."
+  },
+  {
+    "code": "E237",
+    "name": "Sodium formate",
+    "text": "Sodium formate is the sodium salt of formic acid, made synthetically. It has antimicrobial properties and is used in various industrial processes.\n\nIt is an obscure food additive with very limited documented use in food itself.\n\nRegulatory status: not approved in the EU and UK. In the US it is approved in food packaging as a processing aid."
+  },
+  {
+    "code": "E238",
+    "name": "Calcium formate",
+    "text": "Calcium formate is the calcium salt of formic acid, made synthetically. It has mild antimicrobial properties and is mostly used outside of food, for example in construction materials and animal feed.\n\nIt has very limited relevance as a food additive.\n\nRegulatory status: not approved in the EU, UK or US."
+  },
+  {
+    "code": "E239",
+    "name": "Hexamine",
+    "text": "Hexamine, or hexamethylenetetramine, is a synthetic compound made from formaldehyde and ammonia. In acidic conditions it slowly releases formaldehyde, which gives it the preservative effect.\n\nIt is permitted only for Provolone cheese in the EU, where it prevents swelling caused by bacteria.\n\nRegulatory status: approved in the EU only in Provolone cheese and approved in the UK. It is not approved in the US."
+  },
+  {
+    "code": "E240",
+    "name": "Formaldehyde",
+    "text": "Formaldehyde is a simple, reactive gas made industrially. It is a powerful disinfectant and preservative but is toxic, and it is classified as a human carcinogen when inhaled.\n\nIt is not used directly as a food preservative today.\n\nRegulatory status: not approved in the EU and UK. In the US it is approved in food packaging and food contact products as a fumigant."
+  },
+  {
+    "code": "E242",
+    "name": "Dimethyl dicarbonate",
+    "text": "Dimethyl dicarbonate (DMDC) is a synthetic preservative that kills yeasts and some bacteria in drinks. It breaks down within hours into carbon dioxide and a small amount of methanol, so little remains in the finished product.\n\nIt is used in wine, cold-filled soft drinks and flavoured drinks.\n\nRegulatory status: approved in the EU in some alcoholic beverages and flavoured drinks and approved in the UK. In the US it is approved in certain beverages as an antimicrobial agent."
+  },
+  {
+    "code": "E243",
+    "name": "Ethyl lauroyl arginate",
+    "text": "Ethyl lauroyl arginate (LAE) is a synthetic surfactant made from lauric acid, the amino acid arginine and ethanol. It disrupts bacterial cell membranes and breaks down in the body into natural components.\n\nIn the EU it is used in certain heat-treated meat products such as sausages.\n\nRegulatory status: approved in the EU in certain heat-treated meat products and approved in the UK. It is not approved in the US."
+  },
+  {
+    "code": "E246",
+    "name": "Glycolipids",
+    "text": "Glycolipids are a class of compounds consisting of a sugar attached to a fatty part. They are listed under E246 as a preservative, but the exact substance is not specified.\n\nUse is restricted to some alcoholic beverages and flavoured drinks in the EU.\n\nRegulatory status: approved in the EU in some alcoholic beverages and flavoured drinks, not approved in the UK, and approved in the US in certain beverages as an antimicrobial agent."
+  },
+  {
+    "code": "E249",
+    "name": "Potassium nitrite",
+    "text": "Potassium nitrite is a synthetic salt used in curing meat. It prevents growth of dangerous bacteria such as Clostridium botulinum and gives cured meat its pink colour and typical flavour.\n\nIt is used in ham, bacon and sausages.\n\nRegulatory status: approved in the EU in certain meat products, approved in the UK, and approved in the US in certain meat products. Nitrites can form nitrosamines, some of which are carcinogenic. In 2023 a French court upheld the right of the Yuka app to describe E249 to E252 as a cancer risk."
+  },
+  {
+    "code": "E250",
+    "name": "Sodium nitrite",
+    "text": "Sodium nitrite is a synthetic salt and the most common curing agent for meat. It prevents growth of dangerous bacteria such as Clostridium botulinum and gives cured meat its pink colour and flavour.\n\nIt is used in ham, bacon, salami and sausages.\n\nRegulatory status: approved in the EU in certain meat products, approved in the UK, and approved in the US in certain meat products. Nitrites can form nitrosamines, some of which are carcinogenic, so permitted amounts are limited."
+  },
+  {
+    "code": "E251",
+    "name": "Sodium nitrate",
+    "text": "Sodium nitrate, also known as Chile saltpetre, occurs as a natural mineral but the additive is typically produced industrially. In cured meat, bacteria gradually convert it to nitrite, which acts as the active preservative.\n\nIt is used in some long-cured meats and certain cheeses.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US in certain meat products. Nitrates and nitrites can form nitrosamines, so permitted levels are limited."
+  },
+  {
+    "code": "E252",
+    "name": "Potassium nitrate",
+    "text": "Potassium nitrate, known as saltpetre, occurs naturally as a mineral and is also made industrially. In cured meat it is converted by bacteria to nitrite, which is the active preservative.\n\nIt has traditionally been used in long-cured meats and some cheeses.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US in certain meat products. Nitrates and nitrites can form nitrosamines, so permitted levels are limited."
+  },
+  {
+    "code": "E260",
+    "name": "Acetic acid",
+    "text": "Acetic acid is the main acid in vinegar and is produced by fermentation or synthetically. It lowers the pH of food, which slows microbial growth and adds a sour taste.\n\nIt is used in pickles, sauces, dressings, mayonnaise, ketchup and bread.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US. It is a common household ingredient and is considered safe at the levels used in food."
+  },
+  {
+    "code": "E261",
+    "name": "Potassium acetates",
+    "text": "Potassium acetate is the potassium salt of acetic acid, made by neutralising the acid. It regulates acidity and has a mild preservative effect, with a slightly salty taste.\n\nIt is used in meat products, baked goods and sauces, and can serve as a partial sodium substitute in some recipes.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E262",
+    "name": "Sodium acetates",
+    "text": "Sodium acetates include sodium acetate and sodium diacetate, which are salts of acetic acid made synthetically. They regulate acidity and help prevent mould and bacteria, and they give a vinegar-like flavour.\n\nThey are used in crisps, savoury snacks, baked goods, sauces and meat products.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+  },
+  {
+    "code": "E263",
+    "name": "Calcium acetate",
+    "text": "Calcium acetate is the calcium salt of acetic acid, produced synthetically. It acts as an acidity regulator and mild preservative and can also act as a firming agent in some foods.\n\nIt is used in baked goods, fillings and some other processed foods.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+  },
+  {
+    "code": "E264",
+    "name": "Ammonium acetate",
+    "text": "Ammonium acetate is a synthetic salt formed from acetic acid and ammonia. It acts as a preservative and acidity regulator.\n\nIt is a minor additive with little documented food use, and few further details are widely known.\n\nRegulatory status: not approved in the EU and UK. In the US it is listed as a food additive but not approved. It is approved in Australia and New Zealand."
+  },
+  {
+    "code": "E265",
+    "name": "Dehydroacetic acid",
+    "text": "Dehydroacetic acid is a synthetic organic acid with antifungal and antibacterial activity. It has also been used in cosmetics.\n\nIn food its use is very limited. In the US it is permitted only on cut or peeled squash, where it helps prevent spoilage.\n\nRegulatory status: not approved in the EU and UK. It is approved in the US for cut or peeled squash only."
+  },
+  {
+    "code": "E266",
+    "name": "Sodium dehydroacetate",
+    "text": "Sodium dehydroacetate is the sodium salt of dehydroacetic acid, made synthetically. It is more soluble in water than the acid and is used as an antifungal and antibacterial preservative.\n\nIn food its use is very limited, and it is better known from cosmetics.\n\nRegulatory status: not approved in the EU and UK. It is approved in the US for cut or peeled squash only."
+  },
+  {
+    "code": "E267",
+    "name": "Buffered vinegar",
+    "text": "Buffered vinegar is vinegar that has been partly neutralised, typically with sodium hydroxide, to produce a mix of acetic acid and acetates. It limits bacterial growth with less sourness than plain vinegar.\n\nIt is used mainly in meat products as a preservative, and in some packaged foods.\n\nRegulatory status: approved in the EU with conditions, not approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E270",
+    "name": "Lactic acid",
+    "text": "Lactic acid forms naturally during the fermentation of milk, vegetables and sourdough. The additive is typically made by bacterial fermentation of sugars. It lowers the pH and gives a tangy taste, which helps to limit spoilage.\n\nIt is used in dairy products, pickles, sauces, drinks, confectionery and baked goods.\n\nIt is mainly an acidity regulator and preservative.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E280",
+    "name": "Propionic acid",
+    "text": "Propionic acid is a short-chain fatty acid that is formed naturally in some fermented foods such as Swiss cheese. The additive is produced industrially. It inhibits moulds and some bacteria.\n\nIt is used mainly in bread and other baked goods, as well as in cheese products.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E281",
+    "name": "Sodium propionate",
+    "text": "Sodium propionate is the sodium salt of propionic acid, made synthetically. It inhibits moulds and some bacteria and is easier to handle than the acid itself.\n\nIt is used in bread, baked goods and processed cheese.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E282",
+    "name": "Calcium propionate",
+    "text": "Calcium propionate is the calcium salt of propionic acid, produced synthetically. It inhibits moulds and the bacteria that make bread ropy, and it is one of the most common preservatives in bread.\n\nIt is used in bread, baked goods, processed cheese and some dairy products.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+  },
+  {
+    "code": "E283",
+    "name": "Potassium propionate",
+    "text": "Potassium propionate is the potassium salt of propionic acid, made synthetically. It inhibits moulds and some bacteria and is used as an alternative to calcium propionate where less calcium is wanted.\n\nIt is used in bread and other baked goods.\n\nRegulatory status: approved in the EU with conditions and approved in the UK. It is not approved in the US."
+  },
+  {
+    "code": "E284",
+    "name": "Boric acid",
+    "text": "Boric acid is a weak inorganic acid derived from the element boron, found in nature and also produced industrially. It has antiseptic properties.\n\nIn the EU it is permitted only in sturgeon eggs (caviar). Boron compounds are toxic in larger amounts, which is why use is restricted.\n\nRegulatory status: approved in the EU only in sturgeons' eggs, approved in the UK, and approved in the US for food packaging."
+  },
+  {
+    "code": "E285",
+    "name": "Sodium tetraborate",
+    "text": "Sodium tetraborate, known as borax, is a salt of boric acid that occurs as a mineral and is also made industrially. It has antiseptic properties.\n\nIn the EU it is permitted only in sturgeon eggs (caviar). Boron compounds are toxic in larger amounts, which is why use is restricted.\n\nRegulatory status: approved in the EU only in sturgeons' eggs and approved in the UK. It is not approved in the US."
+  },
+  {
+    "code": "E290",
+    "name": "Carbon dioxide",
+    "text": "Carbon dioxide is a colourless gas that is present in the atmosphere and produced during fermentation. The food-grade gas is typically recovered from industrial processes or fermentation.\n\nIt gives fizz to carbonated drinks, lowers acidity slightly, and is used in packaging atmospheres to extend shelf life. Dry ice is its solid form.\n\nRegulatory status: approved in the EU and UK, and approved in the US."
+  },
+  {
+    "code": "E296",
+    "name": "Malic acid",
+    "text": "Malic acid occurs naturally in many fruits, especially apples, and gives them a sharp, sour taste. The additive is usually made synthetically.\n\nIt is used as an acidity regulator and flavour enhancer in soft drinks, sweets, jams, wine and fruit-flavoured products.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+  },
+  {
+    "code": "E297",
+    "name": "Fumaric acid",
+    "text": "Fumaric acid occurs naturally in plants such as fumitory and mushrooms, and is also produced by the human body. The additive is made industrially, usually synthetically.\n\nIt is used as an acidity regulator that gives a sour taste in drinks, baked goods, desserts and powdered mixes, and it dissolves slowly.\n\nRegulatory status: approved in the EU with conditions, approved in the UK, and approved in the US."
+  }
+]

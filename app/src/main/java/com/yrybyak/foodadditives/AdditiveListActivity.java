@@ -34,7 +34,7 @@ public class AdditiveListActivity extends BaseActivity {
 
         List<String> labels = new ArrayList<>();
         for (Category.Additive additive : category.loadAdditives(getResources())) {
-            labels.add(getString(additive.label));
+            labels.add(getString(R.string.additive_label, additive.code, additive.name));
         }
         RecyclerView list = findViewById(R.id.content);
         list.setAdapter(new RowAdapter(labels, position ->

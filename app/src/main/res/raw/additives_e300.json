@@ -1,0 +1,382 @@
+[
+ {
+  "code": "E300",
+  "name": "Ascorbic acid",
+  "text": "Ascorbic acid is vitamin C. It occurs naturally in fruit and vegetables, and the food additive is usually produced industrially.\n\nIt is used as an antioxidant to slow browning and spoilage, for example in juices, canned fruit, cured meat and flour improvers.\n\nIt is approved in the EU with conditions and approved in the UK and the US."
+ },
+ {
+  "code": "E301",
+  "name": "Sodium ascorbate",
+  "text": "Sodium ascorbate is the sodium salt of ascorbic acid (vitamin C), made industrially. It is less acidic than ascorbic acid itself.\n\nIt works as an antioxidant that protects colour and flavour, and is common in cured meats and some drinks.\n\nIt is approved in the EU with conditions, and approved in the UK and the US."
+ },
+ {
+  "code": "E302",
+  "name": "Calcium ascorbate",
+  "text": "Calcium ascorbate is the calcium salt of ascorbic acid (vitamin C) and is produced industrially.\n\nIt is used as an antioxidant to prevent oxidation and discolouration in foods such as processed meat and some fruit products.\n\nIt is approved in the EU with conditions, and approved in the UK and the US."
+ },
+ {
+  "code": "E303",
+  "name": "Potassium ascorbate",
+  "text": "Potassium ascorbate is the potassium salt of ascorbic acid (vitamin C). It is an antioxidant by function and is not widely used in foods.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E304",
+  "name": "Fatty acid esters of ascorbic acid",
+  "text": "These are esters of ascorbic acid (vitamin C) with fatty acids, including ascorbyl palmitate. They are made synthetically. Unlike plain ascorbic acid they dissolve in fats.\n\nThey are used as antioxidants in fats and oils and in products containing them, helping to prevent rancidity.\n\nThey are approved in the EU with conditions, and approved in the UK and the US."
+ },
+ {
+  "code": "E305",
+  "name": "Ascorbyl stearate",
+  "text": "Ascorbyl stearate is an ester of ascorbic acid (vitamin C) and stearic acid, made synthetically. It is fat-soluble.\n\nIt acts as an antioxidant, mainly to protect fats and oils from rancidity.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+ },
+ {
+  "code": "E306",
+  "name": "Tocopherol-rich extracts",
+  "text": "Tocopherol-rich extracts are natural mixtures of tocopherols (vitamin E), usually obtained from vegetable oils such as soybean oil.\n\nThey are used as fat-soluble antioxidants to stop oils and fatty foods from going rancid, and also serve as a source of vitamin E.\n\nThey are approved in the EU for certain fats and oils and for foods for infants and young children, and in the UK and the US."
+ },
+ {
+  "code": "E307",
+  "name": "Alpha-tocopherol",
+  "text": "Alpha-tocopherol is the most active form of vitamin E. The additive is the synthetic form.\n\nIt is used as an antioxidant to protect fats and oils from rancidity.\n\nIt is approved in the EU for certain fats and oils and for foods for infants and young children, and in the UK. In the US it is approved for inhibiting nitrosamine formation and in pump-cured bacon."
+ },
+ {
+  "code": "E308",
+  "name": "Gamma-tocopherol",
+  "text": "Gamma-tocopherol is one of the tocopherols, a form of vitamin E. The additive is the synthetic form.\n\nIt serves as an antioxidant, protecting fats and oils from oxidation.\n\nIt is approved in the EU for certain fats and oils and for foods for infants and young children, and in the UK. In the US it is approved for inhibiting nitrosamine formation and in pump-cured bacon."
+ },
+ {
+  "code": "E309",
+  "name": "Delta-tocopherol",
+  "text": "Delta-tocopherol is one of the tocopherols, a form of vitamin E. The additive is the synthetic form.\n\nIt is used as an antioxidant to slow the oxidation of fats and oils.\n\nIt is approved in the EU for certain fats and oils and for foods for infants and young children, and in the UK. In the US it is approved for inhibiting nitrosamine formation and in pump-cured bacon."
+ },
+ {
+  "code": "E310",
+  "name": "Propyl gallate",
+  "text": "Propyl gallate is a synthetic ester of gallic acid and propanol.\n\nIt is used as an antioxidant to delay rancidity in fats, oils, fried foods, snacks and chewing gum, often together with BHA and BHT.\n\nIt is approved in the EU with conditions, and approved in the UK and the US."
+ },
+ {
+  "code": "E311",
+  "name": "Octyl gallate",
+  "text": "Octyl gallate is a synthetic ester of gallic acid and octanol, used as an antioxidant in fats and oils.\n\nIt is not approved in the EU, where it was removed in 2018, nor in the UK. It is approved in the US."
+ },
+ {
+  "code": "E312",
+  "name": "Dodecyl gallate",
+  "text": "Dodecyl gallate is a synthetic ester of gallic acid and dodecanol (lauryl alcohol), used as an antioxidant in fats and oils.\n\nIt is not approved in the EU, where it was removed in 2018, nor in the UK. It is approved in the US."
+ },
+ {
+  "code": "E313",
+  "name": "Ethyl gallate",
+  "text": "Ethyl gallate is a synthetic ester of gallic acid and ethanol. It has antioxidant properties and is rarely used in food.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E314",
+  "name": "Guaiac resin",
+  "text": "Guaiac resin is a natural resin obtained from the wood of guaiacum trees.\n\nIt has been used as an antioxidant to protect fats and oils from rancidity.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+ },
+ {
+  "code": "E315",
+  "name": "Erythorbic acid",
+  "text": "Erythorbic acid is a stereoisomer of ascorbic acid (vitamin C), produced industrially from sugars. It has little vitamin C activity.\n\nIt is used as an antioxidant, mostly in cured meat and fish products, where it helps keep colour and speeds curing.\n\nIt is approved in the EU in certain fish and meat products, and in the UK and the US."
+ },
+ {
+  "code": "E316",
+  "name": "Sodium erythorbate",
+  "text": "Sodium erythorbate is the sodium salt of erythorbic acid, an isomer of ascorbic acid, and is produced industrially.\n\nIt is used as an antioxidant in cured meat, sausages and some fish products, where it helps preserve colour.\n\nIt is approved in the EU in certain fish and meat products, and in the UK and the US."
+ },
+ {
+  "code": "E317",
+  "name": "Erythorbin acid",
+  "text": "Erythorbin acid is an obscure antioxidant related to erythorbic acid and is not used in common foods.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E318",
+  "name": "Calcium erythorbin",
+  "text": "Calcium erythorbin is an obscure antioxidant, apparently a calcium salt related to erythorbic acid. It is not used in common foods.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E319",
+  "name": "TBHQ",
+  "text": "Tert-butylhydroquinone (TBHQ) is a synthetic antioxidant made from petroleum-derived chemicals.\n\nIt is used to prevent oxidation of unsaturated oils and fats, for example in frying oils, snacks and instant noodles.\n\nIt is approved in the EU with conditions, and approved in the UK and the US. Its use is limited to small amounts set by regulators."
+ },
+ {
+  "code": "E320",
+  "name": "BHA",
+  "text": "Butylated hydroxyanisole (BHA) is a synthetic antioxidant.\n\nIt is added to fats, oils, snack foods, cereals, chewing gum and packaging materials to delay rancidity and extend shelf life. It is often combined with BHT.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions. Regulators limit the amounts that may be used."
+ },
+ {
+  "code": "E321",
+  "name": "BHT",
+  "text": "Butylated hydroxytoluene (BHT) is a synthetic, fat-soluble antioxidant.\n\nIt is used to slow rancidity in fats, oils, snack foods, breakfast cereals and chewing gum, and is often used together with BHA.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions. Regulators set maximum levels for its use."
+ },
+ {
+  "code": "E322",
+  "name": "Lecithin",
+  "text": "Lecithin is a natural mixture of phospholipids, obtained mainly from soybeans, sunflower seeds or egg yolk.\n\nIt is used as an emulsifier that helps oils and water mix, and is common in chocolate, margarine, baked goods and instant powders. It also has some antioxidant effect.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions. Soy- or egg-derived lecithin may matter to people with those allergies."
+ },
+ {
+  "code": "E323",
+  "name": "Anoxomer",
+  "text": "Anoxomer is a synthetic polymeric antioxidant, an uncommon additive that is not widely used in food.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+ },
+ {
+  "code": "E324",
+  "name": "Ethoxyquin",
+  "text": "Ethoxyquin is a synthetic antioxidant, best known as a preservative in animal feed and for protecting the colour of spices.\n\nIt is not approved in the EU and the UK. In the US it is approved for chili powder, paprika and, with conditions, in animal feed."
+ },
+ {
+  "code": "E325",
+  "name": "Sodium lactate",
+  "text": "Sodium lactate is the sodium salt of lactic acid, which is typically produced by fermenting sugars.\n\nIt is used as an acidity regulator and flavour enhancer, and is common in meat and poultry products, where it also helps extend shelf life.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+ },
+ {
+  "code": "E326",
+  "name": "Potassium lactate",
+  "text": "Potassium lactate is the potassium salt of lactic acid, usually made from fermented sugars.\n\nIt is used as an acidity regulator and antioxidant, particularly in meat and poultry products, where it also helps extend shelf life.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+ },
+ {
+  "code": "E327",
+  "name": "Calcium lactate",
+  "text": "Calcium lactate is the calcium salt of lactic acid, usually produced by fermentation.\n\nIt is used as an acidity regulator and firming agent, for example in canned fruit and vegetables, and as a source of calcium in some foods and drinks.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+ },
+ {
+  "code": "E328",
+  "name": "Ammonium lactate",
+  "text": "Ammonium lactate is the ammonium salt of lactic acid and functions as an acidity regulator. It is rarely used in food.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E329",
+  "name": "Magnesium lactate",
+  "text": "Magnesium lactate is the magnesium salt of lactic acid and functions as an acidity regulator. It is rarely used in food.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E330",
+  "name": "Citric acid",
+  "text": "Citric acid is an organic acid found naturally in citrus fruits. For food use it is produced mainly by fermenting sugars with the mould Aspergillus niger.\n\nIt gives a sour taste and regulates acidity in soft drinks, sweets, jams, canned foods and dairy products, and also helps preserve colour and flavour.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US."
+ },
+ {
+  "code": "E331",
+  "name": "Sodium citrates",
+  "text": "Sodium citrates are the sodium salts of citric acid: mono-, di- and trisodium citrate. They are produced industrially from citric acid.\n\nThey act as acidity regulators and emulsifying salts, for example in processed cheese, soft drinks, jams and sweets.\n\nThey are approved in the EU with conditions, approved in the UK, and approved in the US."
+ },
+ {
+  "code": "E332",
+  "name": "Potassium citrates",
+  "text": "Potassium citrates are the potassium salts of citric acid: mono- and tripotassium citrate. They are produced industrially from citric acid.\n\nThey are used as acidity regulators and buffering agents in drinks, jams, dairy desserts and processed foods.\n\nThey are approved in the EU with conditions, approved in the UK, and approved in the US."
+ },
+ {
+  "code": "E333",
+  "name": "Calcium citrates",
+  "text": "Calcium citrates are the calcium salts of citric acid: mono-, di- and tricalcium citrate. They are produced industrially.\n\nThey serve as acidity regulators, firming agents and sequestrants, for instance in canned vegetables and fruit, and as a calcium source in fortified products.\n\nThey are approved in the EU with conditions, approved in the UK, and approved in the US."
+ },
+ {
+  "code": "E334",
+  "name": "Tartaric acid",
+  "text": "Tartaric acid is an organic acid found naturally in grapes and other fruit. The food additive is the L(+) form, usually obtained as a by-product of winemaking.\n\nIt gives a sharp, sour taste and is used in soft drinks, sweets, baking powder, jams and wine.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US."
+ },
+ {
+  "code": "E335",
+  "name": "Sodium tartrates",
+  "text": "Sodium tartrates are sodium salts of tartaric acid: mono- and disodium tartrate.\n\nThey are used as acidity regulators and sequestrants in a limited range of foods.\n\nThey are approved in the EU for canned fruit and vegetables, biscuits, rusks and baby foods, and in the UK and the US."
+ },
+ {
+  "code": "E336",
+  "name": "Potassium tartrates",
+  "text": "Potassium tartrates are potassium salts of tartaric acid. Monopotassium tartrate is known as cream of tartar and forms naturally as a deposit during winemaking.\n\nThey act as acidity regulators and stabilisers, and cream of tartar is used in baking powder and to stabilise whipped egg whites.\n\nThey are approved in the EU for sweeteners, canned fruit and vegetables, biscuits, rusks and baby foods, in the UK, and in the US with conditions."
+ },
+ {
+  "code": "E337",
+  "name": "Sodium potassium tartrate",
+  "text": "Sodium potassium tartrate, also known as Rochelle salt, is a double salt of tartaric acid. Tartaric acid comes naturally from grapes.\n\nIt is used as an acidity regulator and sequestrant in a few foods.\n\nIt is approved in the EU for canned fruit and vegetables only, in the UK, and in the US for jams and cheese."
+ },
+ {
+  "code": "E338",
+  "name": "Phosphoric acid",
+  "text": "Phosphoric acid is an inorganic acid made industrially from phosphate rock.\n\nIt is used to give a sharp, tangy taste and to regulate acidity, most notably in cola drinks, and also in some processed foods.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US. High total phosphate intake from all sources is a topic of nutritional discussion."
+ },
+ {
+  "code": "E339",
+  "name": "Sodium phosphates",
+  "text": "Sodium phosphates are sodium salts of phosphoric acid: mono-, di- and trisodium phosphate. They are made industrially.\n\nThey are best known as buffering agents, emulsifying salts and raising agents, used in processed cheese, meat products and baked goods.\n\nThey are approved in the EU with conditions, in the UK and in the US."
+ },
+ {
+  "code": "E340",
+  "name": "Potassium phosphates",
+  "text": "Potassium phosphates are potassium salts of phosphoric acid: mono-, di- and tripotassium phosphate. They are made industrially.\n\nThey are used as buffers, emulsifying salts and sequestrants in processed foods, drinks and dairy products.\n\nThey are approved in the EU with conditions, in the UK and in the US."
+ },
+ {
+  "code": "E341",
+  "name": "Calcium phosphates",
+  "text": "Calcium phosphates are calcium salts of phosphoric acid: mono-, di- and tricalcium phosphate. They are made industrially, and also occur in nature as minerals and in bone.\n\nThey are used as anti-caking and firming agents, in powdered products, baking powder and as calcium supplements in fortified foods.\n\nThey are approved in the EU with conditions, approved in the UK, and approved in the US."
+ },
+ {
+  "code": "E342",
+  "name": "Ammonium phosphates",
+  "text": "Ammonium phosphates are ammonium salts of phosphoric acid: mono- and diammonium phosphate. They are made industrially and are also known as fertiliser ingredients.\n\nThey are not approved in the EU and the UK, but are approved in the US."
+ },
+ {
+  "code": "E343",
+  "name": "Magnesium phosphates",
+  "text": "Magnesium phosphates are magnesium salts of phosphoric acid: mono- and dimagnesium phosphate, made industrially.\n\nThey are used as anti-caking agents.\n\nThey are approved in the EU with conditions, in the UK and in the US. The additive is also under discussion and may be included in a future amendment to the EU directive on miscellaneous additives."
+ },
+ {
+  "code": "E344",
+  "name": "Lecithin citrate",
+  "text": "Lecithin citrate is a derivative of lecithin treated with citric acid. It is a rarely used acidity regulator.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E345",
+  "name": "Magnesium citrate",
+  "text": "Magnesium citrate is the magnesium salt of citric acid. As a food additive it functions as an acidity regulator. It is also known as a dietary mineral supplement.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E349",
+  "name": "Ammonium malate",
+  "text": "Ammonium malate is the ammonium salt of malic acid and functions as an acidity regulator. It is rarely used in food.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E350",
+  "name": "Sodium malates",
+  "text": "Sodium malates are sodium salts of malic acid, the acid that gives apples their tart taste: sodium malate and sodium hydrogen malate.\n\nThey are used as acidity regulators.\n\nThey are approved in the EU for jams and jellies only and in the UK, but not in the US."
+ },
+ {
+  "code": "E351",
+  "name": "Potassium malate",
+  "text": "Potassium malate is the potassium salt of malic acid, an acid found naturally in many fruits. It is made industrially.\n\nIt is used as an acidity regulator.\n\nIt is approved in the EU and the UK, and not approved in the US."
+ },
+ {
+  "code": "E352",
+  "name": "Calcium malates",
+  "text": "Calcium malates are calcium salts of malic acid, an acid found naturally in many fruits: calcium malate and calcium hydrogen malate.\n\nThey are used as acidity regulators.\n\nThey are approved in the EU and the UK, and not approved in the US."
+ },
+ {
+  "code": "E353",
+  "name": "Metatartaric acid",
+  "text": "Metatartaric acid is a polymer-like product made by heating tartaric acid, which comes from grapes.\n\nIt is used in wine to prevent the formation of tartrate crystals.\n\nIt is approved in the EU for certain wines only and in the UK, but not in the US."
+ },
+ {
+  "code": "E354",
+  "name": "Calcium tartrate",
+  "text": "Calcium tartrate is the calcium salt of tartaric acid. It occurs naturally in grapes and as a deposit in wine.\n\nIt is rarely encountered in everyday foods.\n\nIt is approved in the EU with conditions and in the UK, but not in the US."
+ },
+ {
+  "code": "E355",
+  "name": "Adipic acid",
+  "text": "Adipic acid is a synthetic organic acid, produced industrially and used mainly to make nylon. It is also found in trace amounts in nature.\n\nIn food it acts as an acidity regulator and gives a tart taste in powdered drinks, gelatin desserts and jams.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+ },
+ {
+  "code": "E356",
+  "name": "Sodium adipate",
+  "text": "Sodium adipate is the sodium salt of adipic acid, a synthetic organic acid. It is used as an acidity regulator.\n\nIt is approved in the EU with conditions and approved in the UK. It is not approved in the US."
+ },
+ {
+  "code": "E357",
+  "name": "Potassium adipate",
+  "text": "Potassium adipate is the potassium salt of adipic acid, a synthetic organic acid. It is used as an acidity regulator.\n\nIt is approved in the EU with conditions and approved in the UK. It is not approved in the US."
+ },
+ {
+  "code": "E359",
+  "name": "Ammonium adipate",
+  "text": "Ammonium adipate is the ammonium salt of adipic acid and functions as an acidity regulator. It is rarely used in food.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E363",
+  "name": "Succinic acid",
+  "text": "Succinic acid is an organic acid that occurs naturally in many plants and in the body. For industrial use it is produced chemically or by fermentation.\n\nIt is used as an acidity regulator and flavour enhancer with a slightly salty-sour taste, for example in dry mixes and seasonings.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US in condiments, relishes and meat products."
+ },
+ {
+  "code": "E365",
+  "name": "Monosodium fumarate",
+  "text": "Monosodium fumarate is the sodium salt of fumaric acid, an organic acid found in plants. It functions as an acidity regulator.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+ },
+ {
+  "code": "E366",
+  "name": "Potassium fumarate",
+  "text": "Potassium fumarate is the potassium salt of fumaric acid, an organic acid found in plants. It functions as an acidity regulator.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+ },
+ {
+  "code": "E367",
+  "name": "Calcium fumarate",
+  "text": "Calcium fumarate is the calcium salt of fumaric acid, an organic acid found in plants. It functions as an acidity regulator.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+ },
+ {
+  "code": "E368",
+  "name": "Ammonium fumarate",
+  "text": "Ammonium fumarate is the ammonium salt of fumaric acid and functions as an acidity regulator. It is rarely used in food.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E370",
+  "name": "1,4-Heptonolactone",
+  "text": "1,4-Heptonolactone is a lactone, a cyclic ester derived from a sugar acid. It is listed as an acidity regulator and is rarely used.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E375",
+  "name": "Niacin",
+  "text": "Niacin, also called nicotinic acid, is vitamin B3. It occurs naturally in meat, fish, grains and nuts and is also made synthetically.\n\nIn food it is mainly used to fortify products such as flour and cereals.\n\nIt is not approved as an additive in the EU and the UK, but is approved in the US."
+ },
+ {
+  "code": "E380",
+  "name": "Triammonium citrate",
+  "text": "Triammonium citrate is the ammonium salt of citric acid, made industrially. It is used as an acidity regulator.\n\nIt is approved in the EU in edible caseinates, in the UK, and in the US in condiments, relishes and meat products."
+ },
+ {
+  "code": "E381",
+  "name": "Ammonium ferric citrate",
+  "text": "Ammonium ferric citrate is a complex salt of iron, ammonium and citric acid. It is listed as an acidity regulator and can also serve as an iron source.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+ },
+ {
+  "code": "E383",
+  "name": "Calcium glycerylphosphate",
+  "text": "Calcium glycerylphosphate is a calcium salt of glycerophosphoric acid, listed as an acidity regulator and used as a source of calcium and phosphorus.\n\nIt is not approved in the EU and the UK. In the US it is approved as a nutrient supplement or in gelatins, puddings and fillings."
+ },
+ {
+  "code": "E384",
+  "name": "Isopropyl citrate",
+  "text": "Isopropyl citrate is a mixture of esters of citric acid and isopropyl alcohol, made synthetically.\n\nIt is used as an acidity regulator. It is not approved in the EU and the UK. In the US it is approved in fats, oils, margarine and non-alcoholic beverages."
+ },
+ {
+  "code": "E385",
+  "name": "Calcium disodium EDTA",
+  "text": "Calcium disodium EDTA is a synthetic salt of ethylenediaminetetraacetic acid. It binds metal ions, which would otherwise speed up spoilage.\n\nIt is used as a sequestrant to protect colour, flavour and stability in products such as canned vegetables, sauces and dressings.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US with conditions."
+ },
+ {
+  "code": "E386",
+  "name": "Disodium EDTA",
+  "text": "Disodium EDTA is a synthetic salt of ethylenediaminetetraacetic acid. It binds metal ions and is used as a sequestrant.\n\nIt is not approved in the EU and the UK. In the US it is approved with conditions."
+ },
+ {
+  "code": "E387",
+  "name": "Oxystearin",
+  "text": "Oxystearin is a mixture of glycerides of stearic and other fatty acids, produced industrially. It acts as a stabiliser.\n\nIt is used in vegetable oils to prevent crystals from forming at low temperatures.\n\nIt is not approved in the EU and the UK. In the US it is approved in vegetable oils."
+ },
+ {
+  "code": "E388",
+  "name": "Thiodipropionic acid",
+  "text": "Thiodipropionic acid is a synthetic compound used as an antioxidant.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+ },
+ {
+  "code": "E389",
+  "name": "Dilauryl thiodipropionate",
+  "text": "Dilauryl thiodipropionate is a synthetic ester of thiodipropionic acid and lauryl alcohol. Substances of this type are generally used as antioxidants in fats.\n\nIt is not approved in the EU and the UK, but is approved in the US."
+ },
+ {
+  "code": "E390",
+  "name": "Distearyl thiodipropionate",
+  "text": "Distearyl thiodipropionate is a synthetic ester of thiodipropionic acid and stearyl alcohol. Substances of this type are generally used as antioxidants in fats.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E391",
+  "name": "Phytic acid",
+  "text": "Phytic acid is a natural compound found in the seeds of cereals, legumes and nuts, where it stores phosphorus. It can bind minerals such as iron and zinc.\n\nIt is not approved in the EU, the UK or the US."
+ },
+ {
+  "code": "E392",
+  "name": "Rosemary extract",
+  "text": "Rosemary extract is a natural extract of the herb rosemary. Its antioxidant activity is mainly due to carnosic acid and related compounds.\n\nIt is used as a natural antioxidant to protect fats, oils, meat products and snacks from rancidity.\n\nIt is approved in the EU with conditions, approved in the UK, and approved in the US."
+ },
+ {
+  "code": "E399",
+  "name": "Calcium lactobionate",
+  "text": "Calcium lactobionate is the calcium salt of lactobionic acid, which is derived from lactose (milk sugar).\n\nIt is used as a firming agent.\n\nIt is not approved in the EU and the UK. In the US it is approved in dry pudding mixes."
+ }
+]
