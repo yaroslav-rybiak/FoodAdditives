@@ -8,3 +8,9 @@ build/
 
 # Local SDK location
 local.properties
+
+# Signing keys and Play credentials: never commit these
+keystore.properties
+*.jks
+*.keystore
+play-service-account*.json

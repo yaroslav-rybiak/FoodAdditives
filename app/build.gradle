@@ -2,6 +2,19 @@ plugins {
     id 'com.android.application'
 }
 
+// Release signing. Values come from environment variables (CI) or from keystore.properties
+// in the project root (local builds; the file is not in version control). Without them the
+// release build is still produced, just unsigned. See docs/RELEASING.md.
+def keystoreProperties = new Properties()
+def keystorePropertiesFile = rootProject.file('keystore.properties')
+if (keystorePropertiesFile.exists()) {
+    keystorePropertiesFile.withInputStream { keystoreProperties.load(it) }
+}
+def signingValue = { String envName, String propertyName ->
+    providers.environmentVariable(envName).orNull ?: keystoreProperties.getProperty(propertyName)
+}
+def releaseStoreFile = signingValue('RELEASE_STORE_FILE', 'storeFile')
+
 android {
     namespace 'com.yrybiak.foodadditives'
     compileSdk 37
@@ -10,14 +23,28 @@ android {
         applicationId "com.yrybiak.foodadditives"
         minSdk 23
         targetSdk 37
-        versionCode 9
-        versionName "2.0.0"
+        // The release pipeline overrides both: -PversionCode=... -PversionName=...
+        versionCode((findProperty('versionCode') ?: '9') as Integer)
+        versionName(findProperty('versionName') ?: '2.0.0')
+    }
+    signingConfigs {
+        if (releaseStoreFile) {
+            release {
+                storeFile rootProject.file(releaseStoreFile)
+                storePassword signingValue('RELEASE_STORE_PASSWORD', 'storePassword')
+                keyAlias signingValue('RELEASE_KEY_ALIAS', 'keyAlias')
+                keyPassword signingValue('RELEASE_KEY_PASSWORD', 'keyPassword')
+            }
+        }
     }
     buildTypes {
         release {
             minifyEnabled true
             shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            if (releaseStoreFile) {
+                signingConfig signingConfigs.release
+            }
         }
     }
     compileOptions {
