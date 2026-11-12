@@ -2,4 +2,39 @@
 <resources>
     <!-- Warm cream behind the chocolate cupcake on the launcher icon. -->
     <color name="ic_launcher_background">#F7E9D7</color>
+    <color name="splash_background">#F7E9D7</color>
+
+    <!-- "Authorised" check mark. Not a theme role: Material 3 has no "success" colour. -->
+    <color name="status_authorised">#2E7D32</color>
+
+    <!--
+      Brand palette, light. Built around the cherry red and chocolate brown of the icon.
+      Used on Android 11 and below; Android 12+ follows the wallpaper (dynamic colour).
+    -->
+    <color name="md_primary">#8F4A52</color>
+    <color name="md_on_primary">#FFFFFF</color>
+    <color name="md_primary_container">#FFD9DC</color>
+    <color name="md_on_primary_container">#3B0714</color>
+    <color name="md_secondary">#765659</color>
+    <color name="md_on_secondary">#FFFFFF</color>
+    <color name="md_secondary_container">#FFD9DC</color>
+    <color name="md_on_secondary_container">#2C1518</color>
+    <color name="md_tertiary">#775930</color>
+    <color name="md_on_tertiary">#FFFFFF</color>
+    <color name="md_tertiary_container">#FFDDB3</color>
+    <color name="md_on_tertiary_container">#2A1800</color>
+    <color name="md_surface">#FFF8F7</color>
+    <color name="md_on_surface">#22191A</color>
+    <color name="md_surface_variant">#F4DDDE</color>
+    <color name="md_on_surface_variant">#524344</color>
+    <color name="md_outline">#857374</color>
+    <color name="md_outline_variant">#D7C1C2</color>
+    <color name="md_surface_container_lowest">#FFFFFF</color>
+    <color name="md_surface_container_low">#FFF0F0</color>
+    <color name="md_surface_container">#FCEAEA</color>
+    <color name="md_surface_container_high">#F6E4E4</color>
+    <color name="md_surface_container_highest">#F0DEDF</color>
+    <color name="md_inverse_surface">#382E2F</color>
+    <color name="md_inverse_on_surface">#FFEDED</color>
+    <color name="md_inverse_primary">#FFB2BA</color>
 </resources>

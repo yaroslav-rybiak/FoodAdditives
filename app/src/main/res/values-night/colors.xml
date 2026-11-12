@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_background">#1A1112</color>
+    <color name="status_authorised">#81C784</color>
+
+    <!-- Brand palette, dark. -->
+    <color name="md_primary">#FFB2BA</color>
+    <color name="md_on_primary">#561D26</color>
+    <color name="md_primary_container">#72333B</color>
+    <color name="md_on_primary_container">#FFD9DC</color>
+    <color name="md_secondary">#E5BDC0</color>
+    <color name="md_on_secondary">#43292C</color>
+    <color name="md_secondary_container">#5C3F42</color>
+    <color name="md_on_secondary_container">#FFD9DC</color>
+    <color name="md_tertiary">#E8C08E</color>
+    <color name="md_on_tertiary">#432C06</color>
+    <color name="md_tertiary_container">#5D421B</color>
+    <color name="md_on_tertiary_container">#FFDDB3</color>
+    <color name="md_surface">#1A1112</color>
+    <color name="md_on_surface">#F0DEDF</color>
+    <color name="md_surface_variant">#524344</color>
+    <color name="md_on_surface_variant">#D7C1C2</color>
+    <color name="md_outline">#9F8C8D</color>
+    <color name="md_outline_variant">#524344</color>
+    <color name="md_surface_container_lowest">#140C0D</color>
+    <color name="md_surface_container_low">#22191A</color>
+    <color name="md_surface_container">#271D1E</color>
+    <color name="md_surface_container_high">#322828</color>
+    <color name="md_surface_container_highest">#3D3233</color>
+    <color name="md_inverse_surface">#F0DEDF</color>
+    <color name="md_inverse_on_surface">#382E2F</color>
+    <color name="md_inverse_primary">#8F4A52</color>
+</resources>

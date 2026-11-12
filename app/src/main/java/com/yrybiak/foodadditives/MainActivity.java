@@ -18,11 +18,14 @@ public class MainActivity extends BaseActivity {
         setUpScreen(R.layout.activity_list, false);
 
         List<String> labels = new ArrayList<>();
-        for (Category category : Category.ALL) {
+        int[] icons = new int[Category.ALL.length];
+        for (int i = 0; i < Category.ALL.length; i++) {
+            Category category = Category.ALL[i];
             labels.add(getString(R.string.category_label, category.range, getString(category.title)));
+            icons[i] = category.icon;
         }
         RecyclerView list = findViewById(R.id.content);
-        list.setAdapter(new RowAdapter(labels, position ->
+        list.setAdapter(new RowAdapter(labels, icons, position ->
                 startActivity(AdditiveListActivity.newIntent(this, position))));
     }
 

@@ -7,7 +7,9 @@ import android.text.method.LinkMovementMethod;
 import android.view.View;
 import android.widget.TextView;
 
+import androidx.core.content.ContextCompat;
 import androidx.core.text.HtmlCompat;
+import androidx.core.widget.TextViewCompat;
 
 import java.util.Collections;
 import java.util.List;
@@ -57,6 +59,13 @@ public class DetailActivity extends BaseActivity {
         TextView statusView = findViewById(R.id.status);
         statusView.setText(additive.euAuthorised
                 ? R.string.eu_authorised : R.string.eu_not_authorised);
+        // A green check for authorised additives; a neutral grey mark for the others, since
+        // "not authorised" often just means obsolete or never submitted, not dangerous.
+        statusView.setCompoundDrawablesRelativeWithIntrinsicBounds(additive.euAuthorised
+                ? R.drawable.ic_status_authorised : R.drawable.ic_status_not_authorised, 0, 0, 0);
+        TextViewCompat.setCompoundDrawableTintList(statusView, additive.euAuthorised
+                ? ContextCompat.getColorStateList(this, R.color.status_authorised)
+                : statusView.getTextColors());
         TextView textView = findViewById(R.id.text);
         textView.setText(additive.text);
     }

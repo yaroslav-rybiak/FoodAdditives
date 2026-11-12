@@ -2,6 +2,7 @@ package com.yrybiak.foodadditives;
 
 import android.content.res.Resources;
 
+import androidx.annotation.DrawableRes;
 import androidx.annotation.RawRes;
 import androidx.annotation.StringRes;
 import androidx.core.os.ConfigurationCompat;
@@ -20,15 +21,24 @@ final class Category {
 
     /** All categories, in the order they are shown on the main screen. */
     static final Category[] ALL = {
-            new Category("E100–E199", R.string.category_e100, R.raw.additives_e100),
-            new Category("E200–E299", R.string.category_e200, R.raw.additives_e200),
-            new Category("E300–E399", R.string.category_e300, R.raw.additives_e300),
-            new Category("E400–E499", R.string.category_e400, R.raw.additives_e400),
-            new Category("E500–E599", R.string.category_e500, R.raw.additives_e500),
-            new Category("E600–E699", R.string.category_e600, R.raw.additives_e600),
-            new Category("E700–E799", R.string.category_e700, R.raw.additives_e700),
-            new Category("E900–E999", R.string.category_e900, R.raw.additives_e900),
-            new Category("E1000–E1599", R.string.category_e1000, R.raw.additives_e1000),
+            new Category("E100–E199", R.string.category_e100,
+                    R.drawable.ic_category_e100, R.raw.additives_e100),
+            new Category("E200–E299", R.string.category_e200,
+                    R.drawable.ic_category_e200, R.raw.additives_e200),
+            new Category("E300–E399", R.string.category_e300,
+                    R.drawable.ic_category_e300, R.raw.additives_e300),
+            new Category("E400–E499", R.string.category_e400,
+                    R.drawable.ic_category_e400, R.raw.additives_e400),
+            new Category("E500–E599", R.string.category_e500,
+                    R.drawable.ic_category_e500, R.raw.additives_e500),
+            new Category("E600–E699", R.string.category_e600,
+                    R.drawable.ic_category_e600, R.raw.additives_e600),
+            new Category("E700–E799", R.string.category_e700,
+                    R.drawable.ic_category_e700, R.raw.additives_e700),
+            new Category("E900–E999", R.string.category_e900,
+                    R.drawable.ic_category_e900, R.raw.additives_e900),
+            new Category("E1000–E1599", R.string.category_e1000,
+                    R.drawable.ic_category_e1000, R.raw.additives_e1000),
     };
 
     /** The range of E numbers, e.g. "E100–E199". */
@@ -37,6 +47,10 @@ final class Category {
     /** What the additives in the range are for, e.g. "Colours". */
     @StringRes
     final int title;
+
+    /** Icon shown next to the category on the main screen. */
+    @DrawableRes
+    final int icon;
 
     /**
      * JSON array of {@code {"code", "name", "text"}} objects. The file is translated through
@@ -49,9 +63,11 @@ final class Category {
     private List<Additive> cached;
     private String cachedLocales;
 
-    private Category(String range, @StringRes int title, @RawRes int additives) {
+    private Category(String range, @StringRes int title, @DrawableRes int icon,
+                     @RawRes int additives) {
         this.range = range;
         this.title = title;
+        this.icon = icon;
         this.additives = additives;
     }
 
