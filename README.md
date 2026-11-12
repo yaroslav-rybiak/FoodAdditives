@@ -73,6 +73,13 @@ track on Google Play. The one-time setup and the release steps are in
 The app has no network access, requests no access to user data and collects nothing. See
 [PRIVACY.md](PRIVACY.md).
 
+## License
+
+Copyright 2014–2026 Yaroslav Rybiak.
+
+Licensed under the Apache License, Version 2.0; see [LICENSE](LICENSE). The software is
+provided "as is", without warranties or conditions of any kind.
+
 ## Credits
 
 - Category and status icons: [Material Symbols](https://fonts.google.com/icons) by Google,
